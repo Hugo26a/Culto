@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-11",
+ "latest": "2026-10-12",
  "editions": [
+  {
+   "date": "2026-10-12",
+   "label": "Lundi 12 octobre",
+   "words": [
+    "Pallier",
+    "Pérenne"
+   ],
+   "items": [
+    [
+     "lit",
+     "L’Étranger"
+    ],
+    [
+     "essai",
+     "Le Grand Échiquier"
+    ],
+    [
+     "eco",
+     "Budget 2027 : quand la dette française devient chère"
+    ],
+    [
+     "geo",
+     "Terres rares : l’arme que Pékin garde en réserve"
+    ],
+    [
+     "log",
+     "Suez : le retour à petits pas des porte-conteneurs"
+    ],
+    [
+     "ent",
+     "Inditex : la mode qui se pilote comme une usine"
+    ]
+   ]
+  },
   {
    "date": "2026-10-11",
    "label": "Dimanche 11 octobre",
@@ -36,5 +70,16 @@
    ]
   }
  ],
- "review": []
+ "review": [
+  {
+   "w": "Corollaire",
+   "short": "Conséquence directe et inévitable d’un fait",
+   "week": "sem. du 5 oct."
+  },
+  {
+   "w": "Galvauder",
+   "short": "Dévaloriser à force de mauvais usage",
+   "week": "sem. du 5 oct."
+  }
+ ]
 }

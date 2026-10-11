@@ -1,0 +1,1052 @@
+{
+ "date": "2026-10-12",
+ "label": "Lundi 12 octobre 2026",
+ "n": 1,
+ "example": false,
+ "week": {
+  "start": "2026-10-12",
+  "label": "Semaine du 12 octobre",
+  "day": 1,
+  "words": [
+   {
+    "key": "pallier",
+    "w": "Pallier",
+    "ph": "[pa.lje] · verbe transitif",
+    "short": "Compenser un manque, sans le faire disparaître.",
+    "def": "Atténuer les effets d’un problème ou combler provisoirement un manque, sans en supprimer la cause. Le verbe est transitif direct : on pallie un manque, une absence, une difficulté. « Pallier à » est une faute très répandue, à éviter à l’écrit comme en réunion.",
+    "ety": "Du bas latin palliare, « couvrir d’un manteau », de pallium, « manteau ». Pallier, c’est d’abord cacher sous un manteau, puis masquer un défaut, enfin le compenser. Même famille que « palliatif ».",
+    "ex": "Nous avons fait appel à deux intérimaires pour pallier l’absence de l’équipe de nuit pendant les congés.",
+    "syn": "compenser, remédier à, suppléer à, atténuer"
+   },
+   {
+    "key": "perenne",
+    "w": "Pérenne",
+    "ph": "[pe.ʁɛn] · adjectif",
+    "short": "Qui dure dans le temps, de façon stable.",
+    "def": "Qui dure longtemps, de façon continue, ou qui est conçu pour durer. En entreprise, une solution pérenne s’oppose à une rustine provisoire ; un financement pérenne est assuré d’une année sur l’autre. Le nom correspondant est la pérennité, le verbe pérenniser.",
+    "ety": "Du latin perennis, « qui dure toute l’année », formé de per, « à travers », et annus, « année ». En botanique, une plante pérenne est une plante vivace, qui repousse chaque année.",
+    "ex": "Le tableur bricolé a dépanné pendant six mois, mais il nous faut maintenant un outil pérenne pour suivre les stocks.",
+    "syn": "durable, permanent, stable, persistant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "L’Étranger",
+   "by": "Albert Camus · 1942",
+   "tagline": "Le soleil et l’indifférence",
+   "min": 10,
+   "exMin": 4,
+   "src": "Albert Camus, L’Étranger (Gallimard, 1942) ; préface à l’édition universitaire américaine (1955). Jean-Paul Sartre, « Explication de L’Étranger » (1943). Kamel Daoud, Meursault, contre-enquête (2013). Œuvre protégée : résumé et analyse entièrement reformulés, sans citation longue.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "À Alger, dans les années 1930, Meursault, modeste employé de bureau, enterre sa mère sans pleurer, puis tue un Arabe sur une plage écrasée de soleil, presque sans raison. Lors du procès, on le juge moins pour ce meurtre que pour son indifférence. Condamné à mort, il découvre dans sa cellule une forme de paix."
+      ],
+      [
+       "Un homme qui refuse de mentir",
+       "Meursault n’est ni cruel ni méchant. Il dit ce qu’il ressent, et rien de plus. Il ne feint ni le chagrin, ni l’amour, ni le remords. C’est précisément ce refus de jouer le jeu social qui le rend inquiétant aux yeux des autres, et qui finit par le condamner."
+      ],
+      [
+       "Le procès d’une âme, pas d’un acte",
+       "Le meurtre n’occupe que quelques minutes du procès. Le procureur s’attarde sur la veillée funèbre, le café au lait, la cigarette, la liaison commencée le lendemain. La société condamne celui qui ne partage pas ses rites, plus encore que celui qui a tué."
+      ],
+      [
+       "L’absurde, cœur de la pensée de Camus",
+       "Le roman fait partie du « cycle de l’absurde », avec l’essai <em>Le Mythe de Sisyphe</em> et la pièce <em>Caligula</em>. L’absurde naît du face-à-face entre l’homme, qui cherche un sens, et un monde qui ne lui en donne aucun. Meursault vit ce divorce sans le formuler, jusqu’à la dernière page."
+      ],
+      [
+       "Une écriture qui crée le malaise",
+       "Phrases courtes, passé composé, aucune analyse psychologique : le narrateur enregistre les faits comme une caméra. Le lecteur est enfermé dans une conscience qui ne s’explique jamais. Cette neutralité apparente est le vrai coup de génie du livre."
+      ],
+      [
+       "Une victime sans nom",
+       "L’homme tué n’est jamais nommé : il reste « l’Arabe ». Longtemps passé inaperçu, ce silence est devenu central dans les lectures d’aujourd’hui, qui voient dans le roman un témoin involontaire de l’Algérie coloniale."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "L’enterrement"
+    },
+    {
+     "p": "Le roman s’ouvre sur l’une des premières phrases les plus célèbres de la littérature française : « Aujourd’hui, maman est morte. » Meursault, employé dans une maison de commerce à Alger, reçoit un télégramme de l’asile de vieillards de Marengo, à quatre-vingts kilomètres de la ville, où il avait placé sa mère trois ans plus tôt. Il demande deux jours de congé à son patron, qui fait la tête, prend l’autocar et somnole pendant tout le trajet.",
+     "lead": 1
+    },
+    {
+     "p": "À l’asile, il refuse de voir le corps une dernière fois. Pendant la veillée, il boit un café au lait offert par le concierge et fume une cigarette devant le cercueil. Les pensionnaires, amis de sa mère, le regardent en silence. Le lendemain, l’enterrement se déroule sous une chaleur accablante. Meursault ne pleure pas. Il note la sueur, la poussière, le goudron qui fond sur la route, et le vieux Thomas Pérez, le dernier ami de sa mère, qui peine à suivre le convoi."
+    },
+    {
+     "h5": "Un été à Alger"
+    },
+    {
+     "p": "Le lendemain, un samedi, Meursault va se baigner au port. Il y retrouve Marie Cardona, une ancienne dactylo de son bureau. Le soir même, ils vont voir un film comique avec Fernandel, et elle passe la nuit chez lui. Quelques semaines plus tard, Marie lui demande s’il veut l’épouser. Il répond que cela lui est égal, qu’ils peuvent se marier si elle le souhaite, mais qu’il ne l’aime sans doute pas. Il ne ment pas : il ne sait pas ce que veut dire ce mot."
+    },
+    {
+     "p": "Dans son immeuble vivent deux voisins. Le vieux Salamano insulte et bat son chien galeux depuis huit ans, puis pleure quand celui-ci s’enfuit. Raymond Sintès, qui se dit magasinier et vit plus ou moins des femmes, veut punir sa maîtresse, qu’il accuse de le tromper. Il demande à Meursault de lui écrire une lettre pour l’attirer chez lui. Meursault accepte, sans raison particulière. Raymond frappe la jeune femme ; la police intervient. Le frère de celle-ci et ses amis se mettent alors à suivre Raymond."
+    },
+    {
+     "h5": "La plage"
+    },
+    {
+     "p": "Un dimanche, Raymond invite Meursault et Marie au cabanon de son ami Masson, au bord de la mer, près d’Alger. Sur la plage, ils croisent deux Arabes, dont le frère de la maîtresse. Une bagarre éclate et Raymond est blessé au couteau. Plus tard, Meursault retourne seul sur la plage, avec le revolver que Raymond lui a confié. Le soleil est aveuglant. Il retrouve l’un des deux hommes, allongé près d’une source. L’Arabe sort son couteau, la lame renvoie la lumière dans les yeux de Meursault. Il tire. Puis il tire encore quatre fois sur le corps inerte."
+    },
+    {
+     "h5": "Le procès"
+    },
+    {
+     "p": "La seconde partie se passe en prison. Pendant onze mois d’instruction, Meursault s’habitue à sa cellule. Il dort, il se souvient, il relit un vieux fait divers trouvé sous son matelas. Le juge d’instruction brandit un crucifix et s’indigne qu’il ne croie pas en Dieu. Son avocat lui conseille de dire qu’il a dominé ses sentiments à l’enterrement ; Meursault refuse, car ce serait faux."
+    },
+    {
+     "p": "Au procès, le directeur de l’asile, le concierge et Thomas Pérez racontent l’absence de larmes et le café au lait. Marie, Céleste le restaurateur, Masson et Salamano tentent de le défendre, maladroitement. Le procureur en fait un monstre froid qui a enterré sa mère avec un cœur de criminel. Les jurés le condamnent à avoir la tête tranchée sur une place publique, au nom du peuple français."
+    },
+    {
+     "h5": "La révolte"
+    },
+    {
+     "p": "Dans sa cellule, Meursault attend l’exécution et rêve d’un pourvoi. L’aumônier vient le voir malgré ses refus répétés et lui parle de Dieu. Meursault explose de colère, le saisit au col et lui crie que rien n’a d’importance, que tous les hommes sont condamnés. Une fois apaisé, il se sent heureux pour la première fois. Il accepte un monde indifférent, qui lui ressemble, et souhaite seulement qu’il y ait beaucoup de spectateurs le jour de son exécution, et qu’ils l’accueillent avec des cris de haine."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un premier roman écrit dans la guerre"
+    },
+    {
+     "p": "Camus a vingt-six ans quand il achève le manuscrit, en mai 1940. Le livre paraît chez Gallimard au printemps 1942, en pleine Occupation, la même année que <em>Le Mythe de Sisyphe</em>. Jean-Paul Sartre lui consacre dès 1943 une longue étude, « Explication de <em>L’Étranger</em> », qui installe le jeune auteur dans le paysage intellectuel. Camus recevra le prix Nobel de littérature en 1957 et mourra dans un accident de voiture en janvier 1960."
+    },
+    {
+     "h5": "Le style de l’absurde"
+    },
+    {
+     "p": "Sartre a remarqué la parenté avec le roman américain, celui d’Hemingway notamment : des phrases brèves, juxtaposées, sans liens logiques. Le passé composé, temps de la conversation, donne l’impression d’un récit qui ne construit rien, où chaque moment est isolé du suivant. Rien n’est expliqué, tout est constaté. Le lecteur cherche les causes que le narrateur ne lui donne pas, et éprouve à son tour le sentiment d’absurde que Camus décrit dans ses essais."
+    },
+    {
+     "h5": "Le soleil, vrai personnage"
+    },
+    {
+     "p": "La lumière et la chaleur reviennent sans cesse : à l’enterrement, sur la plage, au tribunal. Au moment du meurtre, le soleil devient presque une arme, une pression physique insupportable. Au procès, Meursault expliquera qu’il a tiré à cause du soleil, ce qui fait rire la salle. Camus montre un homme gouverné par ses sensations, qui vit dans le présent du corps et non dans les catégories morales de la société."
+    },
+    {
+     "h5": "Une lecture morale"
+    },
+    {
+     "p": "Dans une préface de 1955, Camus résume son personnage : dans notre société, explique-t-il en substance, un homme qui ne pleure pas à l’enterrement de sa mère risque d’être condamné à mort. Meursault est condamné parce qu’il refuse de mentir, même pour se sauver. Camus en fait, avec provocation, une figure de la vérité, un homme qui accepte de mourir pour elle. Ce n’est pas un héros sympathique, mais un révélateur des conventions que nous suivons sans y penser."
+    },
+    {
+     "h5": "L’Algérie en creux"
+    },
+    {
+     "p": "Le roman se déroule dans l’Algérie française, mais la colonisation n’y est jamais un sujet. La victime n’a ni nom ni visage, et le tribunal s’intéresse bien plus à la mère morte qu’à l’homme tué. En 2013, l’écrivain algérien Kamel Daoud publie <em>Meursault, contre-enquête</em>, où le frère de la victime prend la parole et lui rend un nom, Moussa. Le livre obtient le Goncourt du premier roman en 2015 et renouvelle la lecture de Camus."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Court, à peine plus de cent pages, <em>L’Étranger</em> reste l’un des romans français les plus lus au monde, et son succès est [[perenne|pérenne]] : il est adapté au cinéma par Luchino Visconti en 1967, puis par François Ozon en 2025. Il pose une question qui n’a rien perdu de sa force : que pardonne-t-on le moins, la faute ou l’écart par rapport aux attentes du groupe ? À l’heure où chacun doit afficher ses émotions en public, Meursault, qui n’affiche rien, reste un personnage dérangeant."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "À Alger, dans les années 1930, Meursault, modeste employé de bureau, enterre sa mère sans pleurer, puis tue un Arabe sur une plage écrasée de soleil, presque sans raison. Lors du procès, on le juge moins pour ce meurtre que pour son indifférence. Condamné à mort, il découvre dans sa cellule une forme de paix.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un homme qui refuse de mentir</b> : Meursault ne feint ni le chagrin, ni l’amour, ni le remords. C’est ce refus du jeu social qui le perd.",
+      "<b>Le procès d’une âme</b> : on parle plus de l’enterrement, du café au lait et de la cigarette que du meurtre.",
+      "<b>L’absurde</b> : le divorce entre l’homme qui cherche un sens et un monde qui n’en donne aucun. Le roman forme un cycle avec <em>Le Mythe de Sisyphe</em> et <em>Caligula</em>.",
+      "<b>Une écriture neutre</b> : phrases courtes, passé composé, aucune explication. Le malaise vient de là.",
+      "<b>Une victime sans nom</b> : « l’Arabe », jamais nommé, au cœur des lectures postcoloniales."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>L’enterrement</b> : « Aujourd’hui, maman est morte. » À l’asile de Marengo, Meursault refuse de voir le corps, boit un café au lait, fume pendant la veillée et ne pleure pas.",
+      "<b>L’été</b> : dès le lendemain, il retrouve Marie Cardona au port. Il accepte de l’épouser tout en disant qu’il ne l’aime sans doute pas. Il écrit une lettre pour son voisin Raymond, qui veut punir sa maîtresse.",
+      "<b>La plage</b> : au cabanon de Masson, une bagarre avec le frère de la maîtresse et un ami. Revenu seul, aveuglé par le soleil, Meursault tire une fois, puis quatre fois sur l’Arabe.",
+      "<b>Le procès</b> : après onze mois d’instruction, le procureur fait de lui un monstre froid. Il est condamné à être guillotiné en place publique.",
+      "<b>La révolte</b> : face à l’aumônier, il explose, puis accepte l’indifférence du monde et se sent heureux."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Un premier roman</b> achevé en mai 1940, publié chez Gallimard au printemps 1942. Camus, prix Nobel en 1957, meurt en janvier 1960.",
+      "<b>Un style à l’américaine</b>, relevé par Sartre dès 1943 : des phrases juxtaposées, des faits sans causes.",
+      "<b>Le soleil</b>, vrai personnage : au procès, Meursault dit avoir tiré à cause de lui.",
+      "<b>La préface de 1955</b> : ne pas pleurer à l’enterrement de sa mère peut suffire à être condamné. Meursault meurt pour ne pas avoir menti.",
+      "<b>L’Algérie en creux</b> : Kamel Daoud rend un nom à la victime, Moussa, dans <em>Meursault, contre-enquête</em> (2013, Goncourt du premier roman 2015).",
+      "<b>Pourquoi le lire</b> : une centaine de pages qui posent une question toujours actuelle. Que pardonne-t-on le moins, la faute elle-même ou le refus de se conformer aux émotions qu’attend le groupe ?",
+      "<b>Un succès [[perenne|pérenne]]</b> : adapté par Visconti en 1967 et par Ozon en 2025, toujours parmi les romans français les plus lus."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Le Grand Échiquier",
+   "by": "Zbigniew Brzezinski · 1997",
+   "min": 9,
+   "exMin": 3,
+   "src": "Zbigniew Brzezinski, The Grand Chessboard: American Primacy and Its Geostrategic Imperatives (Basic Books, 1997) ; trad. fr. Le Grand Échiquier (Bayard, 1997). Œuvre protégée : synthèse reformulée.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Ancien conseiller à la sécurité nationale de Jimmy Carter, Brzezinski explique comment les États-Unis, devenus en 1991 la première puissance réellement mondiale, peuvent garder leur primauté. Sa réponse : tout se joue en Eurasie, et l’Amérique doit y empêcher l’émergence d’une puissance ou d’une coalition capable de l’en chasser."
+      ],
+      [
+       "L’Eurasie est le centre du monde",
+       "Le continent qui va du Portugal au Japon concentre, selon l’auteur, environ 75 % de la population mondiale, 60 % du produit mondial et les trois quarts des ressources énergétiques connues. Celui qui domine l’Eurasie domine de fait les deux autres continents les plus développés."
+      ],
+      [
+       "Cinq joueurs et cinq pivots",
+       "Brzezinski distingue les acteurs géostratégiques, qui ont la volonté et les moyens d’agir au-delà de leurs frontières (France, Allemagne, Russie, Chine, Inde), et les pivots géopolitiques, importants par leur position plus que par leur force (Ukraine, Azerbaïdjan, Corée du Sud, Turquie, Iran)."
+      ],
+      [
+       "Sans l’Ukraine, pas d’empire russe",
+       "L’idée la plus célèbre du livre : privée de l’Ukraine, la Russie reste un grand pays, mais cesse d’être un empire eurasien. Avec elle, elle retrouve les moyens de redevenir une puissance européenne et asiatique à la fois."
+      ],
+      [
+       "Le pire scénario : une coalition anti-américaine",
+       "Le danger principal, écrit-il, serait une alliance entre la Chine, la Russie et peut-être l’Iran, unies non par une idéologie mais par un ressentiment commun envers la puissance américaine."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "L’auteur et le moment"
+    },
+    {
+     "p": "Zbigniew Brzezinski naît à Varsovie en 1928, dans une famille de diplomates. Son père est en poste au Canada quand la guerre éclate, et la famille ne rentrera jamais en Pologne communiste. Docteur de Harvard, spécialiste de l’URSS, il devient conseiller à la sécurité nationale du président Carter de 1977 à 1981. Il publie <em>Le Grand Échiquier</em> en 1997, six ans après la disparition de l’Union soviétique. L’Amérique n’a plus de rival ; la Russie de Boris Eltsine est affaiblie ; la Chine commence à peine son ascension. Le livre veut répondre à une question simple : comment faire durer ce moment ?",
+     "lead": 1
+    },
+    {
+     "h5": "La thèse : une primauté sans précédent, mais fragile"
+    },
+    {
+     "p": "Pour Brzezinski, les États-Unis sont la première puissance de l’histoire à dominer à la fois sur les plans militaire, économique, technologique et culturel. Mais cette primauté repose sur un réseau d’alliances et de bases, en Europe et en Asie, plus que sur une conquête. Elle est aussi limitée par la démocratie américaine elle-même : l’opinion accepte mal les sacrifices d’une politique impériale en dehors des menaces directes. D’où la nécessité d’une stratégie lucide, qui choisit ses priorités au lieu de tout vouloir contrôler."
+    },
+    {
+     "p": "Il emprunte, avec une franchise qui a beaucoup choqué, le vocabulaire des anciens empires. Une puissance dominante, rappelle-t-il, doit éviter que ses alliés ne s’entendent contre elle, les garder à la fois protégés et dépendants, et empêcher les puissances hostiles de s’unir. Le mot « vassaux » a fait scandale ; il visait surtout à décrire sans fard la logique de la protection américaine."
+    },
+    {
+     "p": "Brzezinski ne croit pas pour autant à une domination éternelle. Il présente les États-Unis comme la première, mais aussi probablement la dernière, superpuissance véritablement globale. À l’horizon d’une génération, la diffusion de la richesse et de la technologie rendra impossible la suprématie d’un seul pays. L’objectif n’est donc pas de régner indéfiniment, mais d’utiliser ce répit pour bâtir des structures durables de coopération, en Europe comme en Asie, qui prendront le relais quand la puissance américaine déclinera relativement. Le livre est à la fois un manuel de domination et une stratégie de sortie."
+    },
+    {
+     "h5": "L’Eurasie, un plateau de jeu"
+    },
+    {
+     "p": "L’image du titre vient de là : l’Eurasie est un échiquier sur lequel se joue la partie pour le monde. Le livre s’appuie sur la géopolitique classique du Britannique Halford Mackinder, qui voyait dès 1904 dans le cœur du continent le pivot de la puissance mondiale. Brzezinski y ajoute une grille pratique : les joueurs, qui agissent, et les pivots, dont l’orientation change l’équilibre de toute une région."
+    },
+    {
+     "stats": [
+      [
+       "≈ 75 %",
+       "de la population mondiale vit en Eurasie"
+      ],
+      [
+       "≈ 60 %",
+       "du PNB mondial y est produit"
+      ],
+      [
+       "5 + 5",
+       "acteurs géostratégiques et pivots géopolitiques identifiés"
+      ],
+      [
+       "9",
+       "pays formant les « Balkans eurasiens »"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le poids de l’Eurasie selon Brzezinski",
+      "sub": "Part du total mondial, en %, années 1990",
+      "rows": [
+       [
+        "Population",
+        75
+       ],
+       [
+        "Produit national brut",
+        60
+       ],
+       [
+        "Ressources énergétiques connues",
+        75
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Z. Brzezinski, Le Grand Échiquier (1997), ordres de grandeur cités par l’auteur."
+     }
+    },
+    {
+     "h5": "L’Europe, la Russie, l’Asie centrale et la Chine"
+    },
+    {
+     "p": "<b>L’Europe</b> est pour lui la tête de pont de la démocratie sur le continent. Il défend l’élargissement simultané de l’OTAN et de l’Union européenne vers l’Est, autour d’un noyau formé par la France, l’Allemagne et la Pologne. Il envisage même qu’entre 2005 et 2010, l’Ukraine puisse engager de vraies négociations avec les deux organisations. Pour [[pallier|pallier]] le sentiment d’encerclement de Moscou, il propose de lier cet élargissement à un partenariat avec la Russie."
+    },
+    {
+     "p": "<b>La Russie</b> doit choisir. Elle peut rêver de restaurer l’empire, s’allier à l’Asie contre l’Occident, ou se moderniser en se rapprochant de l’Europe. Seul ce dernier choix est, selon lui, réaliste et [[perenne|pérenne]]. <b>L’Asie centrale et le Caucase</b>, qu’il appelle les « Balkans eurasiens », regroupent neuf pays riches en pétrole et en gaz, convoités par la Russie, la Turquie, l’Iran et la Chine. Washington doit y garantir qu’aucune puissance n’en contrôle seule l’accès. <b>La Chine</b>, enfin, deviendra la grande puissance régionale de l’Asie ; il faut l’associer à l’ordre mondial plutôt que la contenir, tout en s’appuyant sur le Japon."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre a vieilli sur plusieurs points. Il ignore presque le terrorisme islamiste, qui bouleverse la politique américaine quatre ans plus tard, le 11 septembre 2001. Il sous-estime la vitesse de l’ascension chinoise : la Chine n’est plus aujourd’hui une simple puissance régionale. Ses critiques réalistes lui reprochent d’avoir encouragé un élargissement de l’OTAN que la Russie vivrait comme une humiliation. À Moscou, le livre est souvent cité comme la preuve d’un plan américain visant à affaiblir le pays, une lecture qui déforme une analyse bien plus nuancée. On lui reproche enfin une vision très américano-centrée, où les autres nations apparaissent surtout comme des pièces à déplacer, et où leurs propres choix politiques comptent moins que leur position sur la carte."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Près de trente ans plus tard, l’ouvrage frappe surtout par ce qu’il a vu juste. La guerre en Ukraine, depuis 2014 puis l’invasion de 2022, confirme la place centrale du pays pour l’ambition impériale russe. Le rapprochement entre la Chine, la Russie et l’Iran ressemble au scénario qu’il jugeait le plus dangereux. Brzezinski lui-même, en 2014, plaidait pour une Ukraine libre de s’arrimer à l’Europe mais neutre sur le plan militaire, sur le modèle de la Finlande pendant la guerre froide. Il meurt en 2017. Son livre reste une lecture indispensable pour comprendre comment pensent les stratèges américains, et pourquoi la carte compte autant que l’économie."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Ancien conseiller de Jimmy Carter, Brzezinski explique en 1997 comment les États-Unis peuvent garder leur primauté mondiale : en empêchant toute puissance ou coalition de dominer l’Eurasie, centre de gravité de la planète.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’Eurasie, centre du monde</b> : ≈ 75 % de la population, ≈ 60 % du produit mondial, ≈ 3/4 des ressources énergétiques connues.",
+      "<b>Cinq joueurs</b> (France, Allemagne, Russie, Chine, Inde) <b>et cinq pivots</b> (Ukraine, Azerbaïdjan, Corée du Sud, Turquie, Iran).",
+      "<b>Sans l’Ukraine</b>, la Russie cesse d’être un empire eurasien.",
+      "<b>Les « Balkans eurasiens »</b> : neuf pays d’Asie centrale et du Caucase, riches en hydrocarbures, qu’aucune puissance ne doit contrôler seule.",
+      "<b>Le pire scénario</b> : une coalition Chine-Russie-Iran unie par le ressentiment envers Washington.",
+      "<b>L’Europe élargie</b>, autour de la France, de l’Allemagne et de la Pologne, avec un partenariat russe pour [[pallier|pallier]] le sentiment d’encerclement de Moscou."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 75 %",
+       "de la population mondiale vit en Eurasie"
+      ],
+      [
+       "≈ 60 %",
+       "du PNB mondial y est produit"
+      ],
+      [
+       "5 + 5",
+       "acteurs géostratégiques et pivots géopolitiques identifiés"
+      ],
+      [
+       "9",
+       "pays formant les « Balkans eurasiens »"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le poids de l’Eurasie selon Brzezinski",
+      "sub": "Part du total mondial, en %, années 1990",
+      "rows": [
+       [
+        "Population",
+        75
+       ],
+       [
+        "Produit national brut",
+        60
+       ],
+       [
+        "Ressources énergétiques connues",
+        75
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Z. Brzezinski, Le Grand Échiquier (1997), ordres de grandeur cités par l’auteur."
+     }
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "ul": [
+      "<b>Le moment</b> : 1997, six ans après la fin de l’URSS. L’Amérique n’a plus de rival, la Russie d’Eltsine est affaiblie, la Chine commence son ascension.",
+      "<b>L’auteur</b> : né à Varsovie en 1928, spécialiste de l’URSS, conseiller à la sécurité nationale de Carter de 1977 à 1981.",
+      "<b>Une primauté fragile</b> : fondée sur des alliances et des bases plus que sur la conquête, et limitée par une opinion américaine hostile aux sacrifices.",
+      "<b>Le vocabulaire impérial</b> assumé : garder les alliés protégés mais dépendants, empêcher les rivaux de s’unir.",
+      "<b>Une stratégie de sortie</b> : les États-Unis, première et sans doute dernière superpuissance globale, doivent bâtir des structures de coopération qui prendront le relais.",
+      "<b>La Chine</b> : future grande puissance régionale, à associer à l’ordre mondial plutôt qu’à contenir."
+     ]
+    },
+    {
+     "h": "Limites et postérité"
+    },
+    {
+     "ul": [
+      "<b>Angles morts</b> : le terrorisme islamiste, quatre ans avant le 11 septembre 2001, et la vitesse de l’ascension chinoise.",
+      "<b>Critique réaliste</b> : l’élargissement de l’OTAN, vécu comme une humiliation à Moscou.",
+      "<b>Ce qu’il a vu juste</b> : la centralité de l’Ukraine (2014, 2022) et le rapprochement Chine-Russie-Iran.",
+      "<b>Pour la Russie</b>, seul l’arrimage à l’Europe était, selon lui, un choix réaliste et [[perenne|pérenne]]."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Budget 2027 : quand la dette française devient chère",
+   "by": "Analyse de fond",
+   "fig": "4,9 %",
+   "figl": "taux de l’État à 10 ans",
+   "min": 3,
+   "exMin": 2,
+   "src": "Projet de loi de finances 2027 (présenté le 1er octobre 2026) ; Insee ; Agence France Trésor ; Haut Conseil des finances publiques (avis cité par Public Sénat, 7 octobre 2026) ; Banque de France ; AFP ; Reuters. Données arrêtées au 8 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 1er octobre 2026, le gouvernement de Sébastien Lecornu a présenté un budget 2027 qui vise un déficit public de 5 % du PIB, après 5,4 % attendus en 2026. Pour y parvenir, il annonce un effort de 54 milliards d’euros. Dans le même temps, la dette doit atteindre 121,7 % du PIB, un record, et les marchés font payer de plus en plus cher chaque euro emprunté.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Dette et déficit publics de la France",
+      "sub": "En % du PIB",
+      "labels": [
+       "2025",
+       "2026 (prév.)",
+       "2027 (prév.)"
+      ],
+      "series": [
+       {
+        "name": "Dette publique",
+        "values": [
+         115.6,
+         119.3,
+         121.7
+        ]
+       },
+       {
+        "name": "Déficit public",
+        "values": [
+         5.1,
+         5.4,
+         5.0
+        ]
+       }
+      ],
+      "note": "Sources : Insee (2025), projet de loi de finances 2027 (prévisions du gouvernement)."
+     }
+    },
+    {
+     "h": "L’effet boule de neige"
+    },
+    {
+     "p": "Début octobre, le taux de l’État français à 10 ans a approché 4,9 %, son plus haut niveau depuis 2002, contre 3,3 % en février. L’écart avec l’Allemagne dépasse 130 points de base. La hausse vient à la fois du choc énergétique lié à la guerre au Moyen-Orient et du doute sur la capacité de la France à redresser ses comptes. Or la dette se renouvelle en permanence : l’État doit lever environ 340 milliards d’euros en 2027. Avec une dette de près de 3 600 milliards d’euros, chaque point de taux supplémentaire finit par coûter des dizaines de milliards. Les titres émis à moins de 1 % pendant les années de taux bas arrivent à échéance et sont remplacés par des emprunts proches de 5 %."
+    },
+    {
+     "stats": [
+      [
+       "≈ 4,9 %",
+       "taux de l’État à 10 ans début octobre 2026, plus haut depuis 2002"
+      ],
+      [
+       "> 130 pb",
+       "écart avec le taux allemand, du jamais-vu depuis 2012"
+      ],
+      [
+       "72,9 Md€",
+       "charge de la dette de l’État prévue en 2027"
+      ],
+      [
+       "54 Md€",
+       "effort budgétaire annoncé pour 2027"
+      ]
+     ]
+    },
+    {
+     "h": "Un budget sous contrainte"
+    },
+    {
+     "p": "Le budget mêle gel des salaires dans la fonction publique, sous-indexation des retraites et réduction de niches fiscales ; les prélèvements obligatoires remonteraient à 44,2 % du PIB. Le Haut Conseil des finances publiques juge « optimiste » la prévision de croissance de 1 % pour 2027 : la Banque de France table sur 0,9 %, l’OFCE sur 0,7 %. Avec moins de croissance, le déficit resterait plutôt vers 5,2 ou 5,3 %. Et la hausse des taux ronge l’effort : une part croissante des économies ne sert qu’à [[pallier|pallier]] l’alourdissement de la charge d’intérêts."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une dette devient dangereuse quand le taux auquel on emprunte dépasse durablement la croissance de l’économie : elle augmente alors d’elle-même, même sans nouveau déficit. C’est la situation qui menace la France. Le paradoxe est cruel : plus l’État tarde à rassurer les marchés, plus l’effort exigé pour y parvenir devient lourd, et plus il pèse sur une croissance déjà faible. Le retour sous 3 % de déficit, promis pour 2029, suppose une croissance plus forte et des taux plus bas que ceux d’aujourd’hui."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le budget 2027</b>, présenté le 1er octobre 2026, vise un déficit de 5 % du PIB, après 5,4 % en 2026, avec un effort de 54 Md€.",
+      "<b>Dette record</b> : 121,7 % du PIB prévus en 2027, contre 115,6 % en 2025.",
+      "<b>Taux en hausse</b> : de 3,3 % en février à près de 4,9 % début octobre, plus haut depuis 2002. Causes : choc énergétique lié au Moyen-Orient et doute sur le redressement des comptes.",
+      "<b>Croissance « optimiste »</b> selon le Haut Conseil : 1 % prévu en 2027, contre 0,9 % pour la Banque de France et 0,7 % pour l’OFCE.",
+      "<b>L’effort grignoté</b> : une part croissante des économies sert seulement à [[pallier|pallier]] la hausse des intérêts."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 4,9 %",
+       "taux de l’État à 10 ans début octobre 2026, plus haut depuis 2002"
+      ],
+      [
+       "> 130 pb",
+       "écart avec le taux allemand, du jamais-vu depuis 2012"
+      ],
+      [
+       "72,9 Md€",
+       "charge de la dette de l’État prévue en 2027"
+      ],
+      [
+       "54 Md€",
+       "effort budgétaire annoncé pour 2027"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Dette et déficit publics de la France",
+      "sub": "En % du PIB",
+      "labels": [
+       "2025",
+       "2026 (prév.)",
+       "2027 (prév.)"
+      ],
+      "series": [
+       {
+        "name": "Dette publique",
+        "values": [
+         115.6,
+         119.3,
+         121.7
+        ]
+       },
+       {
+        "name": "Déficit public",
+        "values": [
+         5.1,
+         5.4,
+         5.0
+        ]
+       }
+      ],
+      "note": "Sources : Insee (2025), projet de loi de finances 2027 (prévisions du gouvernement)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La règle</b> : quand le taux d’emprunt dépasse durablement la croissance, la dette grossit d’elle-même. Le retour sous 3 % en 2029 suppose plus de croissance et des taux plus bas."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Terres rares : l’arme que Pékin garde en réserve",
+   "by": "Analyse de fond",
+   "fig": "91 %",
+   "figl": "du raffinage mondial en Chine",
+   "min": 3,
+   "exMin": 2,
+   "src": "Agence internationale de l’énergie (rapport Rare Earth Elements, données 2024) ; USGS, Mineral Commodity Summaries 2026 ; ministère chinois du Commerce ; Project Syndicate (12 octobre 2026) sur la prolongation de la trêve. Données arrêtées à octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Les terres rares sont dix-sept métaux aux noms obscurs, comme le néodyme, le dysprosium ou le terbium. Ils servent à fabriquer des aimants très puissants, indispensables aux moteurs de voitures électriques, aux éoliennes, aux smartphones et aux missiles. Le monde en extrait à peine 390 000 tonnes par an, mais leur absence peut arrêter une chaîne de montage entière. Et c’est la Chine qui tient presque tous les robinets.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "60 %",
+       "de l’extraction mondiale des terres rares pour aimants, en Chine (2024)"
+      ],
+      [
+       "91 %",
+       "du raffinage et de la séparation"
+      ],
+      [
+       "94 %",
+       "de la production d’aimants permanents frittés"
+      ],
+      [
+       "67 %",
+       "dépendance des États-Unis aux importations de composés et métaux (2025)"
+      ]
+     ]
+    },
+    {
+     "h": "Ce n’est pas une affaire de mines"
+    },
+    {
+     "p": "Contrairement à leur nom, les terres rares ne sont pas si rares : l’Australie, le Brésil ou le Vietnam en ont d’importantes réserves. Le vrai goulet d’étranglement est l’étape suivante, la séparation et le raffinage, longue, coûteuse et polluante. La Chine l’a développée à partir des années 1990, avec des aides publiques et des normes environnementales peu exigeantes, jusqu’à faire disparaître ses concurrents. Résultat : même le minerai extrait ailleurs part souvent en Chine pour y être traité. Les États-Unis extraient du minerai en Californie, à la mine de Mountain Pass, mais restent dépendants des importations pour les deux tiers des métaux et composés qu’ils consomment."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Qui extrait les terres rares ?",
+      "sub": "Production minière, milliers de tonnes d’oxydes, 2025 (estimation)",
+      "rows": [
+       [
+        "Chine",
+        270
+       ],
+       [
+        "États-Unis",
+        51
+       ],
+       [
+        "Australie",
+        29
+       ],
+       [
+        "Birmanie",
+        22
+       ],
+       [
+        "Thaïlande",
+        4.8
+       ]
+      ],
+      "suffix": " kt",
+      "note": "Source : USGS, Mineral Commodity Summaries 2026. Total mondial ≈ 390 kt."
+     }
+    },
+    {
+     "h": "Une arme dégainée, puis rengainée"
+    },
+    {
+     "p": "En avril 2025, en riposte aux droits de douane américains, Pékin soumet sept terres rares à licence d’exportation. En octobre 2025, il annonce des contrôles bien plus larges, qui s’appliqueraient même à des produits fabriqués hors de Chine. Quelques semaines plus tard, au sommet de Busan, Xi Jinping accepte de les suspendre un an ; Washington ramène ses droits de douane d’environ 57 % à 47 %. En juin 2026, la Chine inscrit tout de même dix entreprises américaines, dont MP Materials, sur sa liste de contrôle. La trêve, qui devait expirer le 10 novembre, vient d’être prolongée jusqu’au 10 janvier 2027."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La Chine a fait des terres rares ce que l’Arabie saoudite fit du pétrole en 1973 : un levier politique. Sa force tient à sa sélectivité : elle peut viser un pays, une entreprise ou un métal précis, puis desserrer l’étau en échange de concessions. La réponse occidentale, avec de nouvelles usines aux États-Unis, en Australie ou en France, prendra des années. D’ici là, une indépendance [[perenne|pérenne]] reste hors d’atteinte, surtout pour les terres rares lourdes comme le dysprosium, raffinées presque exclusivement en Chine."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>17 métaux</b> (néodyme, dysprosium, terbium…), ≈ 390 000 tonnes extraites par an, indispensables aux aimants des voitures électriques, éoliennes, smartphones et missiles.",
+      "<b>Le goulet</b> n’est pas la mine (la Chine en assure 60 %) mais le raffinage : la Chine en assure 91 %, et 94 % des aimants permanents frittés.",
+      "<b>Une arme commerciale</b> : licences d’export en avril 2025, contrôles élargis en octobre 2025, suspendus un an au sommet de Busan contre une baisse des droits de douane américains de ≈ 57 % à 47 %.",
+      "<b>Juin 2026</b> : dix entreprises américaines, dont MP Materials, placées sous contrôle. La trêve est prolongée jusqu’au 10 janvier 2027."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "60 %",
+       "de l’extraction mondiale des terres rares pour aimants, en Chine (2024)"
+      ],
+      [
+       "91 %",
+       "du raffinage et de la séparation"
+      ],
+      [
+       "94 %",
+       "de la production d’aimants permanents frittés"
+      ],
+      [
+       "67 %",
+       "dépendance des États-Unis aux importations de composés et métaux (2025)"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Qui extrait les terres rares ?",
+      "sub": "Production minière, milliers de tonnes d’oxydes, 2025 (estimation)",
+      "rows": [
+       [
+        "Chine",
+        270
+       ],
+       [
+        "États-Unis",
+        51
+       ],
+       [
+        "Australie",
+        29
+       ],
+       [
+        "Birmanie",
+        22
+       ],
+       [
+        "Thaïlande",
+        4.8
+       ]
+      ],
+      "suffix": " kt",
+      "note": "Source : USGS, Mineral Commodity Summaries 2026. Total mondial ≈ 390 kt."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un levier politique</b>, comme le pétrole en 1973. Les nouvelles usines occidentales prendront des années : une indépendance [[perenne|pérenne]] reste hors d’atteinte, surtout pour les terres rares lourdes."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Suez : le retour à petits pas des porte-conteneurs",
+   "by": "Analyse de fond",
+   "fig": "− 41 %",
+   "figl": "trafic de Suez sous l’avant-crise",
+   "min": 3,
+   "exMin": 2,
+   "src": "Lloyd’s List Intelligence (transits du 20 juillet au 16 août 2026) ; Maersk et Hapag-Lloyd (annonce du 13 septembre 2026, via gCaptain et WorldCargo News) ; Xeneta (décembre 2025) ; Autorité du canal de Suez ; Organisation maritime internationale. Données arrêtées à septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Depuis la fin de 2023 et les attaques des Houthis yéménites contre les navires marchands, la plupart des grands armateurs évitent la mer Rouge. Ils contournent l’Afrique par le cap de Bonne-Espérance, ce qui ajoute 10 à 15 jours au trajet entre l’Asie et l’Europe. En septembre 2026, Maersk et Hapag-Lloyd, alliés dans la coopération Gemini, ont ramené quatre lignes supplémentaires vers Suez. Le retour est réel, mais prudent.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "10 à 15 j",
+       "de trajet en plus entre l’Asie et l’Europe par le cap de Bonne-Espérance"
+      ],
+      [
+       "1 088",
+       "transits par Suez du 20 juillet au 16 août 2026, record depuis janvier 2024"
+      ],
+      [
+       "− 41 %",
+       "par rapport au trafic d’avant la crise"
+      ]
+     ]
+    },
+    {
+     "h": "Ce que le détour a coûté"
+    },
+    {
+     "p": "Un trajet plus long immobilise davantage de navires pour transporter le même volume. Pour [[pallier|pallier]] cet allongement, les compagnies ont mobilisé des bateaux supplémentaires et brûlé plus de carburant. Pour les chargeurs, le coût est double : un fret plus cher et des stocks plus importants « sur l’eau ». Les retards se sont aussi propagés aux ports européens, où les navires arrivaient par vagues. L’Égypte, elle, a perdu plus de la moitié des recettes du canal, l’une de ses premières sources de devises."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les recettes du canal de Suez",
+      "sub": "Milliards de dollars",
+      "rows": [
+       [
+        "2023 (record)",
+        10.25
+       ],
+       [
+        "2024",
+        4.0
+       ],
+       [
+        "Exercice 2025-2026",
+        4.67
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : Autorité du canal de Suez, via la presse égyptienne. Exercice clos le 30 juin 2026 ; 2024 en ordre de grandeur."
+     }
+    },
+    {
+     "h": "Pourquoi le retour reste partiel"
+    },
+    {
+     "p": "Entre le 20 juillet et le 16 août 2026, Suez a compté 1 088 transits, sa meilleure période de quatre semaines depuis janvier 2024, mais encore 41 % de moins qu’avant la crise. Les risques demeurent : l’Organisation maritime internationale a de nouveau alerté sur les attaques en août, et un pétrolier a été détourné au large du Yémen le 20 août. La guerre autour d’Ormuz rend aussi la mer Rouge plus sensible, car l’Arabie saoudite y fait désormais transiter une part croissante de son pétrole. Les armateurs conditionnent donc chaque retour à la stabilité de la région."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le retour vers Suez devrait faire baisser les taux de fret entre l’Asie et l’Europe, en libérant des navires. Mais la période de transition est la plus délicate pour les entreprises : deux routes coexistent, les délais changent d’une ligne à l’autre et les arrivées se concentrent dans les ports. Les directions supply chain doivent planifier avec deux hypothèses de délai à la fois, ajuster leurs stocks de sécurité ligne par ligne et ne pas relâcher trop vite les marges de sécurité accumulées depuis 2023, tant que la mer Rouge reste exposée."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Depuis fin 2023</b>, les attaques houthies poussent les armateurs à contourner l’Afrique : 10 à 15 jours de plus entre l’Asie et l’Europe.",
+      "<b>Septembre 2026</b> : Maersk et Hapag-Lloyd (Gemini) ramènent quatre lignes de plus vers Suez, sous condition de stabilité.",
+      "<b>Le coût du détour</b> : plus de navires mobilisés pour [[pallier|pallier]] l’allongement des trajets, plus de carburant, plus de stocks sur l’eau, donc plus de trésorerie immobilisée.",
+      "<b>Pour l’Égypte</b> : des recettes passées d’un record de 10,25 Md$ en 2023 à ≈ 4 Md$ en 2024, avant un rebond à 4,67 Md$ sur l’exercice 2025-2026.",
+      "<b>Risques persistants</b> : alertes de l’OMI, pétrolier détourné le 20 août, mer Rouge plus sensible avec la crise d’Ormuz."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "10 à 15 j",
+       "de trajet en plus entre l’Asie et l’Europe par le cap de Bonne-Espérance"
+      ],
+      [
+       "1 088",
+       "transits par Suez du 20 juillet au 16 août 2026, record depuis janvier 2024"
+      ],
+      [
+       "− 41 %",
+       "par rapport au trafic d’avant la crise"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les recettes du canal de Suez",
+      "sub": "Milliards de dollars",
+      "rows": [
+       [
+        "2023 (record)",
+        10.25
+       ],
+       [
+        "2024",
+        4.0
+       ],
+       [
+        "Exercice 2025-2026",
+        4.67
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : Autorité du canal de Suez, via la presse égyptienne. Exercice clos le 30 juin 2026 ; 2024 en ordre de grandeur."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La transition</b> fera baisser le fret, mais deux routes coexistent : délais variables, arrivées groupées dans les ports, planification à deux hypothèses."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Inditex : la mode qui se pilote comme une usine",
+   "by": "Analyse de fond",
+   "fig": "58,3 %",
+   "figl": "marge brute d’Inditex en 2025",
+   "min": 3,
+   "exMin": 2,
+   "src": "Inditex, résultats annuels 2025 (11 mars 2026) et semestriels 2026 (9 septembre 2026), via FashionNetwork et l’AFP ; rapport annuel 2018 d’Inditex cité par Modaes (approvisionnement de proximité). Données arrêtées à septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Né en 1975 avec une première boutique Zara à La Corogne, en Galice, Inditex est devenu le premier groupe d’habillement au monde. Sur l’exercice 2025, clos fin janvier 2026, il a réalisé 39,9 milliards d’euros de chiffre d’affaires et 6,2 milliards de bénéfice net, un record pour la quatrième année consécutive. Son secret tient moins au style qu’à la chaîne d’approvisionnement.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "39,9 Md€",
+       "chiffre d’affaires 2025 (exercice clos fin janvier 2026)"
+      ],
+      [
+       "6,2 Md€",
+       "bénéfice net 2025"
+      ],
+      [
+       "58,3 %",
+       "marge brute"
+      ],
+      [
+       "≈ 70 %",
+       "des ventes réalisées par Zara, Zara Home et Lefties"
+      ]
+     ]
+    },
+    {
+     "h": "Produire près, produire peu, réassortir vite"
+    },
+    {
+     "p": "Là où la plupart des concurrents commandent l’essentiel de leur collection des mois à l’avance en Asie, Inditex garde une large part de sa production à proximité de l’Espagne : en Galice, au Portugal, au Maroc et en Turquie. En 2018, dernier chiffre détaillé publié, 57 % de ses capacités se trouvaient dans cette zone. Les magasins remontent chaque jour ce qui se vend ; les modèles qui marchent sont réassortis en quelques semaines, les autres arrêtés aussitôt. Ce circuit court coûte plus cher à l’unité, mais il réduit le risque de se tromper sur la demande. Le groupe produit en petites séries et préfère manquer d’un article plutôt que d’en solder des montagnes."
+    },
+    {
+     "p": "Ce modèle explique une marge brute de 58,3 %, très élevée pour la distribution textile : moins d’invendus, donc moins de démarque. Pour [[pallier|pallier]] le coût plus élevé de la main-d’œuvre européenne, Inditex mise sur l’automatisation de ses centres logistiques et sur des volumes vendus à plein prix. Le groupe ne fait presque pas de publicité : ses vitrines et la rotation rapide des collections en tiennent lieu."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Inditex au premier semestre 2026",
+      "sub": "Variation sur un an, en %",
+      "rows": [
+       [
+        "Chiffre d’affaires",
+        7.6
+       ],
+       [
+        "Chiffre d’affaires à changes constants",
+        9.2
+       ],
+       [
+        "Ebitda",
+        7.8
+       ],
+       [
+        "Bénéfice net",
+        6.8
+       ]
+      ],
+      "prefix": "+",
+      "suffix": " %",
+      "note": "Source : Inditex, résultats semestriels publiés le 9 septembre 2026 (février à juillet)."
+     }
+    },
+    {
+     "h": "Les défis"
+    },
+    {
+     "p": "Au premier semestre 2026, les ventes ont progressé de 7,6 %, à 19,8 milliards d’euros, mais les effets de change pèsent : la hausse atteint 9,2 % à taux de change constants. Le groupe ferme des petites boutiques pour ouvrir de grands magasins plus productifs, et l’e-commerce représente déjà plus du quart des ventes. Reste la concurrence de l’ultra fast fashion chinoise, comme Shein, encore moins chère et qui lance chaque jour une multitude de nouveaux modèles, et la pression réglementaire sur l’impact environnemental de la mode."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Inditex prouve qu’une chaîne d’approvisionnement courte et réactive peut être un avantage concurrentiel [[perenne|pérenne]] : produire plus cher, mais au plus près de la demande, coûte moins que de produire bon marché ce que personne n’achètera."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le géant de la mode</b> : née en 1975 à La Corogne, Inditex a réalisé 39,9 Md€ de ventes et 6,2 Md€ de bénéfice net en 2025, quatrième record d’affilée.",
+      "<b>La proximité</b> : une large part de la production en Galice, au Portugal, au Maroc et en Turquie (57 % des capacités en 2018).",
+      "<b>Petites séries, réassort rapide</b> : ce qui se vend est refabriqué en quelques semaines, le reste est arrêté. D’où une marge brute de 58,3 %.",
+      "<b>Le coût européen</b> : l’automatisation logistique et la vente à plein prix servent à [[pallier|pallier]] une main-d’œuvre plus chère.",
+      "<b>Les défis</b> : effets de change, concurrence de Shein, pression environnementale. E-commerce : plus du quart des ventes."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "39,9 Md€",
+       "chiffre d’affaires 2025 (exercice clos fin janvier 2026)"
+      ],
+      [
+       "6,2 Md€",
+       "bénéfice net 2025"
+      ],
+      [
+       "58,3 %",
+       "marge brute"
+      ],
+      [
+       "≈ 70 %",
+       "des ventes réalisées par Zara, Zara Home et Lefties"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Inditex au premier semestre 2026",
+      "sub": "Variation sur un an, en %",
+      "rows": [
+       [
+        "Chiffre d’affaires",
+        7.6
+       ],
+       [
+        "Chiffre d’affaires à changes constants",
+        9.2
+       ],
+       [
+        "Ebitda",
+        7.8
+       ],
+       [
+        "Bénéfice net",
+        6.8
+       ]
+      ],
+      "prefix": "+",
+      "suffix": " %",
+      "note": "Source : Inditex, résultats semestriels publiés le 9 septembre 2026 (février à juillet)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : une chaîne courte et réactive peut être un avantage [[perenne|pérenne]]. Produire plus cher au plus près de la demande coûte moins que produire bon marché des invendus."
+     ]
+    }
+   ]
+  }
+ ]
+}
