@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Culto</title>
+<meta name="description" content="Ta demi-heure de culture quotidienne : livres, économie, géopolitique, logistique, entreprise.">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Culto">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#F4F5F7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0E1114" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&family=Figtree:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<!-- ÉDITION -->
+<main class="wrap" id="vToday">
+  <div class="mast">
+    <div class="logo">Culto</div>
+    <div class="ring" aria-label="Progression du jour"><svg viewBox="0 0 46 46"><circle class="bg" cx="23" cy="23" r="19"/><circle class="fg" id="ringFg" cx="23" cy="23" r="19" stroke-dasharray="119.4" stroke-dashoffset="119.4"/></svg><b id="ringTxt">0/6</b></div>
+  </div>
+  <div id="archBar"></div>
+  <div class="edline cap"><span id="edLabel">Chargement…</span><span class="ex" id="edEx" hidden>Exemple</span></div>
+  <div class="seg" role="tablist" aria-label="Format de lecture"><button data-mode="full">Complet</button><button data-mode="ex">Express</button></div>
+  <h1 class="hello" id="hello" style="margin-top:14px">Ta demi-heure de culture</h1>
+
+  <div id="homeBody">
+    <button class="cover" id="coverBtn">
+      <span class="cap">À la une · Littérature</span>
+      <span class="cap done-tag" id="coverDone" hidden>✓ Lu</span>
+      <h1 id="coverTitle"></h1>
+      <p class="src" id="coverSrc"></p>
+      <p class="src small">Points clés · Résumé · Analyse littéraire</p>
+      <span class="row"><span class="pill solid" id="coverRead">Lire</span><span class="pill ghost" id="coverListen"><svg viewBox="0 0 24 24"><path d="M7 4.5v15l13-7.5z"/></svg>Écouter</span></span>
+    </button>
+
+    <div class="sec"><h2>Les mots de la semaine</h2><span id="weekLbl"></span></div>
+    <div class="words" id="wordsHome"></div>
+
+    <div class="sec"><h2>L’essai</h2><span id="essayDur"></span></div>
+    <div id="essayHome"></div>
+
+    <div class="sec"><h2>Les analyses</h2><span id="anaDur"></span></div>
+    <div class="alist" id="analysesHome"></div>
+  </div>
+</main>
+
+<!-- MOTS -->
+<main class="wrap" id="vWords" hidden>
+  <div class="mast"><div class="logo">Culto</div></div>
+  <h1 class="h-page">Vocabulaire</h1>
+  <p class="muted" style="margin:0 0 20px" id="wordsIntro">Deux mots par semaine, retrouvés chaque jour dans au moins trois textes.</p>
+  <div id="wordsFull"></div>
+  <div class="sec"><h2>À réviser</h2><span>semaines précédentes</span></div>
+  <div class="review" id="reviewList"></div>
+</main>
+
+<!-- ARCHIVES -->
+<main class="wrap" id="vHist" hidden>
+  <div class="mast"><div class="logo">Culto</div></div>
+  <h1 class="h-page">Archives</h1>
+  <p class="muted" style="margin:0 0 20px">Toutes les éditions, à relire ou réécouter.</p>
+  <div id="histList"></div>
+</main>
+
+<nav class="tabs" id="tabs" aria-label="Navigation">
+  <div class="tabs-in">
+    <button class="tab" data-v="vToday" aria-current="true"><svg viewBox="0 0 24 24"><path d="M5 4h11l3 3v13H5z"/><path d="M8 9h8M8 13h8M8 17h5"/></svg>Édition</button>
+    <button class="tab" data-v="vWords" aria-current="false"><svg viewBox="0 0 24 24"><path d="M4 19 9.5 5h1L16 19M6.3 14h7.4"/><path d="M17 11.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM19.5 10.5V17"/></svg>Mots</button>
+    <button class="tab" data-v="vHist" aria-current="false"><svg viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="4" rx="1"/><path d="M5.5 9v10h13V9M10 13h4"/></svg>Archives</button>
+  </div>
+</nav>
+
+<!-- LECTEUR -->
+<section class="reader" id="reader" hidden role="dialog" aria-modal="true">
+  <div class="rbar">
+    <button class="ibtn" id="rBack" aria-label="Retour"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>
+    <span class="mid"><span class="seg" role="tablist" aria-label="Format de lecture"><button data-mode="full">Complet</button><button data-mode="ex">Express</button></span></span>
+    <span class="r">
+      <button class="ibtn" id="rSize" aria-label="Taille du texte"><svg viewBox="0 0 24 24"><path d="M3 18 7.5 6h1L13 18M4.5 14h6M15 18l3-8h.6l3 8M16 15.5h5"/></svg></button>
+      <button class="ibtn" id="rPlay" aria-label="Écouter cet article"><svg viewBox="0 0 24 24" class="fill" id="rPlayIcon"><path d="M8 5.5v13l11-6.5z"/></svg></button>
+    </span>
+  </div>
+  <div id="rHero"></div>
+  <div class="chips" id="rChips"></div>
+  <article class="article" id="rBody"></article>
+</section>
+
+<div class="player" id="player" hidden>
+  <button class="play" id="pPlay" aria-label="Écouter"><svg viewBox="0 0 24 24" id="pIcon"><path d="M7 4.5v15l13-7.5z"/></svg></button>
+  <div class="pinfo" id="pInfo" role="button" tabindex="0" aria-label="Ouvrir le lecteur"><b id="pTitle">—</b><small id="pSub">Voix iOS</small><div class="ptrack"><i id="pTrack"></i></div></div>
+  <button class="pbtn" id="pStop" aria-label="Fermer le lecteur"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+</div>
+
+<div class="scrim" id="scrim" hidden><div class="sheet" id="sheet" role="dialog" aria-modal="true"></div></div>
+
+<script src="app.js"></script>
+</body>
+</html>

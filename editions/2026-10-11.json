@@ -1,0 +1,959 @@
+{
+ "date": "2026-10-11",
+ "label": "Dimanche 11 octobre 2026",
+ "n": 0,
+ "example": true,
+ "week": {
+  "start": "2026-10-05",
+  "label": "Semaine du 5 octobre",
+  "day": 7,
+  "words": [
+   {
+    "key": "corollaire",
+    "w": "Corollaire",
+    "ph": "[kɔ.ʁɔ.lɛʁ] · nom masculin",
+    "short": "Conséquence directe et inévitable d’un fait.",
+    "def": "Ce qui découle nécessairement d’un fait, d’une décision ou d’un principe. Plus précis que « conséquence » : le corollaire est logique, presque automatique. On dit « avoir pour corollaire » ou « en être le corollaire ».",
+    "ety": "Du latin corollarium, « petite couronne » offerte en gratification, puis « ce qui s’ajoute ». En mathématiques, c’est une proposition qui se déduit immédiatement d’un théorème.",
+    "ex": "Le passage au télétravail a eu pour corollaire une baisse de la demande de bureaux en centre-ville.",
+    "syn": "conséquence, suite logique, implication, retombée"
+   },
+   {
+    "key": "galvauder",
+    "w": "Galvauder",
+    "ph": "[gal.vo.de] · verbe",
+    "short": "Dévaloriser à force de mauvais usage.",
+    "def": "Gâcher, dévaloriser quelque chose par un usage excessif ou maladroit. On l’emploie très souvent au participe : un mot galvaudé a été tellement répété qu’il a perdu son sens ; un talent galvaudé a été gaspillé.",
+    "ety": "Origine incertaine, attesté au XVIIe siècle au sens de « gâcher un travail ». Souvent rapproché de l’ancien français galer, « s’amuser », et de vauder, « mal faire ».",
+    "ex": "« Disruptif » est devenu un mot si galvaudé qu’il ne veut plus rien dire en réunion.",
+    "syn": "dévaloriser, user, banaliser, gaspiller"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Le Comte de Monte-Cristo",
+   "by": "Alexandre Dumas · 1844–1846",
+   "min": 10,
+   "exMin": 4,
+   "src": "Alexandre Dumas, Le Comte de Monte-Cristo (1844-1846), domaine public.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Trahi le jour de ses fiançailles par trois jaloux, le marin Edmond Dantès passe quatorze ans au château d’If. Évadé et riche du trésor de l’abbé Faria, il revient à Paris sous le nom de comte de Monte-Cristo et détruit un à un ceux qui l’ont perdu, avant de douter de sa propre vengeance."
+      ],
+      [
+       "« Attendre et espérer » : la vraie morale du livre",
+       "Ce sont les derniers mots du roman, laissés par Edmond Dantès dans une lettre. Après des centaines de pages de vengeance, Dumas conclut que la sagesse ne consiste pas à se faire justice, mais à savoir patienter et garder l’espoir. Le roman se retourne contre son propre héros."
+      ],
+      [
+       "La vengeance a une limite : l’innocent",
+       "Tant que Monte-Cristo frappe des coupables, le lecteur applaudit. Quand le petit Édouard de Villefort meurt, empoisonné par sa mère dans l’engrenage que le comte a déclenché, tout bascule. Dantès comprend qu’il s’est pris pour Dieu, et qu’il n’en avait ni la justesse ni la mesure."
+      ],
+      [
+       "Le savoir précède la fortune",
+       "Le trésor de l’île n’est que le moyen. Ce qui transforme le jeune marin presque illettré en homme redoutable, ce sont les années d’enseignement de l’abbé Faria au fond du cachot : langues, chimie, histoire, philosophie. Sans Faria, l’or n’aurait servi à rien."
+      ],
+      [
+       "Chaque coupable tombe par sa propre faute",
+       "Monte-Cristo n’invente aucun crime : il révèle ceux qui existent déjà. La cupidité ruine Danglars, la trahison passée déshonore Fernand, la dureté de Villefort détruit sa famille. La vengeance la plus efficace consiste à rendre visible ce que l’on cachait."
+      ],
+      [
+       "L’argent est le vrai pouvoir de la France de Louis-Philippe",
+       "Sous la Monarchie de Juillet (1830-1848), banquiers, parvenus et magistrats ambitieux font la loi. Avec sa fortune illimitée, le comte entre partout. Le roman est aussi une satire de cette société où l’on achète titres, honneurs et silence."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "La chute (1815)"
+    },
+    {
+     "p": "Marseille, février 1815. Edmond Dantès a dix-neuf ans. Il ramène au port le navire <em>Pharaon</em>, dont le capitaine est mort en mer, et l’armateur Morrel veut le nommer capitaine. Il doit épouser le lendemain Mercédès, une jeune Catalane. Trois hommes le jalousent : Danglars, le comptable du navire, qui convoite le poste ; Fernand Mondego, cousin de Mercédès, qui l’aime ; et Caderousse, un voisin aigri qui assiste au complot sans l’empêcher.",
+     "lead": 1
+    },
+    {
+     "p": "Danglars écrit une lettre anonyme qui dénonce Dantès comme agent bonapartiste : avant de mourir, le capitaine l’avait chargé de remettre un pli à l’île d’Elbe, où Napoléon est exilé. Dantès est arrêté pendant son repas de fiançailles. Le substitut du procureur, Villefort, voit tout de suite qu’il est innocent. Mais la lettre que Dantès devait porter est adressée à Noirtier, le propre père de Villefort, conspirateur bonapartiste. Pour protéger sa carrière, Villefort brûle la lettre et fait enfermer Dantès au château d’If, sans procès."
+    },
+    {
+     "h5": "La métamorphose (1815-1829)"
+    },
+    {
+     "p": "Au bout de six ans de cachot, Dantès entend gratter dans le mur. C’est l’abbé Faria, prisonnier italien, qui creuse un tunnel depuis des années et s’est trompé de direction. Les deux hommes deviennent inséparables. Faria reconstitue pour Dantès le complot qui l’a envoyé en prison, puis lui transmet tout ce qu’il sait. Avant de mourir, il lui révèle l’emplacement d’un trésor caché sur l’île de Monte-Cristo, au large de la Toscane."
+    },
+    {
+     "p": "Dantès prend la place du cadavre de l’abbé dans le sac mortuaire. Les gardiens jettent le sac à la mer depuis les remparts : c’est ainsi que l’on enterre les prisonniers au château d’If. Il s’évade après quatorze ans de détention, retrouve le trésor et disparaît pendant près de dix ans."
+    },
+    {
+     "h5": "Le châtiment (1838)"
+    },
+    {
+     "p": "Il réapparaît à Rome puis à Paris sous le nom de comte de Monte-Cristo, immensément riche, cultivé et mystérieux. Il récompense d’abord ceux qui ont été bons : il sauve secrètement Morrel de la faillite. Puis il s’occupe de ses ennemis, qui ont tous prospéré. Danglars est devenu baron et banquier. Fernand s’est fait comte de Morcerf, pair de France, et a épousé Mercédès. Villefort est procureur du roi."
+    },
+    {
+     "p": "Le comte les fait tomber un par un. Il manipule les cours de la Bourse pour ruiner Danglars. Il révèle publiquement que Fernand a trahi et livré aux Turcs le pacha Ali de Janina, dont la fille Haydée, vendue comme esclave, témoigne devant la Chambre des pairs : Fernand se suicide. Il met au jour les crimes de Villefort, notamment un enfant illégitime qu’il avait enterré vivant, et qui a survécu. Pendant ce temps, Mme de Villefort empoisonne plusieurs membres de la famille pour assurer l’héritage de son fils."
+    },
+    {
+     "h5": "Le doute et le pardon"
+    },
+    {
+     "p": "Démasquée, Mme de Villefort s’empoisonne avec son fils Édouard, âgé de neuf ans. Villefort devient fou. Devant le corps de l’enfant, Monte-Cristo vacille : il se demande s’il n’est pas allé trop loin. Il épargne Danglars, qu’il laisse repartir avec quelques milliers de francs, et marie Maximilien Morrel à Valentine de Villefort, qu’il a sauvée du poison. Il s’éloigne en mer avec Haydée, en laissant une lettre qui se termine par « Attendre et espérer »."
+    },
+    {
+     "quote": "Toute la sagesse humaine sera dans ces deux mots : Attendre et espérer !",
+     "cite": "Lettre de Monte-Cristo à Maximilien Morrel, dernier chapitre"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Une mécanique de feuilleton"
+    },
+    {
+     "p": "Le roman paraît en feuilleton dans le <em>Journal des débats</em> d’août 1844 à janvier 1846. Chaque livraison doit donner envie d’acheter le journal du lendemain : d’où les fins de chapitre suspendues, les révélations en cascade et les personnages qui changent de nom. Dumas écrit avec Auguste Maquet, qui prépare les plans et les premières versions. Le procédé est industriel, mais le résultat est d’une construction remarquable : toutes les intrigues secondaires, de Rome à Auteuil, convergent vers la chute des trois coupables."
+    },
+    {
+     "h5": "Un fait divers à l’origine"
+    },
+    {
+     "p": "Dumas s’inspire d’une affaire rapportée en 1838 par Jacques Peuchet, ancien archiviste de la police : celle de Pierre Picaud, cordonnier parisien dénoncé par jalousie à la veille de son mariage, emprisonné sept ans, enrichi par un codétenu, puis vengé de ses délateurs. Dumas en garde le squelette mais lui ajoute ce qui fait un mythe : l’île, le trésor, l’évasion dans un linceul."
+    },
+    {
+     "h5": "Le jeu des masques"
+    },
+    {
+     "p": "Dantès ne se venge jamais à visage découvert. Il est tour à tour Sinbad le marin, l’abbé Busoni, lord Wilmore, le commis de la maison Thomson et French. Ces identités multiples font de lui une figure presque surnaturelle, ce que Dumas appelle l’« ange de la Providence ». Mais elles traduisent aussi une perte : Edmond Dantès, le marin heureux de 1815, n’existe plus. Seule Mercédès le reconnaît, dès leur première rencontre à Paris."
+    },
+    {
+     "h5": "Une satire de la Monarchie de Juillet"
+    },
+    {
+     "p": "Le Paris du roman est celui de la Bourse, de la presse vénale et des titres achetés. Danglars, baron de fraîche date, tient salon au milieu de ses flatteurs, qui louent sa fortune tant qu’elle dure et disparaissent dès qu’elle vacille. Dumas montre une société où l’argent ouvre toutes les portes, et c’est précisément cette faiblesse que le comte exploite : il achète les nouvelles, les dépêches télégraphiques et les consciences."
+    },
+    {
+     "h5": "Le doute du justicier"
+    },
+    {
+     "p": "Le roman pose une vraie question morale. Pendant mille pages, Dumas nous fait partager le plaisir de la vengeance. Puis, avec la mort d’Édouard, il oblige son héros et son lecteur à se dédire : la justice privée finit par toucher des innocents. Le comte ne renonce pas à tout ce qu’il a fait, mais il cesse de se croire l’instrument de Dieu. C’est ce doute final qui élève le roman d’aventures au rang de grand livre."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Le livre a fondé un modèle narratif, celui du héros trahi qui revient sous une autre identité. Ce schéma a depuis été [[galvauder|galvaudé]] par des centaines de romans, de films et de séries, mais aucun n’égale l’original. Il reste surtout une réflexion très actuelle sur la tentation de se faire justice soi-même, et sur ce qu’elle coûte à celui qui s’y livre."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Trahi le jour de ses fiançailles par trois jaloux, le marin Edmond Dantès passe quatorze ans au château d’If. Évadé et riche du trésor de l’abbé Faria, il revient à Paris sous le nom de comte de Monte-Cristo et détruit un à un ceux qui l’ont perdu, avant de douter de sa propre vengeance.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>« Attendre et espérer »</b> : la morale finale. La patience et l’espoir valent mieux que la vengeance.",
+      "<b>La vengeance a une limite</b> : quand elle tue un innocent (le petit Édouard, 9 ans), elle cesse d’être justice.",
+      "<b>Le savoir avant la fortune</b> : c’est l’enseignement de l’abbé Faria qui transforme Dantès ; le trésor n’est qu’un outil.",
+      "<b>Chaque coupable tombe par sa propre faute</b> : le comte révèle les crimes, il ne les invente pas.",
+      "<b>L’argent, vrai pouvoir</b> de la Monarchie de Juillet (1830-1848) : banquiers et parvenus font la loi."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>1815, la chute</b> : dénoncé comme bonapartiste par Danglars, Fernand et Caderousse. Le magistrat Villefort l’enferme sans procès pour protéger son propre père.",
+      "<b>14 ans de cachot</b> : l’abbé Faria l’instruit et lui révèle le trésor de l’île de Monte-Cristo. Dantès s’évade cousu dans le linceul de l’abbé.",
+      "<b>1838, le châtiment</b> : devenu comte, il ruine le banquier Danglars, fait éclater la trahison de Fernand, qui se suicide, et révèle les crimes de Villefort, qui devient fou.",
+      "<b>Le doute</b> : la mort du fils de Villefort l’arrête. Il épargne Danglars, unit Maximilien et Valentine, et part en mer avec Haydée."
+     ]
+    },
+    {
+     "quote": "Toute la sagesse humaine sera dans ces deux mots : Attendre et espérer !",
+     "cite": "Dernier chapitre"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Un feuilleton</b> publié dans le <em>Journal des débats</em> d’août 1844 à janvier 1846, écrit avec Auguste Maquet : un suspense à chaque fin de chapitre.",
+      "<b>Un fait divers réel</b> : l’affaire Pierre Picaud, rapportée en 1838 par l’archiviste de police Jacques Peuchet.",
+      "<b>Le jeu des masques</b> : Sinbad le marin, l’abbé Busoni, lord Wilmore… Le héros n’existe plus que sous des identités d’emprunt.",
+      "<b>Une satire</b> de la Bourse, de la presse vénale et des titres achetés.",
+      "<b>Un modèle narratif</b>, le héros trahi qui revient, depuis [[galvauder|galvaudé]] par des centaines de films et de séries."
+     ]
+    }
+   ],
+   "tagline": "Attendre et espérer"
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "La Richesse des nations",
+   "by": "Adam Smith · 1776",
+   "min": 9,
+   "exMin": 3,
+   "src": "Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776), livres I, IV et V. Maddison Project Database 2020. Banque mondiale, Poverty and Inequality Platform.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Premier grand traité d’économie moderne. Smith montre que la richesse d’un pays vient de son travail, démultiplié par la spécialisation et coordonné par le marché, à condition que l’État garantisse la concurrence, la justice et les biens publics."
+      ],
+      [
+       "La richesse, c’est la production, pas l’or",
+       "Contre les mercantilistes, Smith affirme qu’un pays est riche de ce qu’il produit chaque année par son travail. C’est l’ancêtre direct de notre PIB."
+      ],
+      [
+       "La division du travail multiplie la productivité",
+       "Dans la manufacture d’épingles, dix ouvriers spécialisés produisent 48 000 épingles par jour, soit 4 800 chacun, contre peut-être 20 pour un ouvrier seul : un gain de l’ordre de 240 fois."
+      ],
+      [
+       "Le marché coordonne sans chef d’orchestre",
+       "Chacun, en servant son intérêt, répond aux besoins des autres. C’est la « main invisible », qui n’apparaît pourtant qu’une seule fois dans tout l’ouvrage."
+      ],
+      [
+       "Smith se méfie des marchands",
+       "Il dénonce les ententes sur les prix, les monopoles comme la Compagnie des Indes orientales et le lobbying des industriels qui réclament des protections."
+      ],
+      [
+       "L’État a des missions essentielles",
+       "Défense, justice, infrastructures, instruction publique. Il fixe aussi quatre principes à l’impôt, toujours enseignés aujourd’hui."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Le contexte"
+    },
+    {
+     "p": "<em>Recherches sur la nature et les causes de la richesse des nations</em> paraît à Londres le 9 mars 1776, quatre mois avant la Déclaration d’indépendance américaine. Adam Smith, professeur de philosophie morale à Glasgow, y a travaillé une douzaine d’années. L’ouvrage compte cinq livres et près de mille pages. Il a déjà publié en 1759 la <em>Théorie des sentiments moraux</em>, où il explique que l’être humain est guidé par la sympathie, c’est-à-dire la capacité à se mettre à la place des autres. Les deux livres forment un tout, ce qu’on oublie souvent.",
+     "lead": 1
+    },
+    {
+     "p": "À l’époque domine le mercantilisme : la richesse d’un royaume se mesure à l’or et à l’argent qu’il accumule, et il faut donc exporter le plus possible et importer le moins possible. Smith renverse cette idée. Pour lui, l’or n’est qu’un instrument d’échange. Ce qui compte, c’est le flux annuel de biens que la nation produit et consomme."
+    },
+    {
+     "h5": "La manufacture d’épingles"
+    },
+    {
+     "p": "Le premier chapitre contient l’exemple le plus célèbre de l’économie. Fabriquer une épingle demande environ dix-huit opérations distinctes : tirer le fil, le dresser, le couper, l’empointer, l’émoudre, préparer la tête, la fixer, blanchir l’épingle, l’emballer. Un ouvrier qui ferait tout seul en produirait à peine vingt par jour, peut-être une seule. Dans une petite manufacture qu’il a visitée, dix ouvriers se partagent les tâches et fabriquent 48 000 épingles par jour."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Épingles fabriquées par ouvrier et par jour",
+      "sub": "Manufacture décrite par Smith, livre I, chapitre 1",
+      "rows": [
+       [
+        "Ouvrier seul",
+        20
+       ],
+       [
+        "Ouvrier spécialisé",
+        4800
+       ]
+      ],
+      "note": "Soit un gain de productivité de l’ordre de 240 fois. Source : Adam Smith, 1776."
+     }
+    },
+    {
+     "p": "Smith identifie trois sources de ce gain : l’habileté que chaque ouvrier acquiert en répétant le même geste, le temps qu’on ne perd plus à passer d’une tâche à l’autre, et l’invention de machines, plus facile quand l’attention se concentre sur une opération simple. Il en tire un [[corollaire|corollaire]] décisif : la division du travail dépend de l’étendue du marché. Inutile de spécialiser dix ouvriers s’il n’y a pas de clients pour 48 000 épingles. D’où l’importance des routes, des canaux et du commerce."
+    },
+    {
+     "h5": "Le marché et la main invisible"
+    },
+    {
+     "p": "La spécialisation suppose l’échange. Smith remarque que nous n’attendons pas notre dîner de la bienveillance du boucher ou du boulanger, mais du soin qu’ils prennent de leurs propres intérêts. Le prix de marché oscille autour d’un « prix naturel » qui couvre salaires, profits et rentes : si un bien manque, son prix monte, les producteurs affluent, et l’offre se rétablit."
+    },
+    {
+     "p": "L’expression « main invisible » n’apparaît qu’une fois dans <em>La Richesse des nations</em>, au livre IV, à propos d’un négociant qui préfère investir dans son pays plutôt qu’à l’étranger. Devenue [[galvauder|galvaudée]] au XXe siècle, l’expression sert de symbole à un marché qui se régulerait seul. C’est une lecture très partielle."
+    },
+    {
+     "h5": "Un libéral méfiant"
+    },
+    {
+     "p": "Smith écrit que les gens d’un même métier se réunissent rarement, même pour se divertir, sans que la conversation finisse en conspiration contre le public. Il attaque les monopoles, en particulier la Compagnie des Indes orientales, qu’il juge à la fois mauvaise gestionnaire et oppressive. Il se méfie des industriels qui réclament des droits de douane au nom de l’intérêt national. Et il constate que dans les négociations salariales, les maîtres ont presque toujours l’avantage sur les ouvriers."
+    },
+    {
+     "h5": "Le rôle de l’État"
+    },
+    {
+     "p": "Le livre V confie à l’État trois devoirs : la défense, la justice et les ouvrages publics que le marché ne financerait pas, comme les routes, les ponts et les ports. Smith défend aussi une instruction publique peu coûteuse, car il voit que le travail parcellaire abrutit l’ouvrier. Il pose enfin quatre maximes de l’impôt : l’égalité (chacun contribue selon ses capacités), la certitude (le montant est connu d’avance), la commodité (on paie au moment le moins pénible) et l’économie (la collecte coûte peu)."
+    },
+    {
+     "h5": "Ce qu’il en reste, en chiffres"
+    },
+    {
+     "p": "Smith écrit au tout début de la révolution industrielle. Depuis, l’intuition centrale du livre, celle d’une richesse qui naît de la spécialisation et de l’échange, s’est vérifiée à une échelle qu’il ne pouvait imaginer."
+    },
+    {
+     "stats": [
+      [
+       "× 14",
+       "PIB mondial par habitant, entre 1820 et 2018 (Maddison)"
+      ],
+      [
+       "1 102 $",
+       "PIB par habitant mondial en 1820, en dollars de 2011"
+      ],
+      [
+       "15 212 $",
+       "PIB par habitant mondial en 2018, en dollars de 2011"
+      ],
+      [
+       "≈ 9 %",
+       "part de la population mondiale en extrême pauvreté en 2019, contre une large majorité vers 1820"
+      ]
+     ]
+    },
+    {
+     "p": "Le livre reste un outil pour penser. Quand on parle de relocalisation, de chaînes de valeur mondiales ou de concentration des géants du numérique, on rejoue les questions de Smith : jusqu’où pousser la spécialisation, et comment empêcher les marchands de confisquer le marché à leur profit ?"
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Premier grand traité d’économie moderne (1776). Smith montre que la richesse d’un pays vient de son travail, démultiplié par la spécialisation et coordonné par le marché, à condition que l’État garantisse la concurrence, la justice et les biens publics.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Richesse = production</b>, pas l’or accumulé. C’est l’ancêtre de notre PIB.",
+      "<b>Division du travail</b> : 10 ouvriers spécialisés font 48 000 épingles par jour, soit 4 800 chacun, contre environ 20 pour un ouvrier seul. Un gain d’environ ×240.",
+      "<b>Son [[corollaire|corollaire]]</b> : la spécialisation dépend de la taille du marché, d’où l’importance des routes, des ports et du commerce.",
+      "<b>La main invisible</b> n’apparaît qu’une seule fois dans l’ouvrage. L’expression a été [[galvauder|galvaudée]] en symbole d’un marché qui se régulerait seul.",
+      "<b>Méfiance envers les marchands</b> : ententes sur les prix, monopoles comme la Compagnie des Indes, lobbying protectionniste.",
+      "<b>Rôle de l’État</b> : défense, justice, infrastructures, instruction. Quatre maximes de l’impôt : égalité, certitude, commodité, économie."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Épingles fabriquées par ouvrier et par jour",
+      "sub": "Manufacture décrite par Smith, livre I, chapitre 1",
+      "rows": [
+       [
+        "Ouvrier seul",
+        20
+       ],
+       [
+        "Ouvrier spécialisé",
+        4800
+       ]
+      ],
+      "note": "Soit un gain de productivité de l’ordre de 240 fois. Source : Adam Smith, 1776."
+     }
+    },
+    {
+     "h": "Ce qu’il en reste"
+    },
+    {
+     "stats": [
+      [
+       "× 14",
+       "PIB mondial par habitant, entre 1820 et 2018"
+      ],
+      [
+       "1 102 $",
+       "PIB par habitant mondial en 1820 (dollars 2011)"
+      ],
+      [
+       "15 212 $",
+       "PIB par habitant mondial en 2018 (dollars 2011)"
+      ],
+      [
+       "≈ 9 %",
+       "de la population en extrême pauvreté en 2019"
+      ]
+     ]
+    },
+    {
+     "ul": [
+      "Les débats actuels sur la relocalisation, les chaînes de valeur ou les géants du numérique reposent les questions de Smith : jusqu’où spécialiser, et comment empêcher les marchands de confisquer le marché ?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Comment la BCE a dompté l’inflation, et ce que ça a coûté",
+   "by": "Analyse de fond",
+   "min": 3,
+   "exMin": 2,
+   "fig": "10,6 %",
+   "figl": "pic d’inflation en zone euro",
+   "src": "BCE (taux directeurs), Eurostat (IPCH), Observatoire Crédit Logement/CSA, Notaires de France et IGEDD (transactions). Données arrêtées à mi-2025.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "En octobre 2022, l’inflation atteint 10,6 % dans la zone euro, du jamais-vu depuis la création de la monnaie unique. La Banque centrale européenne répond par la hausse de taux la plus rapide de son histoire : son taux de dépôt passe de −0,5 % en juillet 2022 à 4 % en septembre 2023.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Inflation et taux de dépôt de la BCE",
+      "sub": "Zone euro, en %",
+      "labels": [
+       "2021",
+       "2022",
+       "2023",
+       "2024",
+       "mi-2025"
+      ],
+      "series": [
+       {
+        "name": "Inflation (moyenne annuelle ; mi-2025 : juin)",
+        "values": [
+         2.6,
+         8.4,
+         5.4,
+         2.4,
+         2
+        ]
+       },
+       {
+        "name": "Taux de dépôt (fin de période)",
+        "values": [
+         -0.5,
+         2,
+         4,
+         3,
+         2
+        ]
+       }
+      ],
+      "note": "Sources : Eurostat, BCE."
+     }
+    },
+    {
+     "h": "Le mécanisme"
+    },
+    {
+     "p": "Le taux directeur est le prix auquel les banques se refinancent auprès de la banque centrale. Quand il monte, elles répercutent la hausse sur leurs crédits. Emprunter coûte plus cher, donc on achète moins de logements, de voitures et de machines. L’épargne rapporte davantage. La demande ralentit et les entreprises ont moins de marge pour augmenter leurs prix. L’effet complet met 12 à 18 mois à se faire sentir."
+    },
+    {
+     "h": "Les chiffres de la transmission en France"
+    },
+    {
+     "stats": [
+      [
+       "≈ 1,1 %",
+       "taux moyen d’un crédit immobilier début 2022"
+      ],
+      [
+       "> 4 %",
+       "le même taux fin 2023"
+      ],
+      [
+       "1,17 M",
+       "ventes de logements anciens en 2021"
+      ],
+      [
+       "≈ 780 000",
+       "ventes de logements anciens en 2024"
+      ]
+     ]
+    },
+    {
+     "h": "Le revirement des banquiers centraux"
+    },
+    {
+     "p": "Tout au long de 2021, la Réserve fédérale américaine et la BCE qualifient l’inflation de « transitoire », liée aux goulets d’étranglement de la sortie du Covid. Fin novembre 2021, le président de la Fed, Jerome Powell, abandonne publiquement le mot. Ce revirement tardif a eu un coût : en réagissant tard, les banques centrales ont dû frapper plus fort ensuite."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "L’inflation est revenue autour de 2 % en 2025, et la BCE a ramené son taux de dépôt à 2 % en juin 2025. La récession redoutée n’a pas eu lieu, mais le recul de l’immobilier en a été le [[corollaire|corollaire]] direct. C’est tout l’art de l’« atterrissage en douceur » : freiner assez pour casser l’inflation, sans faire caler l’économie."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>10,6 %</b> : pic d’inflation de la zone euro en octobre 2022, un record depuis la création de l’euro.",
+      "<b>De −0,5 % à 4 %</b> : le taux de dépôt de la BCE entre juillet 2022 et septembre 2023, la hausse la plus rapide de son histoire.",
+      "<b>Le mécanisme</b> : crédit plus cher, moins d’achats, demande et prix qui ralentissent. Effet complet en 12 à 18 mois.",
+      "<b>L’erreur de départ</b> : l’inflation jugée « transitoire » en 2021, un mot abandonné par Jerome Powell fin novembre 2021. Réagir tard a obligé à frapper plus fort."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Inflation et taux de dépôt de la BCE",
+      "sub": "Zone euro, en %",
+      "labels": [
+       "2021",
+       "2022",
+       "2023",
+       "2024",
+       "mi-2025"
+      ],
+      "series": [
+       {
+        "name": "Inflation (moyenne annuelle ; mi-2025 : juin)",
+        "values": [
+         2.6,
+         8.4,
+         5.4,
+         2.4,
+         2
+        ]
+       },
+       {
+        "name": "Taux de dépôt (fin de période)",
+        "values": [
+         -0.5,
+         2,
+         4,
+         3,
+         2
+        ]
+       }
+      ],
+      "note": "Sources : Eurostat, BCE."
+     }
+    },
+    {
+     "h": "L’impact en France"
+    },
+    {
+     "stats": [
+      [
+       "≈ 1,1 % → > 4 %",
+       "taux moyen d’un crédit immobilier, début 2022 puis fin 2023"
+      ],
+      [
+       "1,17 M → ≈ 780 000",
+       "ventes de logements anciens, 2021 puis 2024"
+      ]
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "Inflation revenue vers 2 % en 2025, taux de la BCE à 2 % en juin 2025, et pas de récession. Le recul de l’immobilier en a été le [[corollaire|corollaire]] direct."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Ormuz : 33 kilomètres qui tiennent l’économie mondiale",
+   "by": "Analyse de fond",
+   "min": 3,
+   "exMin": 2,
+   "fig": "20 Mb/j",
+   "figl": "de pétrole par le détroit",
+   "src": "U.S. Energy Information Administration (World Oil Transit Chokepoints, 2024-2025). Données arrêtées à mi-2025.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le détroit d’Ormuz relie le golfe Persique à la mer d’Oman, entre l’Iran au nord et la péninsule omanaise de Musandam au sud. Il mesure environ 33 km dans sa partie la plus étroite, mais les navires y circulent dans deux couloirs de seulement 3 km chacun.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "≈ 20 Mb/j",
+       "barils de pétrole transitant chaque jour en 2024"
+      ],
+      [
+       "≈ 20 %",
+       "de la consommation mondiale de pétrole"
+      ],
+      [
+       "≈ 1/5",
+       "du commerce mondial de gaz naturel liquéfié, surtout qatari"
+      ],
+      [
+       "84 %",
+       "du brut passé par Ormuz part vers l’Asie"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi on ne peut pas le contourner"
+    },
+    {
+     "p": "L’Arabie saoudite et les Émirats arabes unis disposent d’oléoducs qui évitent le détroit : l’East-West saoudien vers la mer Rouge, et l’oléoduc émirien vers Fujaïrah. Mais la capacité inutilisée de ces tuyaux ne dépasse pas 2,6 millions de barils par jour. L’Irak, le Koweït, le Qatar et Bahreïn n’ont presque aucune alternative."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le contournement ne couvre qu’une petite part du flux",
+      "sub": "Millions de barils par jour, 2024",
+      "rows": [
+       [
+        "Pétrole transitant par Ormuz",
+        20
+       ],
+       [
+        "Capacité de contournement disponible",
+        2.6
+       ]
+      ],
+      "note": "Source : EIA. Oléoducs saoudien (East-West) et émirien (Habshan-Fujaïrah)."
+     }
+    },
+    {
+     "h": "L’arme iranienne, à double tranchant"
+    },
+    {
+     "p": "Pour Téhéran, la menace de bloquer le détroit est un levier face aux sanctions. Elle a pris de la vigueur depuis la volte-face américaine de 2018 : trois ans après avoir signé l’accord sur le nucléaire iranien, Washington s’en retire. En juin 2025, après les frappes israéliennes et américaines sur ses sites nucléaires, le Parlement iranien vote en faveur d’une fermeture, qui ne sera pas appliquée."
+    },
+    {
+     "p": "La raison est simple : l’Iran exporte lui-même son pétrole par Ormuz, principalement vers la Chine. Fermer le détroit reviendrait à se couper de son principal client. La menace vaut surtout par son effet sur les prix : le simple risque fait grimper le baril et les primes d’assurance des pétroliers."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Ormuz illustre une règle de la géopolitique de l’énergie : quelques points de passage étroits, comme Ormuz, Malacca, Suez ou Bab el-Mandeb, concentrent une part énorme du commerce mondial. Celui qui peut les menacer dispose d’un pouvoir sans commune mesure avec sa puissance économique."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>33 km</b> de large au plus étroit, avec seulement deux couloirs de navigation de <b>3 km</b>, entre l’Iran et Oman.",
+      "<b>Contournement limité</b> : les oléoducs saoudien et émirien n’offrent que <b>2,6 Mb/j</b> de capacité libre. L’Irak, le Koweït et le Qatar n’ont presque aucune alternative.",
+      "<b>Le levier iranien</b> s’est renforcé depuis la volte-face américaine de 2018 (sortie de l’accord nucléaire). En juin 2025, le Parlement iranien a voté une fermeture, jamais appliquée.",
+      "<b>Une arme à double tranchant</b> : l’Iran exporte lui-même son pétrole par Ormuz, surtout vers la Chine. La menace sert surtout à faire monter les prix et les assurances."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 20 Mb/j",
+       "de pétrole en transit chaque jour en 2024"
+      ],
+      [
+       "≈ 20 %",
+       "de la consommation mondiale de pétrole"
+      ],
+      [
+       "≈ 1/5",
+       "du commerce mondial de GNL"
+      ],
+      [
+       "84 %",
+       "du brut d’Ormuz part vers l’Asie"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le contournement ne couvre qu’une petite part du flux",
+      "sub": "Millions de barils par jour, 2024",
+      "rows": [
+       [
+        "Pétrole transitant par Ormuz",
+        20
+       ],
+       [
+        "Capacité de contournement disponible",
+        2.6
+       ]
+      ],
+      "note": "Source : EIA. Oléoducs saoudien (East-West) et émirien (Habshan-Fujaïrah)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "Quelques détroits (Ormuz, Malacca, Suez, Bab el-Mandeb) concentrent une part énorme du commerce mondial. Pouvoir les menacer donne un poids sans rapport avec sa taille économique."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "L’effet coup de fouet : quand une petite variation devient une crise",
+   "by": "Analyse de fond",
+   "min": 3,
+   "exMin": 2,
+   "fig": "2,25 Md$",
+   "figl": "de stocks dépréciés par Cisco en 2001",
+   "src": "Lee, Padmanabhan & Whang, « The Bullwhip Effect in Supply Chains », Sloan Management Review, 1997. Rapports financiers Cisco (2001) et Target (2022).",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "L’effet coup de fouet, ou bullwhip effect, désigne l’amplification des variations de demande à mesure qu’on remonte une chaîne logistique. Une hausse de 5 % des ventes en magasin peut se transformer en hausse de 40 % des commandes à l’usine. Le phénomène a été formalisé en 1997 par Hau Lee, V. Padmanabhan et Seungjin Whang, à Stanford.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Comment la variation s’amplifie",
+      "sub": "Variation des commandes à chaque maillon, en %",
+      "labels": [
+       "Ventes magasin",
+       "Distributeur",
+       "Grossiste",
+       "Usine"
+      ],
+      "series": [
+       {
+        "name": "Variation (±%)",
+        "values": [
+         5,
+         12,
+         24,
+         40
+        ]
+       }
+      ],
+      "prefix": "±",
+      "suffix": " %",
+      "note": "Illustration pédagogique, valeurs indicatives."
+     }
+    },
+    {
+     "h": "Les quatre causes"
+    },
+    {
+     "p": "Lee et ses coauteurs en identifient quatre. D’abord, chaque maillon prévoit à partir des commandes qu’il reçoit, pas de la consommation réelle, et ajoute son stock de sécurité. Ensuite, on commande par lots pour remplir un camion. Troisième cause : les promotions, qui créent des pics d’achat artificiels. Enfin, en cas de pénurie, les clients gonflent leurs commandes pour être mieux servis lors du rationnement, puis les annulent."
+    },
+    {
+     "h": "Trois cas d’école"
+    },
+    {
+     "stats": [
+      [
+       "Pampers",
+       "chez Procter & Gamble, consommation de couches stable mais commandes des distributeurs très volatiles"
+      ],
+      [
+       "2,25 Md$",
+       "stocks dépréciés par Cisco en avril 2001 après des commandes gonflées"
+      ],
+      [
+       "≈ −90 %",
+       "chute du bénéfice de Target au 2e trimestre 2022, plombé par des stocks surdimensionnés"
+      ]
+     ]
+    },
+    {
+     "p": "Le jeu de la bière, simulation créée au MIT dans les années 1960, montre que le phénomène apparaît même quand chaque participant agit rationnellement. Ce n’est pas un problème d’incompétence, mais d’information."
+    },
+    {
+     "h": "Les remèdes"
+    },
+    {
+     "p": "Partager les données de sortie de caisse avec tous les maillons, réduire les délais et la taille des lots, confier le réapprovisionnement au fournisseur (VMI), ou lisser les prix comme le fait Walmart avec sa politique de prix bas permanents. Dans un WMS comme dans un ERP, le [[corollaire|corollaire]] est simple : planifier sur la demande réelle, pas sur la commande du maillon d’à côté."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le principe</b> : les variations de demande s’amplifient en remontant la chaîne. +5 % en magasin peut devenir +40 % à l’usine.",
+      "<b>Formalisé en 1997</b> par Lee, Padmanabhan et Whang (Stanford).",
+      "<b>4 causes</b> : prévisions sur les commandes et non sur les ventes, commandes par lots, promotions, sur-commandes en cas de pénurie.",
+      "<b>Pas une question d’incompétence</b> : le « jeu de la bière » du MIT (années 1960) le reproduit avec des joueurs rationnels. C’est un problème d’information."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Comment la variation s’amplifie",
+      "sub": "Variation des commandes à chaque maillon, en %",
+      "labels": [
+       "Ventes magasin",
+       "Distributeur",
+       "Grossiste",
+       "Usine"
+      ],
+      "series": [
+       {
+        "name": "Variation (±%)",
+        "values": [
+         5,
+         12,
+         24,
+         40
+        ]
+       }
+      ],
+      "prefix": "±",
+      "suffix": " %",
+      "note": "Illustration pédagogique, valeurs indicatives."
+     }
+    },
+    {
+     "stats": [
+      [
+       "Pampers",
+       "consommation stable, commandes très volatiles chez P&G"
+      ],
+      [
+       "2,25 Md$",
+       "stocks dépréciés par Cisco en 2001"
+      ],
+      [
+       "≈ −90 %",
+       "bénéfice de Target au 2e trimestre 2022"
+      ]
+     ]
+    },
+    {
+     "h": "Les remèdes"
+    },
+    {
+     "ul": [
+      "Partager les données de caisse, réduire délais et tailles de lots, confier le réapprovisionnement au fournisseur (VMI), lisser les prix.",
+      "Dans un WMS comme dans un ERP, le [[corollaire|corollaire]] est simple : planifier sur la demande réelle, pas sur la commande du maillon d’à côté."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Toyota et le juste-à-temps : la force et la faille du lean",
+   "by": "Analyse de fond",
+   "min": 3,
+   "exMin": 2,
+   "fig": "5 353 Md¥",
+   "figl": "résultat d’exploitation record, 2023-24",
+   "src": "Taiichi Ohno, Toyota Production System (1978). Womack, Jones & Roos, The Machine That Changed the World (1990). Rapports annuels Toyota Motor Corporation.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Dans le Japon d’après-guerre, Toyota manque de place, de capital et de commandes. L’ingénieur Taiichi Ohno développe alors un principe simple : ne produire une pièce qu’au moment où le poste suivant en a besoin. Inspiré par les supermarchés américains qui réapprovisionnent leurs rayons au fur et à mesure des achats, il invente le kanban, une étiquette qui circule de l’aval vers l’amont et autorise la fabrication d’une quantité précise.",
+     "lead": 1
+    },
+    {
+     "h": "Les deux piliers"
+    },
+    {
+     "p": "Le Toyota Production System repose sur le juste-à-temps et le jidoka : chaque machine, chaque opérateur peut arrêter la ligne dès qu’il détecte un défaut. L’idée remonte au métier à tisser automatique de Sakichi Toyoda, qui s’arrêtait de lui-même quand un fil cassait. Les stocks fondent, les problèmes deviennent visibles immédiatement et sont réglés à la racine."
+    },
+    {
+     "stats": [
+      [
+       "1988",
+       "année où John Krafcik invente le terme « lean » au MIT"
+      ],
+      [
+       "≈ 11 M",
+       "véhicules vendus par le groupe Toyota en 2023, numéro un mondial"
+      ],
+      [
+       "5 353 Md¥",
+       "résultat d’exploitation sur l’exercice clos en mars 2024, record pour une entreprise japonaise"
+      ]
+     ]
+    },
+    {
+     "h": "Quand le lean devient un dogme"
+    },
+    {
+     "p": "Dans les années 1990 et 2000, le lean est appliqué partout, des hôpitaux aux administrations, au point que le mot finit [[galvauder|galvaudé]] : on le réduit souvent à une chasse aux stocks. Or le zéro stock n’a jamais été un objectif en soi chez Toyota : c’est un moyen de faire apparaître les problèmes."
+    },
+    {
+     "h": "La leçon de 2011 et 2021"
+    },
+    {
+     "p": "Le séisme de Fukushima, en mars 2011, coupe Toyota de centaines de fournisseurs. Le groupe en tire une leçon : il cartographie sa chaîne d’approvisionnement en profondeur et constitue des stocks stratégiques de composants critiques, notamment des semi-conducteurs. Lors de la pénurie de puces de 2021, il continue de produire alors que ses concurrents ferment des usines. Le juste-à-temps bien compris n’exclut donc pas le stock : il le réserve à ce qui est rare et critique."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le juste-à-temps</b> : produire une pièce seulement quand le poste suivant en a besoin. Idée de Taiichi Ohno, née du manque de place et de capital du Japon d’après-guerre.",
+      "<b>Le kanban</b>, inspiré des supermarchés américains, déclenche la production depuis l’aval.",
+      "<b>Le jidoka</b> : chaque opérateur peut arrêter la ligne au moindre défaut. L’idée vient du métier à tisser de Sakichi Toyoda, qui s’arrêtait si un fil cassait.",
+      "<b>Le lean</b>, appliqué partout dans les années 1990-2000, a fini [[galvauder|galvaudé]] : on le réduit souvent à une chasse aux stocks, ce qu’il n’a jamais été chez Toyota."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "1988",
+       "naissance du terme « lean » au MIT"
+      ],
+      [
+       "≈ 11 M",
+       "véhicules vendus en 2023, n° 1 mondial"
+      ],
+      [
+       "5 353 Md¥",
+       "résultat d’exploitation record, exercice 2023-24"
+      ]
+     ]
+    },
+    {
+     "h": "La leçon"
+    },
+    {
+     "ul": [
+      "<b>Fukushima (2011)</b> coupe Toyota de centaines de fournisseurs. Le groupe cartographie sa chaîne et stocke ses composants critiques.",
+      "<b>Pénurie de puces (2021)</b> : Toyota continue de produire quand ses concurrents ferment des usines. Le juste-à-temps bien compris réserve le stock à ce qui est rare et critique."
+     ]
+    }
+   ]
+  }
+ ]
+}

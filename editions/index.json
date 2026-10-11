@@ -1,0 +1,40 @@
+{
+ "latest": "2026-10-11",
+ "editions": [
+  {
+   "date": "2026-10-11",
+   "label": "Dimanche 11 octobre",
+   "words": [
+    "Corollaire",
+    "Galvauder"
+   ],
+   "items": [
+    [
+     "lit",
+     "Le Comte de Monte-Cristo"
+    ],
+    [
+     "essai",
+     "La Richesse des nations"
+    ],
+    [
+     "eco",
+     "Comment la BCE a dompté l’inflation, et ce que ça a coûté"
+    ],
+    [
+     "geo",
+     "Ormuz : 33 kilomètres qui tiennent l’économie mondiale"
+    ],
+    [
+     "log",
+     "L’effet coup de fouet : quand une petite variation devient une crise"
+    ],
+    [
+     "ent",
+     "Toyota et le juste-à-temps : la force et la faille du lean"
+    ]
+   ]
+  }
+ ],
+ "review": []
+}
