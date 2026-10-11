@@ -40,7 +40,7 @@ function renderHome(){
   $("hello").textContent=mode==="ex"?"Ton quart d’heure de culture":"Ta demi-heure de culture";
   const lit=ITEMS.find(i=>i.r==="lit"),ess=ITEMS.find(i=>i.r==="essai"),ana=ITEMS.filter(i=>i.kind==="analysis");
   if(lit){$("coverTitle").textContent=lit.tagline||lit.title;$("coverSrc").innerHTML=`<em>${esc(lit.title)}</em> · ${esc(lit.by.split("·")[0].trim())}`;$("coverRead").textContent=`Lire · ${dur(lit)} min`;$("coverDone").hidden=!isRead(lit.id)}
-  $("weekLbl").textContent=ED.week?`jour ${ED.week.day} / 7`:"";
+  $("weekLbl").textContent=ED.week?`jour ${ED.week.day} / 5`:"";
   $("wordsHome").innerHTML=Object.values(VOCAB).map(v=>`<button class="word" data-v="${v.key}"><span class="w">${esc(v.w)}</span><span class="ph">${esc((v.ph.split("·")[1]||"").trim())}</span><p>${esc(v.short)}</p></button>`).join("");
   $("essayDur").textContent=ess?`≈ ${dur(ess)} min`:"";
   $("essayHome").innerHTML=ess?`<button class="book ${isRead(ess.id)?"is-done":""}" style="--c:${col(ess.r)}" data-open="${ess.id}"><span class="spine"></span><span class="in"><span class="cap">Livre · Essai</span><h3>${esc(ess.title)}</h3><span class="by">${esc(ess.by)} · ${dur(ess)} min</span></span><span class="check">${isRead(ess.id)?"✓":""}</span></button>`:"";
@@ -48,7 +48,7 @@ function renderHome(){
   $("analysesHome").innerHTML=ana.map(a=>`<button class="arow ${isRead(a.id)?"is-done":""}" style="--c:${col(a.r)}" data-open="${a.id}"><span class="fig">${esc(a.fig||"")}<small>${esc(a.figl||"")}</small></span><span class="t"><span class="cap">${RUB[a.r]}</span><h3>${esc(a.title)}</h3><span class="m">${dur(a)} min</span></span><span class="check">${isRead(a.id)?"✓":""}</span></button>`).join("");
 }
 function renderWords(){
-  $("wordsIntro").textContent=`Deux mots par semaine, retrouvés chaque jour dans au moins trois textes. ${ED.week?ED.week.label+" · jour "+ED.week.day+" / 7.":""}`;
+  $("wordsIntro").textContent=`Deux mots par semaine, retrouvés chaque jour dans au moins trois textes. ${ED.week?ED.week.label+" · jour "+ED.week.day+" / 5.":""}`;
   $("wordsFull").innerHTML=Object.values(VOCAB).map(v=>{
     const uses=ITEMS.filter(i=>JSON.stringify(blocksOf(i)).includes(`[[${v.key}|`));
     return `<div class="vcard"><div><div class="w">${esc(v.w)}</div><div class="gram">${esc(v.ph)}</div></div><p class="def">${esc(v.def)}</p><dl><div><dt>Étymologie</dt><dd>${esc(v.ety)}</dd></div><div><dt>Exemple</dt><dd><em>${esc(v.ex)}</em></dd></div><div><dt>Synonymes</dt><dd>${esc(v.syn)}</dd></div><div><dt>Dans l’édition · ${uses.length} textes</dt><dd class="uses">${uses.map(u=>`<button data-open="${u.id}" data-find="${v.key}">${esc(u.title.length>34?u.title.slice(0,32)+"…":u.title)}</button>`).join("")}</dd></div></dl></div>`;

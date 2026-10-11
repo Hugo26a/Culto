@@ -9,6 +9,8 @@ Un lecteur francophone, curieux et actif, qui travaille dans la supply chain et 
 - un français clair, en phrases courtes, sans jargon gratuit ;
 - deux formats pour chaque texte : **Complet** (≈ 30 min au total) et **Express** (≈ 15 min, en puces, sans perdre aucune idée ni aucun chiffre clé).
 
+Les éditions paraissent **du lundi au vendredi uniquement**.
+
 ## 2. Composition d'une édition (6 textes, dans cet ordre)
 
 | id | r | kind | Contenu | Complet | Express |
@@ -69,7 +71,7 @@ Un lecteur francophone, curieux et actif, qui travaille dans la supply chain et 
 
 ## 7. Les mots de la semaine
 
-- **Deux mots par semaine**, du lundi au dimanche. Le lundi, choisis-en deux nouveaux ; du mardi au dimanche, reprends **exactement** les mêmes objets de mots que l'édition de la veille (même `key`, mêmes définitions) et incrémente `week.day`.
+- **Deux mots par semaine**, du lundi au vendredi (pas d'édition le week-end). Le lundi, choisis-en deux nouveaux ; du mardi au vendredi, reprends **exactement** les mêmes objets de mots que l'édition de la veille (même `key`, mêmes définitions) et incrémente `week.day`.
 - Niveau : français soutenu mais **utile au quotidien**, utilisable dans une réunion ou un mail (ex. : corollaire, galvauder, pérenne, éluder, inhérent, prégnant, subsidiaire, pallier, entériner, obsolescence, aléatoire, tangible, idoine, péremptoire). **Pas de mots rares ou littéraires** (pas de palinodie, thuriféraire…). Ne réutilise jamais un mot déjà vu (`editions/index.json` → `editions[].words` et `review`).
 - Chaque jour, **chaque mot apparaît dans au moins 3 textes différents** de la version Complète **et** dans au moins 3 textes de la version Express, employé naturellement. Syntaxe : `[[cle|forme employée]]`, par exemple `[[galvauder|galvaudée]]`.
 - Le lundi, ajoute les deux mots de la semaine précédente en tête de `review` dans `editions/index.json` : `{"w": "Corollaire", "short": "Conséquence directe et inévitable d’un fait", "week": "sem. du 5 oct."}`.
