@@ -37,9 +37,8 @@
   </div>
   <span class="sp-skip" id="spSkip">Toucher pour passer</span>
 </div>
-<script>/* décide avant le premier rendu si l'ouverture animée doit jouer (une fois par jour) */
-(function(){try{var d=new Date().toLocaleDateString("fr-CA",{timeZone:"Europe/Paris"});var r=matchMedia("(prefers-reduced-motion: reduce)").matches;
-if(!r&&localStorage.getItem("culto:splash")!==d){document.getElementById("splash").hidden=false;localStorage.setItem("culto:splash",d)}}catch(e){}})();</script>
+<script>/* l'ouverture animée couvre l'écran dès le premier rendu */
+(function(){try{if(!matchMedia("(prefers-reduced-motion: reduce)").matches)document.getElementById("splash").hidden=false}catch(e){}})();</script>
 
 <!-- ÉDITION -->
 <main class="wrap" id="vToday">

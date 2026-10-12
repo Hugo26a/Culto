@@ -229,10 +229,12 @@ document.addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("scrim").hidd
 document.addEventListener("visibilitychange",async()=>{if(document.visibilityState!=="visible"||!IDX)return;try{const n=await getJSON("editions/index.json");if(n.latest!==IDX.latest&&ED.date===IDX.latest){IDX=n;await loadEdition(n.latest)}else IDX=n}catch(e){}});
 
 /* ---------- OUVERTURE ANIMÉE ---------- */
+let splashAnims=[];
 function playSplash(){
   const sp=$("splash");if(!sp||sp.hidden||!sp.animate)return;
+  splashAnims.forEach(x=>x.cancel());
   const E={out:"cubic-bezier(.2,.8,.2,1)",inout:"cubic-bezier(.65,0,.35,1)",spring:"cubic-bezier(.34,1.56,.64,1)"};
-  const list=[];const an=(el,kf,o)=>{const x=el.animate(kf,{fill:"both",easing:E.out,...o});list.push(x);return x};
+  const list=splashAnims=[];const an=(el,kf,o)=>{const x=el.animate(kf,{fill:"both",easing:E.out,...o});list.push(x);return x};
   const fmt=new Date().toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long",timeZone:"Europe/Paris"});
   $("spDate").textContent=fmt;
   const lines=[...$("spLines").children];
@@ -247,9 +249,15 @@ function playSplash(){
   const out=an(sp,[{opacity:1,transform:"none"},{opacity:0,transform:"scale(1.08)"}],{delay:2350,duration:550});
   const done=()=>{sp.hidden=true;list.forEach(x=>x.cancel())};
   out.finished.then(done).catch(()=>{});
-  sp.addEventListener("click",()=>list.forEach(x=>x.finish()),{once:true});
+  sp.onclick=()=>list.forEach(x=>x.finish());
 }
 playSplash();
+/* rejoue aussi quand l'app revient au premier plan après plus d'une minute */
+let hiddenAt=0;
+document.addEventListener("visibilitychange",()=>{
+  if(document.visibilityState==="hidden"){hiddenAt=Date.now();return}
+  if(hiddenAt&&Date.now()-hiddenAt>60000&&!matchMedia("(prefers-reduced-motion: reduce)").matches){$("splash").hidden=false;playSplash()}
+});
 
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 boot();
