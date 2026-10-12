@@ -238,6 +238,19 @@ function playSplash(){
   const fmt=new Date().toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long",timeZone:"Europe/Paris"});
   $("spDate").textContent=fmt;
   const lines=[...$("spLines").children];
+  if(matchMedia("(prefers-reduced-motion: reduce)").matches){
+    [...lines].forEach(l=>an(l,[{opacity:0},{opacity:0}],{duration:1}));
+    an($("spArc"),[{strokeDashoffset:0},{strokeDashoffset:0}],{duration:1});
+    an($("spDot"),[{transform:"none"},{transform:"none"}],{duration:1});
+    [...$("spWord").children].forEach(l=>an(l,[{opacity:1},{opacity:1}],{duration:1}));
+    an($("spDate"),[{opacity:.75},{opacity:.75}],{duration:1});
+    an($("spSkip"),[{opacity:.5},{opacity:.5}],{duration:1});
+    an(sp,[{opacity:0},{opacity:1}],{duration:400});
+    const o=an(sp,[{opacity:1},{opacity:0}],{delay:1600,duration:500,fill:"forwards"});
+    o.finished.then(()=>{sp.hidden=true;list.forEach(x=>x.cancel())}).catch(()=>{});
+    sp.onclick=()=>list.forEach(x=>x.finish());
+    return;
+  }
   lines.forEach((l,i)=>an(l,[{transform:"scaleX(0)",opacity:1},{transform:"scaleX(1)",opacity:1}],{delay:i*110,duration:420}));
   lines.forEach((l,i)=>{const dx=380,dy=512-(392+i*64+18);an(l,[{transform:"scaleX(1)",opacity:1},{transform:`translate(${dx}px,${dy}px) scaleX(.05)`,opacity:0}],{delay:800+i*40,duration:420,easing:E.inout,fill:"forwards"})});
   an($("spArc"),[{strokeDashoffset:1},{strokeDashoffset:0}],{delay:950,duration:650,easing:E.inout});
@@ -256,8 +269,13 @@ playSplash();
 let hiddenAt=0;
 document.addEventListener("visibilitychange",()=>{
   if(document.visibilityState==="hidden"){hiddenAt=Date.now();return}
-  if(hiddenAt&&Date.now()-hiddenAt>60000&&!matchMedia("(prefers-reduced-motion: reduce)").matches){$("splash").hidden=false;playSplash()}
+  if(hiddenAt&&Date.now()-hiddenAt>60000){$("splash").hidden=false;playSplash()}
 });
 
-if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
+if("serviceWorker" in navigator){
+  /* une nouvelle version de l'app prend la main : on recharge une fois pour l'afficher */
+  const had=!!navigator.serviceWorker.controller;
+  navigator.serviceWorker.addEventListener("controllerchange",()=>{if(had&&!window.__culto_reloaded){window.__culto_reloaded=1;location.reload()}});
+  navigator.serviceWorker.register("sw.js").then(r=>r.update()).catch(()=>{});
+}
 boot();
