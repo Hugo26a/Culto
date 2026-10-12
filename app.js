@@ -228,5 +228,28 @@ document.addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("scrim").hidd
 /* nouvelle édition quand l'app revient au premier plan */
 document.addEventListener("visibilitychange",async()=>{if(document.visibilityState!=="visible"||!IDX)return;try{const n=await getJSON("editions/index.json");if(n.latest!==IDX.latest&&ED.date===IDX.latest){IDX=n;await loadEdition(n.latest)}else IDX=n}catch(e){}});
 
+/* ---------- OUVERTURE ANIMÉE ---------- */
+function playSplash(){
+  const sp=$("splash");if(!sp||sp.hidden||!sp.animate)return;
+  const E={out:"cubic-bezier(.2,.8,.2,1)",inout:"cubic-bezier(.65,0,.35,1)",spring:"cubic-bezier(.34,1.56,.64,1)"};
+  const list=[];const an=(el,kf,o)=>{const x=el.animate(kf,{fill:"both",easing:E.out,...o});list.push(x);return x};
+  const fmt=new Date().toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long",timeZone:"Europe/Paris"});
+  $("spDate").textContent=fmt;
+  const lines=[...$("spLines").children];
+  lines.forEach((l,i)=>an(l,[{transform:"scaleX(0)",opacity:1},{transform:"scaleX(1)",opacity:1}],{delay:i*110,duration:420}));
+  lines.forEach((l,i)=>{const dx=380,dy=512-(392+i*64+18);an(l,[{transform:"scaleX(1)",opacity:1},{transform:`translate(${dx}px,${dy}px) scaleX(.05)`,opacity:0}],{delay:800+i*40,duration:420,easing:E.inout,fill:"forwards"})});
+  an($("spArc"),[{strokeDashoffset:1},{strokeDashoffset:0}],{delay:950,duration:650,easing:E.inout});
+  an($("spDot"),[{transform:"scale(0)"},{transform:"scale(1)"}],{delay:1150,duration:520,easing:E.spring});
+  [...$("spWord").children].forEach((l,i)=>an(l,[{opacity:0,transform:"translateY(14px)"},{opacity:1,transform:"none"}],{delay:1350+i*45,duration:420}));
+  an($("spDate"),[{opacity:0,letterSpacing:".4em"},{opacity:.75,letterSpacing:".14em"}],{delay:1600,duration:600});
+  an($("spSkip"),[{opacity:0},{opacity:.5}],{delay:600,duration:400});
+  an($("vToday"),[{transform:"scale(.94)",opacity:.4},{transform:"none",opacity:1}],{delay:2350,duration:550,fill:"backwards"});
+  const out=an(sp,[{opacity:1,transform:"none"},{opacity:0,transform:"scale(1.08)"}],{delay:2350,duration:550});
+  const done=()=>{sp.hidden=true;list.forEach(x=>x.cancel())};
+  out.finished.then(done).catch(()=>{});
+  sp.addEventListener("click",()=>list.forEach(x=>x.finish()),{once:true});
+}
+playSplash();
+
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 boot();

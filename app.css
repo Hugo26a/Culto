@@ -245,3 +245,16 @@ ul.bul li b{font-weight:700}
 .hday{display:block;width:100%;text-align:left}
 .archbar{display:flex;align-items:center;justify-content:space-between;gap:10px;background:var(--soft);border-radius:14px;padding:10px 14px;margin:14px 0 0;font-size:13.5px}
 .archbar button{font-weight:700;color:var(--accent)}
+
+/* ouverture animée (concept « Les pages ») */
+.splash{position:fixed;inset:0;z-index:100;background:linear-gradient(180deg,#2C7A65,#143A31);display:grid;place-items:center;overflow:hidden;cursor:pointer;color-scheme:dark}
+.splash-in{display:grid;justify-items:center;gap:16px;transform:translateY(-6%)}
+.sp-mark{width:min(48vw,220px);overflow:visible}
+.sp-mark rect,.sp-mark circle,.sp-mark path{transform-box:fill-box}
+.sp-mark rect{transform-origin:left center;transform:scaleX(0)}
+.sp-mark circle{transform-origin:center;transform:scale(0)}
+.sp-word{font-family:var(--read);font-weight:700;font-size:40px;color:#F4EFE3;letter-spacing:.02em;display:flex}
+.sp-word span{display:inline-block;opacity:0}
+.sp-date{font-family:var(--ui);font-size:12.5px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#F4EFE3;opacity:0;min-height:1.2em}
+.sp-skip{position:absolute;left:0;right:0;bottom:calc(22px + env(safe-area-inset-bottom,0px));text-align:center;font-family:var(--ui);font-size:12px;font-weight:600;letter-spacing:.06em;color:#F4EFE3;opacity:0}
+.splash-on #vToday{transform-origin:50% 40%}

@@ -20,6 +20,26 @@
 <link rel="stylesheet" href="app.css">
 </head>
 <body>
+<div class="splash" id="splash" hidden aria-hidden="true">
+  <div class="splash-in">
+    <svg class="sp-mark" viewBox="0 0 1024 1024">
+      <g id="spLines" fill="#F4EFE3">
+        <rect x="300" y="392" width="380" height="36" rx="18"/>
+        <rect x="300" y="456" width="300" height="36" rx="18"/>
+        <rect x="300" y="520" width="350" height="36" rx="18"/>
+        <rect x="300" y="584" width="220" height="36" rx="18"/>
+      </g>
+      <path id="spArc" d="M703 682 A265 265 0 1 1 703 342" fill="none" stroke="#F4EFE3" stroke-width="130" stroke-linecap="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
+      <circle id="spDot" cx="680" cy="512" r="70" fill="#E7B957"/>
+    </svg>
+    <div class="sp-word" id="spWord"><span>C</span><span>u</span><span>l</span><span>t</span><span>o</span></div>
+    <div class="sp-date" id="spDate"></div>
+  </div>
+  <span class="sp-skip" id="spSkip">Toucher pour passer</span>
+</div>
+<script>/* décide avant le premier rendu si l'ouverture animée doit jouer (une fois par jour) */
+(function(){try{var d=new Date().toLocaleDateString("fr-CA",{timeZone:"Europe/Paris"});var r=matchMedia("(prefers-reduced-motion: reduce)").matches;
+if(!r&&localStorage.getItem("culto:splash")!==d){document.getElementById("splash").hidden=false;localStorage.setItem("culto:splash",d)}}catch(e){}})();</script>
 
 <!-- ÉDITION -->
 <main class="wrap" id="vToday">
