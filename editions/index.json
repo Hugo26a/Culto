@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-12",
+ "latest": "2026-10-13",
  "editions": [
+  {
+   "date": "2026-10-13",
+   "label": "Mardi 13 octobre",
+   "words": [
+    "Pallier",
+    "Pérenne"
+   ],
+   "items": [
+    [
+     "lit",
+     "La Métamorphose"
+    ],
+    [
+     "essai",
+     "Le Dilemme de l’innovateur"
+    ],
+    [
+     "eco",
+     "Nobel 2026 : les architectes des modèles des banques centrales"
+    ],
+    [
+     "geo",
+     "Brésil : Lula face au fils Bolsonaro"
+    ],
+    [
+     "log",
+     "Fret maritime : l’Amérique paie trois fois plus cher que l’Europe"
+    ],
+    [
+     "ent",
+     "TSMC : l’usine dont dépend toute l’IA"
+    ]
+   ]
+  },
   {
    "date": "2026-10-12",
    "label": "Lundi 12 octobre",

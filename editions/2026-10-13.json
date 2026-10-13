@@ -1,0 +1,956 @@
+{
+ "date": "2026-10-13",
+ "label": "Mardi 13 octobre 2026",
+ "n": 2,
+ "example": false,
+ "week": {
+  "start": "2026-10-12",
+  "label": "Semaine du 12 octobre",
+  "day": 2,
+  "words": [
+   {
+    "key": "pallier",
+    "w": "Pallier",
+    "ph": "[pa.lje] · verbe transitif",
+    "short": "Compenser un manque, sans le faire disparaître.",
+    "def": "Atténuer les effets d’un problème ou combler provisoirement un manque, sans en supprimer la cause. Le verbe est transitif direct : on pallie un manque, une absence, une difficulté. « Pallier à » est une faute très répandue, à éviter à l’écrit comme en réunion.",
+    "ety": "Du bas latin palliare, « couvrir d’un manteau », de pallium, « manteau ». Pallier, c’est d’abord cacher sous un manteau, puis masquer un défaut, enfin le compenser. Même famille que « palliatif ».",
+    "ex": "Nous avons fait appel à deux intérimaires pour pallier l’absence de l’équipe de nuit pendant les congés.",
+    "syn": "compenser, remédier à, suppléer à, atténuer"
+   },
+   {
+    "key": "perenne",
+    "w": "Pérenne",
+    "ph": "[pe.ʁɛn] · adjectif",
+    "short": "Qui dure dans le temps, de façon stable.",
+    "def": "Qui dure longtemps, de façon continue, ou qui est conçu pour durer. En entreprise, une solution pérenne s’oppose à une rustine provisoire ; un financement pérenne est assuré d’une année sur l’autre. Le nom correspondant est la pérennité, le verbe pérenniser.",
+    "ety": "Du latin perennis, « qui dure toute l’année », formé de per, « à travers », et annus, « année ». En botanique, une plante pérenne est une plante vivace, qui repousse chaque année.",
+    "ex": "Le tableur bricolé a dépanné pendant six mois, mais il nous faut maintenant un outil pérenne pour suivre les stocks.",
+    "syn": "durable, permanent, stable, persistant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "La Métamorphose",
+   "by": "Franz Kafka · 1915",
+   "tagline": "Un matin, devenir un fardeau",
+   "min": 10,
+   "exMin": 4,
+   "src": "Franz Kafka, Die Verwandlung (rédigé fin 1912 ; revue Die weißen Blätter, octobre 1915 ; Kurt Wolff, Leipzig, 1915), domaine public. Citation traduite de l’allemand pour Culto. Lettre de Kafka à l’éditeur Kurt Wolff (25 octobre 1915) ; Vladimir Nabokov, Littératures I (cours publiés en 1980).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un matin, Gregor Samsa, représentant de commerce qui fait vivre seul ses parents et sa sœur, se réveille transformé en insecte géant. Enfermé dans sa chambre, il devient pour sa famille une honte, puis un poids dont elle finit par souhaiter la disparition. Sa mort la libère."
+      ],
+      [
+       "On ne vaut que ce que l’on rapporte",
+       "Tant que Gregor ramène l’argent du foyer, il est le fils modèle. Dès qu’il ne peut plus travailler, il n’est plus personne. Kafka montre avec une précision clinique comment l’affection d’une famille peut reposer, sans qu’on se l’avoue, sur l’utilité."
+      ],
+      [
+       "La métamorphose n’est jamais expliquée",
+       "Pas de malédiction, pas de cause, pas de remède. Kafka pose l’absurde dès la première phrase, puis décrit tout le reste avec un réalisme méticuleux. C’est ce contraste, l’impossible traité comme un simple contretemps, qui rend le récit si dérangeant."
+      ],
+      [
+       "Le vrai drame se joue chez les autres",
+       "Gregor change de corps, mais c’est sa famille qui change de nature. Le père affaibli se redresse, la mère s’efface, la sœur dévouée devient son juge. La catastrophe révèle chacun."
+      ],
+      [
+       "La fin est un soulagement, et c’est le plus cruel",
+       "Après la mort de Gregor, ses parents et sa sœur partent se promener à la campagne, détendus, pleins de projets. Le récit ne s’achève pas sur un deuil mais sur un nouveau départ, ce qui en dit long sur la place qu’il occupait."
+      ],
+      [
+       "Un mot entré dans la langue",
+       "« Kafkaïen » désigne aujourd’hui toute situation absurde et oppressante, où l’individu se débat seul face à une logique qui le dépasse. <em>La Métamorphose</em> en est l’exemple le plus court et le plus lu."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le réveil"
+    },
+    {
+     "p": "Gregor Samsa est représentant en tissus. Depuis la faillite de l’entreprise de son père, cinq ans plus tôt, c’est lui qui fait vivre le foyer : son père, sa mère et sa sœur Grete, dix-sept ans. Il déteste son métier, ses trains de l’aube et son patron, mais il doit encore travailler cinq ou six ans pour rembourser la dette de ses parents. Un matin, il se réveille dans son lit changé en un énorme insecte, couché sur un dos dur comme une carapace, agité de petites pattes. Sa première inquiétude n’est pas son corps : c’est le train de cinq heures qu’il a manqué.",
+     "lead": 1
+    },
+    {
+     "p": "Sa famille frappe à la porte. Puis le fondé de pouvoir de l’entreprise arrive en personne pour savoir pourquoi le représentant est absent, et laisse entendre que sa place est menacée. Gregor parvient péniblement à tourner la clé avec sa mâchoire et ouvre la porte. Le fondé de pouvoir s’enfuit, la mère s’évanouit. Le père, armé d’une canne et d’un journal, repousse son fils dans la chambre en le blessant au passage."
+    },
+    {
+     "h5": "La chambre"
+    },
+    {
+     "p": "Les semaines passent. Seule Grete entre dans la pièce pour apporter à manger. Elle découvre que son frère ne supporte plus le lait qu’il aimait et préfère les restes avariés. Gregor se cache sous le canapé pour ne pas l’effrayer. En écoutant à travers la porte, il apprend que son père avait gardé un petit capital de l’ancienne affaire, qu’il ne lui avait jamais avoué. Gregor travaillait donc pour [[pallier|pallier]] un manque moins grave qu’il ne le croyait."
+    },
+    {
+     "p": "Il découvre aussi le plaisir de grimper aux murs et de se suspendre au plafond. Grete décide alors de vider sa chambre de ses meubles pour lui laisser de la place. Gregor, paniqué à l’idée de perdre les derniers signes de sa vie humaine, se colle sur un portrait de femme qu’il avait encadré lui-même. Sa mère l’aperçoit et s’évanouit. Le père rentre, vêtu d’un uniforme de garçon de banque, et bombarde son fils de pommes. L’une d’elles s’enfonce dans son dos et y reste."
+    },
+    {
+     "h5": "Le fardeau"
+    },
+    {
+     "p": "La pomme pourrit dans la plaie pendant plus d’un mois. La famille s’organise sans lui : le père travaille à la banque, la mère coud du linge pour un magasin, Grete est devenue vendeuse et apprend la sténographie. On congédie la bonne, on prend une vieille femme de ménage, on loue une chambre à trois messieurs barbus et exigeants. La chambre de Gregor sert de débarras ; Grete ne la nettoie plus, et lui ne mange presque plus."
+    },
+    {
+     "p": "Un soir, Grete joue du violon pour les locataires. Gregor, qui rêvait de lui offrir le conservatoire, rampe hors de sa chambre, attiré par la musique. Les messieurs l’aperçoivent, donnent congé et refusent de payer. C’est Grete qui tranche : cette chose n’est plus leur frère et leur fils, il faut s’en débarrasser. Si c’était vraiment Gregor, ajoute-t-elle, il serait parti de lui-même."
+    },
+    {
+     "h5": "La délivrance"
+    },
+    {
+     "p": "Gregor regagne sa chambre. Il pense à sa famille avec tendresse, approuve en silence qu’il doive disparaître et meurt à l’aube, épuisé. La femme de ménage découvre le corps et s’en débarrasse. Le père met les locataires à la porte. Les trois Samsa prennent leur journée, écrivent des lettres d’excuse à leurs employeurs et partent en tramway à la campagne. Au soleil, ils constatent que leurs emplois sont plutôt bons et décident de déménager dans un logement plus petit. Les parents remarquent que Grete est devenue une belle jeune femme : il sera bientôt temps de lui trouver un mari."
+    },
+    {
+     "quote": "Lorsque Gregor Samsa s’éveilla un matin au sortir de rêves agités, il se trouva dans son lit transformé en une vermine monstrueuse.",
+     "cite": "Première phrase du récit (traduction de l’allemand)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un récit écrit d’une traite"
+    },
+    {
+     "p": "Kafka écrit <em>La Métamorphose</em> en quelques semaines, en novembre et décembre 1912, la nuit, après ses journées à l’Office d’assurance contre les accidents du travail de Prague. Le texte paraît en octobre 1915 dans une revue, puis en volume chez l’éditeur Kurt Wolff. Kafka publiera peu de son vivant. Il meurt en 1924 en laissant à son ami Max Brod la consigne de brûler ses manuscrits ; Brod n’en fait rien, et publie <em>Le Procès</em> et <em>Le Château</em>. Ce petit récit fait partie des rares œuvres que Kafka a lui-même voulu montrer."
+    },
+    {
+     "h5": "L’insecte qu’on ne doit pas voir"
+    },
+    {
+     "p": "Le mot allemand <em>Ungeziefer</em> ne désigne pas une espèce précise : c’est la vermine, l’animal nuisible, impur, qu’on ne veut pas chez soi. Kafka y tenait. Quand l’éditeur prépare la couverture, il lui écrit que l’insecte lui-même ne doit pas être dessiné, pas même vu de loin. La couverture montrera un homme en robe de chambre, le visage caché dans les mains. Le lecteur ne sait jamais exactement à quoi ressemble Gregor ; il ne connaît que la répulsion qu’il provoque. Vladimir Nabokov, dans ses cours, s’amusait à en faire un gros scarabée, et notait que Gregor n’avait jamais découvert qu’il avait des ailes."
+    },
+    {
+     "h5": "Le réalisme de l’impossible"
+    },
+    {
+     "p": "Tout l’art de Kafka tient dans une phrase neutre, précise, presque administrative. Le récit adopte le point de vue de Gregor, qui ne s’étonne pas de sa transformation mais s’inquiète de son retard au travail. Les détails pratiques s’accumulent : comment se retourner dans un lit, comment ouvrir une porte sans mains, comment manger. Plus le quotidien est décrit avec exactitude, plus l’horreur devient palpable. Le récit suit une construction en trois parties, chacune terminée par une sortie de Gregor hors de sa chambre et par une violence qui le renvoie à l’intérieur."
+    },
+    {
+     "h5": "Le père, le travail, la famille"
+    },
+    {
+     "p": "Les lectures biographiques sont nombreuses. Kafka entretenait avec son père, commerçant autoritaire, une relation écrasante qu’il décrira en 1919 dans sa <em>Lettre au père</em>. Il détestait aussi son emploi de bureau, qui lui volait le temps d’écrire. Mais le récit dépasse l’autobiographie. Il décrit un monde où chacun est réduit à sa fonction : le fils qui gagne l’argent, le patron qui soupçonne, les locataires qui paient. Le jour où Gregor ne remplit plus sa fonction, le lien familial, qu’on croyait [[perenne|pérenne]], se dissout."
+    },
+    {
+     "h5": "Une lecture inépuisable"
+    },
+    {
+     "p": "On y a vu une parabole de l’aliénation par le travail, une image de la maladie et de la dépendance, une allégorie de l’exclusion. Ces lectures se superposent sans s’annuler, et c’est la force du texte : il ne donne aucune clé. Albert Camus voyait dans l’œuvre de Kafka l’expression même de l’absurde, cette angoisse de l’homme face à un monde qui ne lui répond pas."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Une soixantaine de pages suffisent pour poser des questions très actuelles. Que devient-on aux yeux des autres quand on cesse d’être productif ? Comment une famille vit-elle la maladie, la perte d’autonomie, le handicap d’un proche, entre dévouement sincère et épuisement ? Qui n’a jamais eu peur, un matin, de ne plus pouvoir assurer ? <em>La Métamorphose</em> ne juge personne. Elle montre seulement, avec une froideur bouleversante, combien notre place dans le monde peut être fragile."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Un matin, Gregor Samsa, représentant de commerce qui fait vivre seul sa famille, se réveille transformé en insecte géant. Enfermé dans sa chambre, il devient une honte, puis un fardeau. Sa mort soulage ses parents et sa sœur, qui repartent vers une vie nouvelle.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>On ne vaut que ce que l’on rapporte</b> : tant qu’il gagne l’argent du foyer, Gregor est aimé ; dès qu’il ne travaille plus, il n’est plus personne.",
+      "<b>L’absurde sans explication</b> : aucune cause, aucun remède. L’impossible est raconté comme un simple contretemps, et c’est ce qui dérange.",
+      "<b>La famille se révèle</b> : le père se redresse, la mère s’efface, la sœur dévouée devient son juge.",
+      "<b>Une fin cruelle</b> : après sa mort, promenade au soleil et projets d’avenir. Le récit finit sur un soulagement, pas sur un deuil.",
+      "<b>« Kafkaïen »</b> : le mot désigne toute situation absurde et oppressante où l’individu se débat seul."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le réveil</b> : depuis la faillite de son père, il y a cinq ans, Gregor fait vivre sa famille. Changé en vermine, il s’inquiète d’abord du train manqué. Le fondé de pouvoir de son entreprise s’enfuit, le père le repousse à coups de canne.",
+      "<b>La chambre</b> : sa sœur Grete, dix-sept ans, le nourrit. Il apprend que son père avait caché un petit capital : il travaillait pour [[pallier|pallier]] un manque moins grave qu’il ne le croyait. Quand on vide sa chambre, il s’accroche à un portrait ; le père lui lance des pommes, l’une se fiche dans son dos.",
+      "<b>Le fardeau</b> : la famille travaille, loue une chambre à trois messieurs. Attiré par le violon de Grete, Gregor sort ; les locataires partent. Grete tranche : il faut s’en débarrasser.",
+      "<b>La délivrance</b> : Gregor meurt à l’aube en pensant aux siens avec tendresse. Les trois Samsa partent à la campagne et songent à marier Grete."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Écrit en quelques semaines</b>, fin 1912, publié en 1915. Kafka, employé d’une assurance à Prague, meurt en 1924 ; Max Brod refuse de brûler ses manuscrits.",
+      "<b>Un insecte invisible</b> : <em>Ungeziefer</em> signifie « vermine ». Kafka interdit à son éditeur de dessiner l’insecte sur la couverture.",
+      "<b>Le réalisme de l’impossible</b> : une écriture neutre, des détails pratiques, trois parties qui finissent chacune par une sortie de Gregor et une violence.",
+      "<b>Le père et le travail</b> : un père écrasant (<em>Lettre au père</em>, 1919), un emploi détesté. Mais le récit montre surtout un monde où chacun est réduit à sa fonction, et où un lien qu’on croyait [[perenne|pérenne]] se dissout.",
+      "<b>Mille lectures</b> : aliénation par le travail, maladie, dépendance, exclusion. Le texte ne tranche jamais ; Camus y voyait l’expression même de l’absurde.",
+      "<b>Pourquoi le lire</b> : soixante pages sur la maladie, la dépendance, la peur de ne plus être utile. Aucune clé, aucun jugement, une froideur bouleversante."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Le Dilemme de l’innovateur",
+   "by": "Clayton M. Christensen · 1997",
+   "min": 9,
+   "exMin": 3,
+   "src": "Clayton M. Christensen, The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail (Harvard Business School Press, 1997) ; J. Bower et C. Christensen, « Disruptive Technologies: Catching the Wave », Harvard Business Review (1995) ; C. Christensen, F. Suárez et J. Utterback, étude sur l’industrie des disques durs (Management Science, 1998, communiqué INFORMS du 9 mars 1999) ; Jill Lepore, « The Disruption Machine », The New Yorker (juin 2014) ; A. King et B. Baatartogtokh, MIT Sloan Management Review (2015). Œuvre protégée : synthèse reformulée.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Professeur à Harvard, Christensen se demande pourquoi des entreprises bien gérées, à l’écoute de leurs clients et dirigées par des gens compétents, se font balayer par des nouveaux venus. Sa réponse : c’est justement parce qu’elles font tout bien qu’elles ratent les innovations de rupture."
+      ],
+      [
+       "Deux sortes d’innovation",
+       "L’innovation de continuité améliore un produit pour les meilleurs clients ; les leaders y excellent. L’innovation de rupture propose d’abord un produit moins performant, mais plus simple, moins cher ou plus pratique, qui séduit un marché marginal. Les leaders l’ignorent, à raison… jusqu’au jour où elle devient assez bonne pour tout le monde."
+      ],
+      [
+       "Le cas des disques durs",
+       "Dans ce secteur qui change de technologie tous les trois ou quatre ans, les 17 fabricants présents en 1976 avaient tous disparu, quitté le marché ou été rachetés en 1990 ; sur 124 entrants, 100 ont aussi échoué. À chaque nouvelle taille de disque, ce sont des nouveaux venus qui ont pris la tête."
+      ],
+      [
+       "Écouter ses clients peut tuer",
+       "Les meilleurs clients demandent plus de performance et des marges élevées. Une entreprise qui leur obéit fidèlement investit là où ils sont, et jamais dans un petit marché naissant, peu rentable, aux clients encore inconnus."
+      ],
+      [
+       "La solution : une structure à part",
+       "Pour exploiter une rupture, il faut une petite unité autonome, à la taille du nouveau marché, libre de viser des marges faibles et des clients que la maison mère dédaigne."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "L’auteur et l’énigme"
+    },
+    {
+     "p": "Clayton Christensen naît en 1952 à Salt Lake City. Passé par Oxford et le Boston Consulting Group, il cofonde une entreprise de matériaux céramiques avant de revenir à Harvard pour un doctorat, soutenu en 1992. Il y étudie un secteur en apparence technique : les disques durs d’ordinateur. Une question l’obsède : comment des entreprises admirées, que la presse économique cite en exemple, peuvent-elles s’effondrer en quelques années ? Il en tire un article dans la <em>Harvard Business Review</em> en 1995, puis ce livre en 1997, sous-titré « Quand les nouvelles technologies font échouer les grandes entreprises ».",
+     "lead": 1
+    },
+    {
+     "h5": "La thèse : la bonne gestion comme piège"
+    },
+    {
+     "p": "L’explication habituelle des échecs, c’est l’arrogance, la bureaucratie ou l’incompétence. Christensen soutient l’inverse. Les entreprises qu’il étudie ont échoué en appliquant à la lettre les principes enseignés dans les écoles de commerce : écouter les clients, investir dans les produits les plus rentables, viser les plus grands marchés. Ces règles marchent pour les innovations de continuité, qui améliorent les produits existants. Elles deviennent fatales face à une innovation de rupture, qui commence petite, peu rentable et moins performante. Le dilemme est là : pour un dirigeant rationnel, investir dans un produit moins bon, destiné à des clients qui ne rapportent presque rien, n’a aucun sens. Ses commerciaux, ses actionnaires et ses meilleurs clients le lui diront tous. Quand la rupture devient enfin assez performante pour intéresser le cœur du marché, il est trop tard : les nouveaux venus ont pris des années d’avance sur la technologie et sur les coûts."
+    },
+    {
+     "h5": "Les disques durs, laboratoire idéal"
+    },
+    {
+     "p": "Christensen choisit ce secteur parce qu’il évolue à toute vitesse, comme les mouches drosophiles pour les généticiens : on y observe plusieurs générations en peu de temps. Les disques de 14 pouces équipent les gros ordinateurs dans les années 1970. Les disques de 8 pouces, plus petits mais moins capacitaires, trouvent preneur chez les fabricants de mini-ordinateurs. Puis viennent les 5,25 pouces pour les ordinateurs personnels, les 3,5 pouces pour les portables. À chaque fois, les leaders interrogent leurs clients, qui n’ont que faire d’un disque moins puissant. À chaque fois, les nouveaux venus améliorent leur produit plus vite que les besoins du marché ne progressent, finissent par satisfaire les anciens clients… et remplacent les leaders."
+    },
+    {
+     "stats": [
+      [
+       "17 → 0",
+       "fabricants présents en 1976 encore indépendants en 1990"
+      ],
+      [
+       "100 sur 124",
+       "entrants du secteur disparus entre 1976 et 1990"
+      ],
+      [
+       "22 $ → 3,30 $",
+       "coût moyen d’un mégaoctet, de 1984 à 1990"
+      ],
+      [
+       "1997",
+       "année de parution du livre"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Disques durs : l’hécatombe des fabricants",
+      "sub": "Nombre d’entreprises, États-Unis et monde, 1976-1990",
+      "rows": [
+       [
+        "Présentes en 1976",
+        17
+       ],
+       [
+        "Encore indépendantes en 1990",
+        0
+       ],
+       [
+        "Entrées entre 1976 et 1990",
+        124
+       ],
+       [
+        "Dont disparues",
+        100
+       ]
+      ],
+      "note": "Source : C. Christensen, F. Suárez et J. Utterback, étude publiée en 1998 (Management Science), données Disk/Trend Report 1975-1990."
+     }
+    },
+    {
+     "h5": "Au-delà de l’informatique"
+    },
+    {
+     "p": "Le livre élargit ensuite le propos. Les pelleteuses hydrauliques, d’abord petites et juste bonnes à creuser des tranchées, ont fini par évincer les grands fabricants de pelles à câbles. Les mini-aciéries, comme l’américain Nucor, ont commencé par le bas de gamme, le rond à béton, que les grandes aciéries intégrées étaient heureuses de leur céder, avant de remonter vers les produits plus nobles. Christensen applique aussi son raisonnement aux motos légères de Honda face à Harley-Davidson, aux logiciels de comptabilité simplifiés, et à la voiture électrique, qu’il voit dès 1997 comme une rupture possible."
+    },
+    {
+     "h5": "Cinq lois et une stratégie"
+    },
+    {
+     "p": "Christensen résume son analyse en cinq principes. Les entreprises dépendent de leurs clients et de leurs investisseurs, qui décident en pratique de l’allocation des ressources. Les petits marchés ne répondent pas aux besoins de croissance des grandes entreprises. On ne peut pas analyser un marché qui n’existe pas encore. Les compétences d’une organisation définissent aussi ses incapacités. Enfin, l’offre technologique progresse souvent plus vite que ce que le marché demande. Sa recommandation en découle : confier la rupture à une unité séparée, de petite taille, libre de ses méthodes et de ses objectifs de marge. Une solution [[perenne|pérenne]] suppose d’accepter que cette unité finisse par concurrencer la maison mère."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le succès du livre a eu un revers : le mot « disruption » a été mis à toutes les sauces. Christensen lui-même a dû préciser, en 2015, qu’Uber n’était pas à ses yeux une innovation de rupture, puisqu’il n’avait pas commencé par le bas du marché. En 2014, l’historienne Jill Lepore lui reproche, dans le <em>New Yorker</em>, d’avoir choisi ses exemples a posteriori et de mal interpréter certains cas : plusieurs leaders des disques durs se sont adaptés et ont survécu. En 2015, deux chercheurs ont réexaminé 77 cas cités par Christensen et son coauteur Michael Raynor : moins d’un sur dix réunissait tous les critères de la théorie. La rupture explique bien certains échecs ; elle n’explique pas tout, et ne permet pas toujours de prévoir."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Peu de livres de management ont autant influencé les dirigeants. Andy Grove, patron d’Intel, en a tiré la décision de lancer une gamme de processeurs d’entrée de gamme pour ne pas laisser le bas du marché à ses concurrents. Steve Jobs, selon son biographe, en a été profondément marqué. La logique de Christensen est souvent invoquée pour expliquer l’effondrement de Kodak face à la photo numérique, de Nokia face au smartphone, ou la percée des compagnies aériennes à bas coûts. Christensen meurt en janvier 2020. Pour un manager, la leçon reste utile : il ne suffit pas de [[pallier|pallier]] les faiblesses de son offre actuelle, il faut aussi surveiller ce qui, aujourd’hui encore médiocre, pourrait la rendre inutile demain."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Professeur à Harvard, Christensen explique en 1997 pourquoi des entreprises bien gérées se font balayer par des nouveaux venus : c’est précisément en écoutant leurs meilleurs clients et en visant les marges les plus fortes qu’elles ratent les innovations de rupture.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Continuité contre rupture</b> : la première améliore le produit pour les meilleurs clients ; la seconde part d’un produit moins performant mais plus simple ou moins cher, pour un marché marginal.",
+      "<b>Le piège de la bonne gestion</b> : écouter les clients, investir dans le plus rentable, viser les grands marchés… des règles qui deviennent fatales face à une rupture.",
+      "<b>Les disques durs</b> : 14, 8, 5,25 puis 3,5 pouces. À chaque génération, les nouveaux venus prennent la tête.",
+      "<b>D’autres exemples</b> : pelleteuses hydrauliques contre pelles à câbles, mini-aciéries comme Nucor, motos légères de Honda.",
+      "<b>La solution</b> : une petite unité autonome, à la taille du nouveau marché, libre de viser des marges faibles. Une solution [[perenne|pérenne]] accepte qu’elle concurrence la maison mère."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "17 → 0",
+       "fabricants de 1976 encore indépendants en 1990"
+      ],
+      [
+       "100 sur 124",
+       "entrants disparus entre 1976 et 1990"
+      ],
+      [
+       "22 $ → 3,30 $",
+       "coût d’un mégaoctet, 1984 puis 1990"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Disques durs : l’hécatombe des fabricants",
+      "sub": "Nombre d’entreprises, États-Unis et monde, 1976-1990",
+      "rows": [
+       [
+        "Présentes en 1976",
+        17
+       ],
+       [
+        "Encore indépendantes en 1990",
+        0
+       ],
+       [
+        "Entrées entre 1976 et 1990",
+        124
+       ],
+       [
+        "Dont disparues",
+        100
+       ]
+      ],
+      "note": "Source : C. Christensen, F. Suárez et J. Utterback, étude publiée en 1998 (Management Science), données Disk/Trend Report 1975-1990."
+     }
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : né en 1952, passé par Oxford et le Boston Consulting Group, docteur de Harvard en 1992 avec une thèse sur les disques durs.",
+      "<b>Le dilemme</b> : pour un dirigeant rationnel, investir dans un produit moins bon pour des clients peu rentables n’a aucun sens. Quand la rupture devient assez bonne, il est trop tard.",
+      "<b>Cinq lois</b> : les clients et les investisseurs décident des ressources ; les petits marchés ne nourrissent pas les grands groupes ; un marché inexistant ne s’analyse pas ; les compétences d’une organisation font aussi ses incapacités ; la technologie progresse plus vite que les besoins."
+     ]
+    },
+    {
+     "h": "Limites et postérité"
+    },
+    {
+     "ul": [
+      "<b>Un mot galvaudé</b> : en 2015, Christensen précise lui-même qu’Uber n’est pas une rupture au sens strict.",
+      "<b>Les critiques</b> : Jill Lepore (2014) dénonce des exemples choisis après coup ; en 2015, moins d’un cas sur dix parmi 77 réunit tous les critères de la théorie.",
+      "<b>L’influence</b> : Andy Grove chez Intel, Steve Jobs, et des cas d’école comme Kodak ou Nokia.",
+      "<b>La leçon</b> : ne pas seulement [[pallier|pallier]] les faiblesses de son offre, mais surveiller ce qui, encore médiocre aujourd’hui, peut la rendre inutile demain."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Nobel 2026 : les architectes des modèles des banques centrales",
+   "by": "Analyse de fond",
+   "fig": "12 M SEK",
+   "figl": "dotation partagée par les deux lauréats",
+   "min": 3,
+   "exMin": 2,
+   "src": "Académie royale des sciences de Suède, annonce du 12 octobre 2026 ; Université Columbia et Université Stanford (communiqués du 12 octobre 2026) ; Axios (12 octobre 2026). Michael Woodford, Interest and Prices (Princeton University Press, 2003) ; Robert E. Hall, Journal of Political Economy (1978). Données arrêtées au 12 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 12 octobre 2026, le prix d’économie en mémoire d’Alfred Nobel a été attribué à deux Américains : Michael Woodford, de l’université Columbia, et Robert E. Hall, de Stanford. Le jury récompense les « fondements microéconomiques de la stabilisation macroéconomique ». Autrement dit, ils ont reconstruit les modèles dont se servent les banques centrales et les ministères des Finances pour décider quand freiner ou relancer l’économie.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "12 M SEK",
+       "dotation (≈ 1,2 M$), contre 11 M l’an dernier"
+      ],
+      [
+       "1978",
+       "article de Hall sur la consommation et les revenus futurs"
+      ],
+      [
+       "2003",
+       "<em>Interest and Prices</em>, le grand livre de Woodford"
+      ],
+      [
+       "46 ans",
+       "à la tête du comité américain de datation des récessions (Hall)"
+      ]
+     ]
+    },
+    {
+     "h": "Le problème qu’ils ont résolu"
+    },
+    {
+     "p": "Jusqu’aux années 1970, les modèles reposaient sur des relations statistiques observées dans le passé, comme le lien entre inflation et chômage : un peu plus d’inflation semblait acheter un peu moins de chômage. La stagflation, avec des prix et un chômage qui montent ensemble, a fait voler ce schéma en éclats. Ces corrélations n’étaient pas [[perenne|pérennes]] : elles changeaient dès que les ménages et les entreprises anticipaient la politique menée. Hall et Woodford ont reparti de la base, en modélisant les décisions des ménages et des entreprises, puis en les additionnant pour obtenir l’économie entière."
+    },
+    {
+     "h": "Deux apports complémentaires"
+    },
+    {
+     "p": "En 1978, Robert Hall montre que les ménages dépensent en fonction de ce qu’ils attendent de leurs revenus futurs, et pas seulement de leur salaire du mois. Une conséquence pratique : une prime ponctuelle relance peu la consommation, une hausse jugée durable beaucoup plus. Michael Woodford, lui, relie la façon dont les entreprises fixent leurs prix à l’inflation et à la politique monétaire. Son cadre explique pourquoi ce que la banque centrale annonce pour l’avenir compte autant que ce qu’elle fait aujourd’hui. Il a fourni la base théorique du « forward guidance », ces engagements sur l’évolution future des taux, et des achats massifs d’obligations utilisés après 2008, quand les taux étaient déjà à zéro. Ces outils ont servi à [[pallier|pallier]] l’impuissance du levier classique."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Ce prix couronne la boîte à outils standard de la macroéconomie moderne : la plupart des grandes banques centrales, dont la BCE, utilisent des modèles bâtis sur ces principes. Il tombe à un moment délicat. Le conflit au Moyen-Orient a provoqué un choc énergétique qui pousse les prix vers le haut tout en freinant la croissance, exactement le dilemme que ces modèles doivent aider à trancher. Leur limite connue : ils avaient mal anticipé la crise financière de 2008, faute de donner assez de place à la finance et aux banques."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Les lauréats</b> : Michael Woodford (Columbia) et Robert E. Hall (Stanford), annoncés le 12 octobre 2026, pour les « fondements microéconomiques de la stabilisation macroéconomique ».",
+      "<b>L’enjeu</b> : les modèles qu’utilisent banques centrales et ministères pour savoir quand freiner ou relancer.",
+      "<b>Le problème</b> : les vieilles corrélations, comme « plus d’inflation, moins de chômage », n’étaient pas [[perenne|pérennes]] ; la stagflation des années 1970 les a brisées.",
+      "<b>Leur réponse</b> : partir des décisions des ménages et des entreprises, puis les additionner."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "12 M SEK",
+       "dotation partagée (≈ 1,2 M$)"
+      ],
+      [
+       "1978",
+       "article fondateur de Hall"
+      ],
+      [
+       "2003",
+       "<em>Interest and Prices</em>, de Woodford"
+      ]
+     ]
+    },
+    {
+     "h": "Deux apports"
+    },
+    {
+     "ul": [
+      "<b>Hall</b> : les ménages dépensent selon leurs revenus futurs attendus. Une prime ponctuelle relance peu.",
+      "<b>Woodford</b> : les annonces d’une banque centrale comptent autant que ses actes. Base du « forward guidance » et des achats d’obligations, utilisés après 2008 pour [[pallier|pallier]] des taux déjà à zéro."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "Ces modèles sont aujourd’hui la norme, à la BCE comme ailleurs. Ils sont mis à l’épreuve par le choc énergétique né du conflit au Moyen-Orient, mais avaient mal anticipé la crise financière de 2008."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Brésil : Lula face au fils Bolsonaro",
+   "by": "Analyse de fond",
+   "fig": "47,03 %",
+   "figl": "Flávio Bolsonaro au premier tour",
+   "min": 3,
+   "exMin": 2,
+   "src": "Tribunal supérieur électoral (résultats du 4 octobre 2026, via The Rio Times) ; Americas Society/Council of the Americas et Americas Quarterly (octobre 2026) ; institut Ipespe (sondage de second tour, via The Rio Times) ; Quaest ; Cour suprême fédérale (condamnation de Jair Bolsonaro, septembre 2025). Données arrêtées au 12 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 4 octobre 2026, le premier tour de la présidentielle brésilienne a déjoué les sondages, qui donnaient Lula légèrement en tête. Le sénateur Flávio Bolsonaro, fils aîné de l’ancien président, est arrivé premier avec 47,03 % des voix, devant Lula, 80 ans, à 45,16 %. Le second tour aura lieu le 25 octobre. Pour la première puissance d’Amérique latine, membre fondateur des BRICS, c’est un choix de cap autant qu’un duel de personnes.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Brésil : le premier tour de la présidentielle",
+      "sub": "4 octobre 2026, % des suffrages exprimés",
+      "rows": [
+       [
+        "Flávio Bolsonaro (PL)",
+        47.03
+       ],
+       [
+        "Lula (PT)",
+        45.16
+       ],
+       [
+        "Augusto Cury (Avante)",
+        2.89
+       ],
+       [
+        "Renan Santos (Missão)",
+        2.24
+       ],
+       [
+        "Ronaldo Caiado (PSD)",
+        2.18
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Tribunal supérieur électoral (TSE), via The Rio Times."
+     }
+    },
+    {
+     "h": "Une vague de droite au-delà de la présidentielle"
+    },
+    {
+     "p": "Le Parti libéral des Bolsonaro devient la première force du pays : 121 des 513 sièges de députés, et 28 sénateurs contre 9 auparavant. Lula, candidat à un quatrième mandat, perd des voix dans 25 des 27 États ; même son bastion du Nordeste ne suffit plus. L’abstention atteint 21,08 %, un record depuis 1998. Un sondage Ipespe publié après le premier tour donne Flávio Bolsonaro gagnant à 52,7 %. Pour l’emporter, Lula devrait capter environ six voix sur dix parmi les électeurs des candidats éliminés."
+    },
+    {
+     "stats": [
+      [
+       "21,08 %",
+       "d’abstention, record depuis 1998"
+      ],
+      [
+       "121 / 513",
+       "sièges de députés pour le Parti libéral"
+      ],
+      [
+       "9 → 28",
+       "sénateurs du Parti libéral"
+      ],
+      [
+       "27 ans",
+       "de prison pour Jair Bolsonaro (septembre 2025)"
+      ]
+     ]
+    },
+    {
+     "h": "Un scrutin sous influence américaine"
+    },
+    {
+     "p": "Jair Bolsonaro, inéligible jusqu’en 2030, a été condamné en septembre 2025 à 27 ans de prison pour tentative de coup d’État ; son fils porte sa candidature. La campagne s’est jouée sur l’insécurité, première préoccupation des Brésiliens, et sur les scandales, de la banque Banco Master aux fraudes sur les retraites. Washington a pesé : les États-Unis ont classé des gangs brésiliens comme organisations terroristes, une mesure défendue par Flávio Bolsonaro à la Maison-Blanche. Lula a fait campagne sur la souveraineté, qualifiant son rival de « candidat de Trump ». Les deux camps se renvoient aussi les affaires judiciaires : l’un dénonce une justice politisée, l’autre une menace contre la démocratie, depuis l’assaut des institutions à Brasília, le 8 janvier 2023."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une victoire de Flávio Bolsonaro rapprocherait Brasília de Washington et pourrait ouvrir un bras de fer avec la Cour suprême, que la nouvelle majorité au Sénat veut mettre au pas. Une victoire de Lula le laisserait face à un Congrès hostile, sans majorité [[perenne|pérenne]]. Dans les deux cas, le prochain président devra [[pallier|pallier]] un déficit public élevé, avec des taux d’intérêt qui pèsent sur les ménages. Et la Chine restera le premier client du Brésil, quel que soit le vainqueur."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Surprise du 4 octobre</b> : Flávio Bolsonaro, fils de l’ancien président, devance Lula, 80 ans, 47,03 % contre 45,16 %. Second tour le 25 octobre.",
+      "<b>Vague de droite</b> : le Parti libéral obtient 121 des 513 députés et passe de 9 à 28 sénateurs.",
+      "<b>Abstention record</b> depuis 1998 : 21,08 %. Un sondage Ipespe donne Flávio Bolsonaro gagnant à 52,7 %.",
+      "<b>Le père en prison</b> : Jair Bolsonaro, condamné à 27 ans en septembre 2025 pour tentative de coup d’État."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Brésil : le premier tour de la présidentielle",
+      "sub": "4 octobre 2026, % des suffrages exprimés",
+      "rows": [
+       [
+        "Flávio Bolsonaro (PL)",
+        47.03
+       ],
+       [
+        "Lula (PT)",
+        45.16
+       ],
+       [
+        "Augusto Cury (Avante)",
+        2.89
+       ],
+       [
+        "Renan Santos (Missão)",
+        2.24
+       ],
+       [
+        "Ronaldo Caiado (PSD)",
+        2.18
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Tribunal supérieur électoral (TSE), via The Rio Times."
+     }
+    },
+    {
+     "h": "Les enjeux"
+    },
+    {
+     "ul": [
+      "<b>Insécurité et scandales</b> au cœur de la campagne, de Banco Master aux fraudes sur les retraites.",
+      "<b>L’ombre de Washington</b> : Lula dénonce le « candidat de Trump ».",
+      "<b>La campagne</b> : Lula a misé sur la souveraineté face à Washington, Flávio Bolsonaro sur l’ordre et la lutte contre le crime. Les États-Unis ont classé des gangs brésiliens comme organisations terroristes.",
+      "<b>Après le 25 octobre</b> : Bolsonaro rapprocherait le Brésil des États-Unis ; Lula affronterait un Congrès hostile, sans majorité [[perenne|pérenne]]. Tous deux devront [[pallier|pallier]] un lourd déficit public.",
+      "<b>Constante</b> : la Chine restera le premier client du Brésil, quel que soit le vainqueur."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Fret maritime : l’Amérique paie trois fois plus cher que l’Europe",
+   "by": "Analyse de fond",
+   "fig": "11 523 $",
+   "figl": "un conteneur Asie–côte Est américaine",
+   "min": 3,
+   "exMin": 2,
+   "src": "Xeneta (taux au comptant du 1er octobre 2026, publiés le 2 octobre) ; Drewry (World Container Index et transits de Suez, via Transport & Logistics Middle East, 6 octobre 2026) ; Lloyd’s List ; Sea-Intelligence. Données arrêtées au 6 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Début octobre 2026, faire venir un conteneur de 40 pieds d’Asie jusqu’à la côte Est des États-Unis coûte 11 523 dollars au comptant, contre 3 726 dollars vers l’Europe du Nord. Jamais l’écart entre les deux grandes routes du commerce mondial n’avait été aussi large : Drewry le mesure à plus de 7 000 dollars, plus du double du précédent record de juin 2021. Une même boîte, un même départ, et deux mondes.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Prix au comptant d’un conteneur de 40 pieds",
+      "sub": "Dollars, 1er octobre 2026",
+      "rows": [
+       [
+        "Asie → côte Est des États-Unis",
+        11523
+       ],
+       [
+        "Asie → côte Ouest des États-Unis",
+        8346
+       ],
+       [
+        "Asie → Méditerranée",
+        4105
+       ],
+       [
+        "Asie → Europe du Nord",
+        3726
+       ],
+       [
+        "Europe du Nord → côte Est des États-Unis",
+        2893
+       ]
+      ],
+      "suffix": " $",
+      "note": "Source : Xeneta (2 octobre 2026)."
+     }
+    },
+    {
+     "h": "Pourquoi les routes divergent"
+    },
+    {
+     "p": "La crise d’Ormuz a fait flamber le fret au printemps sur toutes les routes, en renchérissant le carburant et en désorganisant les réseaux. Mais depuis juillet, les trajectoires se séparent. Vers l’Europe, les prix baissent : les porte-conteneurs reviennent par Suez, ce qui raccourcit les trajets et libère des navires. Drewry compte 68 % de transits de plus qu’un an plus tôt fin septembre, et des taux Asie–Europe en baisse douze semaines d’affilée. Vers les États-Unis, la demande résiste malgré les droits de douane, portée notamment par les équipements des centres de données liés à l’IA. Les armateurs y affectent donc leurs navires en priorité : un bateau sur le Pacifique rapporte bien plus qu’entre l’Asie et l’Europe."
+    },
+    {
+     "stats": [
+      [
+       "+ 344 %",
+       "hausse du fret Asie–côte Ouest américaine depuis fin février"
+      ],
+      [
+       "+ 68 %",
+       "transits par Suez sur un an (fin septembre)"
+      ],
+      [
+       "− 27 %",
+       "taux Asie–Europe depuis juillet, contre + 27 % vers les États-Unis"
+      ]
+     ]
+    },
+    {
+     "h": "Ce qui attend les chargeurs"
+    },
+    {
+     "p": "Xeneta estime que le pic est passé. D’ici trois mois, il anticipe un conteneur vers la côte Est entre 6 000 et 7 000 dollars, et vers la côte Ouest entre 4 500 et 5 500 dollars : une correction sensible, pas un effondrement. Sea-Intelligence prévient que l’écart entre les deux routes peut durer plusieurs mois, car les armateurs contrôlent étroitement l’offre en annulant des départs. Les congés de la Semaine d’or chinoise, début octobre, ont aussi ralenti les exportations, ce qui pèse sur la demande à court terme."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le fret n’a plus un prix mondial, mais un prix par route. Pour un importateur européen, la baisse vers l’Europe est une bonne nouvelle, mais elle reste fragile tant que la mer Rouge et le Golfe ne sont pas [[perenne|pérennement]] sûrs. Pour ceux qui expédient vers les États-Unis, il faut négocier des contrats à durée plus courte, diversifier les ports d’arrivée et constituer des stocks tampons pour [[pallier|pallier]] l’incertitude, plutôt que de parier sur un retour rapide aux prix d’avant la crise."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>11 523 $</b> : un conteneur de 40 pieds Asie–côte Est américaine début octobre, contre 3 726 $ vers l’Europe du Nord (Xeneta).",
+      "<b>Un écart record</b> : plus de 7 000 $ selon Drewry, le double du record de juin 2021.",
+      "<b>Vers l’Europe</b>, baisse : retour par Suez (+ 68 % de transits sur un an), douze semaines de recul.",
+      "<b>Vers les États-Unis</b>, hausse : demande solide, équipements liés à l’IA, armateurs qui privilégient la route la plus rentable."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Prix au comptant d’un conteneur de 40 pieds",
+      "sub": "Dollars, 1er octobre 2026",
+      "rows": [
+       [
+        "Asie → côte Est des États-Unis",
+        11523
+       ],
+       [
+        "Asie → côte Ouest des États-Unis",
+        8346
+       ],
+       [
+        "Asie → Méditerranée",
+        4105
+       ],
+       [
+        "Asie → Europe du Nord",
+        3726
+       ],
+       [
+        "Europe du Nord → côte Est des États-Unis",
+        2893
+       ]
+      ],
+      "suffix": " $",
+      "note": "Source : Xeneta (2 octobre 2026)."
+     }
+    },
+    {
+     "h": "Et maintenant"
+    },
+    {
+     "ul": [
+      "<b>Le pic est passé</b> : Xeneta prévoit 6 000 à 7 000 $ vers la côte Est d’ici trois mois. Correction, pas effondrement.",
+      "<b>Une hausse inégale</b> : + 344 % vers la côte Ouest américaine depuis fin février, avant la crise d’Ormuz, contre + 68 % environ vers l’Europe du Nord.",
+      "<b>Sea-Intelligence</b> : l’écart peut durer des mois, car les armateurs annulent des départs pour soutenir les prix.",
+      "<b>À faire</b> : contrats plus courts, ports diversifiés, stocks tampons pour [[pallier|pallier]] l’incertitude. La baisse vers l’Europe ne sera [[perenne|pérenne]] que si la mer Rouge et le Golfe redeviennent sûrs."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "TSMC : l’usine dont dépend toute l’IA",
+   "by": "Analyse de fond",
+   "fig": "72,5 %",
+   "figl": "du marché mondial de la fonderie",
+   "min": 3,
+   "exMin": 2,
+   "src": "TSMC, chiffre d’affaires mensuel (8 octobre 2026) et résultats annuels 2025, via TrendForce, Digitimes et TelecomLead ; TrendForce, classement des fondeurs du 2e trimestre 2026 (9 septembre 2026) ; LSEG (consensus) ; TSMC, annonce d’investissements aux États-Unis (mars 2025). Données arrêtées au 8 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Fondée en 1987 à Hsinchu par Morris Chang, TSMC a inventé un métier : fabriquer des puces pour les autres, sans jamais concevoir les siennes. Apple, Nvidia, AMD ou Qualcomm dessinent leurs processeurs ; TSMC les grave. Au troisième trimestre 2026, son chiffre d’affaires a atteint un record de 1 490 milliards de dollars taïwanais, environ 46,7 milliards de dollars, en hausse d’environ 50 % sur un an. Les résultats complets tombent le 15 octobre.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "72,5 %",
+       "part de marché mondiale de la fonderie (T2 2026)"
+      ],
+      [
+       "≈ 46,7 Md$",
+       "chiffre d’affaires du 3e trimestre 2026"
+      ],
+      [
+       "74 %",
+       "des ventes de plaquettes en 7 nm et moins (2025)"
+      ],
+      [
+       "≈ 56 Md$",
+       "investissements prévus en 2026"
+      ]
+     ]
+    },
+    {
+     "h": "Un monopole de fait sur les puces avancées"
+    },
+    {
+     "p": "Le modèle de la fonderie pure a un avantage décisif : les clients ne craignent pas que leur fabricant devienne leur concurrent. Les volumes s’accumulent, financent des usines toujours plus chères, et creusent l’écart. En 2025, TSMC a réalisé 122,4 milliards de dollars de ventes avec une marge brute de 59,9 %, montée à 67,7 % au deuxième trimestre 2026. Les puces gravées en 3, 5 et 7 nanomètres, les plus avancées, représentent 74 % de ses ventes de plaquettes. Samsung, son seul rival sur ce terrain, plafonne à 5,9 % du marché."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Qui fabrique les puces des autres ?",
+      "sub": "Parts du marché mondial de la fonderie, 2e trimestre 2026",
+      "rows": [
+       [
+        "TSMC (Taïwan)",
+        72.5
+       ],
+       [
+        "Samsung (Corée du Sud)",
+        5.9
+       ],
+       [
+        "SMIC (Chine)",
+        5.4
+       ],
+       [
+        "UMC (Taïwan)",
+        3.9
+       ],
+       [
+        "GlobalFoundries (États-Unis)",
+        3.2
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : TrendForce (9 septembre 2026), dix premiers fondeurs."
+     }
+    },
+    {
+     "h": "Le bouclier et la cible"
+    },
+    {
+     "p": "Cette domination fait de Taïwan un nœud vital de l’économie mondiale, et de TSMC un enjeu stratégique. On parle de « bouclier de silicium » : une île dont le monde ne peut se passer serait mieux protégée. Mais la concentration inquiète, surtout quand la Chine multiplie les manœuvres militaires, comme après le discours de la fête nationale du président Lai Ching-te, le 10 octobre. Pour [[pallier|pallier]] ce risque et répondre aux pressions de Washington, TSMC construit en Arizona : 165 milliards de dollars d’investissements annoncés, dont une usine déjà en production. Le cœur des technologies les plus fines reste pourtant à Taïwan."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "TSMC est le goulet d’étranglement de l’intelligence artificielle : sans ses usines, pas de puces Nvidia, pas de centres de données. Sa domination paraît [[perenne|pérenne]] tant que ses concurrents peinent à suivre sa cadence technologique. Sa vraie vulnérabilité n’est pas industrielle mais géopolitique, et c’est ce que surveillent ses clients, qui cherchent à diversifier leurs sources sans y parvenir vraiment. Le prochain test arrive vite : les analystes attendent un bénéfice trimestriel en hausse d’environ 64 %, porté par les puces d’IA et le lancement de la gravure en 2 nanomètres."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Un modèle unique</b> : depuis 1987, TSMC fabrique les puces que d’autres conçoivent (Apple, Nvidia, AMD, Qualcomm), sans jamais leur faire concurrence.",
+      "<b>Record</b> : ≈ 46,7 Md$ de chiffre d’affaires au 3e trimestre 2026, environ + 50 % sur un an. Résultats le 15 octobre.",
+      "<b>Domination</b> : 72,5 % du marché de la fonderie, 74 % des ventes en 7 nm et moins, marge brute de 67,7 % au 2e trimestre. Une avance qui paraît [[perenne|pérenne]].",
+      "<b>Pourquoi ça marche</b> : un fondeur pur ne concurrence pas ses clients ; les volumes financent des usines toujours plus chères et creusent l’écart avec Samsung (5,9 %)."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Qui fabrique les puces des autres ?",
+      "sub": "Parts du marché mondial de la fonderie, 2e trimestre 2026",
+      "rows": [
+       [
+        "TSMC (Taïwan)",
+        72.5
+       ],
+       [
+        "Samsung (Corée du Sud)",
+        5.9
+       ],
+       [
+        "SMIC (Chine)",
+        5.4
+       ],
+       [
+        "UMC (Taïwan)",
+        3.9
+       ],
+       [
+        "GlobalFoundries (États-Unis)",
+        3.2
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : TrendForce (9 septembre 2026), dix premiers fondeurs."
+     }
+    },
+    {
+     "h": "Le risque"
+    },
+    {
+     "ul": [
+      "<b>Le « bouclier de silicium »</b> : Taïwan indispensable, mais exposé aux manœuvres chinoises, comme après le discours du 10 octobre.",
+      "<b>La parade</b> : 165 Md$ annoncés en Arizona pour [[pallier|pallier]] le risque. Les technologies les plus fines restent à Taïwan.",
+      "<b>À retenir</b> : TSMC est le goulet d’étranglement de l’IA ; sa faiblesse est géopolitique, pas industrielle.",
+      "<b>Prochain test</b> : un bénéfice trimestriel attendu en hausse d’environ 64 %, porté par l’IA et la gravure en 2 nm."
+     ]
+    }
+   ]
+  }
+ ]
+}
