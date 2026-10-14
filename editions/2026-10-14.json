@@ -1,0 +1,996 @@
+{
+ "date": "2026-10-14",
+ "label": "Mercredi 14 octobre 2026",
+ "n": 3,
+ "example": false,
+ "week": {
+  "start": "2026-10-12",
+  "label": "Semaine du 12 octobre",
+  "day": 3,
+  "words": [
+   {
+    "key": "pallier",
+    "w": "Pallier",
+    "ph": "[pa.lje] · verbe transitif",
+    "short": "Compenser un manque, sans le faire disparaître.",
+    "def": "Atténuer les effets d’un problème ou combler provisoirement un manque, sans en supprimer la cause. Le verbe est transitif direct : on pallie un manque, une absence, une difficulté. « Pallier à » est une faute très répandue, à éviter à l’écrit comme en réunion.",
+    "ety": "Du bas latin palliare, « couvrir d’un manteau », de pallium, « manteau ». Pallier, c’est d’abord cacher sous un manteau, puis masquer un défaut, enfin le compenser. Même famille que « palliatif ».",
+    "ex": "Nous avons fait appel à deux intérimaires pour pallier l’absence de l’équipe de nuit pendant les congés.",
+    "syn": "compenser, remédier à, suppléer à, atténuer"
+   },
+   {
+    "key": "perenne",
+    "w": "Pérenne",
+    "ph": "[pe.ʁɛn] · adjectif",
+    "short": "Qui dure dans le temps, de façon stable.",
+    "def": "Qui dure longtemps, de façon continue, ou qui est conçu pour durer. En entreprise, une solution pérenne s’oppose à une rustine provisoire ; un financement pérenne est assuré d’une année sur l’autre. Le nom correspondant est la pérennité, le verbe pérenniser.",
+    "ety": "Du latin perennis, « qui dure toute l’année », formé de per, « à travers », et annus, « année ». En botanique, une plante pérenne est une plante vivace, qui repousse chaque année.",
+    "ex": "Le tableur bricolé a dépanné pendant six mois, mais il nous faut maintenant un outil pérenne pour suivre les stocks.",
+    "syn": "durable, permanent, stable, persistant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Le Portrait de Dorian Gray",
+   "by": "Oscar Wilde · 1890",
+   "tagline": "La jeunesse qui ne vieillit pas",
+   "min": 10,
+   "exMin": 4,
+   "src": "Oscar Wilde, The Picture of Dorian Gray (Lippincott’s Monthly Magazine, juillet 1890 ; version augmentée en volume, Ward, Lock & Co., 1891, avec la préface), domaine public. Citation traduite de l’anglais pour Culto. Comptes rendus des procès d’Oscar Wilde (Old Bailey, 1895).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "À Londres, à la fin du XIXe siècle, le très beau Dorian Gray fait un vœu devant son portrait : que la toile vieillisse à sa place. Le vœu s’exauce. Pendant près de vingt ans, il garde le visage de ses vingt ans, tandis que le tableau, caché sous clé, porte la trace de chacune de ses fautes."
+      ],
+      [
+       "Le visage ne dit rien de l’âme",
+       "Tout Londres juge Dorian sur sa beauté, et sa beauté le protège. Ceux qui entendent des rumeurs refusent d’y croire en le voyant. Wilde montre combien nous confondons l’apparence et la valeur, et combien une façade intacte peut couvrir une vie en ruine."
+      ],
+      [
+       "Les mots peuvent corrompre",
+       "Lord Henry ne commet aucun crime. Il parle, il brille, il lance des paradoxes, et prête un livre. Cela suffit à faire basculer un jeune homme influençable. Le roman pose une question très moderne : quelle est la responsabilité de celui qui influence ?"
+      ],
+      [
+       "On ne fuit pas ses actes",
+       "Le portrait fonctionne comme une conscience extérieure. Dorian croit s’être débarrassé de la culpabilité, mais il ne fait que la déplacer. Il passe sa vie à surveiller la pièce où elle l’attend, jusqu’à vouloir la détruire."
+      ],
+      [
+       "L’art pour l’art, mis à l’épreuve",
+       "La préface proclame que l’art n’a pas à être moral. Pourtant, le récit se lit comme une fable implacable où chaque faute se paie. Cette tension entre la pose du dandy et la gravité du conte fait la richesse du livre."
+      ],
+      [
+       "Un roman qui a coûté cher",
+       "En 1895, lors des procès qui mènent Wilde en prison, ses adversaires lisent des passages du livre pour l’accabler. Le roman devient une pièce à charge contre son auteur."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le vœu"
+    },
+    {
+     "p": "Dans son atelier londonien, le peintre Basil Hallward achève le portrait d’un jeune homme d’une beauté saisissante, Dorian Gray. Basil est fasciné par son modèle, qui a transformé sa manière de peindre. Ce jour-là passe Lord Henry Wotton, ami de Basil, aristocrate oisif et brillant causeur. Il parle à Dorian de la jeunesse, seule richesse qui vaille selon lui, et qui ne dure pas. Devant la toile terminée, Dorian comprend soudain qu’il vieillira et que le portrait, lui, restera jeune. Il souhaite à voix haute que ce soit l’inverse, et se dit prêt à donner son âme pour cela.",
+     "lead": 1
+    },
+    {
+     "h5": "Sibyl Vane"
+    },
+    {
+     "p": "Sous l’influence de Lord Henry, Dorian cherche des sensations nouvelles. Dans un petit théâtre miteux, il découvre Sibyl Vane, une jeune actrice pauvre qui joue Shakespeare avec génie. Il s’en éprend et annonce leurs fiançailles. Mais le soir où il amène ses amis la voir jouer Juliette, Sibyl est mauvaise : amoureuse pour de vrai, elle ne sait plus feindre l’amour sur scène. Dorian la rejette avec une cruauté glaçante. Rentré chez lui, il remarque un pli de cruauté autour de la bouche du portrait. Effrayé, il décide de revenir vers Sibyl. Trop tard : il apprend le lendemain qu’elle s’est donné la mort."
+    },
+    {
+     "h5": "Le portrait caché"
+    },
+    {
+     "p": "Lord Henry l’aide à voir dans ce drame une belle tragédie plutôt qu’une faute. Dorian fait monter le tableau dans l’ancienne salle d’études de la maison, sous clé. Lord Henry lui offre un roman français à couverture jaune, l’histoire d’un esthète en quête de toutes les expériences, qui devient son livre de chevet. Les années passent. Dorian collectionne les parfums, les bijoux, les étoffes, fréquente les salons comme les fumeries d’opium des docks. Des rumeurs circulent : des amis compromis, des réputations ruinées. Mais son visage reste celui d’un jeune homme innocent, et la plupart refusent d’y croire. Seul le portrait vieillit et s’enlaidit. Aucune jeunesse n’est [[perenne|pérenne]], sauf la sienne, et il le sait à quel prix."
+    },
+    {
+     "h5": "Le meurtre"
+    },
+    {
+     "p": "La veille de ses trente-huit ans, Basil vient le voir avant de partir pour Paris et lui demande de démentir les bruits qui courent. Dorian le mène au grenier et lui montre la toile, devenue hideuse. Basil, horrifié, le supplie de prier. Pris d’une rage soudaine, Dorian le poignarde. Pour se débarrasser du corps, il fait chanter un ancien ami chimiste, Alan Campbell, qui fait disparaître le cadavre et se suicidera quelque temps plus tard. Sur la toile, une main se couvre de rouge."
+    },
+    {
+     "h5": "La fin"
+    },
+    {
+     "p": "Le frère de Sibyl, James Vane, marin, a juré de venger sa sœur. Il retrouve Dorian dans une fumerie, mais le laisse partir en voyant un visage de vingt ans : le séducteur de Sibyl devrait en avoir près de quarante. Il le traque pourtant jusqu’à sa propriété de campagne, où il est tué par accident lors d’une partie de chasse. Libéré de la menace, Dorian veut changer de vie. Il épargne une jeune fille de village qu’il aurait pu séduire et espère que le portrait s’adoucira. Il n’y voit qu’un nouveau trait d’hypocrisie. Il saisit alors le couteau qui a tué Basil et frappe la toile. Les domestiques, alertés par un cri, découvrent un vieillard flétri, poignardé au cœur, qu’ils ne reconnaissent qu’à ses bagues. Au mur, le portrait a retrouvé toute sa jeunesse."
+    },
+    {
+     "quote": "Il n’existe pas de livre moral ou immoral. Les livres sont bien écrits, ou mal écrits. C’est tout.",
+     "cite": "Préface de l’édition de 1891 (traduction de l’anglais)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Deux versions et un scandale"
+    },
+    {
+     "p": "Le roman paraît d’abord en juillet 1890 dans une revue américaine, le <em>Lippincott’s Monthly Magazine</em>, en treize chapitres. Une partie de la presse britannique le juge immoral et malsain. Wilde se défend dans des lettres aux journaux, puis publie en 1891 une version en volume qui passe de treize à vingt chapitres, avec notamment l’intrigue autour de James Vane. Il y ajoute une préface faite d’aphorismes, sa réponse aux critiques, et atténue certains passages sur l’attachement de Basil pour Dorian. C’est le seul roman de Wilde, alors surtout connu comme poète, conteur et figure mondaine."
+    },
+    {
+     "h5": "Le dandy et le paradoxe"
+    },
+    {
+     "p": "Le livre doit beaucoup de son éclat à Lord Henry, qui parle presque uniquement en formules renversant les idées reçues. Wilde y met une part de lui-même : le goût de la phrase qui fait mouche, du scandale élégant, de la beauté comme seule morale. Ce style, il le portera au théâtre dans ses comédies des années suivantes, jusqu’à <em>L’Importance d’être constant</em> en 1895. Mais le roman met cette pose à distance. Lord Henry théorise tout et ne risque rien ; Dorian applique ses leçons et s’y perd. Le causeur ne cherche jamais à [[pallier|pallier]] les dégâts de ses paroles : il les regarde."
+    },
+    {
+     "h5": "Faust, Narcisse et le double"
+    },
+    {
+     "p": "Le récit reprend de vieux mythes. Celui de Faust, qui vend son âme contre un don surnaturel. Celui de Narcisse, épris de sa propre image. Et le thème du double, très présent dans la littérature victorienne : quatre ans plus tôt, Stevenson publiait <em>L’Étrange Cas du docteur Jekyll et de M. Hyde</em>. Chez Wilde, le double n’est pas un autre homme mais une image, ce qui rend la fable plus troublante encore : la part monstrueuse de Dorian n’agit pas, elle enregistre."
+    },
+    {
+     "h5": "Le livre au tribunal"
+    },
+    {
+     "p": "En 1895, Wilde poursuit en diffamation le marquis de Queensberry, père de son amant Lord Alfred Douglas. L’avocat du marquis lit des extraits du roman à l’audience pour démontrer son immoralité. Le procès se retourne contre Wilde, qui est poursuivi à son tour pour « grossière indécence », condamné à deux ans de travaux forcés. Ruiné, il s’exile en France et meurt à Paris en 1900, à 46 ans. Le roman, longtemps lu comme une confession, est aujourd’hui un classique étudié dans le monde entier."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "À l’heure des filtres, des retouches et des profils soignés, le pacte de Dorian paraît moins fantastique qu’il y a un siècle. Le roman pose des questions qui n’ont pas vieilli : que devient-on quand on soigne son image plus que sa conduite ? Qui porte la faute, celui qui agit ou celui qui l’y a poussé ? Il se lit vite, se cite souvent, et rappelle qu’une réputation n’est pas une conscience."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "À Londres, à la fin du XIXe siècle, le très beau Dorian Gray souhaite que son portrait vieillisse à sa place. Le vœu s’exauce. Pendant près de vingt ans, il garde ses traits de jeune homme ; la toile, cachée sous clé, enlaidit à chacune de ses fautes."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le visage ne dit rien de l’âme</b> : la beauté de Dorian le protège des rumeurs. On confond apparence et valeur.",
+      "<b>Les mots peuvent corrompre</b> : Lord Henry ne fait que parler, et cela suffit à faire basculer un jeune homme.",
+      "<b>On ne fuit pas ses actes</b> : le portrait est une conscience extérieure. La culpabilité n’est pas effacée, seulement déplacée.",
+      "<b>L’art pour l’art, mis à l’épreuve</b> : la préface dit l’art étranger à la morale, mais le récit est une fable où tout se paie.",
+      "<b>Un roman à charge</b> : en 1895, on en lit des extraits pour accabler Wilde lors de ses procès."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le vœu</b> : le peintre Basil Hallward achève le portrait de Dorian. Lord Henry lui vante la jeunesse, qui ne dure pas. Dorian souhaite que la toile vieillisse à sa place.",
+      "<b>Sibyl Vane</b> : Dorian s’éprend d’une jeune actrice. Le soir où elle joue mal Juliette, il la rejette avec cruauté. Elle se donne la mort ; un pli cruel apparaît sur le portrait.",
+      "<b>Le portrait caché</b> : sous clé dans le grenier, la toile vieillit pendant que Dorian mène une vie de débauche. Aucune jeunesse n’est [[perenne|pérenne]], sauf la sienne.",
+      "<b>Le meurtre</b> : à 38 ans, il montre le tableau à Basil puis le poignarde. Il fait chanter un ami chimiste pour faire disparaître le corps.",
+      "<b>La fin</b> : James Vane, frère de Sibyl, meurt par accident en le traquant. Dorian frappe la toile avec le même couteau. On retrouve un vieillard poignardé ; le portrait a retrouvé sa jeunesse."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Deux versions</b> : 13 chapitres dans une revue en juillet 1890, jugés immoraux ; 20 chapitres et une préface en volume en 1891. Seul roman de Wilde.",
+      "<b>Le dandy</b> : Lord Henry parle en paradoxes, théorise tout et ne risque rien. Il ne cherche jamais à [[pallier|pallier]] les dégâts de ses paroles.",
+      "<b>Des mythes anciens</b> : Faust, Narcisse et le double, quatre ans après <em>Jekyll et Hyde</em> de Stevenson.",
+      "<b>Le livre au tribunal</b> : en 1895, Wilde est condamné à deux ans de travaux forcés ; il meurt à Paris en 1900, à 46 ans.",
+      "<b>Le style</b> : un récit fantastique raconté avec l’élégance d’un roman mondain, où les aphorismes de Lord Henry font écran à la noirceur de l’intrigue.",
+      "<b>Aujourd’hui</b> : à l’ère des filtres et des profils soignés, une leçon simple : une réputation n’est pas une conscience."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Le Cygne noir",
+   "by": "Nassim Nicholas Taleb · 2007",
+   "min": 9,
+   "exMin": 3,
+   "src": "Nassim Nicholas Taleb, The Black Swan: The Impact of the Highly Improbable (Random House, avril 2007 ; 2e édition augmentée, 2010) ; trad. française : Le Cygne noir. La puissance de l’imprévisible (Les Belles Lettres, 2008). Classement et réception : New York Times, The Sunday Times, Daniel Kahneman (Système 1, système 2, 2011), David Aldous (critique, 2009). Séances boursières : Dow Jones Industrial Average. Œuvre protégée : synthèse reformulée.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un cygne noir est un événement rare, aux conséquences énormes, que l’on juge prévisible seulement après coup. Taleb soutient que ces événements façonnent l’histoire, les marchés et nos vies bien plus que les tendances régulières, et que nos outils de prévision les ignorent. Plutôt que de prévoir, il faut se rendre moins vulnérable à l’imprévu."
+      ],
+      [
+       "Deux mondes : Médiocristan et Extrêmistan",
+       "Dans le premier, aucun cas isolé ne change la moyenne : ajoutez la personne la plus grande du monde à mille personnes, la taille moyenne bouge à peine. Dans le second, un seul cas peut tout écraser : ajoutez l’homme le plus riche du monde, et la fortune moyenne explose. Richesse, ventes de livres, guerres et marchés financiers relèvent de l’Extrêmistan."
+      ],
+      [
+       "La dinde de Thanksgiving",
+       "Nourrie chaque matin pendant mille jours, la dinde devient de plus en plus sûre que l’éleveur lui veut du bien. Sa confiance atteint son maximum la veille du jour où on la tue. L’expérience passée ne protège pas : elle peut même aveugler."
+      ],
+      [
+       "Dix jours qui font la moitié de tout",
+       "Selon Taleb, sur cinquante ans, les dix séances les plus extrêmes des marchés représentent la moitié des rendements. Le 19 octobre 1987, le Dow Jones perd 22,6 % en une journée, un écart que les modèles classiques tiennent pour quasi impossible."
+      ],
+      [
+       "La stratégie de l’haltère",
+       "Plutôt que de tout placer dans un risque « moyen » mal mesuré, mettre 85 à 90 % de son argent dans des placements très sûrs et 10 à 15 % dans des paris très spéculatifs. La perte maximale est connue ; le gain, lui, peut être immense."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un trader devenu philosophe"
+    },
+    {
+     "p": "Nassim Nicholas Taleb naît en 1960 au Liban, dans une famille grecque orthodoxe, et grandit pendant la guerre civile, une expérience de l’imprévisible qui le marquera. Formé à la finance, il fait carrière comme trader d’options, un métier où l’on gagne ou perd sur les mouvements extrêmes. En 2001, un premier livre, <em>Le Hasard sauvage</em>, montre combien les gagnants de la finance doivent à la chance. <em>Le Cygne noir</em> paraît en avril 2007, un an et demi avant la faillite de Lehman Brothers. La crise de 2008 en fait un phénomène : 36 semaines dans la liste des meilleures ventes du <em>New York Times</em>, une traduction en 32 langues. Le <em>Sunday Times</em> le range parmi les douze livres les plus influents depuis la Seconde Guerre mondiale.",
+     "lead": 1
+    },
+    {
+     "h5": "La thèse : l’imprévisible gouverne"
+    },
+    {
+     "p": "Pendant des siècles, les Européens ont cru que tous les cygnes étaient blancs, jusqu’à la découverte de cygnes noirs en Australie. Une seule observation a suffi à ruiner une certitude bâtie sur des millions d’autres. Taleb en tire une définition à trois critères : l’événement est hors des attentes, il a un impact considérable, et on lui invente après coup une explication qui le fait paraître prévisible. Internet, la Première Guerre mondiale, le 11-Septembre, les grands krachs : selon lui, l’essentiel de l’histoire tient dans ces ruptures, et non dans les évolutions lentes que mesurent nos statistiques. Le problème n’est pas de ne pas les prévoir, c’est de croire qu’on le peut."
+    },
+    {
+     "h5": "Les biais qui nous aveuglent"
+    },
+    {
+     "p": "Le livre recense les pièges de notre esprit. L’<em>erreur de narration</em> : nous transformons des faits épars en histoires cohérentes, plus faciles à retenir mais trompeuses. Les <em>preuves silencieuses</em> : on montrait à un sceptique de l’Antiquité les portraits de marins qui avaient prié et survécu au naufrage ; il demanda où étaient ceux des noyés qui avaient prié aussi. L’<em>erreur ludique</em> : on modélise le risque comme un jeu de dés aux règles connues, alors que la vie ne l’est pas. Taleb raconte qu’un casino, qui maîtrisait parfaitement les probabilités de ses tables, a subi ses plus grosses pertes d’événements imprévus, comme l’attaque d’un artiste de son spectacle par son tigre. Enfin l’<em>arrogance épistémique</em> : les experts surestiment ce qu’ils savent et sous-estiment l’étendue de ce qu’ils ignorent."
+    },
+    {
+     "p": "Taleb résume notre aveuglement par ce qu’il appelle le triplet de l’opacité. D’abord l’illusion de comprendre : chacun croit savoir ce qui se passe dans un monde bien plus complexe qu’il ne l’imagine. Ensuite la distorsion rétrospective : une fois l’événement survenu, on le raconte comme une suite logique, ce qui donne l’impression qu’on aurait pu le voir venir. Enfin la survalorisation de l’information : on accumule des données et des avis d’experts, en croyant qu’en savoir plus permet de mieux prévoir. Or, montre-t-il, les prévisionnistes se trompent souvent, et leur assurance grandit avec la quantité d’informations dont ils disposent, pas avec leur justesse."
+    },
+    {
+     "stats": [
+      [
+       "− 22,6 %",
+       "le Dow Jones le 19 octobre 1987, en une seule séance"
+      ],
+      [
+       "1 000 jours",
+       "de bons traitements avant que la dinde ne passe à la casserole"
+      ],
+      [
+       "36 semaines",
+       "dans la liste des meilleures ventes du New York Times"
+      ],
+      [
+       "32 langues",
+       "de traduction"
+      ]
+     ]
+    },
+    {
+     "h5": "Une charge contre la finance savante"
+    },
+    {
+     "p": "La cible principale de Taleb est la courbe en cloche, la loi normale, au cœur des modèles de risque des banques. Elle convient au Médiocristan, pas aux marchés, où les extrêmes sont plus fréquents et plus violents qu’elle ne le prévoit. Il rappelle le naufrage du fonds LTCM en 1998, dirigé avec le concours de deux lauréats du Nobel d’économie, qui s’effondre sur un scénario que ses modèles jugeaient improbable. Pour Taleb, mesurer le risque avec un outil qui ignore les cygnes noirs revient à bâtir sur du sable, et donne une fausse sécurité plus dangereuse que l’ignorance. Mieux vaut chercher des positions robustes, qui supportent l’imprévu, et rester exposé aux bonnes surprises."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les pires séances du Dow Jones",
+      "sub": "Baisse en une journée, en %",
+      "rows": [
+       [
+        "19 octobre 1987",
+        22.61
+       ],
+       [
+        "16 mars 2020",
+        12.93
+       ],
+       [
+        "28 octobre 1929",
+        12.82
+       ],
+       [
+        "29 octobre 1929",
+        11.73
+       ],
+       [
+        "12 mars 2020",
+        9.99
+       ]
+      ],
+      "prefix": "− ",
+      "suffix": " %",
+      "note": "Source : Dow Jones Industrial Average, données compilées par ABC News (2025)."
+     }
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre agace autant qu’il séduit. Le ton est polémique, souvent méprisant envers les économistes, les journalistes et les prévisionnistes. Le mathématicien David Aldous juge Taleb pertinent, voire visionnaire, sur la finance, mais enclin à l’exagération ailleurs. On lui reproche aussi un concept trop élastique : si tout événement marquant devient un cygne noir après coup, l’idée perd son pouvoir d’explication. Enfin, sa critique des modèles est plus convaincante que ses solutions, qui restent générales. Le psychologue Daniel Kahneman, prix Nobel, écrit pourtant que le livre a changé sa vision du monde."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "L’expression « cygne noir » est entrée dans le vocabulaire des dirigeants, des banquiers centraux et des gestionnaires de risques, au point d’être [[perenne|pérennisée]], et parfois galvaudée. La deuxième édition, en 2010, ajoute un long essai sur la robustesse et la fragilité, prolongé par <em>Antifragile</em> en 2012 : certains systèmes, dit Taleb, ne se contentent pas de résister aux chocs, ils en sortent renforcés. Lors de la pandémie de 2020, il refusera d’ailleurs de parler de cygne noir : le risque d’épidémie était connu, seule la préparation manquait. Pour un responsable de supply chain, la leçon est concrète : on ne peut pas tout prévoir, mais on peut éviter le fournisseur unique, garder des marges de sécurité et des stocks tampons pour [[pallier|pallier]] l’imprévu."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Un cygne noir est un événement rare, à fort impact, qu’on juge prévisible seulement après coup. Taleb, ancien trader, soutient qu’ils façonnent l’histoire et les marchés, et que nos modèles les ignorent. Mieux vaut se rendre robuste que prévoir."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Médiocristan et Extrêmistan</b> : dans le premier (la taille), aucun cas ne change la moyenne ; dans le second (la richesse, les marchés), un seul cas peut tout écraser.",
+      "<b>La dinde</b> : nourrie mille jours, elle n’a jamais été aussi confiante que la veille de Thanksgiving. Le passé peut aveugler.",
+      "<b>Dix jours</b> : selon Taleb, sur cinquante ans, les dix séances les plus extrêmes font la moitié des rendements boursiers.",
+      "<b>Nos biais</b> : erreur de narration, preuves silencieuses (on oublie les noyés qui avaient prié), erreur ludique (la vie n’est pas un jeu de dés), arrogance des experts.",
+      "<b>L’haltère</b> : 85 à 90 % en placements très sûrs, 10 à 15 % en paris très spéculatifs, rien au milieu.",
+      "<b>Le triplet de l’opacité</b> : l’illusion de comprendre, la relecture du passé comme une suite logique, et la croyance qu’accumuler des informations permet de mieux prévoir."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "− 22,6 %",
+       "le Dow Jones le 19 octobre 1987, en une seule séance"
+      ],
+      [
+       "1 000 jours",
+       "de bons traitements avant que la dinde ne passe à la casserole"
+      ],
+      [
+       "36 semaines",
+       "dans la liste des meilleures ventes du New York Times"
+      ],
+      [
+       "32 langues",
+       "de traduction"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les pires séances du Dow Jones",
+      "sub": "Baisse en une journée, en %",
+      "rows": [
+       [
+        "19 octobre 1987",
+        22.61
+       ],
+       [
+        "16 mars 2020",
+        12.93
+       ],
+       [
+        "28 octobre 1929",
+        12.82
+       ],
+       [
+        "29 octobre 1929",
+        11.73
+       ],
+       [
+        "12 mars 2020",
+        9.99
+       ]
+      ],
+      "prefix": "− ",
+      "suffix": " %",
+      "note": "Source : Dow Jones Industrial Average, données compilées par ABC News (2025)."
+     }
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : né au Liban en 1960, ancien trader d’options, auteur du <em>Hasard sauvage</em> (2001).",
+      "<b>Contexte</b> : paru en avril 2007, un an et demi avant Lehman Brothers. La crise de 2008 en fait un best-seller mondial.",
+      "<b>Le nom</b> : les Européens croyaient tous les cygnes blancs, jusqu’à la découverte de cygnes noirs en Australie. Une seule observation ruine une certitude.",
+      "<b>Cible</b> : la loi normale des modèles de risque, et l’exemple du fonds LTCM, effondré en 1998.",
+      "<b>Critiques</b> : ton polémique, concept trop élastique, solutions générales. Kahneman dit pourtant qu’il a changé sa vision du monde.",
+      "<b>Postérité</b> : une expression [[perenne|pérennisée]] dans le vocabulaire, puis <em>Antifragile</em> (2012). En supply chain : pas de fournisseur unique, des stocks tampons pour [[pallier|pallier]] l’imprévu."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "FMI : le monde tient, mais à deux vitesses",
+   "by": "Analyse de fond",
+   "fig": "3,1 %",
+   "figl": "croissance mondiale prévue en 2026",
+   "min": 3,
+   "exMin": 2,
+   "src": "FMI, Perspectives de l’économie mondiale, octobre 2026 (publiées le 13 octobre 2026, assemblées annuelles de Bangkok), via AP/ABC News, Euronews, Fortune, Finances News Hebdo et France 24 ; prévision du gouvernement français (0,7 %). Données arrêtées au 13 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le FMI a publié le 13 octobre, en ouverture de ses assemblées annuelles à Bangkok, ses nouvelles prévisions. L’économie mondiale croîtrait de 3,1 % en 2026, un peu mieux que les 3,0 % annoncés en juillet, puis de 3,4 % en 2027. Ce chiffre rassurant cache un monde coupé en deux : ceux qui profitent du boom de l’intelligence artificielle, et ceux qui subissent de plein fouet le choc énergétique né de la guerre au Moyen-Orient.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Croissance prévue en 2026",
+      "sub": "PIB, en %, prévisions du FMI d’octobre 2026",
+      "rows": [
+       [
+        "Inde",
+        7.0
+       ],
+       [
+        "Chine",
+        4.5
+       ],
+       [
+        "Monde",
+        3.1
+       ],
+       [
+        "Espagne",
+        2.5
+       ],
+       [
+        "États-Unis",
+        2.3
+       ],
+       [
+        "Royaume-Uni",
+        1.3
+       ],
+       [
+        "Zone euro",
+        1.1
+       ],
+       [
+        "France",
+        0.4
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : FMI, Perspectives de l’économie mondiale (13 octobre 2026), via AP, Euronews et Fortune."
+     }
+    },
+    {
+     "h": "Deux forces contraires"
+    },
+    {
+     "p": "D’un côté, l’investissement dans l’IA soutient l’activité. Les États-Unis et la Chine absorbent plus des trois quarts de la demande nette d’importations de puces et d’équipements liés à l’IA, et des exportateurs comme Taïwan ou la Corée du Sud en profitent. La croissance américaine tiendrait à 2,3 %. De l’autre, l’énergie pèse : le FMI table sur un baril à 96 dollars en moyenne cette année, en hausse de près de 41 %, et sur une reprise des flux par Ormuz d’ici mars seulement. Les produits pétroliers raffinés coûtent 70 à 95 % plus cher qu’avant la guerre. Résultat, l’inflation mondiale remonterait à 4,7 % en 2026, contre 4,1 % en 2025."
+    },
+    {
+     "stats": [
+      [
+       "3,1 %",
+       "croissance mondiale prévue en 2026 (3,0 % en juillet)"
+      ],
+      [
+       "4,7 %",
+       "inflation mondiale attendue en 2026"
+      ],
+      [
+       "96 $",
+       "prix moyen du baril retenu pour 2026"
+      ],
+      [
+       "32 pays",
+       "font 95 % de la croissance mondiale"
+      ]
+     ]
+    },
+    {
+     "h": "L’Europe et la France à la traîne"
+    },
+    {
+     "p": "La zone euro ne croîtrait que de 1,1 %, freinée par une énergie chère et des consommateurs prudents ; son inflation, à 3,1 %, resterait loin de la cible de 2 % de la BCE. La France ferme la marche avec 0,4 %, contre 0,9 % en 2025, sous la prévision de 0,7 % du gouvernement, et un chômage qui passerait de 7,7 % à 8,4 %. Signe de concentration, 32 pays seulement assurent 95 % de la croissance mondiale, contre 54 en avril. Les pays émergents ralentissent aussi, de 4,5 % à 3,7 %, et le Moyen-Orient et l’Asie centrale entreraient en récession cette année, avant un rebond attendu en 2027."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La moyenne mondiale ne dit plus grand-chose : la croissance se redistribue selon l’exposition de chaque pays au choc énergétique et au cycle de l’IA. Le FMI cite trois risques : une correction boursière sur les valeurs de l’IA, des taux d’emprunt en hausse et des dettes publiques lourdes. Il demande aux États de cibler leurs aides énergétiques pour [[pallier|pallier]] l’urgence sans creuser durablement les déficits, et de reconstruire des finances publiques [[perenne|pérennes]]."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>3,1 %</b> : croissance mondiale prévue par le FMI en 2026 (3,0 % en juillet), puis 3,4 % en 2027.",
+      "<b>Deux vitesses</b> : le boom de l’IA soutient les États-Unis (2,3 %), la Chine et les exportateurs de puces ; le choc énergétique frappe les importateurs.",
+      "<b>Énergie</b> : baril à 96 $ en moyenne (+ 41 %), produits raffinés 70 à 95 % plus chers qu’avant la guerre. Inflation mondiale à 4,7 %, contre 4,1 % en 2025.",
+      "<b>Hypothèse clé</b> : une reprise des flux par Ormuz d’ici mars. Sans elle, les prévisions seraient trop optimistes."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Croissance prévue en 2026",
+      "sub": "PIB, en %, prévisions du FMI d’octobre 2026",
+      "rows": [
+       [
+        "Inde",
+        7.0
+       ],
+       [
+        "Chine",
+        4.5
+       ],
+       [
+        "Monde",
+        3.1
+       ],
+       [
+        "Espagne",
+        2.5
+       ],
+       [
+        "États-Unis",
+        2.3
+       ],
+       [
+        "Royaume-Uni",
+        1.3
+       ],
+       [
+        "Zone euro",
+        1.1
+       ],
+       [
+        "France",
+        0.4
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : FMI, Perspectives de l’économie mondiale (13 octobre 2026), via AP, Euronews et Fortune."
+     }
+    },
+    {
+     "h": "Et l’Europe"
+    },
+    {
+     "ul": [
+      "<b>Zone euro</b> : 1,1 % de croissance, 3,1 % d’inflation, loin de la cible de la BCE.",
+      "<b>France</b> : 0,4 %, sous les 0,7 % du gouvernement ; chômage de 7,7 % à 8,4 %.",
+      "<b>Émergents</b> : de 4,5 % à 3,7 % ; Chine 4,5 %, Inde 7 %. Récession au Moyen-Orient et en Asie centrale.",
+      "<b>Concentration</b> : 32 pays font 95 % de la croissance mondiale, contre 54 en avril.",
+      "<b>Conseil du FMI</b> : des aides ciblées pour [[pallier|pallier]] l’urgence, et des finances publiques [[perenne|pérennes]]. Risques : krach de l’IA, taux en hausse, dettes."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Riyad sous les missiles houthis",
+   "by": "Analyse de fond",
+   "fig": "19 morts",
+   "figl": "en six jours d’attaques sur les aéroports",
+   "min": 3,
+   "exMin": 2,
+   "src": "Al Jazeera (9 et 12 octobre 2026) ; CNN (10 octobre) ; Euronews (8 octobre) ; ABC News Australie (13 octobre) ; Wikipédia, « October 2026 attacks on Saudi Arabia airports » (bilan cumulé du 6 au 11 octobre). Données arrêtées au 13 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Depuis le 6 octobre, les Houthis du Yémen frappent les aéroports saoudiens à coups de drones et de missiles. Le 10 octobre, un missile balistique a touché les terminaux de l’aéroport international King Khalid de Riyad : au moins 13 morts et plus de 300 blessés. Sur l’ensemble des attaques du 6 au 11 octobre, à Riyad et à Abha, le bilan atteint 19 morts. L’aéroport de la capitale reste fermé jusqu’au 17 octobre. Pour le royaume, c’est la guerre qui revient au cœur de sa vitrine.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "19 morts",
+       "dans les attaques sur les aéroports saoudiens du 6 au 11 octobre"
+      ],
+      [
+       "+ 1 000 km",
+       "parcourus par les missiles jusqu’à Riyad"
+      ],
+      [
+       "17 octobre",
+       "date prévue de réouverture de l’aéroport de Riyad"
+      ],
+      [
+       "2015",
+       "début de l’intervention saoudienne au Yémen"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi maintenant"
+    },
+    {
+     "p": "L’Arabie saoudite intervient au Yémen depuis 2015 contre les Houthis, alliés de l’Iran. Depuis la trêve négociée sous l’égide de l’ONU en 2022, les frappes contre le royaume avaient presque cessé, et Riyad cherchait une sortie négociée pour se consacrer à ses grands projets. La guerre contre l’Iran a tout rouvert. Le 13 juillet 2026, l’aviation saoudienne a frappé l’aéroport de Sanaa pour empêcher l’atterrissage d’un avion iranien ; les Houthis ont repris les hostilités. Leurs attaques combinent désormais des essaims de drones, qui saturent la défense aérienne, et des missiles de croisière et balistiques lancés à plus de 1 000 km. Riyad enquête sur les failles de son bouclier."
+    },
+    {
+     "h": "Ce que le royaume risque"
+    },
+    {
+     "p": "L’enjeu dépasse le bilan humain. Riyad mise sur le tourisme, les congrès et l’investissement étranger : elle accueillait ces jours-ci un grand congrès mondial de l’énergie et prépare son forum d’investissement annuel, avant l’Exposition universelle de 2030 et la Coupe du monde 2034. Or Etihad et Gulf Air ont suspendu leurs vols vers la capitale, Delta a reporté le lancement d’une ligne Atlanta–Riyad prévue le 23 octobre, et les Houthis menacent aussi les installations pétrolières. Le ministre de l’Énergie assure que la Vision 2030 continuera, mais une stratégie de croissance ne peut être [[perenne|pérenne]] sans sécurité."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Washington partage du renseignement mais ne frappe pas. Donald Trump dit envisager une intervention, ce que Riyad souhaite ; les Houthis promettent une riposte, avec un risque sur le détroit de Bab el-Mandeb, l’autre porte de la mer Rouge. Pour [[pallier|pallier]] l’absence de bouclier fiable, les Émirats appellent à une action commune du Golfe. Le conflit iranien n’est plus contenu à Ormuz : il s’étend à tout le flanc sud de la péninsule."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Les faits</b> : depuis le 6 octobre, drones et missiles houthis visent les aéroports saoudiens. Le 10, au moins 13 morts et plus de 300 blessés à Riyad.",
+      "<b>Bilan</b> : 19 morts du 6 au 11 octobre, à Riyad et Abha. Aéroport de la capitale fermé jusqu’au 17 octobre.",
+      "<b>Pourquoi</b> : la trêve de 2022 avait gelé le conflit. Le 13 juillet 2026, Riyad frappe l’aéroport de Sanaa pour bloquer un avion iranien ; les Houthis reprennent la guerre.",
+      "<b>La méthode</b> : des drones saturent la défense, puis des missiles parcourent plus de 1 000 km."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "19 morts",
+       "dans les attaques sur les aéroports saoudiens du 6 au 11 octobre"
+      ],
+      [
+       "+ 1 000 km",
+       "parcourus par les missiles jusqu’à Riyad"
+      ],
+      [
+       "17 octobre",
+       "date prévue de réouverture de l’aéroport de Riyad"
+      ],
+      [
+       "2015",
+       "début de l’intervention saoudienne au Yémen"
+      ]
+     ]
+    },
+    {
+     "h": "Les enjeux"
+    },
+    {
+     "ul": [
+      "<b>La vitrine</b> : congrès, forum d’investissement, Expo 2030, Mondial 2034. Etihad et Gulf Air suspendent Riyad ; Delta reporte sa ligne Atlanta–Riyad.",
+      "<b>La sécurité</b> : sans elle, la Vision 2030 ne peut être [[perenne|pérenne]].",
+      "<b>Les États-Unis</b> : renseignement oui, frappes non. Risque d’une riposte houthie sur Bab el-Mandeb.",
+      "<b>Le Golfe</b> : les Émirats appellent à une action commune pour [[pallier|pallier]] les failles de la défense."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Fret aérien : le ciel se redessine autour du Golfe",
+   "by": "Analyse de fond",
+   "fig": "+ 13,2 %",
+   "figl": "fret aérien Asie–Amérique du Nord",
+   "min": 3,
+   "exMin": 2,
+   "src": "IATA, communiqué « Air Cargo Demand Grows 4.4% in August » et Air Cargo Market Analysis (29 septembre 2026) ; Al Jazeera et ABC News Australie (12 et 13 octobre 2026) pour les suspensions de vols vers Riyad. Données d’août 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "En août 2026, la demande mondiale de fret aérien a progressé de 4,4 % sur un an selon l’IATA, alors que la capacité offerte reculait légèrement. Les avions-cargos et les soutes volent donc plus pleins. Mais cette moyenne masque une carte bouleversée : la route Asie–Amérique du Nord bondit de 13,2 %, tandis que tous les corridors qui passent par le Moyen-Orient s’effondrent, à plus de 10 % de baisse.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Fret aérien par corridor",
+      "sub": "Évolution sur un an du trafic (tonnes-km), août 2026, en %",
+      "labels": [
+       "Asie–AmN",
+       "Intra-Asie",
+       "Eur–AmN",
+       "Eur–Asie",
+       "MO–Asie",
+       "Afr–Asie",
+       "Eur–MO"
+      ],
+      "series": [
+       {
+        "name": "Août 2026",
+        "values": [
+         13.2,
+         6.1,
+         4.3,
+         3.1,
+         -11.0,
+         -11.9,
+         -12.1
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : IATA, Air Cargo Market Analysis (29 septembre 2026). AmN : Amérique du Nord ; MO : Moyen-Orient."
+     }
+    },
+    {
+     "h": "Le Golfe, plaque tournante en panne"
+    },
+    {
+     "p": "Les hubs de Doha, Dubaï ou Abou Dhabi relient d’ordinaire l’Asie, l’Europe et l’Afrique. Avec la guerre, ces correspondances sont perturbées depuis six mois : le trafic Europe–Moyen-Orient recule de 12,1 % et Moyen-Orient–Asie de 11 %. Les échanges Afrique–Asie, qui transitent souvent par le Golfe, chutent aussi de 11,9 %. La fermeture de l’aéroport de Riyad depuis le 10 octobre et les suspensions de vols vers l’Arabie saoudite ajoutent un nouveau trou dans le réseau. Les chargeurs se reportent sur des liaisons directes, plus chères, ou sur d’autres hubs. À l’inverse, les échanges intra-asiatiques progressent de 6,1 % et ceux entre l’Europe et l’Asie de 3,1 %, sans interruption depuis plus de trois ans : quand les avions peuvent contourner la zone de guerre, le commerce suit."
+    },
+    {
+     "stats": [
+      [
+       "+ 4,4 %",
+       "demande mondiale de fret aérien en août, sur un an"
+      ],
+      [
+       "− 0,1 %",
+       "capacité offerte sur la même période"
+      ],
+      [
+       "46,0 %",
+       "coefficient de remplissage cargo (+ 2 points)"
+      ],
+      [
+       "+ 79,2 %",
+       "prix du kérosène sur un an"
+      ]
+     ]
+    },
+    {
+     "h": "Un kérosène hors de prix"
+    },
+    {
+     "p": "Le carburant d’aviation coûte 79,2 % plus cher qu’un an plus tôt, et a encore pris 8,3 % en un mois. Les compagnies compensent en remplissant mieux leurs appareils : le coefficient de remplissage cargo atteint 46 %, deux points de plus qu’en août 2025, et les rendements ont augmenté pour la première fois depuis avril. L’Europe illustre ce réflexe : sa capacité baisse de 3,5 %, mais sa demande monte de 4,1 %. Pour les compagnies, c’est un équilibre fragile : le moindre retournement de la demande laisserait des avions à moitié vides avec un carburant toujours aussi cher."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Comme sur le maritime, la route transpacifique est la plus dynamique et le Golfe le point faible. Pour un acheteur européen qui importe d’Asie par avion, il faut s’attendre à des tarifs élevés et à des itinéraires changeants. Les solutions [[perenne|pérennes]] passent par des contrats avec plusieurs transitaires et des routes de secours via l’Asie centrale ou les liaisons directes. Le mix mer-air, par un port intermédiaire, peut aussi [[pallier|pallier]] une partie du surcoût."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>+ 4,4 %</b> : demande mondiale de fret aérien en août sur un an (IATA), pour une capacité en léger recul (− 0,1 %).",
+      "<b>Gagnant</b> : Asie–Amérique du Nord, + 13,2 %, septième mois de hausse.",
+      "<b>Perdants</b> : les corridors via le Golfe. Europe–Moyen-Orient − 12,1 %, Afrique–Asie − 11,9 %, Moyen-Orient–Asie − 11 %."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Fret aérien par corridor",
+      "sub": "Évolution sur un an du trafic (tonnes-km), août 2026, en %",
+      "labels": [
+       "Asie–AmN",
+       "Intra-Asie",
+       "Eur–AmN",
+       "Eur–Asie",
+       "MO–Asie",
+       "Afr–Asie",
+       "Eur–MO"
+      ],
+      "series": [
+       {
+        "name": "Août 2026",
+        "values": [
+         13.2,
+         6.1,
+         4.3,
+         3.1,
+         -11.0,
+         -11.9,
+         -12.1
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : IATA, Air Cargo Market Analysis (29 septembre 2026). AmN : Amérique du Nord ; MO : Moyen-Orient."
+     }
+    },
+    {
+     "h": "Ce qu’il faut savoir"
+    },
+    {
+     "ul": [
+      "<b>Remplissage</b> : 46 % en moyenne, + 2 points ; les rendements remontent pour la première fois depuis avril.",
+      "<b>Hubs perturbés</b> : la guerre désorganise Doha et Dubaï depuis six mois ; l’aéroport de Riyad est fermé depuis le 10 octobre.",
+      "<b>Ailleurs, ça tient</b> : intra-Asie + 6,1 %, Europe–Asie + 3,1 %. Quand on peut contourner la zone de guerre, le commerce suit.",
+      "<b>Kérosène</b> : + 79,2 % sur un an, + 8,3 % en un mois. Les compagnies remplissent mieux leurs avions (46 %, + 2 points) et relèvent leurs prix.",
+      "<b>Europe</b> : capacité − 3,5 %, demande + 4,1 %. Des avions plus pleins, mais un équilibre fragile.",
+      "<b>À faire</b> : plusieurs transitaires et des routes de secours pour des solutions [[perenne|pérennes]] ; le mix mer-air pour [[pallier|pallier]] le surcoût."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "LVMH : quand le sac à main fatigue",
+   "by": "Analyse de fond",
+   "fig": "− 5 %",
+   "figl": "Mode & Maroquinerie au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "LVMH, communiqué « Poursuite de la croissance au troisième trimestre 2026 » (12 octobre 2026) ; Zonebourse, BFM Bourse et Boursorama (12 et 13 octobre 2026). Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le numéro un mondial du luxe a publié le 12 octobre ses ventes du troisième trimestre : 18,5 milliards d’euros, en hausse de 1 % à périmètre et changes constants. Le groupe parle de « poursuite de la croissance », mais le marché retient autre chose : son cœur, la Mode & Maroquinerie de Louis Vuitton et Dior, recule de 5 %, plus qu’attendu. Sur neuf mois, les ventes publiées baissent de 2 %, à 57,1 milliards.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "18,5 Md€",
+       "ventes du 3e trimestre 2026"
+      ],
+      [
+       "+ 1 %",
+       "croissance organique au 3e trimestre"
+      ],
+      [
+       "− 5 %",
+       "Mode & Maroquinerie au 3e trimestre"
+      ],
+      [
+       "26,4 Md€",
+       "ventes Mode & Maroquinerie sur 9 mois"
+      ]
+     ]
+    },
+    {
+     "h": "Un groupe à deux visages"
+    },
+    {
+     "p": "LVMH réunit ses maisons en cinq métiers, et ce trimestre ils divergent. La joaillerie brille : Tiffany et Bvlgari portent les Montres & Joaillerie à + 6 %. Sephora gagne des parts de marché et la Distribution sélective progresse de 8 %. Même les Vins & Spiritueux repartent, + 6 %, grâce au champagne en Europe et au cognac Hennessy en Asie. Mais la Mode & Maroquinerie pèse près de la moitié des ventes, 26,4 milliards sur neuf mois, et c’est elle qui donne le ton. Les États-Unis, l’Europe et le Japon progressent ; la Chine, elle, ralentit. Or les clients chinois ont été, pendant une décennie, le premier moteur du luxe mondial : quand leur demande faiblit, c’est d’abord la maroquinerie, leur achat emblématique, qui en souffre."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "LVMH : croissance organique par métier",
+      "sub": "En %, à taux de change et périmètre constants",
+      "labels": [
+       "Vins",
+       "Mode",
+       "Parfums",
+       "Montres",
+       "Distrib."
+      ],
+      "series": [
+       {
+        "name": "3e trimestre 2026",
+        "values": [
+         6,
+         -5,
+         1,
+         6,
+         8
+        ]
+       },
+       {
+        "name": "9 mois 2026",
+        "values": [
+         5,
+         -2,
+         0,
+         8,
+         6
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : LVMH, communiqué du 12 octobre 2026. Montres : Montres & Joaillerie ; Distrib. : Distribution sélective (Sephora)."
+     }
+    },
+    {
+     "h": "Le prix de la hausse des prix"
+    },
+    {
+     "p": "Après la pandémie, les grandes maisons ont relevé fortement leurs tarifs, et la clientèle dite aspirationnelle, celle qui s’offre un sac de temps en temps, a décroché. Ce modèle de croissance par les prix n’est pas [[perenne|pérenne]] sans clientèle nouvelle. LVMH fait le ménage : il a cédé Marc Jacobs le 1er septembre et l’essentiel de DFS, ses boutiques d’aéroport. Les variations de change, défavorables de 3 % sur neuf mois, compliquent aussi la lecture des chiffres. Le rythme reste poussif : + 1 % au premier trimestre, + 3 % au deuxième, + 1 % au troisième, en organique. Les Parfums & Cosmétiques, stables sur neuf mois, montrent que même la beauté ne suffit pas à relancer la machine, malgré la belle progression de Guerlain."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le luxe n’est plus un bloc : les bijoux et la beauté résistent quand le sac à main s’essouffle. Pour LVMH, la joaillerie et Sephora peuvent [[pallier|pallier]] un temps la faiblesse de la mode, pas la remplacer. Le groupe se dit « confiant » ; la reprise de la Chine reste la clé de 2027."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>18,5 Md€</b> : ventes du 3e trimestre, + 1 % en organique. Sur neuf mois, 57,1 Md€, − 2 % en publié.",
+      "<b>Le cœur faiblit</b> : la Mode & Maroquinerie (Louis Vuitton, Dior) recule de 5 %, plus qu’attendu. Elle pèse près de la moitié des ventes.",
+      "<b>Ce qui tient</b> : Montres & Joaillerie + 6 % (Tiffany, Bvlgari), Sephora + 8 %, Vins & Spiritueux + 6 % (champagne en Europe, Hennessy en Asie).",
+      "<b>Le marché</b> : ventes jugées inférieures aux attentes, ce qui ravive les doutes sur la reprise du luxe."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "LVMH : croissance organique par métier",
+      "sub": "En %, à taux de change et périmètre constants",
+      "labels": [
+       "Vins",
+       "Mode",
+       "Parfums",
+       "Montres",
+       "Distrib."
+      ],
+      "series": [
+       {
+        "name": "3e trimestre 2026",
+        "values": [
+         6,
+         -5,
+         1,
+         6,
+         8
+        ]
+       },
+       {
+        "name": "9 mois 2026",
+        "values": [
+         5,
+         -2,
+         0,
+         8,
+         6
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : LVMH, communiqué du 12 octobre 2026. Montres : Montres & Joaillerie ; Distrib. : Distribution sélective (Sephora)."
+     }
+    },
+    {
+     "h": "Pourquoi"
+    },
+    {
+     "ul": [
+      "<b>Les prix</b> : les fortes hausses d’après-Covid ont fait fuir la clientèle occasionnelle. Une croissance par les prix n’est pas [[perenne|pérenne]].",
+      "<b>La Chine</b> ralentit, quand États-Unis, Europe et Japon progressent.",
+      "<b>Le rythme</b> : + 1 %, + 3 %, puis + 1 % en organique sur les trois premiers trimestres. Change défavorable de 3 % sur neuf mois.",
+      "<b>Le ménage</b> : cession de Marc Jacobs (1er septembre) et de l’essentiel de DFS.",
+      "<b>À retenir</b> : bijoux et beauté peuvent [[pallier|pallier]] la faiblesse de la mode, pas la remplacer."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-13",
+ "latest": "2026-10-14",
  "editions": [
+  {
+   "date": "2026-10-14",
+   "label": "Mercredi 14 octobre",
+   "words": [
+    "Pallier",
+    "Pérenne"
+   ],
+   "items": [
+    [
+     "lit",
+     "Le Portrait de Dorian Gray"
+    ],
+    [
+     "essai",
+     "Le Cygne noir"
+    ],
+    [
+     "eco",
+     "FMI : le monde tient, mais à deux vitesses"
+    ],
+    [
+     "geo",
+     "Riyad sous les missiles houthis"
+    ],
+    [
+     "log",
+     "Fret aérien : le ciel se redessine autour du Golfe"
+    ],
+    [
+     "ent",
+     "LVMH : quand le sac à main fatigue"
+    ]
+   ]
+  },
   {
    "date": "2026-10-13",
    "label": "Mardi 13 octobre",
