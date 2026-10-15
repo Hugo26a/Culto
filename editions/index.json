@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-14",
+ "latest": "2026-10-15",
  "editions": [
+  {
+   "date": "2026-10-15",
+   "label": "Jeudi 15 octobre",
+   "words": [
+    "Pallier",
+    "Pérenne"
+   ],
+   "items": [
+    [
+     "lit",
+     "Tartuffe"
+    ],
+    [
+     "essai",
+     "Shoe Dog"
+    ],
+    [
+     "eco",
+     "Inflation américaine : le pétrole force la main de la Fed"
+    ],
+    [
+     "geo",
+     "Flotte fantôme : la France passe à l’abordage"
+    ],
+    [
+     "log",
+     "Chaîne du froid : des pirates aux commandes des frigos"
+    ],
+    [
+     "ent",
+     "Airbus : le sprint des 323 avions"
+    ]
+   ]
+  },
   {
    "date": "2026-10-14",
    "label": "Mercredi 14 octobre",

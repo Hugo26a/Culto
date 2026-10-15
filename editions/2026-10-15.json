@@ -1,0 +1,1091 @@
+{
+ "date": "2026-10-15",
+ "label": "Jeudi 15 octobre 2026",
+ "n": 4,
+ "example": false,
+ "week": {
+  "start": "2026-10-12",
+  "label": "Semaine du 12 octobre",
+  "day": 4,
+  "words": [
+   {
+    "key": "pallier",
+    "w": "Pallier",
+    "ph": "[pa.lje] · verbe transitif",
+    "short": "Compenser un manque, sans le faire disparaître.",
+    "def": "Atténuer les effets d’un problème ou combler provisoirement un manque, sans en supprimer la cause. Le verbe est transitif direct : on pallie un manque, une absence, une difficulté. « Pallier à » est une faute très répandue, à éviter à l’écrit comme en réunion.",
+    "ety": "Du bas latin palliare, « couvrir d’un manteau », de pallium, « manteau ». Pallier, c’est d’abord cacher sous un manteau, puis masquer un défaut, enfin le compenser. Même famille que « palliatif ».",
+    "ex": "Nous avons fait appel à deux intérimaires pour pallier l’absence de l’équipe de nuit pendant les congés.",
+    "syn": "compenser, remédier à, suppléer à, atténuer"
+   },
+   {
+    "key": "perenne",
+    "w": "Pérenne",
+    "ph": "[pe.ʁɛn] · adjectif",
+    "short": "Qui dure dans le temps, de façon stable.",
+    "def": "Qui dure longtemps, de façon continue, ou qui est conçu pour durer. En entreprise, une solution pérenne s’oppose à une rustine provisoire ; un financement pérenne est assuré d’une année sur l’autre. Le nom correspondant est la pérennité, le verbe pérenniser.",
+    "ety": "Du latin perennis, « qui dure toute l’année », formé de per, « à travers », et annus, « année ». En botanique, une plante pérenne est une plante vivace, qui repousse chaque année.",
+    "ex": "Le tableur bricolé a dépanné pendant six mois, mais il nous faut maintenant un outil pérenne pour suivre les stocks.",
+    "syn": "durable, permanent, stable, persistant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Tartuffe",
+   "by": "Molière · 1664–1669",
+   "tagline": "Le masque de la dévotion",
+   "min": 10,
+   "exMin": 4,
+   "src": "Molière, Le Tartuffe ou l’Imposteur (première version jouée à Versailles le 12 mai 1664 ; Panulphe ou l’Imposteur, 5 août 1667 ; version définitive créée au Palais-Royal le 5 février 1669), domaine public. Préface et placets au roi de Molière ; ordonnance de l’archevêque de Paris, Hardouin de Péréfixe (août 1667).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Orgon, riche bourgeois parisien, a recueilli chez lui Tartuffe, un faux dévot qu’il vénère au point de lui promettre sa fille et de lui donner tous ses biens. Sa famille tente en vain de lui ouvrir les yeux, jusqu’à ce que sa femme Elmire piège l’imposteur sous son regard. Il faut alors l’intervention du roi pour sauver la maison."
+      ],
+      [
+       "L’hypocrisie, un vice qui se protège lui-même",
+       "Molière ne s’en prend pas à la foi, mais à ceux qui s’en servent. Tartuffe parle sans cesse du Ciel pour obtenir de l’argent, du pouvoir et une femme. Sa force tient à son masque : l’attaquer, c’est paraître attaquer la religion. C’est exactement ce qui est arrivé à la pièce."
+      ],
+      [
+       "Le vrai sujet, c’est l’aveuglement d’Orgon",
+       "Tartuffe ne serait rien sans sa dupe. Orgon veut croire : son protégé lui offre une certitude et une autorité morale sur toute sa famille. Plus on lui montre la vérité, plus il s’accroche à son idole. Il faut qu’il voie de ses propres yeux pour céder."
+      ],
+      [
+       "La lucidité vient d’en bas",
+       "Les plus clairvoyants sont ceux qui ont le moins de pouvoir : Dorine, la servante, insolente et drôle, et Elmire, l’épouse. Les beaux raisonnements de Cléante échouent. C’est la ruse d’Elmire qui réussit : pour convaincre un aveugle, il ne faut pas démontrer, il faut montrer."
+      ],
+      [
+       "Une pièce qui a dû se battre pour exister",
+       "Jouée en 1664, interdite aussitôt, réécrite, interdite de nouveau en 1667, elle n’est autorisée qu’en 1669. Cinq ans de combat contre le « parti dévot ». Molière y défend le rôle de la comédie : corriger les vices en les rendant ridicules."
+      ],
+      [
+       "Un nom devenu un mot",
+       "Un « tartuffe » désigne depuis le XVIIe siècle un hypocrite, et l’on parle de « tartufferie ». Peu de personnages ont laissé une trace aussi [[perenne|pérenne]] dans la langue : on emploie le mot sans même avoir vu la pièce."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Une maison sous influence (acte I)"
+    },
+    {
+     "p": "La pièce s’ouvre sur une dispute. Madame Pernelle, la mère d’Orgon, quitte la maison de son fils en reprochant à toute la famille sa légèreté. Elle n’a d’éloges que pour Tartuffe, un homme pieux, recueilli dans la misère par Orgon et installé depuis à demeure. Les autres ne voient en lui qu’un parasite : Damis, le fils, enrage ; Dorine, la servante de Mariane, se moque ouvertement de ce saint homme qui mange comme quatre et surveille tout le monde.",
+     "lead": 1
+    },
+    {
+     "p": "Orgon rentre de la campagne. Dorine lui raconte que sa femme, Elmire, a été malade pendant son absence. À chaque détail, il ne pose qu’une question : et Tartuffe ? Apprenant que celui-ci a bien dîné et bien dormi, il s’attendrit : « Le pauvre homme ! » La scène, irrésistible, montre d’emblée l’étendue de l’envoûtement. Cléante, le beau-frère d’Orgon, tente de lui expliquer la différence entre la vraie dévotion et sa grimace. Orgon ne l’écoute pas."
+    },
+    {
+     "h5": "Le mariage forcé (acte II)"
+    },
+    {
+     "p": "Orgon annonce à sa fille Mariane qu’elle n’épousera pas Valère, qu’elle aime et à qui elle est promise, mais Tartuffe. La jeune fille, soumise, n’ose rien dire. Dorine parle à sa place, raille le futur mari et tient tête à son maître au point de manquer recevoir une gifle. Valère apprend la nouvelle ; les deux amoureux, piqués, se disputent au lieu de s’unir. Dorine doit les réconcilier et leur souffle un plan : gagner du temps."
+    },
+    {
+     "h5": "Le masque tombe à moitié (acte III)"
+    },
+    {
+     "p": "Tartuffe n’entre en scène qu’au troisième acte. Sa première réplique ordonne à son valet de ranger son cilice et son fouet de pénitence, assez fort pour que tout le monde l’entende. Puis il tend un mouchoir à Dorine pour qu’elle couvre sa gorge, trop décolletée à son goût. Resté seul avec Elmire, il lui déclare pourtant son amour, en mêlant le vocabulaire de la prière à celui du désir. Elmire, calme, lui propose un marché : elle se taira s’il renonce à Mariane."
+    },
+    {
+     "p": "Mais Damis, caché dans un cabinet, a tout entendu. Il dénonce Tartuffe à son père. Le faux dévot a alors un coup de génie : loin de nier, il s’accuse de tous les péchés, se dit le plus misérable des hommes et demande qu’on le chasse. Bouleversé par tant d’humilité, Orgon retourne sa colère contre son fils. Il maudit Damis, le chasse de la maison, le déshérite et, pour faire bonne mesure, signe une donation de tous ses biens au profit de Tartuffe."
+    },
+    {
+     "quote": "Couvrez ce sein que je ne saurais voir. Par de pareils objets les âmes sont blessées, Et cela fait venir de coupables pensées.",
+     "cite": "Tartuffe à Dorine, acte III, scène 2"
+    },
+    {
+     "h5": "La scène de la table (acte IV)"
+    },
+    {
+     "p": "Cléante somme Tartuffe de réconcilier le père et le fils et de refuser un héritage qui ne lui revient pas. L’imposteur répond que c’est l’intérêt du Ciel qui l’oblige à accepter. Mariane se jette aux pieds de son père : rien n’y fait. Elmire décide alors de lui prouver la vérité. Elle fait cacher son mari sous la table et convoque Tartuffe."
+    },
+    {
+     "p": "Elle feint de céder. Tartuffe, méfiant, réclame des preuves concrètes de son amour et la rassure : le Ciel, dit-il, admet des arrangements, et le péché commis en secret n’en est pas un. Elmire tousse pour alerter son mari, qui tarde à sortir. Quand Orgon surgit enfin et ordonne à Tartuffe de partir, celui-ci retourne la situation : c’est à Orgon de quitter les lieux, car la maison lui appartient désormais. Orgon s’affole pour une autre raison : il a confié à Tartuffe une cassette."
+    },
+    {
+     "h5": "Le roi tranche (acte V)"
+    },
+    {
+     "p": "Cette cassette contient les papiers d’Argas, un ami d’Orgon compromis dans les troubles politiques et contraint à fuir. Les détenir est un crime d’État. Madame Pernelle refuse encore de croire à la trahison, jusqu’à l’arrivée de Monsieur Loyal, un huissier mielleux qui vient signifier à la famille qu’elle doit vider les lieux le lendemain matin. Valère accourt : Tartuffe a dénoncé Orgon au roi et l’on vient l’arrêter. Il lui offre sa voiture et de l’argent pour s’enfuir."
+    },
+    {
+     "p": "Trop tard : Tartuffe arrive avec un exempt, officier de police royal. Coup de théâtre, c’est l’imposteur que l’exempt arrête. Le roi, qui voit clair dans les cœurs, a reconnu en lui un escroc déjà recherché sous un autre nom. Il annule la donation et pardonne à Orgon en souvenir de sa fidélité passée. La famille est sauvée, et Mariane épousera Valère."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Cinq ans de bataille"
+    },
+    {
+     "p": "Molière présente une première version en trois actes à Versailles, le 12 mai 1664, pendant les fêtes des <em>Plaisirs de l’île enchantée</em>. Louis XIV s’en amuse mais l’interdit en public, sous la pression de la Compagnie du Saint-Sacrement, une société secrète de dévots influents. Une deuxième version, <em>Panulphe ou l’Imposteur</em>, est jouée une seule fois, le 5 août 1667, avant d’être interdite à son tour ; l’archevêque de Paris menace d’excommunication quiconque la jouerait ou la lirait. Il faut attendre le 5 février 1669 pour que la version définitive triomphe au Palais-Royal. Entre-temps, Molière adresse au roi trois placets pour défendre sa pièce."
+    },
+    {
+     "h5": "Une entrée retardée"
+    },
+    {
+     "p": "Pendant deux actes, tout le monde parle de Tartuffe sans qu’on le voie. Les uns l’adorent, les autres le haïssent : le spectateur se fait une idée avant même qu’il paraisse. Molière l’expliquait lui-même : il voulait qu’on ne puisse pas se tromper sur le personnage. Quand Tartuffe entre enfin, sa première réplique, trop sonore pour être sincère, confirme d’un coup tout ce que Dorine en disait."
+    },
+    {
+     "h5": "Le langage comme arme"
+    },
+    {
+     "p": "Écrite en cinq actes et en alexandrins, la pièce montre comment les mots de la religion peuvent servir n’importe quelle cause. Tartuffe ne ment presque jamais frontalement : il retourne les accusations, s’humilie pour mieux dominer, invoque le Ciel pour justifier ce qui l’arrange. Face à lui, Dorine parle cru et vrai, et le contraste fait le comique. Le mouchoir tendu pour couvrir la gorge de la servante, puis la main qui s’égare sur le genou d’Elmire résument en deux gestes l’écart entre le discours et le désir."
+    },
+    {
+     "h5": "Un dénouement en forme de révérence"
+    },
+    {
+     "p": "On a souvent reproché à Molière sa fin, trop commode : un exempt arrive et le roi règle tout. C’est un hommage appuyé à Louis XIV, qui avait soutenu la pièce. Mais c’est aussi un constat amer. Dans la logique de l’intrigue, Tartuffe a gagné : il a l’argent, la maison et de quoi faire condamner son bienfaiteur. Rien, à l’intérieur de la famille, ne pouvait [[pallier|pallier]] l’aveuglement d’Orgon. Seule une autorité extérieure arrête l’imposteur."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Les tartuffes n’ont pas disparu ; ils ont changé de vocabulaire. Le gourou, le manipulateur, le donneur de leçons qui exige des autres ce qu’il ne s’applique pas : tous empruntent un langage de vertu pour prendre du pouvoir. La pièce rappelle surtout que la manipulation a besoin d’un complice qui veut être trompé. Elle reste l’une des plus jouées du répertoire, et sa leçon, [[perenne|pérenne]], tient en une question simple : que gagne celui qui me parle de morale ?"
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Orgon, riche bourgeois parisien, a recueilli chez lui Tartuffe, un faux dévot qu’il vénère au point de lui promettre sa fille et de lui donner tous ses biens. Sa famille tente en vain de lui ouvrir les yeux, jusqu’à ce que sa femme Elmire piège l’imposteur sous son regard. Il faut alors l’intervention du roi pour sauver la maison.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’hypocrisie</b> : Molière vise ceux qui se servent de la foi, pas la foi. Attaquer le faux dévot, c’est paraître attaquer la religion.",
+      "<b>L’aveuglement</b> : Orgon veut être dupe. Plus on lui montre la vérité, plus il s’accroche.",
+      "<b>La lucidité vient d’en bas</b> : Dorine la servante et Elmire l’épouse voient clair. Pour convaincre, il faut montrer, pas démontrer.",
+      "<b>Cinq ans de combat</b> : jouée en 1664, interdite en 1664 et en 1667, autorisée en 1669.",
+      "<b>Un nom devenu un mot</b> : « tartuffe » signifie hypocrite, une trace [[perenne|pérenne]] dans la langue."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Acte I, l’envoûtement</b> : Orgon a installé chez lui Tartuffe. Sa femme a été malade ; il ne demande que des nouvelles de son protégé : « Le pauvre homme ! »",
+      "<b>Acte II, le mariage forcé</b> : il promet sa fille Mariane à Tartuffe au lieu de Valère. Mariane se tait, Dorine tient tête à son maître et réconcilie les deux amoureux brouillés.",
+      "<b>Acte III, le retournement</b> : Tartuffe déclare son amour à Elmire. Damis le dénonce, mais l’imposteur s’accuse de tout avec humilité. Orgon chasse son fils et donne tous ses biens à Tartuffe.",
+      "<b>Acte IV, la table</b> : Orgon, caché sous la table, voit Tartuffe séduire sa femme. Trop tard : la maison appartient désormais à l’imposteur, qui détient aussi une cassette compromettante.",
+      "<b>Acte V, le roi</b> : la cassette contient les papiers d’un ami proscrit. Un huissier vient expulser la famille. Tartuffe dénonce Orgon, mais l’exempt arrête l’escroc, déjà recherché sous un autre nom. Le roi annule la donation ; Mariane épousera Valère."
+     ]
+    },
+    {
+     "quote": "Couvrez ce sein que je ne saurais voir. Par de pareils objets les âmes sont blessées, Et cela fait venir de coupables pensées.",
+     "cite": "Tartuffe à Dorine, acte III, scène 2"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Une bataille</b> : la Compagnie du Saint-Sacrement fait interdire la pièce ; l’archevêque de Paris menace d’excommunication ses spectateurs en 1667. Triomphe le 5 février 1669.",
+      "<b>Une entrée retardée</b> : Tartuffe n’apparaît qu’à l’acte III, quand le public sait déjà tout de lui. Sa première réplique, qui évoque bruyamment son cilice, confirme d’un coup le portrait de Dorine.",
+      "<b>Le langage comme arme</b> : en alexandrins, Tartuffe retourne les accusations et invoque le Ciel pour ses désirs.",
+      "<b>Le dénouement</b> : hommage à Louis XIV, mais constat amer. Rien dans la famille ne pouvait [[pallier|pallier]] l’aveuglement d’Orgon.",
+      "<b>Aujourd’hui</b> : gourous et donneurs de leçons empruntent toujours le langage de la vertu. La manipulation a besoin d’une dupe consentante."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Shoe Dog",
+   "by": "Phil Knight · 2016",
+   "min": 9,
+   "exMin": 3,
+   "src": "Phil Knight, Shoe Dog: A Memoir by the Creator of Nike (Scribner, avril 2016) ; trad. française : L’Art de la victoire. Autobiographie du fondateur de Nike (Hugo, trad. Bastien Drut). Chiffres : Oregon Sports Hall of Fame (ventes 1972, 1980, 1986, 1999) ; Nike Inc., résultats de l’exercice 2026 (30 juin 2026) ; Wikipédia, « Nike, Inc. » et « Phil Knight » (ventes 1964-1965, dates). Œuvre protégée : synthèse reformulée.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Phil Knight raconte les dix-huit premières années de Nike, de 1962 à 1980 : un jeune diplômé de l’Oregon importe des chaussures japonaises, frôle la faillite chaque année, rompt avec son fournisseur, crée sa propre marque et finit par entrer en Bourse. Un récit sincère sur l’obsession, le risque et la fidélité d’une petite équipe."
+      ],
+      [
+       "La croissance dévore le cash",
+       "Les ventes doublent presque chaque année : environ 8 000 dollars en 1964, 20 000 en 1965, près de 3 millions en 1972. Mais chaque paire doit être payée au Japon des mois avant d’être vendue. Plus l’entreprise grandit, plus elle manque d’argent, et les banquiers ne comprennent pas pourquoi Knight refuse de ralentir."
+      ],
+      [
+       "Dépendre d’un seul fournisseur, c’est vivre en sursis",
+       "Pendant sept ans, Blue Ribbon ne vend que des Onitsuka Tiger. En 1971, le fabricant japonais veut prendre 51 % de la société, puis cherche un autre distributeur. Nike naît de cette menace : une marque à soi, fabriquée par d’autres usines."
+      ],
+      [
+       "Le produit vient du terrain",
+       "Bill Bowerman, entraîneur d’athlétisme, découpe et recoud les chaussures de ses coureurs pour les alléger. Il invente la semelle gaufrée en coulant du caoutchouc dans le gaufrier de sa femme. Le Waffle Trainer, lancé en 1974, porte la croissance de la marque."
+      ],
+      [
+       "Une bande d’inadaptés fidèles",
+       "Jeff Johnson, premier salarié, écrit des lettres fleuves ; Bob Woodell, paralysé après un accident, gère les opérations depuis son fauteuil. Knight délègue sans contrôler, et cette confiance tient l’équipe soudée à travers toutes les crises."
+      ],
+      [
+       "Le prix de l’obsession",
+       "Knight ne cache pas ce que l’aventure a coûté : des années d’angoisse, une vie de famille sacrifiée, des fils qu’il a peu vus grandir. Le succès est réel, mais le livre se lit aussi comme un aveu."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Une idée née dans un mémoire"
+    },
+    {
+     "p": "Phil Knight naît en 1938 à Portland, dans l’Oregon. Coureur de demi-fond à l’université de l’Oregon, il s’entraîne sous la direction de Bill Bowerman. À Stanford, il rédige un mémoire de gestion avec une question simple : les chaussures de sport japonaises peuvent-elles faire aux allemandes, Adidas et Puma, ce que les appareils photo japonais ont fait aux appareils allemands ? En 1962, il part au Japon avec l’argent prêté par son père, se présente chez Onitsuka à Kobe et invente sur place le nom de sa société, Blue Ribbon, pour décrocher la distribution des Tiger dans l’ouest des États-Unis."
+    },
+    {
+     "h5": "Vendre les chaussures des autres (1964-1971)"
+    },
+    {
+     "p": "Le 25 janvier 1964, Knight et Bowerman scellent leur association d’une poignée de main, avec 500 dollars chacun. Knight vend les premières paires dans le coffre de sa voiture, sur les pistes d’athlétisme. La première année, Blue Ribbon écoule 1 300 paires pour environ 8 000 dollars. Pour vivre, Knight garde un emploi d’expert-comptable, puis de professeur, et n’entre à plein temps dans la société qu’en 1969. Chaque printemps, il faut commander davantage, payer d’avance, et supplier la banque d’augmenter la ligne de crédit. Jeff Johnson, premier salarié à plein temps, ouvre en 1966 une première boutique à Santa Monica, en Californie, et tient un fichier minutieux de ses clients coureurs. Bob Woodell, ancien athlète de l’Oregon resté paralysé après un accident, rejoint l’équipe sur recommandation de Bowerman et devient l’homme des opérations. Knight, lui, multiplie les allers-retours au Japon pour défendre son contrat d’exclusivité face à des distributeurs concurrents."
+    },
+    {
+     "h5": "La rupture et la naissance de Nike (1971-1972)"
+    },
+    {
+     "p": "Quand Onitsuka cherche à le remplacer, Knight prépare une marque propre, fabriquée par d’autres usines. Le nom est soufflé par Jeff Johnson, d’après la déesse grecque de la victoire ; Knight lui préférait « Dimension Six ». Le logo, la virgule baptisée Swoosh, est dessiné par une étudiante en graphisme, Carolyn Davidson, payée 35 dollars. La rupture avec le fournisseur japonais tourne au procès : Blue Ribbon l’emporte et obtient un dédommagement. Débarrassé de son ancien partenaire, Nike s’appuie sur des athlètes comme Steve Prefontaine, coureur rebelle de l’Oregon mort en 1975 dans un accident de voiture, à 24 ans."
+    },
+    {
+     "h5": "Le financement, cauchemar permanent"
+    },
+    {
+     "p": "C’est le fil rouge du livre. La banque de Knight finit par fermer ses comptes et alerter le FBI, soupçonnant des chèques sans provision. Une maison de commerce japonaise, Nissho Iwai, prend le relais et finance les stocks pour [[pallier|pallier]] l’absence de crédit bancaire. En 1977, les douanes américaines réclament 25 millions de dollars en vertu d’une vieille règle de calcul des droits sur les chaussures, réactivée sous la pression de concurrents. Knight mobilise politiques et médias, et la facture est ramenée à 9 millions."
+    },
+    {
+     "stats": [
+      [
+       "500 $",
+       "mise de départ de Knight, et autant pour Bowerman, en 1964"
+      ],
+      [
+       "35 $",
+       "payés en 1971 pour le dessin du Swoosh"
+      ],
+      [
+       "25 M$ → 9 M$",
+       "réclamés puis obtenus par les douanes américaines"
+      ],
+      [
+       "≈ 270 M$",
+       "ventes de Nike en 1980, année de l’entrée en Bourse"
+      ]
+     ]
+    },
+    {
+     "h5": "1980 : la Bourse sans perdre la main"
+    },
+    {
+     "p": "Knight a longtemps refusé d’ouvrir son capital, par peur de perdre le contrôle. Il s’y résout le 2 décembre 1980, avec deux catégories d’actions qui laissent aux fondateurs la majorité du conseil. Cette année-là, Nike réalise près de 270 millions de dollars de ventes et détient environ la moitié du marché américain de la chaussure de sport. Le groupe franchira le milliard en 1986. Sur l’exercice clos fin mai 2026, il a réalisé 46,4 milliards de dollars de chiffre d’affaires, stable sur un an."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les ventes de Nike, de l’entrée en Bourse à aujourd’hui",
+      "sub": "en milliards de dollars",
+      "labels": [
+       "1980",
+       "1986",
+       "1999",
+       "2026"
+      ],
+      "series": [
+       {
+        "name": "Chiffre d’affaires annuel",
+        "values": [
+         0.27,
+         1,
+         9,
+         46.4
+        ]
+       }
+      ],
+      "note": "Sources : Oregon Sports Hall of Fame (1980, 1986, 1999, ordres de grandeur) ; Nike Inc., exercice clos le 31 mai 2026."
+     }
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Écrit avec l’aide de J. R. Moehringer, le livre a le charme d’un roman et les défauts d’une autobiographie. Knight choisit ce qu’il raconte : le récit s’arrête en 1980, juste avant les années de domination mondiale, de la sous-traitance massive en Asie et des scandales sur les conditions de travail dans les usines. Il n’y consacre que quelques pages, dans un épilogue. Le lecteur doit garder à l’esprit qu’il entend la version du fondateur. L’épilogue, plus intime, évoque pourtant la mort de son fils aîné Matthew, en 2004, lors d’une plongée au Salvador, et laisse percer le regret d’un père trop absent."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Paru en avril 2016, <em>Shoe Dog</em> est devenu un classique des récits d’entrepreneurs ; Bill Gates l’a placé dans sa liste de lectures de l’été 2016. Il plaît parce qu’il raconte l’envers du succès : l’angoisse des échéances, les fournisseurs qui lâchent, les banques qui doutent. Sa leçon, [[perenne|pérenne]], parle à quiconque gère des flux : une entreprise ne meurt pas faute de clients, mais faute de trésorerie. Knight a quitté la direction générale de Nike en 2004, puis la présidence du conseil en 2016, l’année même de la parution du livre."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Phil Knight raconte les dix-huit premières années de Nike, de 1962 à 1980 : un jeune diplômé de l’Oregon importe des chaussures japonaises, frôle la faillite chaque année, rompt avec son fournisseur, crée sa propre marque et finit par entrer en Bourse. Un récit sincère sur l’obsession, le risque et la fidélité d’une petite équipe.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La croissance dévore le cash</b> : ≈ 8 000 $ de ventes en 1964, 20 000 $ en 1965, près de 3 M$ en 1972. Chaque paire est payée au Japon avant d’être vendue.",
+      "<b>Le risque fournisseur</b> : en 1971, Onitsuka veut 51 % de Blue Ribbon. Nike naît de cette menace.",
+      "<b>Le produit vient du terrain</b> : Bowerman invente la semelle gaufrée avec le gaufrier de sa femme ; Waffle Trainer en 1974.",
+      "<b>Une équipe fidèle</b> : Jeff Johnson, Bob Woodell… Knight délègue et fait confiance.",
+      "<b>Le prix</b> : angoisse permanente et vie de famille sacrifiée."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "500 $",
+       "mise de départ de Knight, et autant pour Bowerman, en 1964"
+      ],
+      [
+       "35 $",
+       "payés en 1971 pour le dessin du Swoosh"
+      ],
+      [
+       "25 M$ → 9 M$",
+       "réclamés puis obtenus par les douanes américaines"
+      ],
+      [
+       "≈ 270 M$",
+       "ventes de Nike en 1980, année de l’entrée en Bourse"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les ventes de Nike, de l’entrée en Bourse à aujourd’hui",
+      "sub": "en milliards de dollars",
+      "labels": [
+       "1980",
+       "1986",
+       "1999",
+       "2026"
+      ],
+      "series": [
+       {
+        "name": "Chiffre d’affaires annuel",
+        "values": [
+         0.27,
+         1,
+         9,
+         46.4
+        ]
+       }
+      ],
+      "note": "Sources : Oregon Sports Hall of Fame (1980, 1986, 1999, ordres de grandeur) ; Nike Inc., exercice clos le 31 mai 2026."
+     }
+    },
+    {
+     "ul": [
+      "<b>L’origine</b> : un mémoire à Stanford sur les chaussures japonaises face à Adidas et Puma, puis un voyage à Kobe en 1962.",
+      "<b>1964</b> : 500 $ chacun, Knight et Bowerman ; 1 300 paires vendues la première année.",
+      "<b>1971</b> : le nom Nike, soufflé par Jeff Johnson, et le Swoosh de Carolyn Davidson, payé 35 $.",
+      "<b>Le financement</b> : la banque ferme les comptes ; Nissho Iwai finance les stocks pour [[pallier|pallier]] le manque de crédit. Les douanes réclament 25 M$, ramenés à 9 M$.",
+      "<b>2 décembre 1980</b> : entrée en Bourse, avec deux catégories d’actions pour garder le contrôle. ≈ 270 M$ de ventes.",
+      "<b>L’équipe</b> : Jeff Johnson ouvre la première boutique à Santa Monica en 1966 ; Bob Woodell, paralysé après un accident, gère les opérations.",
+      "<b>Limites</b> : le récit s’arrête en 1980 et passe vite sur les usines asiatiques. Knight quitte la direction en 2004.",
+      "<b>La leçon</b>, [[perenne|pérenne]] : on ne meurt pas faute de clients, mais faute de trésorerie."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Inflation américaine : le pétrole force la main de la Fed",
+   "by": "Analyse",
+   "fig": "3,7 %",
+   "figl": "inflation américaine en septembre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Bureau of Labor Statistics, Consumer Price Index – September 2026 (14 octobre 2026) et série mensuelle 2026 (via cpichart.com ; mai 2026 : BLS, The Economics Daily) ; Réserve fédérale, décision du 16 septembre 2026 (via U.S. Bank et CNBC) ; Charles Schwab et Bloomberg (probabilités de hausse, rendements, WTI, 14 octobre 2026) ; Agence internationale de l’énergie, rapport mensuel d’octobre 2026 (via The National, 14 octobre 2026) ; TD Economics (début du conflit, 27 février 2026). Données arrêtées au 14 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 14 octobre, le Bureau of Labor Statistics a publié les prix de septembre : + 0,6 % en un mois et + 3,7 % sur un an, contre 3,4 % en août et 3,6 % attendus. Le moteur est l’énergie, en hausse de 20,4 % sur un an, quand l’alimentation reste stable sur le mois et ne progresse que de 2,5 % sur un an. L’essence a pris 9,1 % en un seul mois et explique à elle seule plus de la moitié de la hausse de septembre.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "L’inflation américaine en 2026",
+      "sub": "Hausse des prix sur un an, en %",
+      "labels": [
+       "janv.",
+       "mars",
+       "avr.",
+       "mai",
+       "juil.",
+       "août",
+       "sept."
+      ],
+      "series": [
+       {
+        "name": "Indice des prix à la consommation",
+        "values": [
+         2.4,
+         3.3,
+         3.8,
+         4.2,
+         3.4,
+         3.4,
+         3.7
+        ]
+       }
+      ],
+      "note": "Source : Bureau of Labor Statistics (CPI-U, non corrigé des variations saisonnières)."
+     }
+    },
+    {
+     "h": "Un choc pétrolier qui s’éternise"
+    },
+    {
+     "p": "Tout part de la guerre en Iran, déclenchée fin février, et de la paralysie du détroit d’Ormuz. L’inflation, à 2,4 % en début d’année, grimpe jusqu’à 4,2 % en mai, reflue pendant l’été, puis repart. Le baril de WTI coûte encore près de 96 dollars le 14 octobre, et l’Agence internationale de l’énergie prévient que la pénurie de diesel pourrait durer jusqu’en 2027. Le choc, que l’on espérait passager, devient [[perenne|pérenne]]."
+    },
+    {
+     "stats": [
+      [
+       "+ 34,2 %",
+       "prix de l’essence sur un an"
+      ],
+      [
+       "+ 74,2 %",
+       "prix du fioul domestique sur un an"
+      ],
+      [
+       "3,75-4 %",
+       "taux directeur de la Fed depuis le 16 septembre"
+      ],
+      [
+       "46 %",
+       "probabilité d’une hausse fin octobre, selon les marchés"
+      ]
+     ]
+    },
+    {
+     "h": "Le dilemme de la Fed"
+    },
+    {
+     "p": "Hors énergie et alimentation, l’inflation dite sous-jacente n’est que de 2,6 %. Mais elle progresse de 0,3 % par mois pour le deuxième mois de suite, tirée par les loyers et les services. C’est le signal que redoute la banque centrale : la hausse de l’énergie commence à se diffuser au reste de l’économie. Sous la présidence de Kevin Warsh, la Fed a relevé ses taux le 16 septembre, pour la première fois depuis 2023. Après ces chiffres, les marchés donnent 46 % de chances à une nouvelle hausse les 27 et 28 octobre, contre 20 % la veille. Le taux à dix ans de l’État américain atteint 5,30 %. John Williams, président de la Fed de New York, juge appropriée une hausse de plus cette année, mais pas au-delà : il s’attend à un reflux de l’inflation en 2027."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une banque centrale ne fabrique pas de barils : ses taux ne peuvent pas [[pallier|pallier]] le manque de pétrole. Elle vise autre chose, les effets de second tour, quand salaires et prix des services s’ajustent à leur tour. À trois semaines des élections de mi-mandat du 3 novembre, la Fed doit choisir entre freiner une économie déjà secouée et laisser l’inflation s’installer."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>3,7 %</b> : inflation américaine sur un an en septembre, contre 3,4 % en août et 3,6 % attendus.",
+      "<b>L’énergie</b> : + 20,4 % sur un an ; l’essence + 9,1 % en un mois, plus de la moitié de la hausse.",
+      "<b>L’origine</b> : la guerre en Iran depuis fin février et Ormuz. Pic à 4,2 % en mai ; WTI près de 96 $. Pénurie de diesel jusqu’en 2027, selon l’AIE : le choc devient [[perenne|pérenne]]."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "L’inflation américaine en 2026",
+      "sub": "Hausse des prix sur un an, en %",
+      "labels": [
+       "janv.",
+       "mars",
+       "avr.",
+       "mai",
+       "juil.",
+       "août",
+       "sept."
+      ],
+      "series": [
+       {
+        "name": "Indice des prix à la consommation",
+        "values": [
+         2.4,
+         3.3,
+         3.8,
+         4.2,
+         3.4,
+         3.4,
+         3.7
+        ]
+       }
+      ],
+      "note": "Source : Bureau of Labor Statistics (CPI-U, non corrigé des variations saisonnières)."
+     }
+    },
+    {
+     "h": "La Fed"
+    },
+    {
+     "stats": [
+      [
+       "+ 34,2 %",
+       "prix de l’essence sur un an"
+      ],
+      [
+       "+ 74,2 %",
+       "prix du fioul domestique sur un an"
+      ],
+      [
+       "3,75-4 %",
+       "taux directeur de la Fed depuis le 16 septembre"
+      ],
+      [
+       "46 %",
+       "probabilité d’une hausse fin octobre, selon les marchés"
+      ]
+     ]
+    },
+    {
+     "ul": [
+      "<b>Inflation sous-jacente</b> : 2,6 %, mais + 0,3 % par mois deux fois de suite, tirée par les loyers.",
+      "<b>Taux</b> : hausse le 16 septembre, la première depuis 2023 ; taux à dix ans à 5,30 %."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Limite</b> : les taux ne peuvent pas [[pallier|pallier]] le manque de pétrole ; ils visent les effets de second tour.",
+      "<b>Calendrier</b> : réunion de la Fed les 27 et 28 octobre, élections de mi-mandat le 3 novembre."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Flotte fantôme : la France passe à l’abordage",
+   "by": "Analyse",
+   "fig": "5",
+   "figl": "pétroliers saisis par la France en 2026",
+   "min": 3,
+   "exMin": 2,
+   "src": "Naval News (12 octobre 2026) ; USNI News (13 octobre 2026 : propriétaire, pavillon, sanctions, saisies précédentes, réaction russe) ; Just Security, Early Edition (13 octobre 2026 : déclaration de l’ambassade, accord sur le diesel russe) ; Hill Dickinson, 22e paquet de sanctions de l’UE (navires sanctionnés) ; Wikipédia, « Russian shadow fleet » (estimations de taille, assurance, incidents). Données arrêtées au 13 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 12 octobre, un hélicoptère de la Marine nationale a déposé une équipe sur le pont du <em>DF Peak</em>, un pétrolier de 2006, à plus de 450 milles nautiques au sud de La Réunion. Ancien <em>Kaliningrad</em>, aujourd’hui détenu par une société de Hong Kong et sous pavillon béninois suspecté d’être faux, il est sanctionné par les États-Unis, l’Union européenne et le Royaume-Uni. C’est le cinquième navire de la flotte fantôme russe arraisonné par la France cette année. À la demande du parquet, il est escorté vers un mouillage au large de l’île, ses 21 marins à bord sous surveillance militaire.",
+     "lead": 1
+    },
+    {
+     "h": "Une flotte née des sanctions"
+    },
+    {
+     "p": "Après l’invasion de l’Ukraine, le G7 et l’Union européenne ont plafonné le prix du pétrole russe transporté avec des services occidentaux, assurance comprise. Moscou a répondu en constituant sa propre flotte : de vieux pétroliers rachetés, des propriétaires écrans, des pavillons de complaisance ou usurpés, des transpondeurs coupés et des transbordements en pleine mer. Environ deux tiers des navires transportant du pétrole russe ont un assureur inconnu. Une marée noire en mer Noire en décembre 2024 a montré le risque que représentent ces coques fatiguées."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La flotte fantôme russe en expansion",
+      "sub": "Nombre estimé de navires",
+      "rows": [
+       [
+        "Fin 2022",
+        600
+       ],
+       [
+        "Fin 2023 (bas de fourchette)",
+        1100
+       ],
+       [
+        "Février 2026",
+        1337
+       ]
+      ],
+      "note": "Sources : estimation de Trafigura citée par Bloomberg (2022) ; Atlantic Council et Windward (2023, fourchette 1 100 à 1 400) ; catalogue du gouvernement ukrainien (2026). Estimations, méthodes différentes."
+     }
+    },
+    {
+     "h": "Le droit de la mer comme arme"
+    },
+    {
+     "p": "La France s’appuie sur l’article 110 de la convention des Nations unies sur le droit de la mer : un navire de guerre peut visiter, en haute mer, un bateau suspecté de n’avoir aucune nationalité réelle. Un faux pavillon fait du pétrolier un navire apatride. Après le <em>Grinch</em> en janvier, le <em>Deyna</em> en mars, le <em>Tagor</em> et le <em>Deliver</em> en juin, la méthode devient [[perenne|pérenne]], et s’exporte désormais jusqu’à l’océan Indien. L’ambassade de Russie parle de « piraterie » ; Vladimir Poutine a promis le 1er octobre d’agir « symétriquement » sur d’autres océans."
+    },
+    {
+     "stats": [
+      [
+       "450 milles",
+       "au sud de La Réunion, lieu de l’abordage"
+      ],
+      [
+       "5",
+       "pétroliers saisis par la Marine française en 2026"
+      ],
+      [
+       "≈ 670",
+       "navires visés par les sanctions de l’UE"
+      ],
+      [
+       "2/3",
+       "des navires transportant du pétrole russe ont un assureur inconnu"
+      ]
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Chaque saisie coûte cher à Moscou, mais elle ne suffit pas à [[pallier|pallier]] les failles du régime de sanctions : plus de 1 300 navires seraient en circulation. Et le choc pétrolier brouille le message : Washington vient d’autoriser des exportations de diesel russe pour faire baisser les prix. L’Europe resserre l’étau en mer pendant que l’Amérique le desserre à terre. Le risque d’escalade grandit aussi : le même jour, des drones ont frappé deux navires au large de la Bulgarie, en mer Noire, et onze marins sont portés disparus. Sofia a convoqué l’ambassadeur russe, sans accuser formellement Moscou."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>12 octobre</b> : la Marine française aborde le <em>DF Peak</em>, pétrolier de 2006 sous faux pavillon béninois, à 450 milles au sud de La Réunion.",
+      "<b>Le cinquième</b> en 2026, après le <em>Grinch</em>, le <em>Deyna</em>, le <em>Tagor</em> et le <em>Deliver</em>. Une méthode devenue [[perenne|pérenne]]."
+     ]
+    },
+    {
+     "h": "La flotte fantôme"
+    },
+    {
+     "ul": [
+      "<b>L’origine</b> : le plafonnement du prix du pétrole russe par le G7 et l’UE. Moscou rachète de vieux pétroliers aux propriétaires opaques.",
+      "<b>Les ruses</b> : faux pavillons, transpondeurs coupés, transbordements en mer. Deux tiers des navires ont un assureur inconnu."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La flotte fantôme russe en expansion",
+      "sub": "Nombre estimé de navires",
+      "rows": [
+       [
+        "Fin 2022",
+        600
+       ],
+       [
+        "Fin 2023 (bas de fourchette)",
+        1100
+       ],
+       [
+        "Février 2026",
+        1337
+       ]
+      ],
+      "note": "Sources : estimation de Trafigura citée par Bloomberg (2022) ; Atlantic Council et Windward (2023, fourchette 1 100 à 1 400) ; catalogue du gouvernement ukrainien (2026). Estimations, méthodes différentes."
+     }
+    },
+    {
+     "h": "Le droit et la riposte"
+    },
+    {
+     "ul": [
+      "<b>Article 110</b> du droit de la mer : un navire sans vraie nationalité peut être visité en haute mer.",
+      "<b>Moscou</b> crie à la « piraterie » ; Poutine promet d’agir « symétriquement ». En mer Noire, des drones frappent deux navires au large de la Bulgarie : onze marins disparus."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "450 milles",
+       "au sud de La Réunion, lieu de l’abordage"
+      ],
+      [
+       "5",
+       "pétroliers saisis par la Marine française en 2026"
+      ],
+      [
+       "≈ 670",
+       "navires visés par les sanctions de l’UE"
+      ],
+      [
+       "2/3",
+       "des navires transportant du pétrole russe ont un assureur inconnu"
+      ]
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Limite</b> : les saisies ne peuvent pas [[pallier|pallier]] les failles des sanctions, avec plus de 1 300 navires en circulation. Et Washington autorise le diesel russe pour faire baisser les prix."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Chaîne du froid : des pirates aux commandes des frigos",
+   "by": "Analyse",
+   "fig": "50 °C",
+   "figl": "dans des frigos de supermarchés piratés",
+   "min": 3,
+   "exMin": 2,
+   "src": "Al Jazeera (13 octobre 2026 : enseignes, Danfoss, Claroty, Anssi, autres pays via Sekoia) ; TIME (13 octobre 2026 : séries AK-SC et AK-SM, pertes en Alsace, Le Monde sur la durée du dégivrage, UK Cyber Defence, CERT-FR, Food and Ag-ISAC) ; parquet de Paris. Données arrêtées au 13 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Dans la nuit du dimanche 11 au lundi 12 octobre, des centaines de supermarchés français ont vu leurs vitrines réfrigérées et leurs chambres froides se transformer en étuves. Des pirates ont déclenché à distance des cycles de dégivrage forcé : jusqu’à 50 °C dans certains meubles, plusieurs départs de feu, et tout le frais et le surgelé bon à jeter. Le parquet de Paris a ouvert une enquête et l’Anssi, l’agence nationale de cybersécurité, est mobilisée.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les enseignes touchées",
+      "sub": "Nombre de magasins, au moins",
+      "rows": [
+       [
+        "Intermarché et Netto",
+        180
+       ],
+       [
+        "Coopérative U",
+        100
+       ],
+       [
+        "Carrefour",
+        80
+       ],
+       [
+        "Monoprix",
+        30
+       ]
+      ],
+      "note": "Sources : enseignes, via TIME et Al Jazeera (13 octobre 2026). Les Mousquetaires citent environ 180 magasins, BFM TV environ 300. Plusieurs E.Leclerc également touchés."
+     }
+    },
+    {
+     "h": "La faille : un thermostat sur internet"
+    },
+    {
+     "p": "Dans un magasin, une centrale pilote tous les groupes froids. Pour que les frigoristes puissent régler les températures sans se déplacer, elle est souvent accessible depuis internet. Les systèmes visés sont des contrôleurs du danois Danfoss, des séries AK-SC et AK-SM, dont beaucoup tournaient avec un logiciel interne périmé. Une société de sécurité, Claroty, avait décrit dès le 9 août une faille permettant de contourner l’authentification ; des correctifs existaient. Selon <em>Le Monde</em>, le dégivrage a parfois été prolongé d’une à huit heures, ce qui a retardé les alarmes. La France concentrerait près de 60 % des contrôleurs de ce type repérés en ligne."
+    },
+    {
+     "stats": [
+      [
+       "50 °C",
+       "température atteinte dans des meubles réfrigérés"
+      ],
+      [
+       "1 h → 8 h",
+       "durée du dégivrage forcé, qui retarde les alarmes"
+      ],
+      [
+       "≈ 60 %",
+       "des contrôleurs Danfoss exposés en ligne sont en France"
+      ],
+      [
+       "227",
+       "attaques par rançongiciel dans l’agroalimentaire, janv.-juil. 2026 (+ 62 %)"
+      ]
+     ]
+    },
+    {
+     "h": "Un coût en cascade"
+    },
+    {
+     "p": "Deux magasins d’Alsace chiffrent à eux seuls leurs pertes à 270 000 euros. Le patron d’Intermarché parle de dizaines de millions d’euros en une journée à l’échelle du pays. Il faut aussi [[pallier|pallier]] les ruptures en rayon, réapprovisionner en urgence, nettoyer et contrôler chaque meuble. L’Espagne, le Portugal, la Pologne, l’Allemagne et la Belgique auraient aussi été touchés. Danfoss affirme avoir conseillé de longue date à ses clients de mettre à jour ou de remplacer les équipements anciens ; la fédération du commerce, la FCD, lui réclame une « transparence totale ». Aucune revendication n’avait été publiée le 13 octobre."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La chaîne du froid est devenue une chaîne numérique. Chaque équipement connecté pour la maintenance, du groupe froid au convoyeur d’entrepôt, est une porte d’entrée. La réponse [[perenne|pérenne]] n’a rien de spectaculaire : inventorier ces équipements, appliquer les mises à jour, restreindre l’accès à des adresses de confiance, comme le recommande le CERT-FR, et garder des sondes de température indépendantes du système piloté."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Nuit du 11 au 12 octobre</b> : des pirates forcent à distance le dégivrage des frigos de centaines de supermarchés. Jusqu’à 50 °C, des départs de feu, le frais jeté.",
+      "<b>Enquête</b> : parquet de Paris et Anssi. Aucune revendication à ce stade ; la FCD exige de Danfoss une « transparence totale »."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les enseignes touchées",
+      "sub": "Nombre de magasins, au moins",
+      "rows": [
+       [
+        "Intermarché et Netto",
+        180
+       ],
+       [
+        "Coopérative U",
+        100
+       ],
+       [
+        "Carrefour",
+        80
+       ],
+       [
+        "Monoprix",
+        30
+       ]
+      ],
+      "note": "Sources : enseignes, via TIME et Al Jazeera (13 octobre 2026). Les Mousquetaires citent environ 180 magasins, BFM TV environ 300. Plusieurs E.Leclerc également touchés."
+     }
+    },
+    {
+     "h": "La faille"
+    },
+    {
+     "ul": [
+      "<b>Des centrales Danfoss</b> (AK-SC, AK-SM) accessibles par internet pour la maintenance, avec un logiciel périmé. Faille publiée le 9 août, correctifs disponibles.",
+      "<b>Le piège</b> : dégivrage prolongé d’une à huit heures, alarmes retardées. ≈ 60 % des contrôleurs exposés sont en France."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "50 °C",
+       "température atteinte dans des meubles réfrigérés"
+      ],
+      [
+       "1 h → 8 h",
+       "durée du dégivrage forcé, qui retarde les alarmes"
+      ],
+      [
+       "≈ 60 %",
+       "des contrôleurs Danfoss exposés en ligne sont en France"
+      ],
+      [
+       "227",
+       "attaques par rançongiciel dans l’agroalimentaire, janv.-juil. 2026 (+ 62 %)"
+      ]
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le coût</b> : 270 000 € pour deux magasins d’Alsace ; des dizaines de millions selon Intermarché. Il faut aussi [[pallier|pallier]] les ruptures en rayon.",
+      "<b>La leçon</b> : tout équipement connecté est une porte d’entrée. Réponse [[perenne|pérenne]] : inventaire, mises à jour, accès restreints, sondes indépendantes."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Airbus : le sprint des 323 avions",
+   "by": "Analyse",
+   "fig": "323",
+   "figl": "avions à livrer au 4e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Airbus, commandes et livraisons à fin septembre 2026 (via Aerospace Global News et Air Data News, 12-13 octobre 2026) ; Airbus, résultats annuels 2025 et objectifs 2026 (19 février 2026) ; livraisons annuelles 2019-2024 : Airbus. Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Airbus a livré 72 avions en septembre et 547 sur les neuf premiers mois de 2026, 7,9 % de plus qu’un an plus tôt. Pour tenir son objectif d’environ 870 livraisons, il lui reste 323 appareils à remettre d’ici au 31 décembre : près de 108 par mois, quand la moyenne depuis janvier est de 61. L’an dernier, l’avionneur avait déjà réussi un sprint final de 286 livraisons au quatrième trimestre, dont 136 en décembre.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les livraisons d’avions d’Airbus",
+      "sub": "Avions commerciaux livrés par an",
+      "labels": [
+       "2019",
+       "2020",
+       "2021",
+       "2022",
+       "2023",
+       "2024",
+       "2025",
+       "2026 (obj.)"
+      ],
+      "series": [
+       {
+        "name": "Livraisons",
+        "values": [
+         863,
+         566,
+         611,
+         661,
+         735,
+         766,
+         793,
+         870
+        ]
+       }
+      ],
+      "note": "Source : Airbus. 2026 : objectif d’environ 870 livraisons."
+     }
+    },
+    {
+     "h": "Le goulot : les moteurs"
+    },
+    {
+     "p": "Le problème n’est pas la demande, mais la chaîne d’approvisionnement. Pratt & Whitney ne fournit pas tous les moteurs commandés pour l’A320neo, et Airbus le lui reproche publiquement depuis février. Des avions sortent des chaînes sans moteur et attendent sur les parkings. S’y ajoutent des défauts de qualité sur des pièces de l’A321neo et l’arrêt des livraisons d’A330 en juin et juillet, après la découverte d’un outil oublié dans un empennage. Une vingtaine d’appareils ont ainsi glissé du troisième au quatrième trimestre. Pour [[pallier|pallier]] ces retards, l’avionneur concentre ses efforts sur la fin d’année."
+    },
+    {
+     "stats": [
+      [
+       "547",
+       "avions livrés de janvier à septembre 2026 (+ 7,9 %)"
+      ],
+      [
+       "≈ 108",
+       "livraisons par mois nécessaires au 4e trimestre, contre 61 en moyenne"
+      ],
+      [
+       "9 310",
+       "avions en commande fin septembre"
+      ],
+      [
+       "73,4 Md€",
+       "chiffre d’affaires 2025"
+      ]
+     ]
+    },
+    {
+     "h": "Un carnet plein pour dix ans"
+    },
+    {
+     "p": "Les clients, eux, se pressent : 1 105 commandes nettes en neuf mois, plus du double de l’an dernier sur la même période. Le carnet atteint 9 310 avions, soit plus de dix ans de production au rythme actuel. Fin 2025, il comptait 8 754 appareils pour une valeur d’environ 619 milliards d’euros. En 2025, Airbus a dégagé 73,4 milliards d’euros de chiffre d’affaires et 5,2 milliards de bénéfice net ; il vise environ 7,5 milliards d’euros de résultat opérationnel ajusté en 2026. L’objectif est de produire 70 à 75 A320 par mois fin 2027, puis 13 A220 et 12 A350 par mois en 2028. Les prévisions de 2026 supposent toutefois l’absence de nouvelle perturbation du commerce, du trafic aérien ou de la chaîne d’approvisionnement, une hypothèse fragile avec la guerre dans le Golfe."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Chez Airbus, la croissance se joue moins dans les salons commerciaux que chez les fournisseurs. Un avion vendu n’est encaissé qu’à sa livraison : chaque moteur manquant immobilise des dizaines de millions. Le défi est de bâtir une cadence [[perenne|pérenne]], plutôt que de tout miser chaque année sur un mois de décembre héroïque."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>547 livraisons</b> de janvier à septembre (+ 7,9 %), dont 72 en septembre.",
+      "<b>323 avions</b> à livrer au 4e trimestre pour atteindre ≈ 870 : 108 par mois, contre 61 en moyenne.",
+      "<b>Précédent</b> : 286 livraisons au 4e trimestre 2025, dont 136 en décembre. Il faudra faire 37 de mieux cette année."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les livraisons d’avions d’Airbus",
+      "sub": "Avions commerciaux livrés par an",
+      "labels": [
+       "2019",
+       "2020",
+       "2021",
+       "2022",
+       "2023",
+       "2024",
+       "2025",
+       "2026 (obj.)"
+      ],
+      "series": [
+       {
+        "name": "Livraisons",
+        "values": [
+         863,
+         566,
+         611,
+         661,
+         735,
+         766,
+         793,
+         870
+        ]
+       }
+      ],
+      "note": "Source : Airbus. 2026 : objectif d’environ 870 livraisons."
+     }
+    },
+    {
+     "h": "Les causes"
+    },
+    {
+     "ul": [
+      "<b>Moteurs</b> : Pratt & Whitney ne livre pas tous les moteurs de l’A320neo ; des avions attendent sans moteur.",
+      "<b>Qualité</b> : pièces de l’A321neo, A330 bloqués en juin-juillet. Pour [[pallier|pallier]] les retards, tout se joue en fin d’année."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "547",
+       "avions livrés de janvier à septembre 2026 (+ 7,9 %)"
+      ],
+      [
+       "≈ 108",
+       "livraisons par mois nécessaires au 4e trimestre, contre 61 en moyenne"
+      ],
+      [
+       "9 310",
+       "avions en commande fin septembre"
+      ],
+      [
+       "73,4 Md€",
+       "chiffre d’affaires 2025"
+      ]
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La demande</b> : 1 105 commandes nettes en neuf mois, carnet de 9 310 avions, contre 8 754 fin 2025 (≈ 619 Md€). 2025 : 73,4 Md€ de ventes, 5,2 Md€ de bénéfice.",
+      "<b>Le défi</b> : une cadence [[perenne|pérenne]], 70 à 75 A320 par mois fin 2027, plutôt qu’un sprint de décembre."
+     ]
+    }
+   ]
+  }
+ ]
+}
