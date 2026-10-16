@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-15",
+ "latest": "2026-10-16",
  "editions": [
+  {
+   "date": "2026-10-16",
+   "label": "Vendredi 16 octobre",
+   "words": [
+    "Pallier",
+    "Pérenne"
+   ],
+   "items": [
+    [
+     "lit",
+     "Chronique d’une mort annoncée"
+    ],
+    [
+     "essai",
+     "Le Capital au XXIe siècle"
+    ],
+    [
+     "eco",
+     "Irak : le dinar paie la facture d’Ormuz"
+    ],
+    [
+     "geo",
+     "Mer Noire : les drones visent les cargos"
+    ],
+    [
+     "log",
+     "C.H. Robinson avale RXO : le courtage de fret se concentre"
+    ],
+    [
+     "ent",
+     "Ericsson : la 5G repart, les composants pèsent"
+    ]
+   ]
+  },
   {
    "date": "2026-10-15",
    "label": "Jeudi 15 octobre",

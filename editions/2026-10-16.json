@@ -1,0 +1,1105 @@
+{
+ "date": "2026-10-16",
+ "label": "Vendredi 16 octobre 2026",
+ "n": 5,
+ "example": false,
+ "week": {
+  "start": "2026-10-12",
+  "label": "Semaine du 12 octobre",
+  "day": 5,
+  "words": [
+   {
+    "key": "pallier",
+    "w": "Pallier",
+    "ph": "[pa.lje] · verbe transitif",
+    "short": "Compenser un manque, sans le faire disparaître.",
+    "def": "Atténuer les effets d’un problème ou combler provisoirement un manque, sans en supprimer la cause. Le verbe est transitif direct : on pallie un manque, une absence, une difficulté. « Pallier à » est une faute très répandue, à éviter à l’écrit comme en réunion.",
+    "ety": "Du bas latin palliare, « couvrir d’un manteau », de pallium, « manteau ». Pallier, c’est d’abord cacher sous un manteau, puis masquer un défaut, enfin le compenser. Même famille que « palliatif ».",
+    "ex": "Nous avons fait appel à deux intérimaires pour pallier l’absence de l’équipe de nuit pendant les congés.",
+    "syn": "compenser, remédier à, suppléer à, atténuer"
+   },
+   {
+    "key": "perenne",
+    "w": "Pérenne",
+    "ph": "[pe.ʁɛn] · adjectif",
+    "short": "Qui dure dans le temps, de façon stable.",
+    "def": "Qui dure longtemps, de façon continue, ou qui est conçu pour durer. En entreprise, une solution pérenne s’oppose à une rustine provisoire ; un financement pérenne est assuré d’une année sur l’autre. Le nom correspondant est la pérennité, le verbe pérenniser.",
+    "ety": "Du latin perennis, « qui dure toute l’année », formé de per, « à travers », et annus, « année ». En botanique, une plante pérenne est une plante vivace, qui repousse chaque année.",
+    "ex": "Le tableur bricolé a dépanné pendant six mois, mais il nous faut maintenant un outil pérenne pour suivre les stocks.",
+    "syn": "durable, permanent, stable, persistant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Chronique d’une mort annoncée",
+   "by": "Gabriel García Márquez · 1981",
+   "tagline": "Tout le monde savait",
+   "min": 10,
+   "exMin": 4,
+   "src": "Gabriel García Márquez, Crónica de una muerte anunciada (La Oveja Negra, Bogotá, 1981) ; trad. française : Chronique d’une mort annoncée (Grasset, 1981, trad. Claude Couffon). Fait divers d’origine : meurtre de Cayetano Gentile Chimento à Sucre (Colombie), le 22 janvier 1951. Prix Nobel de littérature 1982. Œuvre protégée : synthèse reformulée, sans citation.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Dans un village des Caraïbes colombiennes, les jumeaux Vicario annoncent à qui veut l’entendre qu’ils vont tuer Santiago Nasar pour venger l’honneur de leur sœur, rendue à sa famille le soir de ses noces. Presque tout le village le sait, personne ne l’empêche, et le crime a lieu. Vingt-sept ans plus tard, le narrateur reconstitue la matinée minute par minute pour comprendre comment une mort aussi annoncée a pu se produire."
+      ],
+      [
+       "Un roman policier à l’envers",
+       "On connaît la victime, les assassins, l’heure et le mobile dès la première ligne. Le suspense ne porte pas sur « qui » mais sur « comment » : comment tant de hasards, de lâchetés et de malentendus se sont alignés pour qu’aucun avertissement n’arrive à temps."
+      ],
+      [
+       "La responsabilité diluée",
+       "Chacun avait une bonne raison de ne rien faire : on croyait à une fanfaronnade d’ivrognes, on pensait que quelqu’un d’autre avait prévenu, on attendait le bateau de l’évêque. Le livre montre comment une communauté entière peut devenir complice par simple inertie, sans que personne ne se sente coupable."
+      ],
+      [
+       "Le poids du code d’honneur",
+       "Les jumeaux ne veulent pas vraiment tuer : ils multiplient les annonces dans l’espoir qu’on les arrête. Mais le code de l’honneur, que le village partage, les oblige à aller au bout. Le crime est collectif avant d’être individuel."
+      ],
+      [
+       "Une vérité qui échappe",
+       "On ne saura jamais si Santiago Nasar était coupable. Angela Vicario a donné son nom, sans preuve, et ne s’est jamais rétractée. L’enquête du narrateur accumule des témoignages contradictoires et laisse le lecteur face à une injustice sans certitude."
+      ],
+      [
+       "Pour en parler",
+       "Un roman court, d’à peine plus de cent pages, qui se lit comme une enquête et fait réfléchir sur la rumeur, la passivité des témoins et la force des normes sociales. Un bon point d’entrée dans l’œuvre de García Márquez, plus accessible que <em>Cent ans de solitude</em>."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le matin du crime"
+    },
+    {
+     "p": "Le jour où on doit le tuer, Santiago Nasar se lève à cinq heures et demie pour attendre le bateau de l’évêque. Il a vingt et un ans, il est beau, riche, héritier d’une hacienda léguée par son père, Ibrahim Nasar, un immigré arabe. Il a rêvé d’une forêt sous une pluie fine et ne s’en inquiète pas. Il s’habille de lin blanc, passe par la cuisine où la cuisinière Victoria Guzmán et sa fille Divina Flor préparent le café. Victoria sait déjà que des hommes le cherchent pour le tuer. Elle ne dit rien.",
+     "lead": 1
+    },
+    {
+     "p": "Le narrateur, un ami d’enfance de Santiago, revient au village vingt-sept ans plus tard. Il interroge les témoins, relit le dossier de l’instruction, à moitié détruit par une inondation, et tente de reconstituer cette matinée. Dès les premières pages, il nous dit tout : Santiago Nasar va mourir, poignardé devant la porte de sa maison."
+    },
+    {
+     "h5": "La noce et le retour de la mariée"
+    },
+    {
+     "p": "Tout commence par un mariage. Bayardo San Román, un étranger fortuné et mystérieux, arrive au village et décide d’épouser Angela Vicario, la plus jeune fille d’une famille modeste et respectable. Angela ne l’aime pas, mais sa famille, éblouie par la fortune du prétendant, l’oblige à accepter. Pour lui plaire, Bayardo achète la plus belle maison du village à un vieux veuf qui refusait de la vendre."
+    },
+    {
+     "p": "La noce est la plus somptueuse qu’on ait vue. Mais la nuit même, Bayardo ramène sa femme chez ses parents : il a découvert qu’elle n’était pas vierge. La mère d’Angela la bat. Ses deux frères jumeaux, Pedro et Pablo Vicario, bouchers de leur état, lui demandent qui l’a déshonorée. Angela prononce un nom : Santiago Nasar."
+    },
+    {
+     "h5": "Des assassins qui veulent être arrêtés"
+    },
+    {
+     "p": "Les jumeaux prennent leurs couteaux à découper les porcs et partent, à l’aube, annoncer leur projet. Ils le disent au boucher du marché, qui les prend pour des ivrognes. Ils s’installent dans la boutique de lait de Clotilde Armenta, juste en face de la maison de Santiago, et le répètent à tous ceux qui entrent. Clotilde tente de les faire boire pour les assommer et fait prévenir les autorités."
+    },
+    {
+     "p": "Le colonel Lázaro Aponte, le maire, leur confisque leurs couteaux et les renvoie se coucher. Il croit l’affaire réglée. Les jumeaux vont chercher d’autres couteaux. Le curé est prévenu, mais il pense que ce n’est pas son rôle et se laisse absorber par l’arrivée de l’évêque. Des dizaines de personnes savent. Certaines croient que Santiago est déjà au courant, d’autres que les jumeaux n’oseront pas, d’autres encore se disent que ce n’est pas leur affaire."
+    },
+    {
+     "h5": "L’évêque ne descend pas"
+    },
+    {
+     "p": "Tout le village se presse sur le quai pour accueillir l’évêque. Le bateau passe sans s’arrêter : le prélat bénit la foule de loin, depuis le pont. Santiago, qui ignore toujours tout, discute ensuite avec ses amis, dont le narrateur et Cristo Bedoya. Il se rend chez sa fiancée, Flora Miguel, où il apprend enfin, de la bouche du père de celle-ci, que les Vicario le cherchent pour le tuer. Il ne comprend pas. Il semble sincèrement ignorer pourquoi."
+    },
+    {
+     "h5": "La porte fermée"
+    },
+    {
+     "p": "Désemparé, Santiago court vers sa maison. Sa mère, Plácida Linero, qui le croit déjà rentré, vient de verrouiller la porte de devant en voyant les jumeaux arriver. Santiago se retrouve bloqué contre cette porte. Les frères Vicario le frappent de leurs couteaux, encore et encore. Mortellement blessé, il parvient à faire le tour de la maison en tenant ses entrailles, entre par la cuisine et s’effondre."
+    },
+    {
+     "h5": "Après"
+    },
+    {
+     "p": "Les jumeaux se réfugient dans l’église et se rendent. Ils passent trois ans en prison en attendant leur procès, puis sont acquittés : le tribunal retient la défense de l’honneur. La famille Vicario quitte le village. Angela, recluse, finit par tomber amoureuse du mari qui l’a répudiée. Pendant dix-sept ans, elle lui écrit des lettres, presque deux mille. Un jour, Bayardo San Román revient, vieilli, avec toutes les lettres, jamais ouvertes. Le village, lui, ne se remet jamais vraiment de ce crime que tout le monde avait vu venir."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un fait divers de 1951"
+    },
+    {
+     "p": "Le roman s’inspire d’un crime réel. Le 22 janvier 1951, à Sucre, en Colombie, Cayetano Gentile Chimento, un jeune homme que García Márquez connaissait, est tué par les frères d’une jeune mariée répudiée le soir de ses noces. L’écrivain mettra une trentaine d’années à en faire un livre, notamment pour ne pas blesser sa propre mère, proche des familles concernées. Le récit paraît en 1981, un an avant son prix Nobel de littérature."
+    },
+    {
+     "h5": "Le journaliste derrière le romancier"
+    },
+    {
+     "p": "García Márquez a commencé comme journaliste, et cela se voit. Le narrateur procède comme un reporter : il recoupe les témoignages, note les heures, cite le dossier d’instruction. Ce faux reportage crée un effet de vérité saisissant. Mais l’enquête ne débouche sur aucune certitude : les témoins se contredisent sur la météo, sur l’heure, sur les mots prononcés. Le réel paraît précis et reste insaisissable."
+    },
+    {
+     "h5": "Une construction en spirale"
+    },
+    {
+     "p": "Le livre est découpé en cinq chapitres qui reviennent tous sur la même matinée, chaque fois sous un angle différent. On entend d’abord Santiago se lever, puis on remonte à la noce, puis on suit les jumeaux, puis on assiste à l’autopsie et au destin des survivants, avant le récit final du meurtre. Le lecteur connaît la fin, mais la tension monte à chaque détour, parce qu’il voit toutes les occasions manquées de [[pallier|pallier]] le drame."
+    },
+    {
+     "h5": "Les thèmes"
+    },
+    {
+     "p": "La fatalité tient une grande place, avec ses présages, ses rêves mal interprétés et ses hasards. Mais García Márquez ne laisse pas le destin porter seul la faute. Le vrai sujet, c’est la complicité passive d’une société qui préfère l’ordre de ses traditions à la vie d’un homme. Le code de l’honneur, le machisme, le poids de la religion et des apparences forment un système [[perenne|pérenne]] que personne n’ose contester. Les femmes en sont les premières victimes, à commencer par Angela, offerte à un inconnu puis battue pour avoir déçu."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que l’effet du témoin passif est universel. Dans une foule, chacun attend qu’un autre agisse ; dans une entreprise, une alerte passe de bureau en bureau sans que personne ne la traite. Le roman est une leçon sur la responsabilité individuelle au sein d’un groupe. C’est aussi un modèle de récit : en moins de cent cinquante pages, sans aucun suspense sur l’issue, García Márquez tient son lecteur en haleine. Le film de Francesco Rosi, sorti en 1987, en a donné une adaptation fidèle."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Dans un village colombien, les jumeaux Vicario annoncent à tous qu’ils vont tuer Santiago Nasar, accusé d’avoir déshonoré leur sœur Angela, rendue à sa famille le soir de ses noces. Personne ne les arrête. Vingt-sept ans plus tard, le narrateur reconstitue la matinée pour comprendre comment ce crime annoncé a pu avoir lieu.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un polar à l’envers</b> : victime, assassins, heure et mobile sont connus d’emblée. Le suspense porte sur le « comment ».",
+      "<b>La responsabilité diluée</b> : chacun croit qu’un autre a prévenu, ou que les jumeaux bluffent. Le village devient complice par inertie.",
+      "<b>Le code d’honneur</b> : les jumeaux espèrent qu’on les arrête, mais la norme sociale les pousse à aller au bout.",
+      "<b>Une vérité absente</b> : on ne saura jamais si Santiago était coupable. Angela ne s’est jamais rétractée.",
+      "<b>Pour en parler</b> : un roman court sur la rumeur et la passivité des témoins, porte d’entrée idéale chez García Márquez."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le matin</b> : Santiago Nasar, 21 ans, riche héritier, se lève à 5 h 30 pour voir passer le bateau de l’évêque. Sa cuisinière sait qu’on le cherche et se tait.",
+      "<b>La noce</b> : Bayardo San Román, étranger fortuné, épouse Angela Vicario. La nuit même, il la rend à ses parents : elle n’est pas vierge. Elle accuse Santiago.",
+      "<b>Les jumeaux</b> : Pedro et Pablo, bouchers, annoncent le meurtre à tout le village. Le maire confisque leurs couteaux ; ils en prennent d’autres.",
+      "<b>L’évêque</b> : le bateau passe sans s’arrêter. Santiago apprend la menace trop tard, sans la comprendre.",
+      "<b>La porte</b> : sa mère, le croyant rentré, a verrouillé la porte. Il est poignardé contre elle.",
+      "<b>Les témoins</b> : le boucher, Clotilde Armenta, le curé, le maire… Tous savent, chacun croit qu’un autre agira.",
+      "<b>Après</b> : les jumeaux sont acquittés après trois ans de prison. Angela écrit près de 2 000 lettres à Bayardo, qui revient dix-sept ans plus tard sans les avoir ouvertes."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Un crime réel</b> : le meurtre de Cayetano Gentile Chimento à Sucre, le 22 janvier 1951. Livre publié en 1981, un an avant le Nobel.",
+      "<b>Un faux reportage</b> : le narrateur enquête comme un journaliste, mais les témoignages se contredisent.",
+      "<b>Un journaliste romancier</b> : García Márquez a débuté dans la presse. Il note les heures, cite le dossier d’instruction à moitié noyé par une inondation, et crée un effet de vérité saisissant.",
+      "<b>Une spirale</b> : cinq chapitres reviennent sur la même matinée. On voit chaque occasion manquée de [[pallier|pallier]] le drame.",
+      "<b>Les thèmes</b> : fatalité, mais surtout complicité collective. L’honneur, le machisme et les apparences forment un système [[perenne|pérenne]]. Angela, mariée de force puis battue, en est la première victime.",
+      "<b>Aujourd’hui</b> : une leçon sur l’effet du témoin passif, dans la rue comme en entreprise. Adapté au cinéma par Francesco Rosi en 1987."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Le Capital au XXIe siècle",
+   "by": "Thomas Piketty · 2013",
+   "min": 9,
+   "exMin": 3,
+   "src": "Thomas Piketty, Le Capital au XXIe siècle (Seuil, coll. « Les livres du nouveau monde », 2013, 970 p.) ; trad. anglaise d’Arthur Goldhammer (Harvard University Press, 2014). Présentation : La finance pour tous (IEFP), fiche « Le Capital au XXIe siècle ». Critiques : M. Rognlie, Brookings Papers on Economic Activity (2015) ; D. Acemoglu et J. Robinson, Journal of Economic Perspectives (2015) ; C. Giles, Financial Times (mai 2014). Ratios capital/revenu : ordres de grandeur arrondis tirés du livre. Œuvre protégée : synthèse reformulée.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "À partir de données fiscales couvrant trois siècles et une vingtaine de pays, Thomas Piketty montre que les inégalités de patrimoine ne se réduisent pas d’elles-mêmes. Quand le rendement du capital dépasse durablement la croissance de l’économie, les fortunes héritées grossissent plus vite que les revenus du travail. Le XXe siècle égalitaire fut une exception, due aux guerres et aux politiques publiques."
+      ],
+      [
+       "r > g, la formule clé",
+       "Sur longue période, le capital rapporte environ 4 à 5 % par an, quand la croissance des pays riches tend vers 1 à 1,5 % par habitant. Un patrimoine dont on réinvestit une partie des revenus grandit donc plus vite que l’économie : sa part dans la richesse totale augmente mécaniquement."
+      ],
+      [
+       "Le grand retour du patrimoine",
+       "En France et au Royaume-Uni, le capital privé valait 6 à 7 années de revenu national vers 1910. Il tombe à 2 ou 3 années vers 1950, après deux guerres, l’inflation et les nationalisations. Il remonte à 5 ou 6 années au début des années 2010. La courbe dessine un U."
+      ],
+      [
+       "Une exception historique",
+       "La forte baisse des inégalités entre 1914 et 1970 n’est pas le fruit naturel de la croissance, comme le pensait Simon Kuznets. Elle s’explique par des chocs : destructions, faillites, impôts très progressifs. Sans ces chocs, la concentration revient."
+      ],
+      [
+       "Le remède proposé",
+       "Un impôt mondial et progressif sur le capital, de l’ordre de 1 à 2 % par an sur les grandes fortunes, avec une transparence bancaire internationale. Piketty le qualifie lui-même d’utopie utile, réalisable d’abord à l’échelle européenne."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un économiste et ses archives"
+    },
+    {
+     "p": "Thomas Piketty, né en 1971, est directeur d’études à l’EHESS et professeur à l’École d’économie de Paris. Depuis la fin des années 1990, il exploite, avec Anthony Atkinson, Emmanuel Saez et d’autres, les archives fiscales : déclarations de revenus, successions, impôts sur la fortune. Ces données permettent de mesurer la part des plus riches sur plus d’un siècle, là où les enquêtes classiques ne remontent que de quelques décennies et sous-estiment les grandes fortunes. <em>Le Capital au XXIe siècle</em>, paru au Seuil en 2013, en est la synthèse : 970 pages, de nombreux graphiques, des séries mises en ligne en accès libre.",
+     "lead": 1
+    },
+    {
+     "h5": "La thèse : quand le passé dévore l’avenir"
+    },
+    {
+     "p": "Le cœur du livre tient en une inégalité : r > g. « r » est le rendement moyen du capital (loyers, dividendes, intérêts, plus-values) ; « g » est le taux de croissance de l’économie. Quand r dépasse g, ceux qui possèdent déjà un patrimoine s’enrichissent plus vite que l’ensemble de la société, sans effort supplémentaire. L’héritage pèse alors plus lourd que le travail. Piketty parle de « capitalisme patrimonial » : une société où la naissance compte davantage que le mérite. Pour lui, ce n’est pas un dysfonctionnement du marché, mais sa pente naturelle quand la croissance ralentit."
+    },
+    {
+     "stats": [
+      [
+       "r > g",
+       "le rendement du capital dépasse la croissance"
+      ],
+      [
+       "≈ 4 à 5 %",
+       "rendement annuel moyen du capital sur longue période"
+      ],
+      [
+       "≈ 1 à 1,5 %",
+       "croissance par habitant attendue dans les pays riches"
+      ],
+      [
+       "970 pages",
+       "édition française, Seuil, 2013"
+      ]
+     ]
+    },
+    {
+     "h5": "Le U du XXe siècle"
+    },
+    {
+     "p": "Pour le démontrer, Piketty suit le rapport entre la valeur du capital privé et le revenu national. À la Belle Époque, en France comme au Royaume-Uni, le patrimoine représente 6 à 7 années de revenu. Les deux guerres mondiales, la crise de 1929, l’inflation, le contrôle des loyers et les nationalisations le divisent par deux ou trois. Pendant les Trente Glorieuses, la croissance forte, autour de 5 % par an en France, fait que les revenus du travail progressent plus vite que les patrimoines. Puis, à partir des années 1970, la croissance ralentit, les privatisations et la hausse des prix de l’immobilier font remonter le ratio."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le retour du patrimoine en Europe",
+      "sub": "Valeur du capital privé, en années de revenu national (ordres de grandeur)",
+      "labels": [
+       "1910",
+       "1950",
+       "1970",
+       "2010"
+      ],
+      "series": [
+       {
+        "name": "France et Royaume-Uni",
+        "values": [
+         6.5,
+         2.5,
+         3.5,
+         5.5
+        ]
+       }
+      ],
+      "note": "Ordres de grandeur arrondis d’après les séries de Thomas Piketty (Le Capital au XXIe siècle, 2013, chap. 3 à 5) : 6 à 7 années à la Belle Époque, 2 à 3 vers 1950, 5 à 6 au début des années 2010. Valeurs indicatives, non exactes."
+     }
+    },
+    {
+     "h5": "Le travail et l’héritage"
+    },
+    {
+     "p": "Le livre montre aussi que les inégalités de patrimoine sont toujours bien plus fortes que celles des salaires. Dans les pays européens, les 10 % les plus riches détiennent environ 60 % du patrimoine, et la moitié la plus pauvre presque rien. Aux États-Unis, la concentration est plus forte encore. Piketty ajoute un phénomène nouveau : l’explosion des très hauts salaires des dirigeants, surtout dans les pays anglo-saxons, qu’il attribue moins à leur productivité qu’à la baisse des taux marginaux d’imposition depuis les années 1980. Il en tire une distinction utile : le revenu du travail dépend de l’effort et du talent, celui du capital dépend surtout de ce que l’on possède déjà. Plus une société vieillit et croît lentement, plus l’héritage pèse dans les trajectoires individuelles. Pour rendre ces chiffres concrets, il convoque la littérature : chez Balzac et Jane Austen, un bon mariage ou un héritage rapporte bien plus qu’une carrière."
+    },
+    {
+     "h5": "Les remèdes"
+    },
+    {
+     "p": "Le dernier tiers propose un « État social » adapté au XXIe siècle. La mesure phare est un impôt annuel et progressif sur le capital : nul en dessous d’un million d’euros, environ 1 % entre un et cinq millions, 2 % au-delà, et davantage pour les milliardaires. Il suppose un échange automatique d’informations bancaires entre pays pour [[pallier|pallier]] l’évasion fiscale. Piketty plaide aussi pour un taux marginal d’imposition très élevé, autour de 80 %, sur les revenus les plus hauts, comme les États-Unis l’ont pratiqué au milieu du XXe siècle."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre a suscité un débat immense. En 2015, l’économiste Matthew Rognlie montre que la hausse de la part du capital tient surtout au logement : c’est la flambée de l’immobilier, plus que l’accumulation des fortunes financières, qui fait remonter le ratio. Daron Acemoglu et James Robinson reprochent à Piketty de négliger le rôle des institutions politiques au profit d’une « loi générale ». D’autres jugent fragile l’hypothèse d’un rendement du capital qui resterait élevé même quand le capital devient abondant. En 2014, le <em>Financial Times</em> a contesté certaines séries ; Piketty a répondu point par point, et l’essentiel des conclusions a résisté. Enfin, beaucoup lui reprochent de sous-estimer l’effet des impôts sur l’investissement et l’innovation, et de supposer une coopération fiscale mondiale qui reste hors de portée."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Traduit en anglais en 2014, le livre devient un phénomène mondial et se hisse en tête des ventes aux États-Unis, chose rarissime pour un ouvrage d’économie. Il a remis la répartition des richesses au centre du débat public et inspiré des propositions concrètes, comme les projets de taxe sur les milliardaires discutés depuis. Piketty l’a prolongé avec <em>Capital et idéologie</em> en 2019. Que l’on adhère ou non à ses remèdes, ses séries de données sont devenues une référence [[perenne|pérenne]] pour quiconque parle d’inégalités."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Avec des archives fiscales sur trois siècles, Thomas Piketty montre que, lorsque le rendement du capital dépasse la croissance, les fortunes héritées grossissent plus vite que les revenus du travail. Le XXe siècle égalitaire fut une exception, née des guerres et des impôts. Il propose un impôt mondial et progressif sur le capital.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>r > g</b> : le capital rapporte ≈ 4 à 5 % par an, la croissance par habitant des pays riches ≈ 1 à 1,5 %. Les patrimoines grossissent plus vite que l’économie.",
+      "<b>Le U</b> : le capital privé vaut 6 à 7 années de revenu national vers 1910, 2 à 3 vers 1950, 5 à 6 vers 2010 (France, Royaume-Uni).",
+      "<b>Une exception</b> : la baisse des inégalités de 1914 à 1970 vient des chocs (guerres, inflation, impôts), pas de la croissance.",
+      "<b>Le capitalisme patrimonial</b> : quand la croissance ralentit, la naissance compte plus que le mérite.",
+      "<b>L’héritage</b> : en Europe, les 10 % les plus riches détiennent ≈ 60 % du patrimoine.",
+      "<b>Le remède</b> : un impôt progressif sur le capital, ≈ 1 à 2 % par an sur les grandes fortunes."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "r > g",
+       "le rendement du capital dépasse la croissance"
+      ],
+      [
+       "≈ 4 à 5 %",
+       "rendement annuel moyen du capital sur longue période"
+      ],
+      [
+       "≈ 1 à 1,5 %",
+       "croissance par habitant attendue dans les pays riches"
+      ],
+      [
+       "970 pages",
+       "édition française, Seuil, 2013"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le retour du patrimoine en Europe",
+      "sub": "Valeur du capital privé, en années de revenu national (ordres de grandeur)",
+      "labels": [
+       "1910",
+       "1950",
+       "1970",
+       "2010"
+      ],
+      "series": [
+       {
+        "name": "France et Royaume-Uni",
+        "values": [
+         6.5,
+         2.5,
+         3.5,
+         5.5
+        ]
+       }
+      ],
+      "note": "Ordres de grandeur arrondis d’après les séries de Thomas Piketty (Le Capital au XXIe siècle, 2013, chap. 3 à 5) : 6 à 7 années à la Belle Époque, 2 à 3 vers 1950, 5 à 6 au début des années 2010. Valeurs indicatives, non exactes."
+     }
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : né en 1971, EHESS et École d’économie de Paris. Travaille avec Atkinson et Saez sur les archives fiscales.",
+      "<b>Les très hauts salaires</b> : leur explosion dans les pays anglo-saxons s’explique surtout par la baisse des taux marginaux d’impôt depuis les années 1980.",
+      "<b>Les remèdes</b> : 0 % sous un million d’euros, ≈ 1 % de un à cinq millions, 2 % au-delà ; échange automatique d’informations bancaires pour [[pallier|pallier]] l’évasion ; taux marginal ≈ 80 % sur les plus hauts revenus.",
+      "<b>Critiques</b> : Rognlie (2015) attribue la hausse du capital surtout au logement ; Acemoglu et Robinson reprochent l’oubli des institutions ; le <em>FT</em> conteste des séries en 2014.",
+      "<b>Postérité</b> : best-seller aux États-Unis en 2014, suite avec <em>Capital et idéologie</em> (2019). Des données devenues une référence [[perenne|pérenne]]."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Irak : le dinar paie la facture d’Ormuz",
+   "by": "Analyse",
+   "fig": "− 13 %",
+   "figl": "dévaluation du dinar irakien",
+   "min": 3,
+   "exMin": 2,
+   "src": "Banque centrale d’Irak et gouvernement irakien, via Al-Monitor (7 octobre 2026), Al Jazeera (« Why has Iraq devalued its currency », 8 octobre 2026 ; « Iraq devalues dinar to ease cash crunch », 15 octobre 2026) et Washington Post (7 octobre 2026). Réserves : Mudher Mohammed Salih, conseiller financier du Premier ministre (août 2026). Données arrêtées au 15 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 7 octobre, la Banque centrale d’Irak a fixé le dollar à 1 520 dinars, contre 1 320 depuis 2023. Le dinar perd ainsi environ 13 % de sa valeur, et le dollar coûte 15 % plus cher aux Irakiens. La raison est simple : la guerre dans le Golfe a fait chuter les exportations de pétrole, qui financent plus de 90 % du budget de l’État. Bagdad n’a plus assez de dollars pour payer ses fonctionnaires en dinars.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le prix officiel du dollar en Irak",
+      "sub": "dinars pour 1 dollar, taux officiel",
+      "labels": [
+       "Avant déc. 2020",
+       "Déc. 2020",
+       "2023",
+       "Oct. 2026"
+      ],
+      "series": [
+       {
+        "name": "Dinars par dollar",
+        "values": [
+         1182,
+         1450,
+         1320,
+         1520
+        ]
+       }
+      ],
+      "note": "Source : Banque centrale d’Irak, via Al Jazeera (8 octobre 2026) et Al-Monitor (7 octobre 2026)."
+     }
+    },
+    {
+     "h": "Le mécanisme : imprimer plus de dinars par baril"
+    },
+    {
+     "p": "L’Irak vend son pétrole en dollars, mais paie ses salaires, ses retraites et ses aides en dinars. En dévaluant, l’État obtient 15 % de dinars en plus pour chaque dollar encaissé. Avec moins de barils vendus, il gonfle mécaniquement ses recettes en monnaie locale. Il en a besoin : salaires et dépenses essentielles coûtent environ 10 000 milliards de dinars par mois, soit 6,7 milliards de dollars. Les exportations, qui atteignaient 3,6 millions de barils par jour avant la guerre, ne dépassaient pas 2,34 millions en août. Le Premier ministre Ali al-Zaidi chiffre à environ 60 milliards de dollars la perte de recettes pétrolières. Il dit avoir eu le choix entre la dévaluation, une baisse de 35 % des salaires, un versement tous les 45 jours ou des emprunts à l’étranger."
+    },
+    {
+     "stats": [
+      [
+       "1 520",
+       "dinars pour un dollar depuis le 7 octobre (contre 1 320)"
+      ],
+      [
+       "> 90 %",
+       "part du pétrole dans les recettes du budget fédéral"
+      ],
+      [
+       "2,34 Mb/j",
+       "exportations de pétrole en août, contre 3,6 avant la guerre"
+      ],
+      [
+       "≈ 80 Md$",
+       "réserves de change fin août, contre 106 avant la guerre"
+      ]
+     ]
+    },
+    {
+     "h": "Qui paie ?"
+    },
+    {
+     "p": "La dévaluation ne crée pas de richesse : elle déplace la facture. L’Irak importe une grande partie de ce qu’il consomme, et les commerçants achètent en dollars mais doivent vendre en dinars. Du jour au lendemain, leurs stocks valent moins que leurs dettes ; beaucoup ont suspendu leurs achats en attendant que le taux se stabilise. Les ménages, eux, verront monter le prix des produits importés : c’est une baisse de pouvoir d’achat qui ne dit pas son nom. Les réserves de change sont déjà tombées de 106 à environ 80 milliards de dollars, et le budget 2027 prévoit un déficit de plus de 40 000 milliards de dinars."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La dévaluation permet de [[pallier|pallier]] le manque de recettes à court terme, mais elle ne règle pas le problème de fond : un État dont presque tout le budget dépend d’une seule ressource, passant par un seul détroit. L’Irak a déjà dévalué fin 2020, puis réévalué en 2023. Tant que l’économie ne se diversifie pas, aucun taux de change ne sera [[perenne|pérenne]]."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le 7 octobre</b> : le dollar passe de 1 320 à 1 520 dinars. Le dinar perd ≈ 13 %, le dollar coûte 15 % plus cher.",
+      "<b>La cause</b> : la guerre dans le Golfe a fait chuter les exportations de pétrole, plus de 90 % des recettes du budget."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le prix officiel du dollar en Irak",
+      "sub": "dinars pour 1 dollar, taux officiel",
+      "labels": [
+       "Avant déc. 2020",
+       "Déc. 2020",
+       "2023",
+       "Oct. 2026"
+      ],
+      "series": [
+       {
+        "name": "Dinars par dollar",
+        "values": [
+         1182,
+         1450,
+         1320,
+         1520
+        ]
+       }
+      ],
+      "note": "Source : Banque centrale d’Irak, via Al Jazeera (8 octobre 2026) et Al-Monitor (7 octobre 2026)."
+     }
+    },
+    {
+     "h": "Le mécanisme"
+    },
+    {
+     "ul": [
+      "<b>Pétrole en dollars, salaires en dinars</b> : chaque dollar rapporte désormais 15 % de dinars en plus à l’État.",
+      "<b>Le besoin</b> : ≈ 10 000 milliards de dinars par mois (6,7 Md$) pour les salaires et dépenses essentielles.",
+      "<b>Les pertes</b> : ≈ 60 Md$ de recettes pétrolières perdues selon le Premier ministre. Alternatives écartées : salaires − 35 %, paie tous les 45 jours, emprunts extérieurs."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "1 520",
+       "dinars pour un dollar depuis le 7 octobre (contre 1 320)"
+      ],
+      [
+       "> 90 %",
+       "part du pétrole dans les recettes du budget fédéral"
+      ],
+      [
+       "2,34 Mb/j",
+       "exportations de pétrole en août, contre 3,6 avant la guerre"
+      ],
+      [
+       "≈ 80 Md$",
+       "réserves de change fin août, contre 106 avant la guerre"
+      ]
+     ]
+    },
+    {
+     "h": "Qui paie ?"
+    },
+    {
+     "ul": [
+      "<b>Les commerçants</b> : achats en dollars, ventes en dinars. Beaucoup suspendent leurs achats.",
+      "<b>Les ménages</b> : produits importés plus chers.",
+      "<b>L’État</b> : déficit prévu de plus de 40 000 milliards de dinars en 2027."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un pansement</b> : la dévaluation permet de [[pallier|pallier]] le manque de recettes, sans régler la dépendance au pétrole et au détroit d’Ormuz.",
+      "<b>Un taux instable</b> : déjà dévalué fin 2020, réévalué en 2023. Sans diversification, aucun taux ne sera [[perenne|pérenne]]."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Mer Noire : les drones visent les cargos",
+   "by": "Analyse",
+   "fig": "5",
+   "figl": "cargos frappés par des drones en octobre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Euronews (« Turkish grain ship sinks in Black Sea », 5 octobre 2026 ; « Drones hit two ships off coast of Bulgaria », 6 octobre 2026) ; Associated Press via WSLS (« Drones hit ships in Black Sea, sinking 1 », 13 octobre 2026) ; CBC News (octobre 2026). Bilans provisoires arrêtés au 15 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "En dix jours, cinq navires marchands ont été frappés par des drones en mer Noire, dans les eaux économiques de la Roumanie et de la Bulgarie, deux pays de l’Otan et de l’Union européenne. Trois ont coulé. On compte au moins deux morts et au moins vingt et un marins disparus. Personne n’a revendiqué les attaques. Depuis 2022, la Turquie, gardienne des détroits, interdit le passage des navires de guerre des belligérants, ce qui laisse la mer Noire en partie livrée aux drones. La guerre entre la Russie et l’Ukraine déborde désormais sur les routes commerciales qui longent le flanc est de l’Europe.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les navires frappés par des drones en mer Noire",
+      "sub": "attaques au large de la Roumanie et de la Bulgarie, octobre 2026",
+      "rows": [
+       [
+        "5 oct., Roumanie (1 navire)",
+        1
+       ],
+       [
+        "6 oct., Bulgarie (2 navires)",
+        2
+       ],
+       [
+        "13 oct., Bulgarie (2 navires)",
+        2
+       ]
+      ],
+      "suffix": " navire(s)",
+      "note": "Sources : Euronews (5 et 6 octobre 2026), Associated Press via WSLS (13 octobre 2026)."
+     }
+    },
+    {
+     "h": "Une série d’attaques"
+    },
+    {
+     "p": "Le 5 octobre, un vraquier à capitaux turcs chargé de maïs ukrainien, parti d’Ismaïl pour Ravenne, coule au large de la Roumanie : deux morts. Le lendemain, à environ 70 milles nautiques à l’est de Byala, des drones aériens et marins touchent deux cargos turcs. L’<em>Alfa Watan</em> sombre avec ses dix marins, jamais retrouvés ; les 18 membres d’équipage de l’<em>Able</em>, chargé de blé, sont sauvés par un ferry bulgare. Le 13 octobre, à 32 et 34 kilomètres de la côte, le <em>Dignity</em> est coulé, onze marins sont portés disparus, et le <em>Chelsea 3</em>, exploité par des Ukrainiens, est touché par trois drones."
+    },
+    {
+     "stats": [
+      [
+       "5",
+       "navires civils frappés par des drones en octobre"
+      ],
+      [
+       "3",
+       "navires coulés"
+      ],
+      [
+       "21",
+       "marins disparus, en plus de 2 morts"
+      ],
+      [
+       "32 km",
+       "distance de la côte bulgare des frappes du 13 octobre"
+      ]
+     ]
+    },
+    {
+     "h": "Qui frappe, et pourquoi ?"
+    },
+    {
+     "p": "Les autorités disent ne disposer d’aucune preuve. Kiev accuse Moscou de vouloir faire de la faim une arme en bloquant les exportations de céréales ukrainiennes. Le Premier ministre bulgare, Rumen Radev, juge que l’Ukraine n’a aucune raison de couler ses propres cargaisons et que ces frappes servent les intérêts russes. L’ambassadrice de Russie à Sofia n’exclut pas une provocation d’un tiers. Pour Ursula von der Leyen, la mer Noire est devenue un nouveau front d’escalade ; le Conseil européen en débat ces jeudi et vendredi. Sofia veut bâtir avec la Roumanie et la Turquie un dispositif commun pour [[pallier|pallier]] l’absence de protection des navires."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Ces attaques dans une zone grise, sans revendication, testent la solidarité de l’Otan sans franchir le seuil d’une agression ouverte. Elles renchérissent l’assurance et le fret, et menacent un corridor céréalier vital pour l’Afrique et le Moyen-Orient. Une réponse [[perenne|pérenne]] suppose une coordination entre riverains, dont la Turquie, qui contrôle l’accès au Bosphore."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Cinq navires</b> frappés par des drones en dix jours, au large de la Roumanie et de la Bulgarie, pays de l’Otan et de l’UE.",
+      "<b>Le bilan</b> : trois navires coulés, au moins deux morts, vingt et un marins disparus. Aucune revendication."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les navires frappés par des drones en mer Noire",
+      "sub": "attaques au large de la Roumanie et de la Bulgarie, octobre 2026",
+      "rows": [
+       [
+        "5 oct., Roumanie (1 navire)",
+        1
+       ],
+       [
+        "6 oct., Bulgarie (2 navires)",
+        2
+       ],
+       [
+        "13 oct., Bulgarie (2 navires)",
+        2
+       ]
+      ],
+      "suffix": " navire(s)",
+      "note": "Sources : Euronews (5 et 6 octobre 2026), Associated Press via WSLS (13 octobre 2026)."
+     }
+    },
+    {
+     "h": "Les attaques"
+    },
+    {
+     "ul": [
+      "<b>5 octobre</b> : un vraquier turc chargé de maïs ukrainien coule au large de la Roumanie, deux morts.",
+      "<b>6 octobre</b> : l’<em>Alfa Watan</em> sombre avec dix marins ; l’équipage de l’<em>Able</em> (18 personnes) est sauvé.",
+      "<b>13 octobre</b> : le <em>Dignity</em> coule à 32 km de la côte bulgare, onze disparus ; le <em>Chelsea 3</em> est touché."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "5",
+       "navires civils frappés par des drones en octobre"
+      ],
+      [
+       "3",
+       "navires coulés"
+      ],
+      [
+       "21",
+       "marins disparus, en plus de 2 morts"
+      ],
+      [
+       "32 km",
+       "distance de la côte bulgare des frappes du 13 octobre"
+      ]
+     ]
+    },
+    {
+     "h": "Qui frappe ?"
+    },
+    {
+     "ul": [
+      "<b>Kiev</b> accuse Moscou de faire de la faim une arme. <b>Sofia</b> juge que les frappes servent la Russie.",
+      "<b>Bruxelles</b> parle d’un nouveau front ; le Conseil européen en débat. La Bulgarie veut un dispositif commun avec la Roumanie et la Turquie pour [[pallier|pallier]] le manque de protection."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Une zone grise</b> : des attaques sans signature qui testent l’Otan et renchérissent l’assurance.",
+      "<b>L’enjeu</b> : une sécurité [[perenne|pérenne]] du corridor céréalier exige la Turquie, maîtresse du Bosphore."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "C.H. Robinson avale RXO : le courtage de fret se concentre",
+   "by": "Analyse",
+   "fig": "5,8 Md$",
+   "figl": "prix du rachat de RXO",
+   "min": 3,
+   "exMin": 2,
+   "src": "C.H. Robinson et RXO, annonce du 5 octobre 2026, via Supply Chain 24/7 (« C.H. Robinson Agrees to Buy RXO in $5.8 Billion Cash-and-Stock Deal ») et Container News (6 octobre 2026) ; parts de marché : Armstrong & Associates (revenus bruts 2025) ; Talking Logistics (9 octobre 2026). Données arrêtées au 15 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 5 octobre, C.H. Robinson, premier courtier de fret routier américain, a annoncé le rachat de son concurrent RXO pour environ 5,8 milliards de dollars, en actions et en numéraire, soit 30,25 dollars par action. Le nouvel ensemble pèsera plus de 25 milliards de dollars en valeur d’entreprise et environ 13,6 % du marché américain de la gestion du transport. La clôture est attendue au premier semestre 2027, sous réserve des autorités de concurrence.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les géants du courtage de fret aux États-Unis",
+      "sub": "revenu brut 2025, milliards de dollars",
+      "rows": [
+       [
+        "C.H. Robinson + RXO",
+        17.42
+       ],
+       [
+        "C.H. Robinson",
+        11.68
+       ],
+       [
+        "J.B. Hunt",
+        7.91
+       ],
+       [
+        "RXO",
+        5.74
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : Armstrong & Associates, via Supply Chain 24/7 (octobre 2026). Revenu brut des activités de gestion du transport domestique."
+     }
+    },
+    {
+     "h": "Le métier : placer des camions qu’on ne possède pas"
+    },
+    {
+     "p": "Un courtier de fret ne possède pas de camions. Il met en relation des chargeurs, qui ont des marchandises à expédier, et des transporteurs, souvent de petites entreprises de quelques camions. Il gagne sa vie sur l’écart entre le prix payé par le client et celui versé au transporteur. Le métier repose sur le volume et sur les données : plus un courtier voit de chargements, mieux il fixe ses prix et remplit les camions au retour. Le marché américain du camion complet est très fragmenté, ce qui laisse de la place aux intermédiaires. RXO, issu de la scission de XPO en 2022, avait déjà racheté Coyote Logistics à UPS pour 1,025 milliard de dollars en 2024."
+    },
+    {
+     "stats": [
+      [
+       "5,8 Md$",
+       "valeur du rachat de RXO"
+      ],
+      [
+       "13,6 %",
+       "part de marché combinée du courtage de transport américain"
+      ],
+      [
+       "300 M$",
+       "économies de coûts annuelles visées en deux ans"
+      ],
+      [
+       "≈ 53 fois",
+       "l’Ebitda 2025 de RXO (109 M$)"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi grossir maintenant"
+    },
+    {
+     "p": "C.H. Robinson promet environ 300 millions de dollars d’économies annuelles en deux ans, grâce à son modèle d’exploitation fondé sur l’intelligence artificielle. Le prix est élevé : environ 53 fois l’Ebitda 2025 de RXO, ramené à environ 13 fois en intégrant les économies attendues. Deux forces poussent à la concentration. Le marché du fret sort de plusieurs années de prix bas qui ont asséché les marges. Et en mai, la Cour suprême a jugé que les courtiers pouvaient être poursuivis pour avoir choisi un transporteur négligent : la conformité coûte cher, et l’échelle aide à l’absorber. Les études rappellent toutefois qu’une fusion sur quatre surestime les économies d’au moins 25 %."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Pour les chargeurs, un acteur plus gros signifie de meilleurs outils, mais un pouvoir de négociation accru face à eux. Pour les courtiers de taille moyenne, il faudra [[pallier|pallier]] le manque d’échelle par la spécialisation. La question reste de savoir si ces gains de productivité seront [[perenne|pérennes]] une fois le cycle du fret retourné."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le 5 octobre</b> : C.H. Robinson rachète RXO pour ≈ 5,8 Md$ (30,25 $ par action), en actions et en numéraire.",
+      "<b>Le poids</b> : plus de 25 Md$ de valeur d’entreprise, 13,6 % du marché américain. Clôture attendue au 1er semestre 2027."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les géants du courtage de fret aux États-Unis",
+      "sub": "revenu brut 2025, milliards de dollars",
+      "rows": [
+       [
+        "C.H. Robinson + RXO",
+        17.42
+       ],
+       [
+        "C.H. Robinson",
+        11.68
+       ],
+       [
+        "J.B. Hunt",
+        7.91
+       ],
+       [
+        "RXO",
+        5.74
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : Armstrong & Associates, via Supply Chain 24/7 (octobre 2026). Revenu brut des activités de gestion du transport domestique."
+     }
+    },
+    {
+     "h": "Le métier"
+    },
+    {
+     "ul": [
+      "<b>Un courtier</b> ne possède pas de camions : il relie chargeurs et petits transporteurs et vit de l’écart de prix.",
+      "<b>Volume et données</b> : plus de chargements, de meilleurs prix et moins de retours à vide.",
+      "<b>RXO</b> : scission de XPO en 2022, rachat de Coyote à UPS pour 1,025 Md$ en 2024."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "5,8 Md$",
+       "valeur du rachat de RXO"
+      ],
+      [
+       "13,6 %",
+       "part de marché combinée du courtage de transport américain"
+      ],
+      [
+       "300 M$",
+       "économies de coûts annuelles visées en deux ans"
+      ],
+      [
+       "≈ 53 fois",
+       "l’Ebitda 2025 de RXO (109 M$)"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi maintenant"
+    },
+    {
+     "ul": [
+      "<b>Les économies</b> : 300 M$ par an visés grâce à l’IA. Prix ≈ 53 fois l’Ebitda, ≈ 13 fois avec les synergies.",
+      "<b>Le contexte</b> : marges asséchées par des années de prix bas ; arrêt de la Cour suprême de mai sur la responsabilité des courtiers.",
+      "<b>Le risque</b> : une fusion sur quatre surestime ses économies d’au moins 25 %."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les moyens courtiers</b> devront [[pallier|pallier]] le manque d’échelle par la spécialisation.",
+      "<b>La question</b> : ces gains seront-ils [[perenne|pérennes]] quand le cycle du fret se retournera ?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Ericsson : la 5G repart, les composants pèsent",
+   "by": "Analyse",
+   "fig": "+ 7 %",
+   "figl": "croissance organique des ventes au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Ericsson, « Ericsson reports third quarter results 2026 » (15 octobre 2026) ; conférence téléphonique du 15 octobre 2026 (transcription Investing.com) ; TelecomLead (15 octobre 2026) ; nomination de Per Narvinger : Advanced Television (16 juin 2026). Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Ericsson a publié jeudi des ventes de 59,5 milliards de couronnes suédoises au troisième trimestre, en hausse de 6 %, et de 7 % à périmètre constant. L’équipementier télécom, dont les ventes publiées restent en baisse de 4 % sur neuf mois, renoue avec la croissance, portée par le Japon, l’Inde et le Moyen-Orient. Mais son bénéfice net est divisé par deux, à 5,8 milliards, et la direction prévient que la hausse du prix des composants pèsera sur les marges en 2027.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les ventes d’Ericsson par activité",
+      "sub": "3e trimestre, milliards de couronnes suédoises",
+      "labels": [
+       "Réseaux",
+       "Cloud et services",
+       "Entreprises"
+      ],
+      "series": [
+       {
+        "name": "T3 2025",
+        "values": [
+         35.4,
+         15.3,
+         5.1
+        ]
+       },
+       {
+        "name": "T3 2026",
+        "values": [
+         38.7,
+         15.8,
+         4.6
+        ]
+       }
+      ],
+      "note": "Source : Ericsson, résultats du 3e trimestre 2026 (15 octobre 2026)."
+     }
+    },
+    {
+     "h": "Une croissance retrouvée, mais fragile"
+    },
+    {
+     "p": "L’activité Réseaux, qui vend les antennes et équipements radio des opérateurs mobiles, progresse de 9 %, à 38,7 milliards de couronnes. Elle profite aussi des brevets : les redevances atteignent 3,9 milliards, en hausse de 24 %, dont une partie d’arriérés payés par des utilisateurs jusqu’ici sans licence. Le cloud et les services gagnent 3 %. L’activité Entreprises recule de 10 % après la cession d’iconectiv. La chute du bénéfice est en partie trompeuse : le troisième trimestre 2025 comprenait une plus-value exceptionnelle de 7,6 milliards de couronnes liée à cette vente. La marge brute ajustée reste solide, à 47,7 %, à peine en dessous des 48,1 % de l’an dernier."
+    },
+    {
+     "stats": [
+      [
+       "59,5 Md SEK",
+       "ventes du 3e trimestre (+ 6 %, + 7 % à périmètre constant)"
+      ],
+      [
+       "3,9 Md SEK",
+       "revenus de brevets (+ 24 %)"
+      ],
+      [
+       "5,8 Md SEK",
+       "bénéfice net, contre 11,3 un an plus tôt"
+      ],
+      [
+       "60,7 Md SEK",
+       "trésorerie nette fin septembre"
+      ]
+     ]
+    },
+    {
+     "h": "Le piège des composants"
+    },
+    {
+     "p": "Le marché des réseaux d’accès radio reste plat, et l’industrie entre dans une période de coûts d’achat plus élevés. Les stocks gonflent, sous l’effet de prix plus hauts et de délais plus longs. Or Ericsson vend souvent à ses opérateurs dans le cadre de contrats pluriannuels : il ne peut pas répercuter immédiatement la hausse. Pour [[pallier|pallier]] ce décalage, le groupe mise sur la substitution de pièces, la vente de logiciels, des hausses de prix et des économies. Le nouveau patron, Per Narvinger, nommé en juin, simplifie l’organisation et parle de 2027 comme d’une année de transition. L’action cotée à New York a pris environ 10 % après la clôture."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Pour un industriel, les ventes peuvent repartir pendant que les marges se contractent : tout se joue dans la capacité à répercuter les coûts. Les brevets et le logiciel offrent à Ericsson des revenus plus [[perenne|pérennes]] que le matériel, mais ne suffiront pas si la facture des composants continue de grimper."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>59,5 Md SEK</b> de ventes au 3e trimestre : + 6 %, + 7 % à périmètre constant. Croissance portée par le Japon, l’Inde et le Moyen-Orient.",
+      "<b>Le revers</b> : bénéfice net de 5,8 Md SEK, contre 11,3. Les composants plus chers pèseront sur les marges en 2027."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les ventes d’Ericsson par activité",
+      "sub": "3e trimestre, milliards de couronnes suédoises",
+      "labels": [
+       "Réseaux",
+       "Cloud et services",
+       "Entreprises"
+      ],
+      "series": [
+       {
+        "name": "T3 2025",
+        "values": [
+         35.4,
+         15.3,
+         5.1
+        ]
+       },
+       {
+        "name": "T3 2026",
+        "values": [
+         38.7,
+         15.8,
+         4.6
+        ]
+       }
+      ],
+      "note": "Source : Ericsson, résultats du 3e trimestre 2026 (15 octobre 2026)."
+     }
+    },
+    {
+     "h": "Les moteurs"
+    },
+    {
+     "ul": [
+      "<b>Réseaux</b> : + 9 %, à 38,7 Md SEK. Brevets : 3,9 Md SEK (+ 24 %), dont des arriérés.",
+      "<b>Cloud et services</b> : + 3 %. <b>Entreprises</b> : − 10 % après la cession d’iconectiv.",
+      "<b>Un effet de base</b> : 2025 incluait une plus-value de 7,6 Md SEK. Marge brute ajustée : 47,7 %."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "59,5 Md SEK",
+       "ventes du 3e trimestre (+ 6 %, + 7 % à périmètre constant)"
+      ],
+      [
+       "3,9 Md SEK",
+       "revenus de brevets (+ 24 %)"
+      ],
+      [
+       "5,8 Md SEK",
+       "bénéfice net, contre 11,3 un an plus tôt"
+      ],
+      [
+       "60,7 Md SEK",
+       "trésorerie nette fin septembre"
+      ]
+     ]
+    },
+    {
+     "h": "Les composants"
+    },
+    {
+     "ul": [
+      "<b>Un marché plat</b> et des coûts d’achat en hausse ; stocks gonflés par les prix et les délais.",
+      "<b>Des contrats pluriannuels</b> retardent la hausse des prix. Pour [[pallier|pallier]] ce décalage : substitution de pièces, logiciel, économies.",
+      "<b>Per Narvinger</b>, patron depuis juin, voit 2027 comme une transition. L’action gagne ≈ 10 % après la clôture à New York."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Ventes et marges</b> peuvent diverger : tout dépend de la capacité à répercuter les coûts.",
+      "<b>Brevets et logiciel</b> apportent des revenus plus [[perenne|pérennes]] que le matériel."
+     ]
+    }
+   ]
+  }
+ ]
+}
