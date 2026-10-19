@@ -1,0 +1,1021 @@
+{
+ "date": "2026-10-19",
+ "label": "Lundi 19 octobre 2026",
+ "n": 6,
+ "example": false,
+ "week": {
+  "start": "2026-10-19",
+  "label": "Semaine du 19 octobre",
+  "day": 1,
+  "words": [
+   {
+    "key": "enteriner",
+    "w": "Entériner",
+    "ph": "[ɑ̃.te.ʁi.ne] · verbe transitif",
+    "short": "Rendre officiel ce qui était décidé ou admis.",
+    "def": "Valider, ratifier, rendre définitif ce qui était déjà décidé, constaté ou admis dans les faits. Une direction entérine un choix fait par ses équipes ; un accord entérine une situation existante. Le mot suppose souvent qu’on ne fait que confirmer ce qui était acquis.",
+    "ety": "De l’ancien français enterin, « entier, complet », lui-même tiré de entier. À l’origine terme de droit : entériner un acte, c’était le rendre entier, donc pleinement valable, en le confirmant officiellement.",
+    "ex": "Le comité de direction a entériné mardi le choix du nouveau transporteur, testé depuis trois mois sur deux entrepôts.",
+    "syn": "ratifier, valider, confirmer, homologuer, consacrer"
+   },
+   {
+    "key": "tangible",
+    "w": "Tangible",
+    "ph": "[tɑ̃.ʒibl] · adjectif",
+    "short": "Concret, réel, que l’on peut constater.",
+    "def": "Au sens propre, qui peut être touché. Au sens courant, concret, réel, vérifiable : un résultat tangible se voit et se mesure, par opposition à une promesse ou à une impression. On parle de preuves, de progrès ou de bénéfices tangibles.",
+    "ety": "Du bas latin tangibilis, « qui peut être touché », de tangere, « toucher ». Même famille que tact, contact, intact et tangente.",
+    "ex": "Trois mois après la réorganisation de l’entrepôt, les gains sont tangibles : les délais de préparation ont baissé d’un quart.",
+    "syn": "concret, palpable, réel, manifeste, mesurable"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Gatsby le Magnifique",
+   "by": "F. Scott Fitzgerald · 1925",
+   "tagline": "La lumière verte",
+   "min": 10,
+   "exMin": 4,
+   "src": "F. Scott Fitzgerald, The Great Gatsby (Charles Scribner’s Sons, New York, 10 avril 1925) ; première traduction française : Gatsby le Magnifique (1926, trad. Victor Llona). Fitzgerald est mort en 1940 : l’œuvre originale est dans le domaine public ; la citation est donnée en anglais, avec une traduction de Culto. Tirage initial et éditions pour les soldats : ordres de grandeur couramment admis par les biographes.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Été 1922, à Long Island. Nick Carraway, jeune courtier venu du Midwest, devient le voisin de Jay Gatsby, un millionnaire mystérieux qui donne chaque samedi des fêtes immenses. Il découvre que tout ce faste n’a qu’un but : reconquérir Daisy, la cousine de Nick, aimée cinq ans plus tôt et mariée depuis à un homme riche et brutal. Le rêve se brise dans un accident de voiture, un mensonge et un coup de feu."
+      ],
+      [
+       "Le rêve américain, vu de près",
+       "Gatsby s’est fabriqué tout seul : nom, passé, fortune. Fitzgerald montre la grandeur de cette ambition et son revers. L’argent ouvre toutes les portes, sauf celle de la vieille aristocratie, qui méprise les nouveaux riches et ne les laisse jamais entrer tout à fait."
+      ],
+      [
+       "On ne rachète pas le passé",
+       "Gatsby croit qu’on peut revenir en arrière et effacer cinq années. Tout le roman montre l’inverse. Ce qu’il aime n’est plus Daisy, mais le souvenir qu’il s’en est construit : un idéal que la réalité ne peut pas égaler."
+      ],
+      [
+       "Les riches sans conséquences",
+       "Tom et Daisy Buchanan cassent les choses et les gens, puis se replient sur leur argent et laissent les autres réparer. Le roman est une critique sévère d’une classe qui ne paie jamais ses fautes."
+      ],
+      [
+       "Un narrateur témoin",
+       "Nick raconte, juge et se trompe parfois. Son regard, à la fois fasciné et dégoûté, donne au livre sa profondeur : c’est l’histoire d’un homme qui admire un rêveur sans pouvoir le sauver."
+      ],
+      [
+       "Pourquoi on en parle encore",
+       "Un roman court, environ 180 pages, devenu le grand livre sur l’argent, l’apparence et la nostalgie. On le cite dès qu’on parle d’ascension sociale, de bulle financière ou de fête qui tourne mal."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le voisin des fêtes"
+    },
+    {
+     "p": "Au printemps 1922, Nick Carraway, ancien combattant de la Grande Guerre, quitte le Midwest pour apprendre le métier d’agent de change à New York. Il loue une petite maison à West Egg, sur Long Island, entre deux immenses propriétés. Celle de droite appartient à Jay Gatsby, dont personne ne sait rien de [[tangible|tangible]] : on le dit ancien espion allemand, cousin d’un empereur, voire meurtrier. Chaque fin de semaine, des centaines d’invités, souvent jamais conviés, viennent boire, danser et nager chez lui.",
+     "lead": 1
+    },
+    {
+     "p": "De l’autre côté de la baie, à East Egg, le quartier des vieilles fortunes, vit Daisy, la cousine de Nick, avec son mari Tom Buchanan, héritier richissime, ancien joueur de football universitaire, arrogant et violent. Tom a une maîtresse, Myrtle Wilson, la femme d’un garagiste installé dans la « vallée des cendres », une décharge grise entre Long Island et Manhattan, que surveille un panneau publicitaire montrant deux yeux géants. Nick rencontre aussi Jordan Baker, une championne de golf désinvolte, amie de Daisy."
+    },
+    {
+     "h5": "Le secret de Gatsby"
+    },
+    {
+     "p": "Un soir, Nick aperçoit son voisin seul sur sa pelouse, les bras tendus vers une petite lumière verte au bout d’un ponton, de l’autre côté de l’eau. Invité à une fête, il découvre un homme d’une trentaine d’années, élégant, au sourire désarmant, qui l’appelle « vieux frère » et lui raconte un passé trop beau : fortune familiale, études à Oxford, médailles de guerre. Jordan livre alors la clé : en 1917, à Louisville, Gatsby, jeune officier sans le sou, et Daisy se sont aimés. Il est parti à la guerre ; elle a épousé Tom en 1919. Gatsby a acheté sa maison pour être en face d’elle. La lumière verte, c’est le bout du ponton de Daisy."
+    },
+    {
+     "h5": "Les retrouvailles"
+    },
+    {
+     "p": "Gatsby demande à Nick d’inviter Daisy pour le thé, sans dire qu’il sera là. La rencontre est d’abord terriblement gênée, puis bouleversante. Gatsby fait visiter sa maison, jette sur le lit des dizaines de chemises en soie, et Daisy fond en larmes. Les deux amants reprennent leur liaison. Gatsby ferme sa maison aux fêtards et renvoie ses domestiques pour en prendre d’autres, plus discrets. Nick, lui, apprend peu à peu la vérité : Gatsby s’appelle en réalité James Gatz, fils de fermiers pauvres du Dakota du Nord. Adolescent, il a été formé par un vieux millionnaire, Dan Cody, puis a fait fortune après la guerre avec un certain Meyer Wolfshiem, un homme d’affaires louche lié à la contrebande d’alcool."
+    },
+    {
+     "h5": "L’après-midi au Plaza"
+    },
+    {
+     "p": "Par une journée de chaleur écrasante, tout le monde part pour Manhattan. Dans une suite de l’hôtel Plaza, Gatsby exige que Daisy dise à Tom qu’elle ne l’a jamais aimé. Elle n’y parvient pas : elle a aimé Tom aussi. Tom contre-attaque et révèle les trafics de Gatsby, ses pharmacies qui vendent de l’alcool sous le manteau en pleine Prohibition. Daisy se replie. Le rêve vacille. Sur le chemin du retour, elle conduit la voiture jaune de Gatsby."
+    },
+    {
+     "h5": "L’accident et la vengeance"
+    },
+    {
+     "p": "Dans la vallée des cendres, Myrtle Wilson se précipite sur la route, croyant reconnaître la voiture de Tom. Daisy la percute et ne s’arrête pas. Myrtle meurt sur le coup. Gatsby décide d’endosser la faute pour protéger Daisy et veille toute la nuit devant chez elle, au cas où Tom deviendrait violent. Pendant ce temps, Daisy et Tom se réconcilient autour d’un poulet froid. George Wilson, fou de douleur, cherche le propriétaire de la voiture jaune. Tom lui donne le nom de Gatsby. Le lendemain, Wilson tue Gatsby d’un coup de revolver alors qu’il flotte dans sa piscine, puis se suicide."
+    },
+    {
+     "h5": "Les funérailles vides"
+    },
+    {
+     "p": "Nick tente d’organiser l’enterrement. Personne ne vient : ni les centaines d’invités, ni Wolfshiem, ni Daisy, partie en voyage avec Tom sans laisser d’adresse. Seuls se présentent le père de Gatsby, venu du Minnesota, fier de son fils, et un ancien invité. Le père montre à Nick un vieux carnet où le jeune James notait son emploi du temps et ses résolutions de self-made-man. Écœuré par l’Est, Nick rompt avec Jordan, croise Tom une dernière fois et rentre dans le Midwest. Avant de partir, il regarde la baie et pense à la lumière verte que Gatsby croyait pouvoir atteindre."
+    },
+    {
+     "quote": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+     "cite": "F. Scott Fitzgerald, The Great Gatsby (1925), dernière phrase. Traduction de Culto : « Ainsi nous avançons, barques à contre-courant, sans cesse ramenés vers le passé. »"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un roman des Années folles"
+    },
+    {
+     "p": "Fitzgerald, né en 1896 dans le Minnesota, a vingt-huit ans quand il publie le livre, en avril 1925. Il est déjà célèbre : son premier roman, paru en 1920, a fait de lui le chroniqueur de la jeunesse de l’« âge du jazz », expression qu’il a popularisée. Il a épousé Zelda Sayre, une jeune femme du Sud qui, comme Daisy, n’a accepté de l’épouser qu’une fois sa réussite [[enteriner|entérinée]] par le succès. Le roman a été en grande partie écrit sur la Côte d’Azur. Il se déroule sous la Prohibition, une époque d’argent facile, de spéculation boursière et de crime organisé."
+    },
+    {
+     "h5": "Un échec devenu classique"
+    },
+    {
+     "p": "À sa sortie, la critique est partagée et les ventes déçoivent : le premier tirage, d’environ 20 000 exemplaires, ne s’épuise pas. Fitzgerald meurt en 1940, à quarante-quatre ans, persuadé d’avoir échoué. Le livre renaît pendant la Seconde Guerre mondiale, quand l’armée américaine en distribue environ 150 000 exemplaires aux soldats. Il entre ensuite dans les programmes scolaires et devient le roman américain par excellence. Le temps a [[enteriner|entériné]] ce que quelques lecteurs, comme T. S. Eliot, avaient vu dès 1925."
+    },
+    {
+     "h5": "L’art de la concision"
+    },
+    {
+     "p": "Fitzgerald a choisi une forme brève et très construite, en neuf chapitres. Il confie le récit à Nick, témoin extérieur, ce qui maintient Gatsby dans le mystère : on le voit de loin, à travers les rumeurs, avant de le comprendre. Le style est riche en images : la lumière verte, symbole de l’espoir hors de portée ; la vallée des cendres, envers sale de la prospérité ; les yeux du panneau publicitaire, comme un dieu indifférent qui regarde tout. Les couleurs, le jaune de la voiture, le blanc des robes de Daisy, l’or, disent tout de l’argent et de ses illusions."
+    },
+    {
+     "h5": "Les thèmes"
+    },
+    {
+     "p": "Le grand sujet est le rêve américain : l’idée qu’un homme peut se réinventer par le travail et l’audace. Gatsby l’incarne jusqu’à l’absurde. Mais sa fortune repose sur le crime, et son but n’est pas la richesse en elle-même : c’est un amour figé dans le passé. Fitzgerald oppose aussi deux Amériques, l’Est corrompu et brillant, le Midwest plus simple et plus moral, et deux formes de richesse, l’argent hérité, sûr de lui et protégé, et l’argent gagné, qui doit sans cesse prouver sa valeur."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’il parle de nous : des apparences que l’on soigne, des réseaux où l’on se montre, des fortunes qui naissent vite et s’effondrent plus vite encore. Le roman rappelle qu’un objectif poursuivi trop longtemps peut se détacher de toute réalité [[tangible|tangible]]. Il se lit en deux soirées et se relit à chaque âge. Le cinéma l’a adapté plusieurs fois, notamment avec Robert Redford en 1974 et Leonardo DiCaprio en 2013."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Été 1922, à Long Island. Nick Carraway devient le voisin de Jay Gatsby, millionnaire mystérieux aux fêtes immenses. Gatsby n’a qu’un but : reconquérir Daisy, la cousine de Nick, aimée cinq ans plus tôt et mariée à Tom Buchanan, riche et brutal. Le rêve finit par un accident, un mensonge et un meurtre.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le rêve américain</b> : Gatsby s’est inventé nom, passé et fortune. L’argent ouvre toutes les portes, sauf celle des vieilles fortunes.",
+      "<b>Le passé ne se rachète pas</b> : Gatsby aime un souvenir plus que Daisy. Son idéal n’a plus rien de [[tangible|tangible]].",
+      "<b>Les riches sans conséquences</b> : Tom et Daisy cassent tout, puis se replient sur leur argent.",
+      "<b>Un narrateur témoin</b> : Nick admire Gatsby sans pouvoir le sauver.",
+      "<b>Un classique bref</b> : environ 180 pages, le grand roman de l’argent, des apparences et de la nostalgie."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Les fêtes</b> : Nick, jeune courtier, loue une maison à West Egg, à côté de celle de Gatsby. Personne ne sait d’où vient sa fortune.",
+      "<b>La lumière verte</b> : Gatsby tend les bras vers le ponton de Daisy, en face. Ils se sont aimés en 1917 ; elle a épousé Tom en 1919.",
+      "<b>Les retrouvailles</b> : un thé chez Nick, une liaison qui reprend. Gatsby s’appelle en réalité James Gatz, fils de fermiers pauvres ; sa fortune vient de la contrebande d’alcool.",
+      "<b>Le Plaza</b> : Gatsby exige que Daisy renie Tom. Elle n’y arrive pas. Tom révèle les trafics de Gatsby.",
+      "<b>L’accident</b> : Daisy, au volant de la voiture jaune, tue Myrtle, la maîtresse de Tom. Gatsby endosse la faute.",
+      "<b>La fin</b> : Tom désigne Gatsby au mari de Myrtle, qui le tue dans sa piscine puis se suicide. Presque personne aux funérailles. Nick rentre dans le Midwest."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>L’âge du jazz</b> : Fitzgerald (1896-1940) publie le livre en avril 1925, sous la Prohibition. Zelda, comme Daisy, n’a épousé l’auteur qu’une fois sa réussite [[enteriner|entérinée]].",
+      "<b>Un échec devenu classique</b> : premier tirage d’environ 20 000 exemplaires, mal vendu. Relancé par ≈ 150 000 exemplaires offerts aux soldats en 1939-1945. Le temps a [[enteriner|entériné]] son statut.",
+      "<b>La forme</b> : neuf chapitres, un narrateur extérieur, des symboles forts : lumière verte, vallée des cendres, yeux du panneau publicitaire.",
+      "<b>Les thèmes</b> : le rêve américain, l’argent hérité contre l’argent gagné, l’Est corrompu et brillant contre le Midwest plus simple. Gatsby poursuit moins la richesse qu’un amour figé dans le passé.",
+      "<b>La dernière phrase</b> : des barques qui avancent à contre-courant, sans cesse ramenées vers le passé. Tout le livre tient dans cette image.",
+      "<b>Aujourd’hui</b> : une leçon sur les apparences et les fortunes rapides. Adapté avec Redford (1974) et DiCaprio (2013)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Le Choc des civilisations",
+   "by": "Samuel P. Huntington · 1996",
+   "min": 9,
+   "exMin": 3,
+   "src": "Samuel P. Huntington, « The Clash of Civilizations? », Foreign Affairs, vol. 72, n° 3 (été 1993) ; The Clash of Civilizations and the Remaking of World Order (Simon & Schuster, 1996) ; trad. française : Le Choc des civilisations (Odile Jacob, 1997). Francis Fukuyama, « The End of History? », The National Interest (été 1989). Critiques : Edward Said, « The Clash of Ignorance », The Nation (octobre 2001) ; Amartya Sen, Identity and Violence (2006). Œuvre protégée : synthèse reformulée, sans citation.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Après la guerre froide, affirme Samuel Huntington, les grands conflits ne viendront plus des idéologies ni de l’économie, mais des identités culturelles. Le monde se recompose autour de sept ou huit civilisations, fondées d’abord sur la religion. Les affrontements les plus dangereux éclateront sur les lignes de fracture entre elles, et l’Occident, dont le poids relatif décline, doit cesser de croire ses valeurs universelles."
+      ],
+      [
+       "Une carte en civilisations",
+       "Huntington distingue les civilisations occidentale, latino-américaine, islamique, chinoise, hindoue, orthodoxe et japonaise, avec une civilisation africaine possible. Chacune s’organise autour d’un « État phare » : les États-Unis, la Chine, la Russie, l’Inde."
+      ],
+      [
+       "Les lignes de fracture",
+       "Les guerres les plus longues naissent là où deux civilisations se touchent : Bosnie, Caucase, Cachemire. Chaque camp y reçoit l’appui de ses « pays frères », ce qui rend ces conflits difficiles à éteindre."
+      ],
+      [
+       "L’Occident face au reste",
+       "La modernisation n’est pas l’occidentalisation. Les pays d’Asie et du monde musulman adoptent la technique occidentale, mais revendiquent leur propre culture à mesure qu’ils s’enrichissent ou que leur population rajeunit."
+      ],
+      [
+       "Un conseil de prudence",
+       "Huntington ne prône pas la croisade : il demande à l’Occident de renforcer son unité, de renoncer à imposer ses valeurs et d’éviter d’intervenir dans les conflits des autres civilisations."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un professeur de Harvard contre l’optimisme"
+    },
+    {
+     "p": "Samuel Huntington, né à New York en 1927 et mort en 2008, a enseigné plus d’un demi-siècle à Harvard. Spécialiste des institutions militaires et des transitions démocratiques, il a aussi servi au Conseil de sécurité nationale sous Jimmy Carter. À l’été 1993, il publie dans la revue <em>Foreign Affairs</em> un article intitulé « The Clash of Civilizations? », avec un point d’interrogation. Le texte suscite plus de réactions que tout autre article de la revue depuis des décennies. Il en tire un livre en 1996, traduit en français l’année suivante chez Odile Jacob."
+    },
+    {
+     "p": "Le livre répond à une thèse alors dominante : celle de Francis Fukuyama, son ancien élève, qui annonçait en 1989 la « fin de l’histoire », c’est-à-dire la victoire durable de la démocratie libérale et du marché. Pour Huntington, cette lecture est naïve. La chute du communisme ne fait pas converger le monde vers le modèle occidental ; elle libère au contraire des identités anciennes que la rivalité des deux blocs avait recouvertes."
+    },
+    {
+     "stats": [
+      [
+       "1993",
+       "article « The Clash of Civilizations? » dans Foreign Affairs"
+      ],
+      [
+       "1996",
+       "parution du livre aux États-Unis (1997 en français)"
+      ],
+      [
+       "7 ou 8",
+       "grandes civilisations retenues par Huntington"
+      ],
+      [
+       "2001",
+       "les attentats du 11 Septembre relancent le débat"
+      ]
+     ]
+    },
+    {
+     "h5": "La thèse : la culture remplace l’idéologie"
+    },
+    {
+     "p": "Pendant la guerre froide, on se demandait dans quel camp on était. Désormais, explique Huntington, on se demande qui l’on est. Les peuples répondent par la religion, la langue, l’histoire, les coutumes. Une civilisation est le plus large de ces cercles d’appartenance, au-delà de la nation. Dans ce monde, les alliances suivent de plus en plus les affinités culturelles : on coopère plus facilement avec ceux qui nous ressemblent. Les institutions communes, comme l’Union européenne, sont plus solides quand elles reposent sur une culture partagée."
+    },
+    {
+     "h5": "Le déclin relatif de l’Occident"
+    },
+    {
+     "p": "Huntington insiste sur les rapports de force. L’Occident reste la civilisation la plus puissante, mais sa part de la population mondiale, de la production et de la puissance militaire recule. L’Asie de l’Est connaît alors une croissance très rapide, qui nourrit une affirmation culturelle : la réussite économique est attribuée à des valeurs propres, non au modèle occidental. Le monde musulman, lui, connaît une forte poussée démographique : une jeunesse nombreuse, souvent sans emploi, alimente le renouveau religieux et l’instabilité. Il évoque même un rapprochement possible entre la Chine et certains pays musulmans contre l’Occident."
+    },
+    {
+     "h5": "Pays déchirés et pays clivés"
+    },
+    {
+     "p": "Le livre propose des outils encore utilisés. Un « pays déchiré » est un pays dont les élites veulent changer de civilisation alors que la population ne suit pas : la Turquie tournée vers l’Europe, le Mexique vers l’Amérique du Nord, la Russie entre Occident et orthodoxie. Un « pays clivé » abrite deux civilisations sur son sol. Huntington cite l’Ukraine, partagée entre un Ouest uniate et tourné vers l’Europe et un Est orthodoxe et russophone, et juge qu’une fracture y reste possible. Les événements depuis 2014 ont donné à cette analyse une résonance [[tangible|tangible]]."
+    },
+    {
+     "h5": "Les recommandations"
+    },
+    {
+     "p": "La dernière partie du livre est un programme de politique étrangère. Huntington demande d’abord aux États-Unis de resserrer leurs liens avec l’Europe, au sein de l’Otan et dans l’économie, car l’unité de l’Occident est sa principale force. Il conseille ensuite de ne pas chercher à exporter la démocratie et les droits de l’homme par la contrainte, ce qui nourrit le ressentiment. Il recommande enfin la « règle d’abstention » : les États phares ne doivent pas intervenir dans les conflits internes aux autres civilisations, et doivent négocier entre eux pour contenir les guerres de lignes de fracture. Sur le plan intérieur, il s’inquiète du multiculturalisme, qui affaiblirait, selon lui, l’identité commune des Américains ; il en fera le sujet de son livre suivant, <em>Qui sommes-nous ?</em>, en 2004. Ce volet, plus politique, est aussi le plus contesté."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Les critiques ont été vives. Edward Said, en 2001, reproche à Huntington de traiter les civilisations comme des blocs homogènes, alors qu’elles sont traversées de débats, de mélanges et de conflits internes. L’économiste Amartya Sen, en 2006, refuse de réduire une personne à une seule identité religieuse. Les faits ne confirment pas toujours la thèse : beaucoup des guerres les plus meurtrières des dernières décennies ont opposé des pays ou des groupes de même civilisation, comme l’Iran et l’Irak dans les années 1980 ou les factions de la guerre civile syrienne. Les frontières que trace Huntington, enfin, sont discutables : pourquoi l’Amérique latine serait-elle une civilisation distincte de l’Occident ?"
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Les attentats du 11 septembre 2001 ont fait du livre un best-seller mondial, souvent lu à contresens comme un appel à la guerre contre l’islam, ce qu’il n’est pas. Le titre est devenu une expression courante, au risque d’[[enteriner|entériner]] une vision du monde en blocs que l’auteur présentait comme une hypothèse. Trente ans plus tard, le retour des nationalismes, la rivalité sino-américaine et la guerre en Ukraine relancent le débat : le monde ne s’est pas uniformisé, mais il ne s’est pas non plus figé en civilisations. Pour un lecteur d’aujourd’hui, le livre reste une grille utile, à manier avec esprit critique."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Pour Samuel Huntington, après la guerre froide, les grands conflits ne viendront plus des idéologies mais des identités culturelles. Le monde se recompose en sept ou huit civilisations, fondées surtout sur la religion. Les guerres éclateront sur leurs lignes de fracture. L’Occident, en déclin relatif, doit renoncer à imposer ses valeurs.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Une carte en civilisations</b> : occidentale, latino-américaine, islamique, chinoise, hindoue, orthodoxe, japonaise, peut-être africaine. Chacune autour d’un « État phare ».",
+      "<b>Les lignes de fracture</b> : Bosnie, Caucase, Cachemire. Les « pays frères » soutiennent chaque camp.",
+      "<b>Modernisation n’est pas occidentalisation</b> : l’Asie et le monde musulman prennent la technique, pas les valeurs.",
+      "<b>Un conseil de prudence</b> : unité de l’Occident, non-intervention, fin de l’universalisme."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "1993",
+       "article « The Clash of Civilizations? » dans Foreign Affairs"
+      ],
+      [
+       "1996",
+       "parution du livre aux États-Unis (1997 en français)"
+      ],
+      [
+       "7 ou 8",
+       "grandes civilisations retenues par Huntington"
+      ],
+      [
+       "2001",
+       "les attentats du 11 Septembre relancent le débat"
+      ]
+     ]
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Harvard (1927-2008), conseiller sous Carter. Répond à la « fin de l’histoire » de Fukuyama, son ancien élève.",
+      "<b>La thèse</b> : la guerre froide demandait « dans quel camp es-tu ? » ; le monde nouveau demande « qui es-tu ? ». Religion, langue et histoire répondent.",
+      "<b>Le déclin relatif</b> : l’Occident reste le plus puissant, mais son poids démographique et économique recule face à l’Asie de l’Est et au monde musulman.",
+      "<b>Les remèdes</b> : unir l’Occident (Otan, économie), ne pas exporter la démocratie par la force, appliquer une « règle d’abstention » dans les conflits des autres civilisations.",
+      "<b>Pays déchirés</b> : Turquie, Mexique, Russie, dont les élites veulent changer de camp culturel.",
+      "<b>Pays clivés</b> : l’Ukraine, partagée entre Ouest et Est. Depuis 2014, l’analyse a pris un tour [[tangible|tangible]].",
+      "<b>Les critiques</b> : Said (2001) dénonce des blocs homogènes ; Sen (2006) refuse l’identité unique. Beaucoup de guerres opposent des pays d’une même civilisation (Iran-Irak, Syrie).",
+      "<b>La postérité</b> : best-seller après le 11 Septembre, souvent lu à contresens. Le titre risque d’[[enteriner|entériner]] une vision du monde en blocs."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Chine : la croissance tirée par les puces, pas par les ménages",
+   "by": "Analyse",
+   "fig": "4,5 %",
+   "figl": "croissance chinoise au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Bureau national des statistiques de Chine, publication du 19 octobre 2026, via FXStreet, InvestingLive et Startup Fortune (19 octobre 2026) ; douanes chinoises, via Associated Press (14 octobre 2026) et Reuters. Données arrêtées à septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La Chine a annoncé ce lundi une croissance de 4,5 % sur un an au troisième trimestre, contre 4,3 % au deuxième, le rythme le plus faible depuis plus de trois ans. Le chiffre dépasse légèrement les attentes des économistes, à 4,4 %. Sur neuf mois, la hausse atteint 4,6 %, dans la cible officielle de 4,5 à 5 %. Mais le moteur est presque entièrement extérieur : les usines exportent à tour de bras pendant que les ménages et l’immobilier restent à l’arrêt.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les exportations chinoises par destination",
+      "sub": "hausse sur un an, septembre 2026, en %",
+      "rows": [
+       [
+        "Corée du Sud",
+        39.1
+       ],
+       [
+        "Taïwan",
+        37.3
+       ],
+       [
+        "Asean",
+        28.7
+       ],
+       [
+        "Union européenne",
+        16.4
+       ],
+       [
+        "États-Unis",
+        9.8
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Source : douanes chinoises, via Reuters et Startup Fortune (19 octobre 2026)."
+     }
+    },
+    {
+     "h": "Un moteur : l’export de haute technologie"
+    },
+    {
+     "p": "En septembre, les exportations ont bondi de 36,3 % sur un an, bien au-delà des 25 % attendus. Les puces électroniques en sont la vedette : leurs ventes à l’étranger ont plus que doublé en valeur, portées par la demande mondiale liée à l’intelligence artificielle, mais leur volume n’a presque pas bougé. C’est donc surtout l’envolée des prix qui gonfle les chiffres. L’excédent commercial atteint 133,5 milliards de dollars sur le seul mois, et 938 milliards depuis janvier. Il pourrait dépasser le record de 1 200 milliards de 2025. La production industrielle progresse de 5,5 %, son meilleur rythme depuis six mois. Les exportations d’automobiles et d’ordinateurs ont elles aussi bondi de plus de 50 % sur neuf mois. Les ventes vers l’Asie progressent bien plus vite que celles vers les États-Unis, toujours freinées par les droits de douane."
+    },
+    {
+     "stats": [
+      [
+       "4,5 %",
+       "croissance du PIB au 3e trimestre sur un an (4,3 % au 2e)"
+      ],
+      [
+       "+ 36,3 %",
+       "exportations de septembre sur un an"
+      ],
+      [
+       "+ 1,1 %",
+       "ventes au détail de septembre sur un an"
+      ],
+      [
+       "− 20,6 %",
+       "investissement immobilier sur neuf mois"
+      ]
+     ]
+    },
+    {
+     "h": "Le point faible : la demande intérieure"
+    },
+    {
+     "p": "Les ventes au détail n’augmentent que de 1,1 % sur un an en septembre, même si c’est leur meilleure hausse depuis mars. L’investissement recule de 7,2 % sur neuf mois, et l’investissement immobilier s’effondre de 20,6 %, dans une crise qui dure depuis cinq ans. Les prix des logements neufs baissent encore. Pour les familles chinoises, dont l’épargne est placée en grande partie dans la pierre, la reprise n’a rien de [[tangible|tangible]] : elles se sentent plus pauvres et consomment peu."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La Chine produit beaucoup plus qu’elle ne consomme et écoule l’écart à l’étranger. Ce modèle tient les chiffres, mais il crispe ses partenaires : l’Union européenne accuse un déficit commercial de plus d’un milliard de dollars par jour avec la Chine. Tant que Pékin n’aura pas [[enteriner|entériné]] un vrai soutien à la consommation des ménages, la croissance restera dépendante de la demande mondiale et des tensions commerciales."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>4,5 %</b> de croissance au 3e trimestre, après 4,3 %. 4,6 % sur neuf mois, dans la cible de 4,5 à 5 %.",
+      "<b>Un moteur extérieur</b> : les usines exportent, les ménages et l’immobilier calent."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les exportations chinoises par destination",
+      "sub": "hausse sur un an, septembre 2026, en %",
+      "rows": [
+       [
+        "Corée du Sud",
+        39.1
+       ],
+       [
+        "Taïwan",
+        37.3
+       ],
+       [
+        "Asean",
+        28.7
+       ],
+       [
+        "Union européenne",
+        16.4
+       ],
+       [
+        "États-Unis",
+        9.8
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Source : douanes chinoises, via Reuters et Startup Fortune (19 octobre 2026)."
+     }
+    },
+    {
+     "h": "L’export"
+    },
+    {
+     "ul": [
+      "<b>+ 36,3 %</b> d’exportations en septembre. Les puces doublent en valeur, mais pas en volume : c’est l’effet prix de l’IA.",
+      "<b>Autos et ordinateurs</b> : plus de 50 % de hausse sur neuf mois. L’Asie achète bien plus que les États-Unis.",
+      "<b>Excédent</b> : 133,5 Md$ en septembre, 938 Md$ depuis janvier, vers un record au-delà de 1 200 Md$."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "4,5 %",
+       "croissance du PIB au 3e trimestre sur un an (4,3 % au 2e)"
+      ],
+      [
+       "+ 36,3 %",
+       "exportations de septembre sur un an"
+      ],
+      [
+       "+ 1,1 %",
+       "ventes au détail de septembre sur un an"
+      ],
+      [
+       "− 20,6 %",
+       "investissement immobilier sur neuf mois"
+      ]
+     ]
+    },
+    {
+     "h": "La demande intérieure"
+    },
+    {
+     "ul": [
+      "<b>Consommation</b> : + 1,1 % seulement. Investissement − 7,2 %, immobilier − 20,6 % sur neuf mois.",
+      "<b>Les ménages</b> : leur patrimoine est dans la pierre ; la reprise n’a rien de [[tangible|tangible]] pour eux."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un modèle exportateur</b> qui crispe les partenaires : l’UE perd plus d’1 Md$ par jour dans ses échanges avec la Chine.",
+      "<b>La clé</b> : tant que Pékin n’aura pas [[enteriner|entériné]] un soutien aux ménages, la croissance dépendra du reste du monde."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Éthiopie-Érythrée : la mer au cœur de la guerre",
+   "by": "Analyse",
+   "fig": "≈ 90 %",
+   "figl": "commerce éthiopien via Djibouti",
+   "min": 3,
+   "exMin": 2,
+   "src": "The New Humanitarian (« Eritrean incursions raise fears of a wider regional war in Ethiopia », 12 octobre 2026) ; Reuters (10 octobre 2026) ; Al Jazeera (5 octobre 2026) ; synthèses Wikipedia « 2026 Ethiopian offensive » et « 2026 Eritrean incursion into Ethiopia » (consultées le 19 octobre 2026), recoupées avec la presse. Situation militaire fluide, bilans non vérifiés indépendamment. Données arrêtées au 18 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La Corne de l’Afrique glisse vers une guerre entre États. Le 1er octobre, l’Éthiopie a fermé son ambassade à Asmara et expulsé dix diplomates érythréens ; l’Érythrée a rompu ses relations. Addis-Abeba accuse son voisin d’avoir envoyé des troupes au Tigré et en Afar, au moment où l’armée fédérale reprend la région aux rebelles. Asmara dément et accuse Abiy Ahmed de chercher un prétexte pour s’emparer du port d’Assab, sur la mer Rouge.",
+     "lead": 1
+    },
+    {
+     "h": "Un géant sans accès à la mer"
+    },
+    {
+     "p": "Depuis l’indépendance de l’Érythrée en 1993, l’Éthiopie, pays de plus de 120 millions d’habitants, n’a plus de côte. Environ 90 % de son commerce transite par le port de Djibouti, pour une facture élevée. En 2023, le Premier ministre Abiy Ahmed, Prix Nobel de la paix 2019 pour sa réconciliation avec l’Érythrée, a déclaré que l’accès à la mer était pour son pays une question d’existence. Réinvesti pour un nouveau mandat le 5 octobre, il a promis de le lui obtenir. Pour Asmara, ces mots valent menace sur Assab, port érythréen proche de la frontière avec l’Afar éthiopien."
+    },
+    {
+     "stats": [
+      [
+       "≈ 90 %",
+       "part du commerce éthiopien passant par Djibouti"
+      ],
+      [
+       "1993",
+       "indépendance de l’Érythrée, l’Éthiopie perd la mer"
+      ],
+      [
+       "≈ 1 million",
+       "déplacés toujours sans retour au Tigré"
+      ],
+      [
+       "10",
+       "diplomates érythréens expulsés le 1er octobre"
+      ]
+     ]
+    },
+    {
+     "h": "Une guerre à plusieurs étages"
+    },
+    {
+     "p": "Le conflit s’emboîte dans une crise intérieure. Le 23 septembre, une coalition de sept groupes armés, dont le TPLF tigréen, les milices amhara Fano et l’Armée de libération oromo, a lancé une offensive pour renverser le pouvoir. L’armée l’a repoussée et a repris Mekele, la capitale du Tigré, le 3 octobre, puis Adigrat le 10. Abiy a annoncé le 16 octobre un gouvernement intérimaire pour la région. Addis-Abeba accuse l’Érythrée, l’Égypte et le Soudan de soutenir les rebelles ; les trois pays ont signé le 4 octobre une déclaration commune sur la mer Rouge et le Nil. Au Tigré, quatre ans après la guerre de 2020-2022, environ un million de personnes restent déplacées et près de quatre millions, plus de la moitié de la population, ont besoin d’une aide urgente. L’Union africaine a demandé une désescalade et chargé l’ancien président nigérian Olusegun Obasanjo d’une médiation."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La mer Rouge, déjà secouée par les houthis, voit s’ouvrir un nouveau front. Les menaces restent pour l’instant verbales, mais les mouvements de troupes sont [[tangible|tangibles]]. Une guerre ouverte [[enteriner|entérinerait]] la fin de la paix de 2018 et menacerait la route qui relie l’Éthiopie à Djibouti, poumon de son économie."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Rupture</b> : le 1er octobre, l’Éthiopie expulse dix diplomates érythréens ; l’Érythrée rompt ses relations.",
+      "<b>Accusations croisées</b> : Addis-Abeba dénonce des troupes érythréennes au Tigré ; Asmara voit un prétexte pour prendre le port d’Assab."
+     ]
+    },
+    {
+     "h": "L’enjeu de la mer"
+    },
+    {
+     "ul": [
+      "<b>Sans côte depuis 1993</b> : ≈ 90 % du commerce éthiopien passe par Djibouti.",
+      "<b>Abiy Ahmed</b>, Nobel de la paix 2019, fait de l’accès à la mer une question d’existence. Réinvesti le 5 octobre."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 90 %",
+       "part du commerce éthiopien passant par Djibouti"
+      ],
+      [
+       "1993",
+       "indépendance de l’Érythrée, l’Éthiopie perd la mer"
+      ],
+      [
+       "≈ 1 million",
+       "déplacés toujours sans retour au Tigré"
+      ],
+      [
+       "10",
+       "diplomates érythréens expulsés le 1er octobre"
+      ]
+     ]
+    },
+    {
+     "h": "La guerre intérieure"
+    },
+    {
+     "ul": [
+      "<b>23 septembre</b> : sept groupes armés (TPLF, Fano, Armée de libération oromo…) lancent une offensive.",
+      "<b>La riposte</b> : l’armée reprend Mekele le 3 octobre, Adigrat le 10. Gouvernement intérimaire annoncé le 16.",
+      "<b>Le Tigré</b> : ≈ 1 million de déplacés, près de 4 millions de personnes en besoin d’aide. L’Union africaine mandate Olusegun Obasanjo.",
+      "<b>Le camp adverse</b> : Érythrée, Égypte et Soudan, accusés de soutenir les rebelles, signent une déclaration commune le 4 octobre."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un nouveau front</b> en mer Rouge : les menaces sont verbales, les troupes bien [[tangible|tangibles]].",
+      "<b>Le risque</b> : une guerre ouverte [[enteriner|entérinerait]] la fin de la paix de 2018 et couperait la route vers Djibouti."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Canal de Panama : l’eau fait la loi",
+   "by": "Analyse",
+   "fig": "33",
+   "figl": "passages réservables par jour",
+   "min": 3,
+   "exMin": 2,
+   "src": "Autorité du canal de Panama, avis A-29-2026 (20 août 2026) et avis du 28 septembre 2026, via La Caribeña News, Newsroom Panama (28 septembre 2026) et ShipUniverse (octobre 2026) ; Río Indio : ENR (24 août 2026). Données arrêtées au 15 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Depuis le 15 octobre, le canal de Panama accepte 33 navires réservés par jour, contre 32 depuis la mi-septembre. Le créneau ajouté concerne les grandes écluses, celles des porte-conteneurs et méthaniers les plus gros. Le tirant d’eau maximal y a été relevé fin septembre à 49 pieds, soit 14,94 mètres. Après un été de restrictions, c’est une détente. Mais elle reste fragile : le canal fonctionne à l’eau douce, et l’eau manque.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les créneaux de passage quotidiens au canal de Panama",
+      "sub": "nombre de navires réservables par jour",
+      "rows": [
+       [
+        "Sécheresse, début 2024",
+        22
+       ],
+       [
+        "Depuis le 15 sept. 2026",
+        32
+       ],
+       [
+        "Depuis le 15 oct. 2026",
+        33
+       ],
+       [
+        "Capacité soutenable (bas de fourchette)",
+        36
+       ]
+      ],
+      "note": "Sources : Autorité du canal de Panama (avis A-29-2026 et avis du 28 septembre 2026), via La Caribeña News et ShipUniverse ; capacité soutenable de 36 à 38 navires par jour selon le rapport d’août de l’Autorité."
+     }
+    },
+    {
+     "h": "Un canal qui boit de l’eau de pluie"
+    },
+    {
+     "p": "Chaque navire qui franchit les écluses est hissé puis redescendu grâce à l’eau du lac Gatún, alimenté par les pluies. Dans les anciennes écluses, chaque passage envoie à la mer près de 200 000 mètres cubes d’eau douce ; les nouvelles en recyclent une partie grâce à des bassins d’économie d’eau. Quand il pleut moins, l’Autorité du canal réduit le nombre de passages et le tirant d’eau, ce qui oblige les navires à charger moins. De mai à août, les pluies ont été 34 % sous la moyenne et les apports d’eau 44 % en dessous. Depuis juillet, le tirant d’eau a été modifié sept fois, dont cinq fois à la baisse. En 2023-2024, la sécheresse avait déjà fait tomber le trafic à 22 navires par jour."
+    },
+    {
+     "stats": [
+      [
+       "33",
+       "créneaux quotidiens depuis le 15 octobre (32 avant)"
+      ],
+      [
+       "49 pieds",
+       "tirant d’eau maximal des grandes écluses (14,94 m)"
+      ],
+      [
+       "− 34 %",
+       "pluies de mai à août par rapport à la moyenne"
+      ],
+      [
+       "1,6 Md$",
+       "coût du futur réservoir de Río Indio"
+      ]
+     ]
+    },
+    {
+     "h": "Ce que cela change pour les chaînes logistiques"
+    },
+    {
+     "p": "Avec 33 créneaux, le canal reste sous sa capacité soutenable, de 36 à 38 navires par jour. Seule une réservation garantit une date de passage : les navires sans créneau peuvent attendre longtemps, ou payer très cher aux enchères. Le gain d’un pied de tirant d’eau se traduit par des milliers de tonnes de cargaison en plus par navire, ce qui baisse le coût unitaire. Les méthaniers américains y gagnent le plus : en juillet, onze d’entre eux chargés de gaz ont emprunté le canal, un record depuis près de trois ans, car la route par Panama vers l’Asie raccourcit le voyage d’environ deux semaines par rapport au cap de Bonne-Espérance. Pour [[enteriner|entériner]] une solution durable, l’Autorité a lancé le réservoir de Río Indio, estimé à 1,6 milliard de dollars, mais l’eau n’arrivera pas dans le lac Gatún avant 2031 ou 2032, et environ 423 familles doivent être relogées."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le canal de Panama rappelle qu’une infrastructure mondiale peut dépendre de la météo locale. Pour un chargeur, le gain de ce mois est [[tangible|tangible]], mais la menace d’un épisode El Niño en 2027 impose de garder des itinéraires de rechange, par Suez ou par le rail américain."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>33 créneaux par jour</b> depuis le 15 octobre, contre 32. Le créneau ajouté concerne les grandes écluses.",
+      "<b>Tirant d’eau</b> relevé à 49 pieds (14,94 m) fin septembre. Une détente fragile : le canal dépend de la pluie."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les créneaux de passage quotidiens au canal de Panama",
+      "sub": "nombre de navires réservables par jour",
+      "rows": [
+       [
+        "Sécheresse, début 2024",
+        22
+       ],
+       [
+        "Depuis le 15 sept. 2026",
+        32
+       ],
+       [
+        "Depuis le 15 oct. 2026",
+        33
+       ],
+       [
+        "Capacité soutenable (bas de fourchette)",
+        36
+       ]
+      ],
+      "note": "Sources : Autorité du canal de Panama (avis A-29-2026 et avis du 28 septembre 2026), via La Caribeña News et ShipUniverse ; capacité soutenable de 36 à 38 navires par jour selon le rapport d’août de l’Autorité."
+     }
+    },
+    {
+     "h": "Le mécanisme"
+    },
+    {
+     "ul": [
+      "<b>L’eau du lac Gatún</b> fait monter et descendre chaque navire, puis part à la mer.",
+      "<b>Un été sec</b> : pluies − 34 %, apports d’eau − 44 % de mai à août. Sept changements de tirant d’eau depuis juillet, dont cinq baisses.",
+      "<b>Précédent</b> : 22 navires par jour pendant la sécheresse de 2023-2024."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "33",
+       "créneaux quotidiens depuis le 15 octobre (32 avant)"
+      ],
+      [
+       "49 pieds",
+       "tirant d’eau maximal des grandes écluses (14,94 m)"
+      ],
+      [
+       "− 34 %",
+       "pluies de mai à août par rapport à la moyenne"
+      ],
+      [
+       "1,6 Md$",
+       "coût du futur réservoir de Río Indio"
+      ]
+     ]
+    },
+    {
+     "h": "Les conséquences"
+    },
+    {
+     "ul": [
+      "<b>Sous la capacité</b> soutenable de 36 à 38 navires par jour. Sans réservation, attente ou enchères.",
+      "<b>Les méthaniers</b> : 11 passages en juillet, un record depuis près de trois ans. Panama fait gagner ≈ 2 semaines vers l’Asie.",
+      "<b>Río Indio</b> : un réservoir à 1,6 Md$ pour [[enteriner|entériner]] une solution durable, mais pas d’eau avant 2031-2032."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un gain [[tangible|tangible]]</b> ce mois-ci, sous la menace d’El Niño en 2027.",
+      "<b>Pour les chargeurs</b> : garder des routes de rechange, par Suez ou le rail américain."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Netflix : rentable, mais plus assez regardé",
+   "by": "Analyse",
+   "fig": "≈ 1 000",
+   "figl": "postes supprimés avant les résultats",
+   "min": 3,
+   "exMin": 2,
+   "src": "Netflix, lettre aux actionnaires du 2e trimestre 2026 (16 juillet 2026, formulaire 8-K, via StockTitan) ; 24/7 Wall St. (« Netflix Is Cutting About 1,000 Jobs and Its Content Chief Is Out, Days Before Earnings », 16 octobre 2026) ; Variety (octobre 2026). Cours de bourse au 15 octobre 2026. Résultats du 3e trimestre attendus le 20 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Netflix a annoncé le 14 octobre la suppression d’environ 1 000 postes, soit 6 % de ses effectifs, la plus vaste vague de son histoire selon la presse américaine. Le lendemain, sa directrice des contenus, Bela Bajaria, a quitté son poste ; Peter Rice la remplace. Le géant du streaming publie ses résultats du troisième trimestre mardi 20 octobre. Il gagne beaucoup d’argent, mais il doit convaincre des investisseurs inquiets : l’action a perdu environ 42 % depuis son plus haut de l’année.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La marge opérationnelle de Netflix",
+      "sub": "résultat opérationnel en % du chiffre d’affaires",
+      "rows": [
+       [
+        "2025",
+        29.5
+       ],
+       [
+        "T3 2025",
+        28.2
+       ],
+       [
+        "T2 2026",
+        33.4
+       ],
+       [
+        "T3 2026 (prévision)",
+        33.2
+       ],
+       [
+        "Objectif 2026",
+        31.5
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Netflix, lettre aux actionnaires du 16 juillet 2026 (formulaire 8-K)."
+     }
+    },
+    {
+     "h": "Une machine à marges"
+    },
+    {
+     "p": "Les chiffres restent solides. Au deuxième trimestre, le chiffre d’affaires a progressé de 13 %, à 12,56 milliards de dollars, et le bénéfice net a atteint 3,4 milliards. La marge opérationnelle dépasse 33 %, et Netflix vise 31,5 % sur l’année, contre 29,5 % en 2025, pour un chiffre d’affaires de 51 à 51,4 milliards. La publicité, lancée fin 2022, devient [[tangible|tangible]] : environ 3 milliards de dollars attendus cette année, le double de 2025. Le groupe a aussi racheté pour 4,7 milliards de ses propres actions au trimestre."
+    },
+    {
+     "stats": [
+      [
+       "≈ 1 000",
+       "postes supprimés, environ 6 % des effectifs"
+      ],
+      [
+       "12,56 Md$",
+       "chiffre d’affaires du 2e trimestre (+ 13 %)"
+      ],
+      [
+       "≈ 3 Md$",
+       "recettes publicitaires visées en 2026, le double de 2025"
+      ],
+      [
+       "≈ − 42 %",
+       "recul de l’action depuis son plus haut sur un an"
+      ]
+     ]
+    },
+    {
+     "h": "Le vrai sujet : le temps passé devant l’écran"
+    },
+    {
+     "p": "Le problème est ailleurs. Au premier semestre, le temps de visionnage n’a progressé que de 2 %. Or c’est lui qui permet de vendre de la publicité et d’augmenter les prix. Dans le même temps, les dépenses de contenus doivent croître d’environ 10 % cette année, plus vite que leur moyenne de 8 % sur cinq ans. Le direct, sport et événements, absorbe 5 % du budget pour 1 % des heures vues. Le flux de trésorerie disponible a chuté de 33 % au deuxième trimestre, à 1,53 milliard, en raison d’impôts plus élevés liés notamment à l’indemnité de rupture perçue après l’échec du rapprochement avec Warner Bros."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les suppressions de postes et le changement à la tête des contenus visent à [[enteriner|entériner]] une discipline de coûts avant le verdict du marché. Leçon générale : une entreprise très rentable peut être sanctionnée en bourse si son indicateur d’usage, ici l’attention des abonnés, cesse de progresser. Mardi, au-delà du chiffre d’affaires attendu à 12,86 milliards de dollars, les analystes regarderont surtout les signes d’un regain d’engagement."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>≈ 1 000 postes</b> supprimés le 14 octobre (6 % des effectifs). Bela Bajaria, patronne des contenus, remplacée par Peter Rice.",
+      "<b>Résultats le 20 octobre</b>, avec une action en recul d’≈ 42 % depuis son plus haut."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La marge opérationnelle de Netflix",
+      "sub": "résultat opérationnel en % du chiffre d’affaires",
+      "rows": [
+       [
+        "2025",
+        29.5
+       ],
+       [
+        "T3 2025",
+        28.2
+       ],
+       [
+        "T2 2026",
+        33.4
+       ],
+       [
+        "T3 2026 (prévision)",
+        33.2
+       ],
+       [
+        "Objectif 2026",
+        31.5
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Netflix, lettre aux actionnaires du 16 juillet 2026 (formulaire 8-K)."
+     }
+    },
+    {
+     "h": "Les marges"
+    },
+    {
+     "ul": [
+      "<b>T2</b> : 12,56 Md$ de chiffre d’affaires (+ 13 %), 3,4 Md$ de bénéfice net, marge de 33,4 %.",
+      "<b>2026</b> : 51 à 51,4 Md$ de ventes, marge de 31,5 %. Publicité [[tangible|tangible]] : ≈ 3 Md$, le double de 2025."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 1 000",
+       "postes supprimés, environ 6 % des effectifs"
+      ],
+      [
+       "12,56 Md$",
+       "chiffre d’affaires du 2e trimestre (+ 13 %)"
+      ],
+      [
+       "≈ 3 Md$",
+       "recettes publicitaires visées en 2026, le double de 2025"
+      ],
+      [
+       "≈ − 42 %",
+       "recul de l’action depuis son plus haut sur un an"
+      ]
+     ]
+    },
+    {
+     "h": "Le visionnage"
+    },
+    {
+     "ul": [
+      "<b>+ 2 % seulement</b> de temps de visionnage au 1er semestre : moins de marge pour la pub et les hausses de prix.",
+      "<b>Contenus</b> : + 10 % de dépenses ; le direct prend 5 % du budget pour 1 % des heures vues.",
+      "<b>Trésorerie</b> : − 33 % au T2, à 1,53 Md$, sous l’effet des impôts liés à l’indemnité Warner Bros."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le plan</b> : [[enteriner|entériner]] une discipline de coûts avant le verdict du marché.",
+      "<b>Mardi</b> : 12,86 Md$ de chiffre d’affaires attendus ; le marché guettera surtout l’engagement des abonnés.",
+      "<b>La leçon</b> : la rentabilité ne suffit pas si l’usage cesse de croître."
+     ]
+    }
+   ]
+  }
+ ]
+}

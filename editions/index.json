@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-16",
+ "latest": "2026-10-19",
  "editions": [
+  {
+   "date": "2026-10-19",
+   "label": "Lundi 19 octobre",
+   "words": [
+    "Entériner",
+    "Tangible"
+   ],
+   "items": [
+    [
+     "lit",
+     "Gatsby le Magnifique"
+    ],
+    [
+     "essai",
+     "Le Choc des civilisations"
+    ],
+    [
+     "eco",
+     "Chine : la croissance tirée par les puces, pas par les ménages"
+    ],
+    [
+     "geo",
+     "Éthiopie-Érythrée : la mer au cœur de la guerre"
+    ],
+    [
+     "log",
+     "Canal de Panama : l’eau fait la loi"
+    ],
+    [
+     "ent",
+     "Netflix : rentable, mais plus assez regardé"
+    ]
+   ]
+  },
   {
    "date": "2026-10-16",
    "label": "Vendredi 16 octobre",
@@ -207,6 +241,16 @@
   }
  ],
  "review": [
+  {
+   "w": "Pallier",
+   "short": "Compenser un manque, sans le faire disparaître",
+   "week": "sem. du 12 oct."
+  },
+  {
+   "w": "Pérenne",
+   "short": "Qui dure dans le temps, de façon stable",
+   "week": "sem. du 12 oct."
+  },
   {
    "w": "Corollaire",
    "short": "Conséquence directe et inévitable d’un fait",
