@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-19",
+ "latest": "2026-10-20",
  "editions": [
+  {
+   "date": "2026-10-20",
+   "label": "Mardi 20 octobre",
+   "words": [
+    "Entériner",
+    "Tangible"
+   ],
+   "items": [
+    [
+     "lit",
+     "La Mort d’Ivan Ilitch"
+    ],
+    [
+     "essai",
+     "Le But"
+    ],
+    [
+     "eco",
+     "Gaz européen : l’hiver commence aux trois quarts plein"
+    ],
+    [
+     "geo",
+     "Gange : le traité de l’eau entre l’Inde et le Bangladesh arrive à échéance"
+    ],
+    [
+     "log",
+     "Camions sans chauffeur : le Texas passe à l’échelle"
+    ],
+    [
+     "ent",
+     "ASML : la machine que l’IA s’arrache"
+    ]
+   ]
+  },
   {
    "date": "2026-10-19",
    "label": "Lundi 19 octobre",

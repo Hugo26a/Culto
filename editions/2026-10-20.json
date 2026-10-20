@@ -1,0 +1,1111 @@
+{
+ "date": "2026-10-20",
+ "label": "Mardi 20 octobre 2026",
+ "n": 7,
+ "example": false,
+ "week": {
+  "start": "2026-10-19",
+  "label": "Semaine du 19 octobre",
+  "day": 2,
+  "words": [
+   {
+    "key": "enteriner",
+    "w": "Entériner",
+    "ph": "[ɑ̃.te.ʁi.ne] · verbe transitif",
+    "short": "Rendre officiel ce qui était décidé ou admis.",
+    "def": "Valider, ratifier, rendre définitif ce qui était déjà décidé, constaté ou admis dans les faits. Une direction entérine un choix fait par ses équipes ; un accord entérine une situation existante. Le mot suppose souvent qu’on ne fait que confirmer ce qui était acquis.",
+    "ety": "De l’ancien français enterin, « entier, complet », lui-même tiré de entier. À l’origine terme de droit : entériner un acte, c’était le rendre entier, donc pleinement valable, en le confirmant officiellement.",
+    "ex": "Le comité de direction a entériné mardi le choix du nouveau transporteur, testé depuis trois mois sur deux entrepôts.",
+    "syn": "ratifier, valider, confirmer, homologuer, consacrer"
+   },
+   {
+    "key": "tangible",
+    "w": "Tangible",
+    "ph": "[tɑ̃.ʒibl] · adjectif",
+    "short": "Concret, réel, que l’on peut constater.",
+    "def": "Au sens propre, qui peut être touché. Au sens courant, concret, réel, vérifiable : un résultat tangible se voit et se mesure, par opposition à une promesse ou à une impression. On parle de preuves, de progrès ou de bénéfices tangibles.",
+    "ety": "Du bas latin tangibilis, « qui peut être touché », de tangere, « toucher ». Même famille que tact, contact, intact et tangente.",
+    "ex": "Trois mois après la réorganisation de l’entrepôt, les gains sont tangibles : les délais de préparation ont baissé d’un quart.",
+    "syn": "concret, palpable, réel, manifeste, mesurable"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "La Mort d’Ivan Ilitch",
+   "by": "Léon Tolstoï · 1886",
+   "tagline": "Une vie correcte, une mort vraie",
+   "min": 10,
+   "exMin": 4,
+   "src": "Léon Tolstoï, Смерть Ивана Ильича (La Mort d’Ivan Ilitch), publiée en 1886 dans le douzième volume de ses œuvres. Tolstoï est mort en 1910 : l’œuvre est dans le domaine public ; la citation est traduite du russe par Culto. Contexte biographique : Ma confession (1882) ; modèle du personnage : Ivan Ilitch Metchnikov, magistrat de Toula mort en 1881, selon les biographes de Tolstoï. Vladimir Nabokov, Littératures II (cours de Cornell, publication posthume) ; Martin Heidegger, Être et temps (1927), note du § 51.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Ivan Ilitch, haut magistrat de Saint-Pétersbourg, a mené une vie convenable, confortable et sans éclat. Une chute banale déclenche une maladie qui le tue en quelques mois. Face à la mort, et au mensonge de son entourage, il découvre que sa vie entière a peut-être été fausse, et trouve la paix au tout dernier moment."
+      ],
+      [
+       "Le plus terrible, c’est l’ordinaire",
+       "Tolstoï ne raconte ni un crime ni une tragédie spectaculaire. Ivan Ilitch n’a rien fait de mal : il a fait ce qu’on attendait de lui. C’est précisément cela que le livre met en accusation. Une vie entièrement guidée par la convenance peut passer à côté de l’essentiel."
+      ],
+      [
+       "Le mensonge collectif face à la mort",
+       "Sa femme, ses médecins et ses collègues font comme s’il était seulement malade, et non mourant. Ce mensonge poli le torture davantage que la douleur. Le livre décrit avec une précision cruelle la façon dont une société évite de nommer la mort."
+      ],
+      [
+       "Guérassim, la seule vérité",
+       "Le jeune domestique paysan est le seul à ne pas mentir. Il soutient les jambes du malade pendant des nuits entières et lui dit simplement que tout le monde mourra un jour. Sa compassion simple, [[tangible|tangible]], soulage Ivan Ilitch plus que tous les remèdes."
+      ],
+      [
+       "Savoir n’est pas croire",
+       "Ivan Ilitch a appris le syllogisme : « Caïus est un homme, les hommes sont mortels, donc Caïus est mortel. » Il l’a toujours trouvé juste pour Caïus, jamais pour lui-même. Tolstoï montre l’écart entre une vérité admise en théorie et une vérité vécue."
+      ],
+      [
+       "Il n’est jamais trop tard",
+       "Dans les dernières heures, Ivan Ilitch cesse de se justifier. Il éprouve de la pitié pour sa femme et son fils, et la peur disparaît. La conclusion est paradoxale : même une vie manquée peut s’achever sur un moment de vérité."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "La nouvelle au palais de justice"
+    },
+    {
+     "p": "Le récit commence par la fin. Pendant une pause d’audience, des magistrats apprennent par le journal la mort de leur collègue Ivan Ilitch Golovine, quarante-cinq ans. Leur première pensée n’est pas pour lui : chacun calcule les promotions que ce décès va libérer. Pierre Ivanovitch, son plus vieil ami, se rend à contrecœur à la veillée funèbre. La veuve, Prascovie Fiodorovna, lui raconte les souffrances de son mari, puis lui demande comment obtenir davantage d’argent de l’État. Pierre Ivanovitch file ensuite rejoindre sa partie de cartes.",
+     "lead": 1
+    },
+    {
+     "h5": "Une carrière sans fausse note"
+    },
+    {
+     "p": "Tolstoï remonte alors le fil de la vie d’Ivan Ilitch. Fils d’un fonctionnaire, il sort de l’école de droit en jeune homme agréable, travailleur et soucieux de plaire aux gens bien placés. Il gravit les échelons : fonctionnaire en province, juge d’instruction, puis procureur. Il épouse Prascovie Fiodorovna parce que c’est un bon parti et que ce choix est approuvé par son milieu. Le mariage tourne vite à l’aigre. Ivan Ilitch s’en protège en se réfugiant dans son travail, où il exerce son pouvoir avec une politesse impeccable."
+    },
+    {
+     "p": "Après une année difficile, où il se voit refuser une promotion, il obtient enfin un poste mieux payé à Saint-Pétersbourg. Il loue un grand appartement et le décore lui-même, avec un goût qui ressemble exactement à celui de tous les gens de sa condition. En montrant à un tapissier comment poser des rideaux, il tombe d’une échelle et se cogne le côté. Le choc paraît sans importance."
+    },
+    {
+     "h5": "La maladie et le mensonge"
+    },
+    {
+     "p": "Une gêne s’installe, puis une douleur sourde et un mauvais goût dans la bouche. Ivan Ilitch consulte des médecins célèbres. Ils lui parlent de rein flottant ou d’intestin, et le traitent avec la même condescendance qu’il réservait lui-même aux accusés. Personne ne répond à la seule question qui l’intéresse : son état est-il grave ? Il maigrit, devient irritable, et comprend peu à peu qu’il est en train de mourir. Autour de lui, tout le monde fait semblant du contraire. Sa femme et sa fille poursuivent leurs sorties ; la fille se fiance. Il se sent seul au milieu de sa famille."
+    },
+    {
+     "p": "Seul Guérassim, le garçon de cuisine, lui apporte du réconfort. Il le soulève, le nettoie sans dégoût, et accepte de lui tenir les jambes en l’air des nuits entières, position qui calme la douleur. Il ne joue pas la comédie : « Nous mourrons tous », dit-il en substance. Ivan Ilitch voudrait qu’on le plaigne comme un enfant malade. Guérassim est le seul à le faire."
+    },
+    {
+     "h5": "Le sac noir et la lumière"
+    },
+    {
+     "p": "Pendant ses trois derniers jours, Ivan Ilitch hurle sans arrêt. Il se sent poussé dans un sac noir et profond, sans pouvoir y entrer tout à fait. Ce qui le retient, c’est la conviction d’avoir bien vécu. Or une question l’obsède désormais : et si toute sa vie n’avait pas été ce qu’il fallait ? Il revoit son enfance, seul moment vraiment heureux, puis une vie de plus en plus vide à mesure qu’elle devenait plus respectable."
+    },
+    {
+     "p": "À la dernière heure, son jeune fils lui prend la main et l’embrasse en pleurant. Ivan Ilitch cesse de se défendre. Il a pitié de son fils, puis de sa femme, et veut leur épargner sa souffrance. Il cherche sa peur de la mort et ne la trouve plus. À la place de la mort, il y a la lumière. Quelqu’un dit au-dessus de lui que c’est fini. Il pense que c’est la mort qui est finie, et il meurt."
+    },
+    {
+     "quote": "L’histoire passée de la vie d’Ivan Ilitch était la plus simple, la plus ordinaire et la plus terrible.",
+     "cite": "Début du chapitre II (traduction de Culto)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Le livre d’après la crise"
+    },
+    {
+     "p": "Tolstoï publie la nouvelle en 1886, après une grave crise spirituelle racontée dans <em>Ma confession</em> (1882). L’auteur de <em>Guerre et Paix</em> et d’<em>Anna Karénine</em> a alors renoncé à la gloire du romancier pour chercher un sens moral à l’existence. <em>La Mort d’Ivan Ilitch</em> est le premier grand récit de cette seconde période. Il est court, dépouillé, presque sans péripéties, et vise une seule chose : faire sentir au lecteur ce que signifie mourir."
+    },
+    {
+     "h5": "Un modèle réel"
+    },
+    {
+     "p": "Tolstoï s’inspire de la mort d’Ivan Ilitch Metchnikov, magistrat du tribunal de Toula, emporté en 1881 par une longue maladie. Il était le frère du biologiste Élie Metchnikov, futur prix Nobel. Ses proches avaient raconté à Tolstoï ses dernières réflexions sur la vanité de sa vie. L’écrivain en garde le prénom et la fonction, et en fait un type universel : l’homme moyen de la bonne société."
+    },
+    {
+     "h5": "Une construction en entonnoir"
+    },
+    {
+     "p": "Le récit s’ouvre sur l’enterrement, puis revient en arrière. Le lecteur sait donc dès la première page comment tout finit : le suspense ne porte pas sur l’issue, mais sur la prise de conscience. Les chapitres raccourcissent à mesure que la mort approche. Les années de carrière tiennent en quelques pages ; les derniers jours occupent l’essentiel du livre. Le temps se contracte comme la vie du héros."
+    },
+    {
+     "h5": "L’ironie des choses"
+    },
+    {
+     "p": "Tolstoï est un maître du détail qui accuse. Le pouf aux ressorts cassés qui se soulève sous Pierre Ivanovitch pendant la veillée, les rideaux de l’appartement, les cartes de whist : les objets disent la vanité de ce monde mieux qu’un sermon. La cause même de la mort est ironique. Ivan Ilitch se blesse en décorant l’appartement qui devait [[enteriner|entériner]] sa réussite sociale."
+    },
+    {
+     "h5": "Une portée qui dépasse la littérature"
+    },
+    {
+     "p": "Nabokov voyait dans ce texte l’une des plus parfaites réussites de Tolstoï. Le philosophe Martin Heidegger le cite dans <em>Être et temps</em> (1927) pour illustrer la façon dont le « on » anonyme nous détourne de notre propre mort. La nouvelle est aussi devenue une lecture classique dans la formation des médecins : elle montre le malade abandonné derrière le diagnostic, et le besoin d’une présence honnête comme celle de Guérassim."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’on le lit en deux heures et qu’il oblige à se poser une question simple : vivons-nous selon nos convictions, ou selon ce qui est convenable ? La carrière d’Ivan Ilitch ressemble à beaucoup de parcours professionnels actuels, faits de promotions, de déménagements et de bonnes manières. Le livre ne condamne pas l’ambition. Il rappelle que les réussites visibles ne disent rien de la valeur [[tangible|tangible]] d’une vie."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Ivan Ilitch, haut magistrat de Saint-Pétersbourg, a mené une vie convenable, confortable et sans éclat. Une chute banale déclenche une maladie qui le tue en quelques mois. Face à la mort, et au mensonge de son entourage, il découvre que sa vie entière a peut-être été fausse, et trouve la paix au tout dernier moment.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’ordinaire est terrible</b> : Ivan Ilitch n’a rien fait de mal, il a fait ce qu’on attendait de lui. C’est ce que le livre accuse.",
+      "<b>Le mensonge collectif</b> : famille, médecins et collègues font comme s’il était seulement malade. Ce mensonge poli le torture plus que la douleur.",
+      "<b>Guérassim</b> : le jeune domestique, seul à dire la vérité. Sa compassion [[tangible|tangible]] soulage plus que les remèdes.",
+      "<b>Savoir n’est pas croire</b> : « Caïus est mortel » vaut pour Caïus, jamais pour soi.",
+      "<b>Jamais trop tard</b> : à la dernière heure, il cesse de se justifier. La pitié pour sa femme et son fils remplace la peur, et une vie manquée s’achève sur un moment de vérité."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>La veillée</b> : ses collègues apprennent sa mort, à 45 ans, et pensent d’abord aux promotions. La veuve s’inquiète surtout de sa pension.",
+      "<b>La carrière</b> : école de droit, juge d’instruction, procureur. Mariage de convenance qui tourne à l’aigre ; refuge dans le travail.",
+      "<b>La chute</b> : nommé à Saint-Pétersbourg, il tombe d’une échelle en posant des rideaux dans son nouvel appartement.",
+      "<b>La maladie</b> : médecins condescendants, diagnostics flous, entourage qui fait semblant. Seul Guérassim lui tient les jambes des nuits entières.",
+      "<b>La fin</b> : trois jours de cris, le sentiment d’un « sac noir », puis la question : et si toute sa vie avait été fausse ? Son fils lui embrasse la main ; la peur disparaît, remplacée par la lumière."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>1886</b> : premier grand récit après la crise spirituelle racontée dans <em>Ma confession</em> (1882).",
+      "<b>Un modèle réel</b> : Ivan Ilitch Metchnikov, magistrat de Toula mort en 1881, frère du biologiste Élie Metchnikov.",
+      "<b>L’entonnoir</b> : on commence par l’enterrement, donc le suspense porte sur la prise de conscience, pas sur l’issue. Les années de carrière tiennent en quelques pages ; les derniers jours occupent l’essentiel du livre.",
+      "<b>La citation</b> : « L’histoire passée de la vie d’Ivan Ilitch était la plus simple, la plus ordinaire et la plus terrible. »",
+      "<b>Les objets qui accusent</b> : pouf aux ressorts cassés, rideaux, whist. Il se blesse en décorant l’appartement qui devait [[enteriner|entériner]] sa réussite.",
+      "<b>La postérité</b> : admiré par Nabokov, cité par Heidegger dans <em>Être et temps</em>, lu dans la formation des médecins.",
+      "<b>Aujourd’hui</b> : vit-on selon ses convictions ou selon le convenable ? Une lecture de deux heures."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Le But",
+   "by": "Eliyahu M. Goldratt et Jeff Cox · 1984",
+   "min": 9,
+   "exMin": 3,
+   "src": "Eliyahu M. Goldratt et Jeff Cox, The Goal: A Process of Ongoing Improvement (1re éd. 1984, National Productivity Institute et Gower ; éditions révisées chez North River Press en 1986, 1992, 2004 et 2014) ; trad. française : Le But, un processus de progrès permanent (Afnor). Classement du magazine Time (2011) des 25 livres de management les plus influents. Suite : It’s Not Luck (1994). Œuvre protégée : synthèse reformulée, sans citation. Le graphique est illustratif.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un directeur d’usine a trois mois pour redresser un site déficitaire, sous peine de fermeture. Guidé par un physicien, il découvre que la performance d’une usine dépend de ses goulots d’étranglement, et non de l’efficacité de chaque poste. Ce roman d’entreprise a fondé la théorie des contraintes."
+      ],
+      [
+       "Le but est de gagner de l’argent",
+       "Ni la qualité, ni la technologie, ni le taux d’occupation des machines ne sont le but d’une entreprise. Ce sont des moyens. Le seul but est de gagner de l’argent, maintenant et dans le futur. Tout indicateur doit être jugé à cette aune."
+      ],
+      [
+       "Trois mesures suffisent",
+       "Le débit (l’argent que le système génère par ses ventes), les stocks (l’argent immobilisé dans ce qu’il compte vendre) et les dépenses d’exploitation (l’argent dépensé pour transformer les stocks en débit). Il faut augmenter le premier en réduisant les deux autres."
+      ],
+      [
+       "Une heure perdue au goulot est perdue pour toute l’usine",
+       "La production d’une chaîne est limitée par son maillon le plus lent. Une heure gagnée sur un poste qui n’est pas un goulot ne rapporte rien. Une heure perdue sur le goulot ne se rattrape jamais."
+      ],
+      [
+       "Optimiser chaque poste dégrade l’ensemble",
+       "Faire tourner toutes les machines à plein remplit l’usine de stocks inutiles et allonge les délais. L’efficacité locale, chérie par la comptabilité analytique, est souvent l’ennemie du résultat global."
+      ],
+      [
+       "Cinq étapes, à recommencer sans fin",
+       "Identifier la contrainte, l’exploiter au mieux, lui subordonner tout le reste, augmenter sa capacité, puis recommencer avec la contrainte suivante, sans laisser l’inertie s’installer."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un roman pour enseigner la gestion"
+    },
+    {
+     "p": "Eliyahu Goldratt (1947-2011) est un physicien israélien. Au début des années 1980, il vend un logiciel de planification de production et constate que ses clients ne comprennent pas sa logique. Avec l’écrivain Jeff Cox, il choisit une forme inhabituelle : un roman. <em>Le But</em> paraît en 1984 et suit Alex Rogo, directeur d’une usine de la société UniCo. Le livre est devenu un best-seller mondial, vendu à plusieurs millions d’exemplaires, et le magazine <em>Time</em> l’a classé en 2011 parmi les 25 livres de management les plus influents.",
+     "lead": 1
+    },
+    {
+     "h5": "L’intrigue"
+    },
+    {
+     "p": "L’usine d’Alex livre en retard, accumule les stocks et perd de l’argent, alors que ses nouveaux robots affichent d’excellents taux d’efficacité. Le vice-président de la division, Bill Peach, lui donne trois mois. Dans un aéroport, Alex croise Jonah, un ancien professeur de physique, qui lui pose une question déroutante : quel est le but de votre entreprise ? Par une série de questions socratiques, au téléphone ou entre deux avions, Jonah oblige Alex et son équipe, le contrôleur de gestion Lou, le responsable de production Bob Donovan et la gestionnaire des stocks Stacey, à trouver eux-mêmes les réponses. En parallèle, le mariage d’Alex avec Julie se défait, puis se reconstruit."
+    },
+    {
+     "h5": "La randonnée de Herbie"
+    },
+    {
+     "p": "La scène la plus célèbre est une randonnée de scouts. Alex accompagne son fils et constate que la colonne s’étire sans cesse. Le plus lent, un garçon nommé Herbie, dicte la vitesse de tous ; les plus rapides creusent l’écart devant, puis doivent attendre. Alex comprend deux lois : dans une chaîne d’événements dépendants, les retards s’accumulent alors que les avances ne se transmettent pas ; et l’ensemble ne va jamais plus vite que son élément le plus lent. Il place Herbie en tête, répartit le contenu de son sac entre les autres, et la troupe avance d’un coup plus vite. Un jeu avec des allumettes et un dé, joué par les enfants, rend la démonstration [[tangible|tangible]]."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Une ligne ne va jamais plus vite que son goulot",
+      "sub": "pièces par heure, ligne fictive à quatre postes",
+      "rows": [
+       [
+        "Découpe",
+        40
+       ],
+       [
+        "Usinage (goulot)",
+        25
+       ],
+       [
+        "Traitement thermique",
+        30
+       ],
+       [
+        "Assemblage",
+        45
+       ],
+       [
+        "Sortie de la ligne",
+        25
+       ]
+      ],
+      "suffix": " /h",
+      "note": "Exemple illustratif, valeurs non réelles : la production finale égale la capacité du poste le plus lent."
+     }
+    },
+    {
+     "h5": "Les goulots de l’usine"
+    },
+    {
+     "p": "De retour à l’usine, l’équipe identifie deux goulots : une machine-outil à commande numérique, la NCX-10, et le four de traitement thermique. Les solutions sont simples. On cesse d’arrêter la NCX-10 pendant les pauses déjeuner. On contrôle la qualité avant le goulot, pour qu’il ne travaille jamais sur des pièces défectueuses. On évite de passer au four des pièces qui n’en ont pas besoin. On remet en service une vieille machine pour soulager la NCX-10. Enfin, on ne lance en production que ce que le goulot pourra absorber, en marquant les pièces prioritaires. Les stocks fondent, les retards disparaissent et l’usine redevient rentable. Alex est promu à la tête de la division."
+    },
+    {
+     "h5": "La thèse : la comptabilité des coûts trompe"
+    },
+    {
+     "p": "Derrière l’intrigue, Goldratt attaque la comptabilité analytique classique, qui juge chaque poste sur son coût unitaire et son taux d’occupation. Selon lui, cette logique pousse à produire pour produire, à fabriquer de grands lots et à gonfler les stocks, qui figurent même à l’actif du bilan comme une richesse. Il propose de raisonner en débit : une décision est bonne si elle augmente l’argent encaissé sans accroître davantage les stocks et les dépenses. Cette approche sera plus tard formalisée sous le nom de comptabilité par le débit (<em>throughput accounting</em>)."
+    },
+    {
+     "stats": [
+      [
+       "1984",
+       "première parution, avant les éditions révisées de 1986, 1992, 2004 et 2014"
+      ],
+      [
+       "3 mois",
+       "délai accordé à Alex Rogo pour sauver son usine"
+      ],
+      [
+       "3",
+       "mesures suffisantes : débit, stocks, dépenses d’exploitation"
+      ],
+      [
+       "5",
+       "étapes de focalisation de la théorie des contraintes"
+      ]
+     ]
+    },
+    {
+     "h5": "Ce que le livre dit à la supply chain"
+    },
+    {
+     "p": "La leçon dépasse l’atelier. Un entrepôt dont les quais de chargement saturent ne gagne rien à accélérer la préparation de commandes ; un réseau de distribution limité par le nombre de chauffeurs ne gagne rien à automatiser ses stocks. Dans chaque cas, il faut d’abord trouver le maillon qui fixe le rythme, puis protéger ce maillon par un petit stock tampon placé juste devant lui, pour qu’il ne manque jamais de travail. Le reste du système peut, et doit, tourner en dessous de sa capacité."
+    },
+    {
+     "h5": "Les limites"
+    },
+    {
+     "p": "Le livre simplifie beaucoup. Il suppose une contrainte unique et stable, alors que dans une chaîne logistique réelle le goulot se déplace avec les volumes, le mix produit ou les saisons. Il parle peu du coût humain des changements, et ses solutions semblent parfois miraculeuses. Les tenants du lean, venus de Toyota, lui reprochent aussi d’avoir présenté comme neuves des idées proches du flux tiré. Goldratt insistera d’ailleurs plus tard sur un point : la contrainte la plus fréquente n’est souvent pas une machine, mais une règle de gestion ou un indicateur mal choisi."
+    },
+    {
+     "h5": "La postérité"
+    },
+    {
+     "p": "<em>Le But</em> est devenu une lecture obligée des écoles d’ingénieurs et de commerce, et un classique des services supply chain. Goldratt a prolongé sa théorie dans <em>It’s Not Luck</em> (1994) et dans des ouvrages sur la gestion de projet. Sa leçon reste d’actualité : quand une entreprise veut [[enteriner|entériner]] un plan de productivité, la première question n’est pas « où peut-on gagner ? », mais « qu’est-ce qui limite réellement notre débit ? »."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Un directeur d’usine a trois mois pour redresser un site déficitaire. Guidé par un physicien, il découvre que la performance dépend des goulots d’étranglement, pas de l’efficacité de chaque poste. Ce roman d’entreprise a fondé la théorie des contraintes.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le but</b> : gagner de l’argent, maintenant et demain. Qualité, technologie, taux d’occupation ne sont que des moyens.",
+      "<b>Trois mesures</b> : débit (argent généré par les ventes), stocks (argent immobilisé), dépenses d’exploitation. Augmenter le premier, réduire les deux autres.",
+      "<b>Le goulot</b> : une heure perdue au goulot est perdue pour toute l’usine ; une heure gagnée ailleurs ne rapporte rien.",
+      "<b>L’efficacité locale</b> : faire tourner toutes les machines à plein remplit l’usine de stocks et allonge les délais.",
+      "<b>Cinq étapes</b> : identifier la contrainte, l’exploiter, lui subordonner le reste, l’élever, recommencer."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "1984",
+       "première parution, avant les éditions révisées de 1986, 1992, 2004 et 2014"
+      ],
+      [
+       "3 mois",
+       "délai accordé à Alex Rogo pour sauver son usine"
+      ],
+      [
+       "3",
+       "mesures suffisantes : débit, stocks, dépenses d’exploitation"
+      ],
+      [
+       "5",
+       "étapes de focalisation de la théorie des contraintes"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Une ligne ne va jamais plus vite que son goulot",
+      "sub": "pièces par heure, ligne fictive à quatre postes",
+      "rows": [
+       [
+        "Découpe",
+        40
+       ],
+       [
+        "Usinage (goulot)",
+        25
+       ],
+       [
+        "Traitement thermique",
+        30
+       ],
+       [
+        "Assemblage",
+        45
+       ],
+       [
+        "Sortie de la ligne",
+        25
+       ]
+      ],
+      "suffix": " /h",
+      "note": "Exemple illustratif, valeurs non réelles : la production finale égale la capacité du poste le plus lent."
+     }
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Eliyahu Goldratt (1947-2011), physicien israélien, avec l’écrivain Jeff Cox. Best-seller mondial, classé par <em>Time</em> en 2011 parmi les 25 livres de management les plus influents.",
+      "<b>L’intrigue</b> : Alex Rogo, usine UniCo en retard et déficitaire malgré ses robots. Jonah, ancien professeur, le guide par des questions.",
+      "<b>Herbie</b> : le scout le plus lent dicte la vitesse de la colonne. On le met en tête et on allège son sac. Un jeu d’allumettes et de dé rend la leçon [[tangible|tangible]].",
+      "<b>Les solutions</b> : la machine NCX-10 et le four ne s’arrêtent plus, contrôle qualité avant le goulot, lancement calé sur sa capacité. Stocks et retards fondent.",
+      "<b>La critique comptable</b> : juger chaque poste sur son coût unitaire pousse à produire pour produire.",
+      "<b>Les limites</b> : une contrainte supposée unique et stable, peu de place pour l’humain, une parenté avec le lean de Toyota.",
+      "<b>La leçon</b> : avant d’[[enteriner|entériner]] un plan de productivité, demander ce qui limite vraiment le débit."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Gaz européen : l’hiver commence aux trois quarts plein",
+   "by": "Analyse",
+   "fig": "74 %",
+   "figl": "remplissage des stocks de gaz européens",
+   "min": 3,
+   "exMin": 2,
+   "src": "Kalkine Media (« TTF Gas Price 2026: Up 214% This Year at €88 », 19 octobre 2026), qui cite ENTSOG, IEEFA et Kpler ; OilPrice.com (15 octobre 2026) ; BNP Paribas, EcoNews du 19 octobre 2026 (TTF, prix de gros allemands, Brent). Données arrêtées au 19 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le prix de référence du gaz européen, le TTF néerlandais, a clôturé à 88,4 euros le mégawattheure le 19 octobre, son plus haut niveau depuis décembre 2022. Il valait autour de 30 euros avant l’escalade du conflit au Moyen-Orient, soit une hausse d’environ 214 % depuis janvier. Le problème n’est pas seulement le prix : l’Europe aborde l’hiver avec des stocks remplis à 74,3 %, contre une moyenne d’environ 86 % à cette date.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les stocks de gaz européens à la veille de l’hiver",
+      "sub": "taux de remplissage des sites de stockage de l’UE, en %",
+      "rows": [
+       [
+        "UE, 18 octobre 2026",
+        74.3
+       ],
+       [
+        "Moyenne 5 ans, mi-octobre",
+        86
+       ],
+       [
+        "Cible assouplie proposée",
+        80
+       ],
+       [
+        "Cible habituelle au 1er novembre",
+        90
+       ]
+      ],
+      "suffix": " %",
+      "note": "Sources : données de stockage citées par OilPrice.com (15 octobre 2026) et Kalkine (19 octobre 2026) ; cible de 80 % proposée par le commissaire Dan Jørgensen en septembre 2026."
+     }
+    },
+    {
+     "h": "Pourquoi les stocks ne se remplissent pas"
+    },
+    {
+     "p": "Depuis l’effondrement des livraisons russes par gazoduc, l’Europe dépend plus que jamais du gaz naturel liquéfié (GNL), livré par méthanier. Or l’offre mondiale s’est contractée. En mars 2026, des frappes de missiles sur le complexe qatari de Ras Laffan ont mis hors service deux de ses quatorze trains de liquéfaction, soit 12,8 millions de tonnes par an, environ 17 % des capacités du Qatar, pour trois à cinq ans. Les flux de GNL venus du Golfe restent environ 80 % inférieurs à ceux de l’an dernier. Les États-Unis devraient fournir environ deux tiers des importations européennes de GNL cette année, et l’Europe se dispute les cargaisons disponibles avec l’Asie."
+    },
+    {
+     "stats": [
+      [
+       "88,4 €/MWh",
+       "prix du gaz TTF le 19 octobre, au plus haut depuis décembre 2022"
+      ],
+      [
+       "≈ + 214 %",
+       "hausse du TTF depuis janvier 2026"
+      ],
+      [
+       "74,3 %",
+       "remplissage des stocks de l’UE au 18 octobre"
+      ],
+      [
+       "≈ 17 %",
+       "capacité d’export de GNL du Qatar perdue pour 3 à 5 ans"
+      ]
+     ]
+    },
+    {
+     "h": "Le mécanisme de la contagion"
+    },
+    {
+     "p": "Le gaz ne chauffe pas seulement les logements. Sur le marché européen de l’électricité, le prix est souvent fixé par la dernière centrale appelée pour répondre à la demande, fréquemment une centrale à gaz. Quand le gaz monte, l’électricité suit, puis les coûts de l’industrie chimique, des engrais, du verre ou de l’acier. En Allemagne, les prix de gros ont progressé de 8,7 % sur un an en septembre. La hausse devient [[tangible|tangible]] pour les ménages avec quelques mois de décalage, au rythme des révisions de contrats."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La Commission européenne presse les États d’[[enteriner|entériner]] un objectif de remplissage abaissé à 80 %, au lieu des 90 % habituels. Mais le vrai risque est la fin de l’hiver : selon ENTSOG, un hiver froid combiné à un GNL rare pourrait faire tomber les stocks à 11 % fin mars, ce qui rendrait la recharge de 2027 encore plus coûteuse. La météo, plus que la diplomatie, dira si 2026 rejoue la crise de 2022, quand le TTF avait dépassé 300 euros."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>88,4 €/MWh</b> : le gaz TTF le 19 octobre, au plus haut depuis décembre 2022. Environ 30 € avant l’escalade au Moyen-Orient, soit ≈ + 214 % depuis janvier.",
+      "<b>74,3 %</b> : remplissage des stocks de l’UE, contre ≈ 86 % en moyenne à cette date."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les stocks de gaz européens à la veille de l’hiver",
+      "sub": "taux de remplissage des sites de stockage de l’UE, en %",
+      "rows": [
+       [
+        "UE, 18 octobre 2026",
+        74.3
+       ],
+       [
+        "Moyenne 5 ans, mi-octobre",
+        86
+       ],
+       [
+        "Cible assouplie proposée",
+        80
+       ],
+       [
+        "Cible habituelle au 1er novembre",
+        90
+       ]
+      ],
+      "suffix": " %",
+      "note": "Sources : données de stockage citées par OilPrice.com (15 octobre 2026) et Kalkine (19 octobre 2026) ; cible de 80 % proposée par le commissaire Dan Jørgensen en septembre 2026."
+     }
+    },
+    {
+     "h": "Pourquoi"
+    },
+    {
+     "ul": [
+      "<b>Dépendance au GNL</b> : privée de l’essentiel du gaz russe par gazoduc, l’Europe achète du gaz liquéfié, à ≈ deux tiers américain cette année.",
+      "<b>Ras Laffan</b> : 2 trains sur 14 détruits en mars, 12,8 Mt/an, ≈ 17 % des capacités du Qatar, pour 3 à 5 ans. Flux du Golfe ≈ 80 % sous l’an dernier."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "88,4 €/MWh",
+       "prix du gaz TTF le 19 octobre, au plus haut depuis décembre 2022"
+      ],
+      [
+       "≈ + 214 %",
+       "hausse du TTF depuis janvier 2026"
+      ],
+      [
+       "74,3 %",
+       "remplissage des stocks de l’UE au 18 octobre"
+      ],
+      [
+       "≈ 17 %",
+       "capacité d’export de GNL du Qatar perdue pour 3 à 5 ans"
+      ]
+     ]
+    },
+    {
+     "h": "La contagion"
+    },
+    {
+     "ul": [
+      "<b>Électricité</b> : son prix est souvent fixé par la dernière centrale appelée, souvent au gaz. Puis chimie, engrais, verre, acier.",
+      "<b>Allemagne</b> : prix de gros + 8,7 % sur un an en septembre. Hausse [[tangible|tangible]] pour les ménages avec quelques mois de décalage."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Bruxelles</b> presse les États d’[[enteriner|entériner]] une cible de 80 % au lieu de 90 %.",
+      "<b>Le risque</b> : stocks à 11 % fin mars en cas d’hiver froid (ENTSOG). En 2022, le TTF avait dépassé 300 €."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Gange : le traité de l’eau entre l’Inde et le Bangladesh arrive à échéance",
+   "by": "Analyse",
+   "fig": "53 jours",
+   "figl": "avant l’expiration du traité du Gange",
+   "min": 3,
+   "exMin": 2,
+   "src": "The Daily Star (« Ganges water treaty: new bargain or new dispute? », 10 septembre 2026) ; Indian Defence News et Webindia123, compte rendu du point presse du ministère indien des Affaires étrangères (9-10 octobre 2026) ; The Tribune (7 mars 2025) ; National Herald (22 février 2026, étude de l’IIT Gandhinagar) ; The Wire (21 août 2026) ; Prothom Alo (prestation de serment de Suvendu Adhikari, 2026). Données arrêtées au 19 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 12 décembre, le traité qui partage les eaux du Gange entre l’Inde et le Bangladesh arrive à échéance, trente ans jour pour jour après sa signature. Dhaka veut un accord renouvelé ou révisé, avec une garantie explicite de sa part d’eau. New Delhi répond que tout se discute dans le cadre technique de la Commission mixte des rivières. À sept semaines de la date butoir, aucun compromis n’a été annoncé.",
+     "lead": 1
+    },
+    {
+     "h": "Un barrage au cœur du conflit"
+    },
+    {
+     "p": "Tout part du barrage de Farakka, construit par l’Inde de 1961 à 1975 au Bengale-Occidental, à quelques kilomètres de la frontière. Il détourne une partie du fleuve vers la rivière Hooghly pour éviter l’ensablement du port de Calcutta. En aval, le Bangladesh reçoit d’autant moins d’eau pendant la saison sèche, de janvier à mai, quand l’agriculture et les mangroves en ont le plus besoin. Le traité de 1996 fixe le partage par périodes de dix jours, à partir des débits observés entre 1949 et 1988."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce que reçoit le Bangladesh selon le débit à Farakka",
+      "sub": "part du Bangladesh, en cusecs, par période de 10 jours (janvier-mai)",
+      "rows": [
+       [
+        "Débit de 65 000",
+        32500
+       ],
+       [
+        "Débit de 72 000",
+        35000
+       ],
+       [
+        "Débit de 80 000",
+        40000
+       ],
+       [
+        "Débit de 100 000",
+        60000
+       ]
+      ],
+      "suffix": "",
+      "note": "Calcul de Culto d’après la formule du traité de 1996 (partage à 50 % sous 70 000 cusecs ; 35 000 garantis entre 70 000 et 75 000 ; au-delà, l’Inde prend 40 000). 1 cusec ≈ 28,3 litres par seconde."
+     }
+    },
+    {
+     "stats": [
+      [
+       "12 déc. 2026",
+       "expiration du traité signé le 12 décembre 1996"
+      ],
+      [
+       "54",
+       "rivières partagées par l’Inde et le Bangladesh"
+      ],
+      [
+       "35 000",
+       "cusecs garantis en alternance du 11 mars au 10 mai"
+      ],
+      [
+       "− 17 %",
+       "débit annuel du bassin du Gange depuis 1980 (IIT Gandhinagar)"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi la renégociation est difficile"
+    },
+    {
+     "p": "Le traité ne garantit aucun minimum annuel : si le débit tombe sous 50 000 cusecs, les deux pays doivent seulement se consulter. Or le fleuve s’appauvrit ; une étude de l’IIT Gandhinagar estime que son débit annuel a baissé de 17 % depuis 1980. Côté indien, les États riverains réclament davantage d’eau : des élus du Bihar demandent de ne pas renouveler le texte en l’état, et le Bengale-Occidental est désormais dirigé par le BJP de Narendra Modi, avec Suvendu Adhikari. Côté bangladais, le Premier ministre Tarique Rahman doit montrer qu’il obtient mieux que ses prédécesseurs, alors que sa visite à New Delhi, un temps annoncée en août, reste incertaine."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les deux pays partagent 54 rivières, mais seul le Gange est couvert par un traité de long terme. Le précédent de l’Indus, que l’Inde a suspendu avec le Pakistan après l’attentat de Pahalgam en avril 2025, montre qu’un accord sur l’eau peut devenir une arme. Le scénario le plus probable est un renouvellement plus court et plus souple, qui pourrait [[enteriner|entériner]] les règles actuelles en attendant un cadre durable. Pour le Bangladesh, l’enjeu est [[tangible|tangible]] : c’est l’eau douce du fleuve qui repousse le sel de la mer dans le delta."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>12 décembre 2026</b> : fin du traité de partage du Gange signé en 1996 pour trente ans.",
+      "<b>Dhaka</b> veut une garantie explicite de sa part ; <b>New Delhi</b> renvoie à la Commission mixte des rivières. Pas de compromis annoncé."
+     ]
+    },
+    {
+     "h": "Le barrage"
+    },
+    {
+     "ul": [
+      "<b>Farakka</b> (1961-1975) détourne le fleuve vers le port de Calcutta. Le Bangladesh, en aval, manque d’eau de janvier à mai.",
+      "<b>La formule</b> : partage par périodes de dix jours, sur des débits de 1949-1988, sans minimum annuel garanti."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce que reçoit le Bangladesh selon le débit à Farakka",
+      "sub": "part du Bangladesh, en cusecs, par période de 10 jours (janvier-mai)",
+      "rows": [
+       [
+        "Débit de 65 000",
+        32500
+       ],
+       [
+        "Débit de 72 000",
+        35000
+       ],
+       [
+        "Débit de 80 000",
+        40000
+       ],
+       [
+        "Débit de 100 000",
+        60000
+       ]
+      ],
+      "suffix": "",
+      "note": "Calcul de Culto d’après la formule du traité de 1996 (partage à 50 % sous 70 000 cusecs ; 35 000 garantis entre 70 000 et 75 000 ; au-delà, l’Inde prend 40 000). 1 cusec ≈ 28,3 litres par seconde."
+     }
+    },
+    {
+     "stats": [
+      [
+       "12 déc. 2026",
+       "expiration du traité signé le 12 décembre 1996"
+      ],
+      [
+       "54",
+       "rivières partagées par l’Inde et le Bangladesh"
+      ],
+      [
+       "35 000",
+       "cusecs garantis en alternance du 11 mars au 10 mai"
+      ],
+      [
+       "− 17 %",
+       "débit annuel du bassin du Gange depuis 1980 (IIT Gandhinagar)"
+      ]
+     ]
+    },
+    {
+     "h": "Les blocages"
+    },
+    {
+     "ul": [
+      "<b>Un fleuve qui s’appauvrit</b> : − 17 % de débit annuel depuis 1980.",
+      "<b>Inde</b> : le Bihar ne veut pas renouveler en l’état ; le Bengale-Occidental est passé au BJP.",
+      "<b>Bangladesh</b> : Tarique Rahman doit faire mieux que ses prédécesseurs ; sa visite à New Delhi reste incertaine."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le précédent de l’Indus</b>, suspendu par l’Inde en 2025 : l’eau peut devenir une arme.",
+      "<b>Le plus probable</b> : un accord court qui va [[enteriner|entériner]] les règles actuelles. Enjeu [[tangible|tangible]] pour le delta."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Camions sans chauffeur : le Texas passe à l’échelle",
+   "by": "Analyse",
+   "fig": "× 10",
+   "figl": "flotte Aurora visée d’ici décembre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Aurora Innovation, lettre aux actionnaires du 2e trimestre 2026 (29 juillet 2026, formulaire 8-K) ; FreightWaves (Aurora et McLane, 6 mai 2026) ; Superpower Daily, d’après CNBC (22 septembre 2026, estimation de Bank of America) ; Intelligent Audit, revue de presse du 19 octobre 2026, d’après le Wall Street Journal et le JOC (flotte actuelle, IKEA, taux spot DAT). Données arrêtées au 19 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Aurora Innovation, la start-up américaine la plus avancée dans le camion autonome, fait rouler environ 30 poids lourds sans personne à bord sur les autoroutes du Texas. Elle vise 200 camions d’ici la fin de l’année, dix fois sa flotte de fin septembre. Le distributeur McLane, filiale de Berkshire Hathaway, l’emploie entre Dallas et Houston ; IKEA prépare des livraisons sans chauffeur entre ses entrepôts après plus de 1 300 trajets d’essai. Le camion autonome quitte le stade du prototype.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "≈ 30",
+       "camions sans chauffeur d’Aurora sur les routes du Texas en octobre"
+      ],
+      [
+       "200",
+       "camions visés fin 2026"
+      ],
+      [
+       "≈ 440 000",
+       "miles parcourus sans chauffeur fin juin, selon l’entreprise"
+      ],
+      [
+       "270 M$",
+       "perte nette du 2e trimestre, pour 2 M$ de chiffre d’affaires"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi le transport routier y croit"
+    },
+    {
+     "p": "L’argument central est économique. Un chauffeur américain ne peut légalement conduire que 11 heures par jour ; un camion autonome peut rouler presque sans arrêt et doubler son kilométrage quotidien. Bank of America estime le coût du service d’Aurora à environ 0,85 dollar par mile, contre 1,30 dollar pour le seul salaire et les avantages d’un chauffeur. Le contexte aide : selon DAT, le prix spot d’un camion bâché a atteint 2,26 dollars par mile mi-octobre, en hausse de 35 % sur un an, surtout parce que la capacité se réduit."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le coût du chauffeur face au camion autonome",
+      "sub": "dollars par mile parcouru",
+      "rows": [
+       [
+        "Chauffeur (salaire et avantages)",
+        1.3
+       ],
+       [
+        "Service Aurora (estimation)",
+        0.85
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : estimation de Bank of America citée par CNBC et Superpower Daily (22 septembre 2026). Projection, pas un résultat d’exploitation constaté. 1 mile ≈ 1,6 km."
+     }
+    },
+    {
+     "h": "Le modèle qui s’impose : l’autoroute sans chauffeur, la ville avec"
+    },
+    {
+     "p": "Les opérateurs ne visent pas la livraison finale, trop complexe. Ils exploitent le « milieu de chaîne » : de longues lignes droites d’autoroute entre deux centres de distribution, comme Dallas-Houston ou Fort Worth-El Paso. Chez McLane, le camion autonome relie les plateformes et des chauffeurs assurent les tournées locales. Le pilote, lancé en 2023, a livré 1 400 chargements sur 280 000 miles, tous à l’heure. Les partenaires industriels suivent : Volvo prévoit plus de 300 camions autonomes fin 2027."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le gain est [[tangible|tangible]] sur la route, pas encore dans les comptes. Aurora a perdu 270 millions de dollars au deuxième trimestre pour 2 millions de chiffre d’affaires, et ne vise une trésorerie positive qu’en 2028. Pour les chargeurs, la question est de savoir quand les assureurs et les régulateurs des autres États vont [[enteriner|entériner]] ce qui se pratique déjà au Texas. La leçon logistique est claire : l’automatisation commence par le maillon le plus répétitif, pas par le plus visible."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>≈ 30 camions</b> sans personne à bord chez Aurora au Texas ; <b>200</b> visés fin 2026.",
+      "<b>Clients</b> : McLane (Berkshire Hathaway) entre Dallas et Houston ; IKEA après plus de 1 300 trajets d’essai."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 30",
+       "camions sans chauffeur d’Aurora sur les routes du Texas en octobre"
+      ],
+      [
+       "200",
+       "camions visés fin 2026"
+      ],
+      [
+       "≈ 440 000",
+       "miles parcourus sans chauffeur fin juin, selon l’entreprise"
+      ],
+      [
+       "270 M$",
+       "perte nette du 2e trimestre, pour 2 M$ de chiffre d’affaires"
+      ]
+     ]
+    },
+    {
+     "h": "L’économie"
+    },
+    {
+     "ul": [
+      "<b>11 heures</b> : conduite maximale d’un chauffeur américain par jour. Le camion autonome roule presque sans arrêt.",
+      "<b>0,85 $ contre 1,30 $</b> par mile : coût estimé du service Aurora face au seul salaire d’un chauffeur (Bank of America).",
+      "<b>Marché tendu</b> : spot à 2,26 $ par mile, + 35 % sur un an, faute de capacité (DAT)."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le coût du chauffeur face au camion autonome",
+      "sub": "dollars par mile parcouru",
+      "rows": [
+       [
+        "Chauffeur (salaire et avantages)",
+        1.3
+       ],
+       [
+        "Service Aurora (estimation)",
+        0.85
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : estimation de Bank of America citée par CNBC et Superpower Daily (22 septembre 2026). Projection, pas un résultat d’exploitation constaté. 1 mile ≈ 1,6 km."
+     }
+    },
+    {
+     "h": "Le modèle"
+    },
+    {
+     "ul": [
+      "<b>Autoroute sans chauffeur, ville avec</b> : liaisons entre centres de distribution, tournées locales par des chauffeurs.",
+      "<b>McLane</b> : 1 400 chargements, 280 000 miles, 100 % à l’heure. Volvo vise plus de 300 camions fin 2027."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Gain [[tangible|tangible]]</b> sur la route, pas dans les comptes : 270 M$ de perte au T2, trésorerie positive visée en 2028.",
+      "<b>La suite</b> : les autres États et les assureurs doivent [[enteriner|entériner]] le modèle texan."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "ASML : la machine que l’IA s’arrache",
+   "by": "Analyse",
+   "fig": "11,7 Md€",
+   "figl": "ventes record au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "ASML, communiqué des résultats du 3e trimestre 2026 (14 octobre 2026, formulaire 6-K) et communiqués des trimestres précédents ; Hargreaves Lansdown (14 octobre 2026) ; Vested Finance (octobre 2026) ; Caixin Global (16 avril 2026) pour la répartition géographique du 1er trimestre. Données arrêtées au 14 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le néerlandais ASML a publié le 14 octobre le meilleur trimestre de son histoire : 11,7 milliards d’euros de ventes, en hausse de 55 % sur un an, et 4,96 milliards de bénéfice net. Il prévoit encore 14,2 à 15,2 milliards au quatrième trimestre. Seul fabricant au monde des machines de lithographie à ultraviolet extrême (EUV), indispensables pour graver les puces les plus fines, il est devenu le fournisseur dont dépend toute la course à l’intelligence artificielle.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le chiffre d’affaires trimestriel d’ASML",
+      "sub": "en milliards d’euros",
+      "labels": [
+       "T3 2025",
+       "T1 2026",
+       "T2 2026",
+       "T3 2026",
+       "T4 2026 (prév.)"
+      ],
+      "series": [
+       {
+        "name": "Ventes nettes (T4 : milieu de la fourchette de 14,2 à 15,2 Md€)",
+        "values": [
+         7.5,
+         8.8,
+         9.3,
+         11.7,
+         14.7
+        ]
+       }
+      ],
+      "note": "Source : ASML, communiqués de résultats (T3 2025, T1 2026, T2 2026, T3 2026 du 14 octobre 2026)."
+     }
+    },
+    {
+     "h": "Un monopole qui fixe ses prix"
+    },
+    {
+     "p": "Une machine de dernière génération peut coûter plus de 380 millions d’euros. Les clients, TSMC, Samsung, SK Hynix ou Intel, n’ont pas d’alternative. Résultat : la marge brute a bondi à 57,5 %, contre 54 % au trimestre précédent, et l’objectif annuel a été relevé à plusieurs reprises. En avril, ASML visait 36 à 40 milliards d’euros de ventes en 2026 ; il annonce désormais 44 à 45 milliards. Le boom des puces mémoire pour l’IA a déplacé la clientèle : au premier trimestre, la Corée du Sud pesait 45 % des ventes de systèmes, et la Chine, freinée par les contrôles américains à l’exportation, est tombée à 19 %, contre 36 % fin 2025."
+    },
+    {
+     "stats": [
+      [
+       "11,7 Md€",
+       "ventes du 3e trimestre, un record (+ 55 % sur un an)"
+      ],
+      [
+       "57,5 %",
+       "marge brute, contre 54 % au trimestre précédent"
+      ],
+      [
+       "44 à 45 Md€",
+       "ventes visées en 2026, contre 36 à 40 Md€ prévus en avril"
+      ],
+      [
+       "≈ 19 %",
+       "part de la Chine dans les ventes de systèmes au 1er trimestre, contre 36 % fin 2025"
+      ]
+     ]
+    },
+    {
+     "h": "La contrainte n’est plus la demande, mais l’usine"
+    },
+    {
+     "p": "Le vrai sujet est la capacité. ASML prévoit d’augmenter sa production d’environ 30 % en 2027 et 2028, mais reconnaît que cela ne suffira pas à servir ses clients ; certains veulent déjà réserver des machines pour 2029 et 2030. Or une machine EUV assemble plus de 100 000 pièces venues de milliers de fournisseurs, dont des optiques que seul l’allemand Zeiss sait produire ; ASML détient d’ailleurs 24,9 % de sa filiale Carl Zeiss SMT. Le goulot d’étranglement de l’IA est donc, en partie, une chaîne d’approvisionnement européenne."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les résultats [[enteriner|entérinent]] un basculement : ASML n’est plus une valeur cyclique qui subit les creux du marché des puces, mais un passage obligé dont les commandes dépassent la capacité. Le risque est désormais [[tangible|tangible]] ailleurs : une pause dans la construction de centres de données, ou de nouvelles restrictions commerciales, frapperait un groupe qui s’est dimensionné pour la croissance. ASML a racheté environ 4,1 milliards d’euros de ses actions au trimestre."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>11,7 Md€</b> de ventes au 3e trimestre (+ 55 %), 4,96 Md€ de bénéfice net : un record. 14,2 à 15,2 Md€ attendus au 4e trimestre.",
+      "<b>Monopole</b> : seul fabricant de machines EUV, indispensables aux puces les plus fines."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le chiffre d’affaires trimestriel d’ASML",
+      "sub": "en milliards d’euros",
+      "labels": [
+       "T3 2025",
+       "T1 2026",
+       "T2 2026",
+       "T3 2026",
+       "T4 2026 (prév.)"
+      ],
+      "series": [
+       {
+        "name": "Ventes nettes (T4 : milieu de la fourchette de 14,2 à 15,2 Md€)",
+        "values": [
+         7.5,
+         8.8,
+         9.3,
+         11.7,
+         14.7
+        ]
+       }
+      ],
+      "note": "Source : ASML, communiqués de résultats (T3 2025, T1 2026, T2 2026, T3 2026 du 14 octobre 2026)."
+     }
+    },
+    {
+     "h": "Le pouvoir de prix"
+    },
+    {
+     "ul": [
+      "<b>Plus de 380 M€</b> la machine de pointe ; marge brute à 57,5 %.",
+      "<b>Objectif 2026</b> relevé de 36-40 Md€ (avril) à 44-45 Md€.",
+      "<b>Clients</b> : la Corée du Sud à 45 % au 1er trimestre (mémoire pour l’IA) ; la Chine à 19 %, contre 36 % fin 2025, sous l’effet des contrôles américains."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "11,7 Md€",
+       "ventes du 3e trimestre, un record (+ 55 % sur un an)"
+      ],
+      [
+       "57,5 %",
+       "marge brute, contre 54 % au trimestre précédent"
+      ],
+      [
+       "44 à 45 Md€",
+       "ventes visées en 2026, contre 36 à 40 Md€ prévus en avril"
+      ],
+      [
+       "≈ 19 %",
+       "part de la Chine dans les ventes de systèmes au 1er trimestre, contre 36 % fin 2025"
+      ]
+     ]
+    },
+    {
+     "h": "La capacité"
+    },
+    {
+     "ul": [
+      "<b>+ 30 %</b> de capacité prévus en 2027 et 2028, insuffisants ; des clients réservent pour 2029-2030.",
+      "<b>Fournisseurs</b> : des milliers, dont Zeiss pour les optiques ; ASML détient 24,9 % de sa filiale Carl Zeiss SMT."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un basculement</b> que les résultats [[enteriner|entérinent]] : d’une valeur cyclique à un passage obligé.",
+      "<b>Risque [[tangible|tangible]]</b> : pause des centres de données ou nouvelles restrictions. 4,1 Md€ d’actions rachetées au trimestre."
+     ]
+    }
+   ]
+  }
+ ]
+}
