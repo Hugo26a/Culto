@@ -1,0 +1,1073 @@
+{
+ "date": "2026-10-21",
+ "label": "Mercredi 21 octobre 2026",
+ "n": 8,
+ "example": false,
+ "week": {
+  "start": "2026-10-19",
+  "label": "Semaine du 19 octobre",
+  "day": 3,
+  "words": [
+   {
+    "key": "enteriner",
+    "w": "Entériner",
+    "ph": "[ɑ̃.te.ʁi.ne] · verbe transitif",
+    "short": "Rendre officiel ce qui était décidé ou admis.",
+    "def": "Valider, ratifier, rendre définitif ce qui était déjà décidé, constaté ou admis dans les faits. Une direction entérine un choix fait par ses équipes ; un accord entérine une situation existante. Le mot suppose souvent qu’on ne fait que confirmer ce qui était acquis.",
+    "ety": "De l’ancien français enterin, « entier, complet », lui-même tiré de entier. À l’origine terme de droit : entériner un acte, c’était le rendre entier, donc pleinement valable, en le confirmant officiellement.",
+    "ex": "Le comité de direction a entériné mardi le choix du nouveau transporteur, testé depuis trois mois sur deux entrepôts.",
+    "syn": "ratifier, valider, confirmer, homologuer, consacrer"
+   },
+   {
+    "key": "tangible",
+    "w": "Tangible",
+    "ph": "[tɑ̃.ʒibl] · adjectif",
+    "short": "Concret, réel, que l’on peut constater.",
+    "def": "Au sens propre, qui peut être touché. Au sens courant, concret, réel, vérifiable : un résultat tangible se voit et se mesure, par opposition à une promesse ou à une impression. On parle de preuves, de progrès ou de bénéfices tangibles.",
+    "ety": "Du bas latin tangibilis, « qui peut être touché », de tangere, « toucher ». Même famille que tact, contact, intact et tangente.",
+    "ex": "Trois mois après la réorganisation de l’entrepôt, les gains sont tangibles : les délais de préparation ont baissé d’un quart.",
+    "syn": "concret, palpable, réel, manifeste, mesurable"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Bel-Ami",
+   "by": "Guy de Maupassant · 1885",
+   "tagline": "L’ascension d’un séducteur",
+   "min": 10,
+   "exMin": 4,
+   "src": "Guy de Maupassant, Bel-Ami (feuilleton du Gil Blas puis volume, 1885), domaine public. Repères : Encyclopédie Larousse (Bel-Ami) ; fiche de lecture Schoolmouv.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Paris, 1880. Georges Duroy, ancien sous-officier d’Algérie sans le sou, entre par hasard dans un grand journal. Sans talent mais d’une séduction redoutable, il se sert des femmes pour gravir les échelons de la presse, de la politique et de la finance, jusqu’à épouser la fille de son patron."
+      ],
+      [
+       "Le réseau compte plus que le mérite",
+       "Duroy ne sait pas écrire et n’a aucune idée. Il réussit parce qu’il sait plaire, se placer et saisir chaque occasion. Maupassant décrit une société où l’on avance par les relations, les mariages et les secrets, pas par le travail."
+      ],
+      [
+       "La presse, machine à influence",
+       "<em>La Vie française</em> n’informe pas : elle sert les intérêts de son directeur, banquier et député, et ceux des ministres qu’il soutient. Rumeurs, échos achetés et démentis calculés font monter ou baisser les cours de Bourse."
+      ],
+      [
+       "Les femmes sont les vraies intelligences du roman",
+       "Madeleine Forestier écrit les articles, conçoit les stratégies et connaît tout le monde. Clotilde de Marelle l’entretient, Virginie Walter lui livre des secrets. Duroy n’est souvent que le visage de leur talent, ce que ses collègues lui rappellent avec cruauté."
+      ],
+      [
+       "Un antihéros jamais puni",
+       "Contrairement au roman moral, le vice triomphe : Duroy finit riche, marié à une héritière et promis à la Chambre des députés. Aucune justice ne vient le frapper, et c’est ce qui rend le livre si dérangeant."
+      ],
+      [
+       "Le miroir des débuts de la IIIe République",
+       "Expéditions coloniales, spéculation, collusion entre politique, argent et journaux : le roman est un portrait au vitriol des années 1880, que Maupassant a observées de l’intérieur comme chroniqueur."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Trois francs quarante (1880)"
+    },
+    {
+     "p": "Un soir de juin 1880, Georges Duroy descend les boulevards avec trois francs quarante en poche pour finir le mois. Fils d’aubergistes normands, il a servi trois ans dans la cavalerie en Algérie et végète comme petit employé de bureau aux Chemins de fer du Nord. Il est beau, moustachu, sûr de son effet sur les femmes, et il a faim. Sur le boulevard, il croise Charles Forestier, un ancien camarade de régiment devenu rédacteur politique à <em>La Vie française</em>. Forestier lui prête quarante francs et l’invite à dîner.",
+     "lead": 1
+    },
+    {
+     "p": "Au dîner, Duroy rencontre le directeur du journal, M. Walter, député et homme d’affaires, et deux femmes qui vont décider de sa vie : Madeleine, l’épouse de Forestier, fine et politique, et Clotilde de Marelle, vive et libre. Walter lui commande des souvenirs d’Afrique. Incapable d’écrire seul, Duroy se fait dicter l’article par Madeleine. Il entre au journal comme reporter."
+    },
+    {
+     "h5": "L’apprentissage"
+    },
+    {
+     "p": "Duroy comprend vite que le métier consiste moins à écrire qu’à se faire valoir. Il devient l’amant de Clotilde de Marelle, qui loue un petit appartement pour leurs rendez-vous et glisse discrètement de l’argent dans ses poches. C’est sa fille, Laurine, qui le surnomme « Bel-Ami ». Au journal, il reprend la rubrique des Échos, faite de rumeurs et d’indiscrétions. Attaqué par un journaliste d’un titre rival, il se bat en duel au pistolet ; personne n’est blessé, mais l’affaire le pose en homme d’honneur."
+    },
+    {
+     "h5": "Le mariage d’intérêt"
+    },
+    {
+     "p": "Forestier, tuberculeux, part mourir à Cannes, et Madeleine appelle Duroy à son chevet. Le corps à peine refroidi, il lui propose de l’épouser. Elle accepte, à la manière d’une association : elle apporte son esprit, ses relations et ses idées, lui son ambition. Il signe désormais « Du Roy », puis se fait appeler « baron Du Roy de Cantel », d’après le village normand de ses parents. Mais il découvre la jalousie : au journal, on l’appelle « Forestier », et il soupçonne Madeleine d’avoir trompé son premier mari. Quand le comte de Vaudrec, vieil ami du couple, lègue un million de francs à Madeleine, il exige qu’elle lui en cède la moitié, pour faire taire les rumeurs."
+    },
+    {
+     "h5": "Le coup de Bourse"
+    },
+    {
+     "p": "Pour se venger, Duroy séduit Virginie Walter, l’épouse de son patron, une femme pieuse et mûre qui s’éprend de lui avec violence. Il s’en lasse presque aussitôt. Par elle, il découvre pourtant la vérité de <em>La Vie française</em> : Walter et le ministre des Affaires étrangères, Laroche-Mathieu, ont préparé une expédition au Maroc. Le journal a laissé croire qu’on n’interviendrait pas, l’emprunt marocain s’est effondré, et Walter l’a racheté pour presque rien. L’expédition faite, les titres s’envolent : le directeur gagne des millions. Duroy, qui n’en a tiré qu’un gain modeste, se sent volé."
+    },
+    {
+     "h5": "Le triomphe"
+    },
+    {
+     "p": "Il frappe alors. Accompagné d’un commissaire de police, il surprend Madeleine avec Laroche-Mathieu et fait constater l’adultère. Le divorce le libère et le scandale fait tomber le ministre. Reste la proie suprême : Suzanne Walter, la fille cadette du patron. Les parents refusent. Duroy l’enlève, la compromet, et Walter n’a plus d’autre choix que d’[[enteriner|entériner]] l’union. Le mariage est célébré en grande pompe à l’église de la Madeleine, devant le Tout-Paris. En sortant, Duroy aperçoit au loin le Palais-Bourbon, siège de la Chambre des députés : sa prochaine étape. Dans la foule, Clotilde de Marelle lui a déjà fait comprendre que leur liaison continuera."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un roman écrit de l’intérieur"
+    },
+    {
+     "p": "<em>Bel-Ami</em> paraît en feuilleton dans le <em>Gil Blas</em> au printemps 1885, puis en volume la même année. C’est le deuxième roman de Maupassant, après <em>Une vie</em> (1883). L’auteur connaît le milieu : après une dizaine d’années comme employé aux ministères de la Marine puis de l’Instruction publique, il est devenu chroniqueur au <em>Gaulois</em> et au <em>Gil Blas</em>. Il a vu de près les rédactions, les échos complaisants et les articles écrits sur commande."
+    },
+    {
+     "h5": "De la Tunisie au Maroc"
+    },
+    {
+     "p": "L’intrigue financière transpose l’expédition de Tunisie de 1881, qui conduisit au protectorat français et s’accompagna de spéculations sur la dette tunisienne. Maupassant montre le circuit complet : un ministre qui décide, un journal qui oriente l’opinion, un banquier qui achète au plus bas. Le lecteur d’aujourd’hui y reconnaît un délit d’initié avant la lettre, à une époque où il n’était pas puni."
+    },
+    {
+     "h5": "Un réalisme sans sermon"
+    },
+    {
+     "p": "Disciple de Flaubert, Maupassant écrit des phrases nettes, des scènes vues, sans commentaire moral du narrateur. Il ne condamne jamais Duroy : il le montre. Ce silence est plus cruel qu’un réquisitoire, car le lecteur constate seul que l’ascension n’exige ni travail ni talent. Les gains du héros sont pourtant bien [[tangible|tangibles]] : un nom à particule, un poste de rédacteur en chef, une fortune. Le seul vertige vient du vieux poète Norbert de Varenne, qui parle à Duroy de la mort et de la solitude et rappelle combien toute cette agitation est dérisoire."
+    },
+    {
+     "h5": "Des personnages-types"
+    },
+    {
+     "p": "Chaque personnage incarne une manière de réussir ou d’échouer. Forestier, épuisé par la maladie, montre que la presse use ceux qui la servent. Walter, financier devenu député, est le cynique accompli, qui juge tout à l’aune du profit. Laroche-Mathieu est le ministre qui monnaie ses informations. Madeleine, enfin, est la figure la plus moderne du livre : une femme qui pense, écrit et manœuvre, mais qui ne peut exister publiquement qu’à travers un mari. Le roman est aussi l’histoire de son effacement, puisque Duroy finit par l’écarter dès qu’elle ne lui sert plus."
+    },
+    {
+     "h5": "Paris, ville-décor"
+    },
+    {
+     "p": "Le roman parcourt le Paris haussmannien à la mode : grands boulevards, Folies Bergère, bois de Boulogne, salons où l’on dîne entre députés et banquiers. L’apparence y fait la valeur. Un bel appartement, une bonne table et une particule ouvrent plus de portes que n’importe quel diplôme."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "<em>Bel-Ami</em> reste le grand roman français de l’arrivisme, et son titre est devenu un nom commun pour désigner un séducteur ambitieux. Il a été adapté de nombreuses fois au cinéma, jusqu’au film de 2012 avec Robert Pattinson. Surtout, la collusion qu’il décrit entre médias, pouvoir politique et finance n’a rien perdu de son actualité. Le relire, c’est apprendre à repérer ceux qui confondent réseau et compétence, et à se demander, devant chaque information, à qui elle profite."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Paris, 1880. Georges Duroy, ancien sous-officier d’Algérie sans le sou, entre par hasard dans un grand journal. Sans talent mais d’une séduction redoutable, il se sert des femmes pour gravir les échelons de la presse, de la politique et de la finance, jusqu’à épouser la fille de son patron.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le réseau avant le mérite</b> : Duroy ne sait pas écrire, il sait plaire et saisir les occasions.",
+      "<b>La presse, machine à influence</b> : <em>La Vie française</em> sert les intérêts boursiers de son directeur et des ministres.",
+      "<b>Les femmes, vraies intelligences du roman</b> : Madeleine écrit ses articles, Clotilde l’entretient, Virginie Walter lui livre des secrets.",
+      "<b>Un antihéros jamais puni</b> : le vice triomphe, et c’est ce qui dérange.",
+      "<b>Un miroir des années 1880</b> : colonies, spéculation et collusion entre politique, argent et journaux, observées de l’intérieur par Maupassant chroniqueur."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>1880, trois francs quarante</b> : ancien cavalier d’Algérie et petit employé des Chemins de fer du Nord, Duroy croise Forestier, qui le fait entrer à <em>La Vie française</em>. Madeleine Forestier lui dicte son premier article.",
+      "<b>L’apprentissage</b> : amant de Clotilde de Marelle, dont la fille le surnomme « Bel-Ami », il tient les Échos et gagne un duel sans blessé.",
+      "<b>Le mariage d’intérêt</b> : veuve, Madeleine l’épouse. Il devient « Du Roy de Cantel » et exige la moitié du million légué par le comte de Vaudrec.",
+      "<b>Le coup de Bourse</b> : amant de Mme Walter, il découvre que Walter et le ministre Laroche-Mathieu ont spéculé sur l’emprunt marocain avant une expédition militaire. Le patron gagne des millions.",
+      "<b>Le triomphe</b> : il fait constater l’adultère de Madeleine, divorce, enlève Suzanne Walter et oblige son père à [[enteriner|entériner]] le mariage, célébré à la Madeleine. Prochaine étape : la Chambre des députés."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Un roman de l’intérieur</b> : feuilleton du <em>Gil Blas</em> au printemps 1885, deuxième roman de Maupassant, ancien employé de ministère devenu chroniqueur.",
+      "<b>De la Tunisie au Maroc</b> : l’affaire transpose l’expédition de Tunisie de 1881. Ministre, journal et banquier forment un délit d’initié avant la lettre.",
+      "<b>Un réalisme sans sermon</b> : élève de Flaubert, Maupassant montre sans juger. Les gains de Duroy sont [[tangible|tangibles]] : un nom, un poste, une fortune.",
+      "<b>Norbert de Varenne</b> : le vieux poète rappelle la mort et la vanité de cette course.",
+      "<b>Des personnages-types</b> : Forestier usé par la presse, Walter le financier cynique, Laroche-Mathieu le ministre qui monnaie ses informations, et Madeleine, femme moderne qui ne peut exister qu’à travers un mari.",
+      "<b>Aujourd’hui</b> : « Bel-Ami » est devenu un nom commun, adapté jusqu’au film de 2012 avec Robert Pattinson. Le roman apprend à repérer ceux qui confondent réseau et compétence, et à se demander à qui profite une information."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "La Crise économique de 1929",
+   "by": "John Kenneth Galbraith · 1955",
+   "min": 9,
+   "exMin": 3,
+   "src": "John Kenneth Galbraith, The Great Crash 1929 (Houghton Mifflin, 1955 ; éditions révisées jusqu’en 2009), trad. française La Crise économique de 1929. Federal Reserve History, « Stock Market Crash of 1929 » (Dow Jones : 381,17 le 3 septembre 1929, 41,22 le 8 juillet 1932). Notes de lecture Novel Investor. M. Friedman et A. Schwartz, A Monetary History of the United States (1963). Œuvre protégée : synthèse reformulée, sans citation.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Le récit, vif et souvent drôle, de la plus grande bulle boursière du XXe siècle. Galbraith montre comment l’argent emprunté, les sociétés d’investissement empilées les unes sur les autres et l’aveuglement des élites ont mené au krach d’octobre 1929, puis pourquoi une économie fragile a transformé ce krach en Grande Dépression."
+      ],
+      [
+       "La spéculation se nourrit de crédit",
+       "Les prêts consentis pour acheter des actions à crédit passent de 2,5 milliards de dollars en 1926 à 6 milliards en 1928, puis augmentent d’environ 400 millions par mois à l’été 1929. Le taux de ces prêts grimpe jusqu’à 12 %, sans freiner personne."
+      ],
+      [
+       "Les montages multiplient le risque",
+       "En 1929, 265 nouvelles sociétés d’investissement voient le jour et lèvent plus de 3 milliards de dollars, un tiers des capitaux émis cette année-là. Certaines détiennent des sociétés qui en détiennent d’autres : l’effet de levier joue à la hausse, puis à la baisse."
+      ],
+      [
+       "Les autorités rassurent jusqu’au bout",
+       "Le secrétaire au Trésor Andrew Mellon, l’économiste Irving Fisher et le président Herbert Hoover répètent que l’économie est saine. Le 25 octobre 1929, au lendemain du « jeudi noir », Hoover affirme encore que les affaires reposent sur une base solide."
+      ],
+      [
+       "Le krach révèle, la fragilité ruine",
+       "Galbraith distingue cinq faiblesses : des revenus très concentrés (5 % des Américains touchent un tiers du revenu), des holdings surendettées, des banques fragiles, une balance extérieure déséquilibrée et des politiques économiques à contresens. En 1933, un actif sur quatre est au chômage."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Le contexte"
+    },
+    {
+     "p": "John Kenneth Galbraith (1908-2006), économiste canadien devenu professeur à Harvard, publie <em>The Great Crash 1929</em> en 1955, vingt-cinq ans après les faits. L’historien Arthur Schlesinger lui avait demandé un ouvrage de référence sur la crise. Galbraith l’écrit en marge d’un livre plus ambitieux, <em>L’Ère de l’opulence</em>, et choisit un ton ironique, presque romanesque. Le livre devient l’un de ses premiers succès et n’a jamais cessé d’être réédité. En français, il est connu sous le titre <em>La Crise économique de 1929</em>.",
+     "lead": 1
+    },
+    {
+     "p": "L’année même de sa parution, Galbraith est entendu par une commission du Sénat sur la Bourse. Le marché recule pendant son audition, et il reçoit des lettres furieuses de boursicoteurs qui l’accusent d’avoir cassé la hausse. L’anecdote dit tout de sa thèse : les marchés détestent qu’on leur rappelle 1929."
+    },
+    {
+     "h5": "La répétition générale de Floride"
+    },
+    {
+     "p": "Avant Wall Street, il y a la Floride. Au milieu des années 1920, on y achète des terrains sur plan avec 10 % d’apport, puis de simples droits d’achat qu’on revend aussitôt. Des lots en bord de mer s’échangent entre 20 000 et 75 000 dollars. En 1926, les nouveaux acheteurs se font rares, puis deux ouragans achèvent la bulle. Pour Galbraith, l’épisode contient déjà tout : la conviction qu’on peut s’enrichir sans travail, et l’endettement qui la rend possible."
+    },
+    {
+     "h5": "L’argent facile"
+    },
+    {
+     "p": "Le cœur du mécanisme est l’achat à crédit. Un particulier verse une partie du prix, son courtier avance le reste en gageant les titres. Tant que les cours montent, le levier fait des miracles. Les banques new-yorkaises empruntent à 5 % auprès de la Réserve fédérale et prêtent à 12 % aux spéculateurs. Le 26 mars 1929, le taux de ces prêts touche 20 % et le volume échangé bat un record, à 8,2 millions d’actions. Le banquier Charles Mitchell injecte alors des fonds pour éviter la panique, et la fête repart."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’argent emprunté pour jouer en Bourse",
+      "sub": "prêts sur marge aux acheteurs d’actions, en milliards de dollars",
+      "rows": [
+       [
+        "1926",
+        2.5
+       ],
+       [
+        "1927",
+        3.4
+       ],
+       [
+        "1928",
+        6
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : J. K. Galbraith, The Great Crash 1929 (1955). Les prêts augmentent ensuite d’environ 400 M$ par mois de juin à août 1929."
+     }
+    },
+    {
+     "h5": "Le trust dans le trust"
+    },
+    {
+     "p": "Galbraith réserve ses pages les plus mordantes aux sociétés d’investissement, les « trusts ». La Goldman Sachs Trading Corporation, créée en décembre 1928, lance en juillet 1929 Shenandoah, qui lance à son tour Blue Ridge en août : une société dans une société dans une société. Chaque étage emprunte pour acheter les titres de l’étage inférieur. La hausse enrichit vite, la baisse ruine plus vite encore."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le prix d’une action Shenandoah",
+      "sub": "en dollars, société créée par Goldman Sachs Trading Corporation",
+      "rows": [
+       [
+        "Émission, juillet 1929",
+        17.5
+       ],
+       [
+        "Clôture du 1er jour",
+        36
+       ],
+       [
+        "Fin 1929",
+        8
+       ],
+       [
+        "8 juillet 1932",
+        0.5
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : J. K. Galbraith, The Great Crash 1929 (1955)."
+     }
+    },
+    {
+     "h5": "Octobre noir"
+    },
+    {
+     "p": "Le Dow Jones culmine le 3 septembre 1929. Le jeudi 24 octobre, la panique éclate et 12,9 millions d’actions changent de mains. Les patrons des grandes banques se réunissent chez J.P. Morgan et chargent Richard Whitney, vice-président de la Bourse, d’acheter ostensiblement de l’U.S. Steel. Le répit dure deux séances. Le lundi 28, l’indice perd près de 13 % ; le mardi 29, près de 12 %, avec environ 16 millions de titres échangés. Les prêts sur marge fondent d’un milliard de dollars en une semaine."
+    },
+    {
+     "stats": [
+      [
+       "381,17",
+       "plus haut du Dow Jones, le 3 septembre 1929"
+      ],
+      [
+       "41,22",
+       "plus bas, le 8 juillet 1932"
+      ],
+      [
+       "− 89 %",
+       "chute de l’indice entre ces deux dates"
+      ],
+      [
+       "12,9 M",
+       "actions échangées le 24 octobre 1929, le « jeudi noir »"
+      ]
+     ]
+    },
+    {
+     "h5": "Du krach à la dépression"
+    },
+    {
+     "p": "Galbraith ne prétend pas que la Bourse a causé à elle seule la Grande Dépression. Le krach a frappé une économie déjà fragile. Les revenus sont si concentrés que la croissance dépend des dépenses des plus riches et de l’investissement, qui s’effondrent ensemble. Les holdings ont besoin des dividendes de leurs filiales pour payer leurs dettes. Des milliers de petites banques sans garantie des dépôts tombent en cascade. En 1930, le Congrès [[enteriner|entérine]] le tarif douanier Smoot-Hawley, qui aggrave la chute du commerce. Et l’obsession de l’équilibre budgétaire empêche toute relance. En 1933, la production nationale est inférieure d’environ un tiers à celle de 1929."
+    },
+    {
+     "h5": "Le « bezzle »"
+    },
+    {
+     "p": "Le livre a laissé un concept célèbre : le <em>bezzle</em>, contraction d’<em>embezzlement</em>, le détournement de fonds. C’est le stock de fraudes pas encore découvertes. En période d’euphorie, il gonfle : les contrôles se relâchent, chacun se croit plus riche qu’il n’est, et cette richesse imaginaire n’a rien de [[tangible|tangible]]. Quand la crise arrive, les audits se durcissent et le <em>bezzle</em> se dégonfle d’un coup, ajoutant le scandale à la ruine."
+    },
+    {
+     "h5": "Limites et postérité"
+    },
+    {
+     "p": "La force du livre tient aussi à son art du portrait. Galbraith s’attarde sur ceux qui, par intérêt ou par conviction, ont entretenu l’illusion : les banquiers qui lancent des sociétés toujours plus complexes, les professeurs qui voient dans les cours un « plateau permanent », les responsables politiques qui refusent de troubler la fête. Richard Whitney, héros du « jeudi noir », finira en prison en 1938 pour avoir détourné des fonds. L’auteur ne cherche pas de coupable unique : il décrit une foule qui veut croire."
+    },
+    {
+     "p": "Le livre est un récit plus qu’une théorie. En 1963, Milton Friedman et Anna Schwartz attribuent l’ampleur de la dépression à la Réserve fédérale, qui a laissé la masse monétaire chuter d’environ un tiers. Ben Bernanke, Nobel 2022, insistera sur les faillites bancaires. Mais l’intuition de Galbraith a résisté : chaque bulle, de 1987 à 2000 et 2008, a fait revenir son livre dans les classements de ventes. Sa leçon est simple : l’euphorie financière se croit toujours nouvelle, et c’est précisément ce qui la rend dangereuse."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Le récit, vif et ironique, de la bulle de 1929 (publié en 1955). Galbraith montre comment le crédit, les montages financiers et l’aveuglement des élites ont mené au krach d’octobre, puis pourquoi une économie fragile l’a transformé en Grande Dépression.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le crédit nourrit la bulle</b> : prêts sur marge de 2,5 Md$ (1926) à 6 Md$ (1928), puis + 400 M$ par mois à l’été 1929. Les banques empruntent à 5 % et prêtent à 12 %.",
+      "<b>La Floride avant Wall Street</b> : terrains achetés avec 10 % d’apport, lots à 20 000-75 000 $, bulle close par deux ouragans en 1926.",
+      "<b>Le trust dans le trust</b> : 265 sociétés d’investissement créées en 1929, plus de 3 Md$ levés. Shenandoah passe de 17,50 $ à 36 $ le premier jour, puis à 0,50 $ en 1932.",
+      "<b>Des autorités rassurantes</b> : Mellon, Fisher, Hoover jurent jusqu’au bout que l’économie est saine.",
+      "<b>Cinq faiblesses</b> : revenus concentrés (5 % des Américains touchent un tiers du revenu), holdings endettées, banques fragiles, commerce extérieur déséquilibré, politiques à contresens."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’argent emprunté pour jouer en Bourse",
+      "sub": "prêts sur marge aux acheteurs d’actions, en milliards de dollars",
+      "rows": [
+       [
+        "1926",
+        2.5
+       ],
+       [
+        "1927",
+        3.4
+       ],
+       [
+        "1928",
+        6
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : J. K. Galbraith, The Great Crash 1929 (1955). Les prêts augmentent ensuite d’environ 400 M$ par mois de juin à août 1929."
+     }
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "381,17",
+       "plus haut du Dow Jones, le 3 septembre 1929"
+      ],
+      [
+       "41,22",
+       "plus bas, le 8 juillet 1932"
+      ],
+      [
+       "− 89 %",
+       "chute de l’indice entre ces deux dates"
+      ],
+      [
+       "12,9 M",
+       "actions échangées le 24 octobre 1929, le « jeudi noir »"
+      ]
+     ]
+    },
+    {
+     "ul": [
+      "<b>Octobre noir</b> : 12,9 M d’actions le jeudi 24 ; puis − 13 % le 28 et − 12 % le 29. Le pool des banquiers chez J.P. Morgan n’offre que deux jours de répit.",
+      "<b>La dépression</b> : en 1930, le Congrès [[enteriner|entérine]] le tarif Smoot-Hawley ; en 1933, un actif sur quatre est au chômage et la production a reculé d’environ un tiers.",
+      "<b>Le « bezzle »</b> : le stock de fraudes non découvertes gonfle dans l’euphorie. Une richesse imaginaire, rien de [[tangible|tangible]].",
+      "<b>Les portraits</b> : banquiers, professeurs et politiques entretiennent l’illusion ; Richard Whitney, héros du « jeudi noir », finit en prison en 1938 pour détournement.",
+      "<b>Les critiques</b> : Friedman et Schwartz (1963) accusent la Fed, Bernanke les faillites bancaires. Le livre revient à chaque bulle : 1987, 2000, 2008."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Zone euro : l’inflation à 3,8 %, la BCE face à son dilemme",
+   "by": "Analyse",
+   "fig": "3,8 %",
+   "figl": "inflation en zone euro en septembre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Eurostat, « Annual inflation up to 3.8% in the euro area », 16 octobre 2026 ; BCE, décisions de politique monétaire du 10 septembre 2026 et projections de septembre ; déclaration de Christine Lagarde au Comité monétaire et financier international, 17 octobre 2026 (via WRE News) ; Danske Research, « ECB Preview: October pause » (FXStreet, 20 octobre 2026). Données arrêtées au 20 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Eurostat l’a confirmé le 16 octobre : les prix ont augmenté de 3,8 % sur un an en septembre dans la zone euro, contre 3,2 % en août et 2,2 % un an plus tôt. C’est le niveau le plus élevé depuis 2023. La Banque centrale européenne, qui a déjà relevé ses taux en juin puis en septembre, se réunit le 29 octobre avec un dilemme : freiner encore les prix, ou ménager une croissance qui faiblit.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "L’inflation repart en zone euro",
+      "sub": "hausse des prix sur un an (IPCH), en %",
+      "labels": [
+       "Sept. 2025",
+       "Août 2026",
+       "Sept. 2026"
+      ],
+      "series": [
+       {
+        "name": "Ensemble",
+        "values": [
+         2.2,
+         3.2,
+         3.8
+        ]
+       },
+       {
+        "name": "Énergie",
+        "values": [
+         -0.4,
+         14.3,
+         18.9
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : Eurostat, estimation définitive du 16 octobre 2026."
+     }
+    },
+    {
+     "h": "Une poussée venue de l’énergie"
+    },
+    {
+     "p": "La hausse est presque entièrement importée. Avec le détroit d’Ormuz fermé depuis la fin février et le gaz au plus haut depuis 2022, l’énergie coûte 18,9 % de plus qu’il y a un an et explique à elle seule 1,7 point des 3,8 %. Les services progressent de 3,2 %, les biens industriels de 1,1 % seulement. L’inflation sous-jacente, qui exclut énergie et alimentation, n’atteint que 2,5 %. Christine Lagarde l’a souligné le 17 octobre : les salaires n’ont pas encore réagi au choc. C’est la grande différence avec 2022, quand l’inflation avait fini par gagner l’alimentation, les loyers et les services. Tant que ce relais ne se produit pas, la poussée actuelle ressemble davantage à un choc de prix relatifs qu’à une spirale inflationniste."
+    },
+    {
+     "stats": [
+      [
+       "3,8 %",
+       "inflation en zone euro en septembre, contre 2,2 % un an plus tôt"
+      ],
+      [
+       "+ 18,9 %",
+       "prix de l’énergie sur un an"
+      ],
+      [
+       "2,5 %",
+       "inflation sous-jacente, hors énergie et alimentation"
+      ],
+      [
+       "2,50 %",
+       "taux de dépôt de la BCE depuis le 16 septembre"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Quatre grands pays, quatre inflations",
+      "sub": "septembre 2026, sur un an, en %",
+      "rows": [
+       [
+        "Espagne",
+        5.0
+       ],
+       [
+        "Italie",
+        4.2
+       ],
+       [
+        "France",
+        3.4
+       ],
+       [
+        "Allemagne",
+        3.3
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Eurostat, 16 octobre 2026."
+     }
+    },
+    {
+     "h": "Un frein déjà serré"
+    },
+    {
+     "p": "La BCE a porté son taux de dépôt de 2 % à 2,25 % en juin, puis à 2,50 % en septembre. Or les taux longs ont fortement monté depuis : le 10 ans américain dépasse 5 %, et les conditions de crédit en Europe sont plus dures que prévu. Ses économistes ne tablent que sur 0,9 % de croissance en 2026. Remonter les taux ne fera pas baisser le prix du pétrole ; cela peut seulement empêcher qu’il contamine durablement les salaires et les autres prix."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le consensus attend une pause le 29 octobre, puis peut-être une dernière hausse en décembre, à 2,75 %. Si la BCE [[enteriner|entérine]] ce scénario, elle parie que le choc reste cantonné à l’énergie. Pour les ménages, l’effet est déjà [[tangible|tangible]] : en Espagne, les prix montent de 5 % sur un an, en France de 3,4 %, contre 1,1 % il y a douze mois."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>3,8 %</b> : inflation de la zone euro en septembre (Eurostat, 16 octobre), après 3,2 % en août et 2,2 % un an plus tôt. Un plus haut depuis 2023.",
+      "<b>L’énergie</b> : + 18,9 % sur un an, 1,7 point de l’inflation totale. Ormuz est fermé depuis fin février.",
+      "<b>Le reste est calme</b> : services + 3,2 %, biens industriels + 1,1 %, sous-jacente 2,5 %. Les salaires n’ont pas encore réagi.",
+      "<b>La BCE</b> : taux de dépôt à 2,25 % en juin, 2,50 % en septembre. Croissance attendue de 0,9 % seulement en 2026."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "L’inflation repart en zone euro",
+      "sub": "hausse des prix sur un an (IPCH), en %",
+      "labels": [
+       "Sept. 2025",
+       "Août 2026",
+       "Sept. 2026"
+      ],
+      "series": [
+       {
+        "name": "Ensemble",
+        "values": [
+         2.2,
+         3.2,
+         3.8
+        ]
+       },
+       {
+        "name": "Énergie",
+        "values": [
+         -0.4,
+         14.3,
+         18.9
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : Eurostat, estimation définitive du 16 octobre 2026."
+     }
+    },
+    {
+     "stats": [
+      [
+       "3,8 %",
+       "inflation en zone euro en septembre, contre 2,2 % un an plus tôt"
+      ],
+      [
+       "+ 18,9 %",
+       "prix de l’énergie sur un an"
+      ],
+      [
+       "2,5 %",
+       "inflation sous-jacente, hors énergie et alimentation"
+      ],
+      [
+       "2,50 %",
+       "taux de dépôt de la BCE depuis le 16 septembre"
+      ]
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>29 octobre</b> : pause attendue, peut-être une hausse à 2,75 % en décembre. Si la BCE [[enteriner|entérine]] ce scénario, elle parie sur un choc limité à l’énergie.",
+      "<b>Pour les ménages</b>, l’effet est [[tangible|tangible]] : 5 % en Espagne, 4,2 % en Italie, 3,4 % en France, 3,3 % en Allemagne."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Alberta : trois électeurs sur quatre disent non à la séparation",
+   "by": "Analyse",
+   "fig": "≈ 75 %",
+   "figl": "des votants pour rester au Canada",
+   "min": 3,
+   "exMin": 2,
+   "src": "PBS NewsHour/AP et Al Jazeera, 20 octobre 2026 (résultats non officiels d’Elections Alberta) ; Wikipedia, « 2026 Alberta independence referendum » (question, pétitions, décision judiciaire du 13 mai 2026) ; Régie de l’énergie du Canada, Market Snapshot 2024 (97 % des exportations de brut vers les États-Unis en 2023) ; Statistique Canada, « Canadian crude oil reaches new heights in 2025 ». Directeur général des élections du Québec (1980 : 40,4 % de oui ; 1995 : 49,4 %). Données arrêtées au 20 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Lundi 19 octobre, les électeurs de l’Alberta ont massivement refusé d’engager leur province sur la voie de la séparation. Selon les résultats provisoires d’Elections Alberta, environ 75 % des votants ont choisi de rester au Canada, sur plus de 1,8 million de bulletins dépouillés. Le Premier ministre fédéral Mark Carney salue un choix « absolument clair » ; les séparatistes promettent de continuer.",
+     "lead": 1
+    },
+    {
+     "h": "Un référendum sur un référendum"
+    },
+    {
+     "p": "La question ne portait pas directement sur l’indépendance. Les Albertains devaient choisir entre rester une province canadienne et lancer le processus légal d’un futur référendum contraignant sur la séparation. Ce vote est né d’une loi sur l’initiative citoyenne, dont le gouvernement de Danielle Smith avait abaissé le seuil de signatures en 2025. Une pétition séparatiste avait été annulée en mai par un tribunal, faute de consultation des Premières Nations ; Danielle Smith a finalement posé elle-même cette double question, tout en votant pour le maintien."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le camp du « oui » dans trois votes canadiens",
+      "sub": "part des suffrages exprimés, en %",
+      "rows": [
+       [
+        "Québec, 1980",
+        40.4
+       ],
+       [
+        "Québec, 1995",
+        49.4
+       ],
+       [
+        "Alberta, 2026 (provisoire)",
+        25
+       ]
+      ],
+      "suffix": " %",
+      "note": "Les questions diffèrent : en 2026, l’Alberta votait sur l’ouverture d’un processus menant à un futur référendum, non sur l’indépendance elle-même. Sources : Directeur général des élections du Québec ; Elections Alberta, résultats non officiels (PBS, 20 octobre 2026)."
+     }
+    },
+    {
+     "h": "Le pétrole au cœur du malaise"
+    },
+    {
+     "p": "L’Alberta détient les quatrièmes réserves prouvées de pétrole au monde, et ses sables bitumineux fournissent environ 65 % de la production canadienne. Le ressentiment vise Ottawa, accusé d’avoir freiné l’industrie au nom du climat et de redistribuer la richesse albertaine. Mais la géographie impose sa loi : en 2023, 97 % du brut canadien exporté partait aux États-Unis. L’agrandissement de l’oléoduc Trans Mountain vers le Pacifique a ramené cette part à environ 89 % en 2025. Carney et Smith défendent désormais ensemble un nouvel oléoduc vers les marchés d’outre-mer. Pour une province enclavée, l’indépendance n’aurait rien réglé : chaque baril devrait encore traverser le territoire canadien ou américain pour atteindre la mer. La sécession aurait aussi buté sur la Constitution, qui ne prévoit aucun départ unilatéral, et sur les traités signés avec les Premières Nations."
+    },
+    {
+     "stats": [
+      [
+       "≈ 75 %",
+       "des votants pour rester au Canada (résultats provisoires)"
+      ],
+      [
+       "> 1,8 M",
+       "bulletins dépouillés dans 81 % des bureaux"
+      ],
+      [
+       "4e",
+       "rang mondial des réserves prouvées de pétrole"
+      ],
+      [
+       "≈ 89 %",
+       "des exportations canadiennes de brut vers les États-Unis en 2025"
+      ]
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La guerre commerciale de Donald Trump et ses appels à faire du Canada le « 51e État » ont ressoudé une partie des électeurs autour d’Ottawa, alors que le secrétaire américain au Trésor, Scott Bessent, qualifiait l’Alberta de « partenaire naturel ». Ce vote [[enteriner|entérine]] l’unité du pays sans effacer la colère : un quart des votants a voulu envoyer un message. Le défi pour Carney est désormais [[tangible|tangible]] : prouver, oléoduc à l’appui, que l’Alberta gagne à rester canadienne."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Non à la séparation</b> : environ 75 % des votants albertains ont choisi de rester au Canada le 19 octobre (résultats provisoires, plus de 1,8 million de bulletins).",
+      "<b>Une question à deux étages</b> : rester, ou lancer le processus d’un futur référendum contraignant. Le gouvernement de Danielle Smith, lui-même favorable au maintien, l’avait posée.",
+      "<b>Le pétrole</b> : 4es réserves prouvées du monde, environ 65 % de la production canadienne. La colère vise Ottawa et sa politique climatique.",
+      "<b>Dépendance américaine</b> : 97 % du brut exporté partait aux États-Unis en 2023, environ 89 % en 2025 grâce à Trans Mountain.",
+      "<b>Une impasse</b> : enclavée, une Alberta indépendante devrait toujours traverser le Canada ou les États-Unis pour exporter. La Constitution ne prévoit aucune sécession unilatérale, et les traités avec les Premières Nations compliquent tout."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le camp du « oui » dans trois votes canadiens",
+      "sub": "part des suffrages exprimés, en %",
+      "rows": [
+       [
+        "Québec, 1980",
+        40.4
+       ],
+       [
+        "Québec, 1995",
+        49.4
+       ],
+       [
+        "Alberta, 2026 (provisoire)",
+        25
+       ]
+      ],
+      "suffix": " %",
+      "note": "Les questions diffèrent : en 2026, l’Alberta votait sur l’ouverture d’un processus menant à un futur référendum, non sur l’indépendance elle-même. Sources : Directeur général des élections du Québec ; Elections Alberta, résultats non officiels (PBS, 20 octobre 2026)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’effet Trump</b> : guerre commerciale et menace du « 51e État » ont ressoudé les électeurs autour d’Ottawa, malgré les avances de Washington.",
+      "<b>Un message</b> : le vote [[enteriner|entérine]] l’unité, mais un quart des votants exprime sa colère. Pour Carney, l’enjeu est [[tangible|tangible]] : un oléoduc vers l’outre-mer."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Rhin : le fleuve-autoroute tombe à 4 centimètres",
+   "by": "Analyse",
+   "fig": "4 cm",
+   "figl": "à Kaub, plus bas depuis 1880",
+   "min": 3,
+   "exMin": 2,
+   "src": "Bloomberg via Swissinfo, « Rhine Sinks to Record Low in Further Blow for River Transport », 24 septembre 2026 (Volt Power Analytics) ; Insurance Journal/Bloomberg, 12 août 2026 (Covestro, BASF, Evonik, Lanxess, Commerzbank) ; Freight Perspectives, 15 juillet 2026 (moyenne de long terme, records 2018 et 2022, barge-citerne) ; Cruise Passenger, « Waterwatch October 2026 » (prévisions BfG) ; TI Insight, Global Supply Chain Risk Monitor, octobre 2026. Données arrêtées à mi-octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 24 septembre, l’échelle de Kaub, point le moins profond du Rhin moyen, est descendue à 4 centimètres, son plus bas niveau depuis le début des relevés en 1880. L’ancien record, 25 centimètres, datait d’octobre 2018. Mi-octobre, le fleuve reste sous le seuil de 77 centimètres, et les prévisions officielles ne l’attendent pas au-dessus avant le 23 octobre au moins.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le Rhin à Kaub, du normal au record",
+      "sub": "hauteur à l’échelle de Kaub, en centimètres",
+      "rows": [
+       [
+        "Moyenne de long terme",
+        208
+       ],
+       [
+        "Seuil de chargement réduit",
+        78
+       ],
+       [
+        "Plus bas de 2022",
+        32
+       ],
+       [
+        "Ancien record, oct. 2018",
+        25
+       ],
+       [
+        "Nouveau record, 24 sept. 2026",
+        4
+       ]
+      ],
+      "suffix": " cm",
+      "note": "La mesure de Kaub est une référence de navigation, pas la profondeur réelle du chenal. Sources : Freight Perspectives (juillet 2026), Bloomberg via Swissinfo (24 septembre 2026)."
+     }
+    },
+    {
+     "h": "Pourquoi Kaub commande toute la chaîne"
+    },
+    {
+     "p": "Le Rhin est l’autoroute fluviale de l’industrie européenne : charbon, gazole, produits chimiques et minerais remontent de Rotterdam vers la Ruhr, Ludwigshafen et la Suisse. Sous 78 centimètres à Kaub, les bateliers doivent réduire leur chargement d’environ 30 %. Cette année, le seuil a été franchi pendant 74 jours, contre 41 lors de la crise énergétique de 2022. En juillet déjà, une barge-citerne capable de porter 1 200 tonnes à Duisbourg ne passait Kaub qu’avec 460 tonnes."
+    },
+    {
+     "stats": [
+      [
+       "4 cm",
+       "à Kaub le 24 septembre, plus bas depuis 1880"
+      ],
+      [
+       "74 jours",
+       "sous 78 cm en 2026, contre 41 en 2022"
+      ],
+      [
+       "60 camions",
+       "pour remplacer une barge de 1 500 tonnes (Covestro)"
+      ],
+      [
+       "× 2",
+       "fret de gazole Rotterdam-Karlsruhe en septembre"
+      ]
+     ]
+    },
+    {
+     "h": "La facture"
+    },
+    {
+     "p": "Moins de cargaison par bateau signifie plus de bateaux, donc des prix qui flambent : le transport de gazole entre Rotterdam et Karlsruhe a plus que doublé en septembre. Le report sur le rail et la route est limité, car il faut une soixantaine de camions pour remplacer une seule barge de 1 500 tonnes, selon Covestro. BASF, Evonik et Lanxess ont basculé une partie de leurs flux. La Commerzbank estimait qu’une sécheresse prolongée jusqu’à mi-septembre retirerait 0,35 point au PIB allemand du trimestre. La production hydroélectrique, elle, a chuté de 37 % en Allemagne et de 28 % en France par rapport à la moyenne 2019-2025. Pour un planificateur, l’enjeu est double : des délais qui s’allongent sans prévenir, et des surcoûts de basses eaux répercutés par les transporteurs, parfois du jour au lendemain."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Trois épisodes majeurs de basses eaux en huit ans (2018, 2022, 2026) : l’exception devient la norme. Le coût est [[tangible|tangible]] pour tout acheteur de transport en Europe de l’Ouest. Les industriels qui [[enteriner|entérinent]] aujourd’hui leurs plans 2027 intègrent des barges à faible tirant d’eau, des stocks tampons avant l’été et des contrats multimodaux. Le fleuve n’est plus un acquis, mais un risque à piloter, au même titre qu’un fournisseur unique ou un détroit menacé."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>4 cm à Kaub</b> le 24 septembre : le plus bas depuis 1880, loin sous l’ancien record de 25 cm (octobre 2018). Encore sous 77 cm mi-octobre.",
+      "<b>Le seuil</b> : sous 78 cm, les barges réduisent leur charge d’environ 30 %. Franchi 74 jours en 2026, contre 41 en 2022.",
+      "<b>La facture</b> : fret de gazole Rotterdam-Karlsruhe doublé en septembre ; une barge de 1 500 t vaut 60 camions ; BASF, Evonik et Lanxess reportent vers le rail et la route.",
+      "<b>L’économie</b> : jusqu’à 0,35 point de PIB allemand perdu sur un trimestre selon la Commerzbank ; hydroélectricité allemande en baisse de 37 %."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le Rhin à Kaub, du normal au record",
+      "sub": "hauteur à l’échelle de Kaub, en centimètres",
+      "rows": [
+       [
+        "Moyenne de long terme",
+        208
+       ],
+       [
+        "Seuil de chargement réduit",
+        78
+       ],
+       [
+        "Plus bas de 2022",
+        32
+       ],
+       [
+        "Ancien record, oct. 2018",
+        25
+       ],
+       [
+        "Nouveau record, 24 sept. 2026",
+        4
+       ]
+      ],
+      "suffix": " cm",
+      "note": "La mesure de Kaub est une référence de navigation, pas la profondeur réelle du chenal. Sources : Freight Perspectives (juillet 2026), Bloomberg via Swissinfo (24 septembre 2026)."
+     }
+    },
+    {
+     "stats": [
+      [
+       "4 cm",
+       "à Kaub le 24 septembre, plus bas depuis 1880"
+      ],
+      [
+       "74 jours",
+       "sous 78 cm en 2026, contre 41 en 2022"
+      ],
+      [
+       "60 camions",
+       "pour remplacer une barge de 1 500 tonnes (Covestro)"
+      ],
+      [
+       "× 2",
+       "fret de gazole Rotterdam-Karlsruhe en septembre"
+      ]
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Trois crises de basses eaux en huit ans</b> : le coût est [[tangible|tangible]] pour tous les acheteurs de transport.",
+      "<b>Les parades</b> : les industriels qui [[enteriner|entérinent]] leurs plans 2027 misent sur des barges à faible tirant d’eau, des stocks tampons et le multimodal."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "EssilorLuxottica : la myopie prend le relais des lunettes IA",
+   "by": "Analyse",
+   "fig": "+ 7,2 %",
+   "figl": "croissance du 3e trimestre, changes constants",
+   "min": 3,
+   "exMin": 2,
+   "src": "EssilorLuxottica, communiqué « Chiffre d’affaires T3 », 20 octobre 2026 ; EssilorLuxottica, résultats annuels 2025 (11 février 2026) ; UploadVR, 11 février 2026 (plus de 7 millions de lunettes vendues en 2025, capacité de 10 millions fin 2026) ; Road to VR, 29 juillet 2025 (investissement de Meta d’environ 3,5 Md$, soit près de 3 % du capital selon Bloomberg) ; Holden et al., Ophthalmology, 2016 (myopie en 2050). Données arrêtées au 20 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le numéro un mondial de l’optique a publié le 20 octobre un chiffre d’affaires trimestriel de 7,49 milliards d’euros, en hausse de 7,2 % à changes constants. Solide, mais loin de l’euphorie de 2025, quand les lunettes connectées Ray-Ban Meta faisaient bondir les ventes. Cette fois, la meilleure surprise vient d’un produit bien moins médiatique : les verres qui freinent la myopie des enfants.",
+     "lead": 1
+    },
+    {
+     "h": "Un empire de la vue"
+    },
+    {
+     "p": "Né en 2018 de la fusion du français Essilor, roi des verres, et de l’italien Luxottica, maître des montures et propriétaire de Ray-Ban, le groupe couvre toute la chaîne : verres, montures, marques sous licence, et magasins dans le monde entier. Ce modèle intégré lui a permis de signer avec Meta les lunettes à caméra et assistant vocal lancées fin 2023. Plus de 7 millions de paires se sont vendues en 2025, et le chiffre d’affaires annuel a bondi de 11,2 % à changes constants, à 28,5 milliards d’euros. Meta a d’ailleurs pris une participation estimée à environ 3 % du capital."
+    },
+    {
+     "stats": [
+      [
+       "7,49 Md€",
+       "chiffre d’affaires du 3e trimestre 2026"
+      ],
+      [
+       "+ 7,2 %",
+       "croissance à changes constants (+ 9,0 % publiée)"
+      ],
+      [
+       "> 7 M",
+       "paires de lunettes IA vendues en 2025"
+      ],
+      [
+       "28,5 Md€",
+       "chiffre d’affaires 2025, + 11,2 % à changes constants"
+      ]
+     ]
+    },
+    {
+     "h": "Le relais de la myopie"
+    },
+    {
+     "p": "Au troisième trimestre, les lunettes connectées et l’aide auditive Nuance Audio progressent encore de 20 %, un net ralentissement après le triplement de 2025. La gestion de la myopie, portée par les verres Stellest, croît de 24 %. Le marché est immense : selon une étude publiée en 2016 dans <em>Ophthalmology</em>, environ la moitié de l’humanité pourrait être myope en 2050. Les ventes en direct, en magasins et en ligne, progressent de 10,6 %, contre 3,4 % pour les ventes aux opticiens. Le message est clair : la marque et le magasin captent de plus en plus la valeur. Pour un groupe qui possède à la fois l’usine de verres, la marque de lunettes et la boutique, chaque client gagné en direct rapporte deux fois, à la fabrication et à la vente."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce qui tire la croissance d’EssilorLuxottica",
+      "sub": "croissance du chiffre d’affaires au 3e trimestre 2026, à changes constants, en %",
+      "rows": [
+       [
+        "Gestion de la myopie",
+        24
+       ],
+       [
+        "Lunettes connectées et Nuance Audio",
+        20
+       ],
+       [
+        "Vente directe aux consommateurs",
+        10.6
+       ],
+       [
+        "Groupe",
+        7.2
+       ],
+       [
+        "Solutions professionnelles",
+        3.4
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : EssilorLuxottica, chiffre d’affaires du 3e trimestre, 20 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les gains de l’IA sont [[tangible|tangibles]] mais coûteux : en 2025, la marge opérationnelle ajustée est retombée à 16 %, pénalisée par les droits de douane américains et le lancement des lunettes connectées. Le groupe vise une capacité de 10 millions de paires par an fin 2026. Si les fêtes de fin d’année [[enteriner|entérinent]] la nouvelle gamme, la machine repartira ; sinon, la vieille optique médicale restera le vrai moteur."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>7,49 Md€</b> de chiffre d’affaires au 3e trimestre 2026, + 7,2 % à changes constants (+ 9,0 % publiée). Neuf mois : 22,3 Md€.",
+      "<b>Le modèle</b> : fusion d’Essilor (verres) et de Luxottica (montures, Ray-Ban) en 2018. Toute la chaîne, des verres aux magasins.",
+      "<b>Les lunettes Meta</b> : plus de 7 millions de paires en 2025, + 11,2 % de ventes sur l’année (28,5 Md€). Meta détiendrait environ 3 % du capital.",
+      "<b>Le ralentissement</b> : lunettes connectées et Nuance Audio + 20 % au 3e trimestre, après un triplement en 2025.",
+      "<b>La myopie</b> : verres Stellest, + 24 %. Environ la moitié de l’humanité pourrait être myope en 2050.",
+      "<b>La vente directe</b> : + 10,6 %, contre + 3,4 % auprès des opticiens. Usine, marque et boutique : le groupe gagne à chaque étage."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce qui tire la croissance d’EssilorLuxottica",
+      "sub": "croissance du chiffre d’affaires au 3e trimestre 2026, à changes constants, en %",
+      "rows": [
+       [
+        "Gestion de la myopie",
+        24
+       ],
+       [
+        "Lunettes connectées et Nuance Audio",
+        20
+       ],
+       [
+        "Vente directe aux consommateurs",
+        10.6
+       ],
+       [
+        "Groupe",
+        7.2
+       ],
+       [
+        "Solutions professionnelles",
+        3.4
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : EssilorLuxottica, chiffre d’affaires du 3e trimestre, 20 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Des gains [[tangible|tangibles]] mais coûteux</b> : marge ajustée à 16 % en 2025, pénalisée par les droits de douane et l’IA. Capacité visée : 10 millions de paires par an fin 2026.",
+      "<b>Le test des fêtes</b> : s’il [[enteriner|entérine]] la nouvelle gamme, la machine repart ; sinon, l’optique médicale reste le moteur."
+     ]
+    }
+   ]
+  }
+ ]
+}

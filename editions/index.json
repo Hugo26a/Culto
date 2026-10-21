@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-20",
+ "latest": "2026-10-21",
  "editions": [
+  {
+   "date": "2026-10-21",
+   "label": "Mercredi 21 octobre",
+   "words": [
+    "Entériner",
+    "Tangible"
+   ],
+   "items": [
+    [
+     "lit",
+     "Bel-Ami"
+    ],
+    [
+     "essai",
+     "La Crise économique de 1929"
+    ],
+    [
+     "eco",
+     "Zone euro : l’inflation à 3,8 %, la BCE face à son dilemme"
+    ],
+    [
+     "geo",
+     "Alberta : trois électeurs sur quatre disent non à la séparation"
+    ],
+    [
+     "log",
+     "Rhin : le fleuve-autoroute tombe à 4 centimètres"
+    ],
+    [
+     "ent",
+     "EssilorLuxottica : la myopie prend le relais des lunettes IA"
+    ]
+   ]
+  },
   {
    "date": "2026-10-20",
    "label": "Mardi 20 octobre",
