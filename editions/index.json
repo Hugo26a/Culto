@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-21",
+ "latest": "2026-10-22",
  "editions": [
+  {
+   "date": "2026-10-22",
+   "label": "Jeudi 22 octobre",
+   "words": [
+    "Entériner",
+    "Tangible"
+   ],
+   "items": [
+    [
+     "lit",
+     "Candide ou l’Optimisme"
+    ],
+    [
+     "essai",
+     "Steve Jobs"
+    ],
+    [
+     "eco",
+     "L’or recule, les banques centrales continuent d’acheter"
+    ],
+    [
+     "geo",
+     "ONU : la course pour succéder à Guterres s’accélère"
+    ],
+    [
+     "log",
+     "Rail américain : le premier transcontinental attend son verdict"
+    ],
+    [
+     "ent",
+     "Tesla : les marges remontent, le bénéfice fond"
+    ]
+   ]
+  },
   {
    "date": "2026-10-21",
    "label": "Mercredi 21 octobre",

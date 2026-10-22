@@ -1,0 +1,1013 @@
+{
+ "date": "2026-10-22",
+ "label": "Jeudi 22 octobre 2026",
+ "n": 9,
+ "example": false,
+ "week": {
+  "start": "2026-10-19",
+  "label": "Semaine du 19 octobre",
+  "day": 4,
+  "words": [
+   {
+    "key": "enteriner",
+    "w": "Entériner",
+    "ph": "[ɑ̃.te.ʁi.ne] · verbe transitif",
+    "short": "Rendre officiel ce qui était décidé ou admis.",
+    "def": "Valider, ratifier, rendre définitif ce qui était déjà décidé, constaté ou admis dans les faits. Une direction entérine un choix fait par ses équipes ; un accord entérine une situation existante. Le mot suppose souvent qu’on ne fait que confirmer ce qui était acquis.",
+    "ety": "De l’ancien français enterin, « entier, complet », lui-même tiré de entier. À l’origine terme de droit : entériner un acte, c’était le rendre entier, donc pleinement valable, en le confirmant officiellement.",
+    "ex": "Le comité de direction a entériné mardi le choix du nouveau transporteur, testé depuis trois mois sur deux entrepôts.",
+    "syn": "ratifier, valider, confirmer, homologuer, consacrer"
+   },
+   {
+    "key": "tangible",
+    "w": "Tangible",
+    "ph": "[tɑ̃.ʒibl] · adjectif",
+    "short": "Concret, réel, que l’on peut constater.",
+    "def": "Au sens propre, qui peut être touché. Au sens courant, concret, réel, vérifiable : un résultat tangible se voit et se mesure, par opposition à une promesse ou à une impression. On parle de preuves, de progrès ou de bénéfices tangibles.",
+    "ety": "Du bas latin tangibilis, « qui peut être touché », de tangere, « toucher ». Même famille que tact, contact, intact et tangente.",
+    "ex": "Trois mois après la réorganisation de l’entrepôt, les gains sont tangibles : les délais de préparation ont baissé d’un quart.",
+    "syn": "concret, palpable, réel, manifeste, mesurable"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Candide ou l’Optimisme",
+   "by": "Voltaire · 1759",
+   "tagline": "Cultiver notre jardin",
+   "min": 10,
+   "exMin": 4,
+   "src": "Voltaire, Candide ou l’Optimisme (1759), domaine public. Contexte : Leibniz, Essais de théodicée (1710) ; Voltaire, Poème sur le désastre de Lisbonne (1756).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Chassé du château où il a grandi pour avoir embrassé la belle Cunégonde, le naïf Candide traverse l’Europe, l’Amérique du Sud et l’Orient. Guerres, séisme, Inquisition, esclavage : chaque épreuve dément la leçon de son précepteur Pangloss, pour qui tout est au mieux. Il finit dans une petite ferme près de Constantinople, convaincu qu’il faut d’abord cultiver son jardin."
+      ],
+      [
+       "L’optimisme mis à l’épreuve des faits",
+       "Pangloss répète que nous vivons dans « le meilleur des mondes possibles », formule tirée de la philosophie de Leibniz. Voltaire ne réfute pas cette idée par un traité : il la confronte, chapitre après chapitre, à la souffrance réelle. Face au malheur, l’optimisme systématique devient une façon commode de tout excuser."
+      ],
+      [
+       "Le mal vient surtout des hommes",
+       "La nature frappe une fois, à Lisbonne. Tout le reste est l’œuvre humaine : la guerre, le fanatisme religieux, la cupidité des marchands, l’esclavage dans les plantations. Voltaire déplace la question : il ne s’agit plus d’expliquer le mal, mais de cesser d’y contribuer."
+      ],
+      [
+       "Le travail contre trois maux",
+       "La leçon finale vient d’un vieux paysan turc : le travail éloigne l’ennui, le vice et le besoin. Ce n’est ni une doctrine ni une promesse de bonheur, mais une règle de vie modeste, à portée de main."
+      ],
+      [
+       "L’utopie n’est pas un lieu où l’on reste",
+       "Candide découvre l’Eldorado, pays parfait sans prisons ni querelles. Il le quitte au bout d’un mois, par amour et par envie de richesse. Voltaire suggère que le bonheur parfait n’est pas fait pour les hommes tels qu’ils sont."
+      ],
+      [
+       "Le rire comme arme",
+       "Le conte est court, rapide, d’une ironie constante. Les pires horreurs sont racontées sur un ton neutre, ce qui les rend plus choquantes encore. C’est ce décalage qui a fait de Candide l’un des textes les plus lus de la littérature française."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le paradis perdu"
+    },
+    {
+     "p": "En Westphalie, dans le château du baron de Thunder-ten-tronckh, vit un jeune homme au caractère très doux, nommé Candide. Il écoute avec admiration le précepteur de la maison, le docteur Pangloss, qui enseigne que tout a une cause et que tout est pour le mieux. Candide aime en secret Cunégonde, la fille du baron. Un jour, derrière un paravent, il l’embrasse. Le baron le surprend et le chasse du château à grands coups de pied.",
+     "lead": 1
+    },
+    {
+     "h5": "Le tour d’Europe du malheur"
+    },
+    {
+     "p": "Seul et sans argent, Candide est enrôlé de force dans l’armée des Bulgares. Il y subit la discipline à coups de bâton, puis assiste à une bataille que Voltaire décrit comme une « boucherie héroïque ». Il déserte et gagne la Hollande. Il y retrouve Pangloss, défiguré par une maladie vénérienne, qui lui apprend que le château a été détruit et Cunégonde tuée. Pangloss n’en démord pas : ces malheurs étaient nécessaires."
+    },
+    {
+     "p": "Les deux hommes s’embarquent pour Lisbonne avec Jacques, un anabaptiste généreux qui les a recueillis. Une tempête coule le navire ; Jacques se noie après avoir sauvé un matelot. À peine arrivés, ils vivent le tremblement de terre qui détruit la ville. Pour empêcher un nouveau séisme, l’Inquisition organise un autodafé : Pangloss est pendu, Candide fouetté. Une vieille femme le soigne et le conduit à Cunégonde, qui a survécu. Elle est disputée par deux protecteurs, un riche marchand et le Grand Inquisiteur. Candide tue les deux hommes et s’enfuit avec Cunégonde et la vieille."
+    },
+    {
+     "h5": "Le Nouveau Monde"
+    },
+    {
+     "p": "Arrivés à Buenos Aires, ils perdent Cunégonde, que le gouverneur garde pour lui. Candide fuit au Paraguay avec son valet Cacambo. Chez les jésuites, il retrouve le frère de Cunégonde, devenu officier : celui-ci refuse que sa sœur épouse un homme sans titre de noblesse, et Candide le transperce de son épée. Après avoir échappé à une tribu qui voulait les manger, les deux fuyards découvrent par hasard l’Eldorado. Dans ce royaume caché, l’or et les pierres précieuses traînent sur les routes, il n’y a ni prisons ni procès, et l’on honore les sciences."
+    },
+    {
+     "p": "Candide repart pourtant au bout d’un mois, avec des moutons chargés d’or. Il en perd presque tous en chemin. Au Surinam, il rencontre un esclave à qui l’on a coupé une main et une jambe ; l’homme lui explique que c’est le prix du sucre consommé en Europe. Candide renonce alors à l’optimisme. Volé par un marchand hollandais, il envoie Cacambo racheter Cunégonde et prend comme compagnon Martin, un vieux savant qui pense que le mal domine partout."
+    },
+    {
+     "h5": "Le retour par l’Europe"
+    },
+    {
+     "p": "À Paris, Candide est flatté, escroqué et trompé. En Angleterre, à Portsmouth, il voit fusiller un amiral pour ne pas avoir tué assez d’ennemis. À Venise, il rend visite au sénateur Pococurante, qui possède tous les trésors de l’art et ne prend plaisir à rien. Lors d’un souper de carnaval, il dîne avec six rois détrônés. Cacambo réapparaît : Cunégonde est esclave sur les bords de la mer de Marmara, et elle est devenue laide."
+    },
+    {
+     "h5": "Le jardin"
+    },
+    {
+     "p": "Sur une galère, Candide retrouve Pangloss, qui a survécu à sa pendaison, et le frère de Cunégonde, guéri de son coup d’épée. Il les rachète, puis rachète Cunégonde et la vieille. Il épouse Cunégonde malgré son frère, qu’il renvoie aux galères. La petite troupe s’installe dans une ferme et s’ennuie. Un sage refuse de leur parler du sens du monde. Un vieux paysan leur montre ses vingt arpents qu’il cultive avec ses enfants : le travail, dit-il, les protège de l’ennui, du vice et du besoin. Chacun se met à l’ouvrage. Quand Pangloss reprend ses grands raisonnements, Candide le coupe d’une phrase."
+    },
+    {
+     "quote": "Cela est bien dit, répondit Candide, mais il faut cultiver notre jardin.",
+     "cite": "Dernière phrase du conte, chapitre 30"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un conte publié sous le manteau"
+    },
+    {
+     "p": "Candide paraît en janvier 1759, sans nom d’auteur, présenté comme une traduction de l’allemand d’un certain « docteur Ralph ». Personne n’est dupe. Voltaire a 64 ans et vit près de Genève, à l’abri des censeurs français. Le livre est aussitôt condamné à Genève et à Paris, ce qui n’empêche pas plus d’une dizaine d’éditions dès 1759. Trente chapitres très courts, des voyages à toute allure : le conte philosophique est un genre léger en apparence, idéal pour faire passer des idées dangereuses."
+    },
+    {
+     "h5": "La cible : la philosophie de l’optimisme"
+    },
+    {
+     "p": "Le philosophe allemand Leibniz avait soutenu, dans ses <em>Essais de théodicée</em> (1710), que Dieu, parfaitement bon, avait forcément créé le meilleur des mondes possibles, le mal n’étant qu’une part nécessaire de l’ensemble. Le poète anglais Alexander Pope avait popularisé une idée voisine. Voltaire ne discute pas les arguments : il les met dans la bouche de Pangloss, qui les répète mécaniquement même pendu ou enchaîné. La philosophie devient un jargon qui empêche de voir."
+    },
+    {
+     "h5": "Lisbonne, le choc"
+    },
+    {
+     "p": "Le 1er novembre 1755, un tremblement de terre suivi d’un raz-de-marée et d’incendies détruit Lisbonne et fait des dizaines de milliers de morts. Toute l’Europe s’interroge : comment un Dieu bon peut-il permettre cela ? Voltaire publie dès 1756 un <em>Poème sur le désastre de Lisbonne</em>. Rousseau lui répond par une longue lettre pour défendre la Providence. Candide est la réponse définitive de Voltaire, sous une forme qui fait rire plutôt que pleurer."
+    },
+    {
+     "h5": "Les procédés de l’ironie"
+    },
+    {
+     "p": "Voltaire raconte les massacres, les viols et les supplices avec la même légèreté que les dîners. Le héros, naïf, rapporte tout sans juger, et c’est au lecteur de s’indigner. L’auteur multiplie les formules contradictoires, comme cette « boucherie héroïque », et les noms comiques : Thunder-ten-tronckh, Pangloss (« tout langue », en grec), Pococurante (« qui se soucie peu »). Le rythme haletant, fait d’enchaînements improbables et de résurrections, parodie les romans d’aventures."
+    },
+    {
+     "h5": "Une satire de tout le siècle"
+    },
+    {
+     "p": "Le conte touche à toute l’actualité de son temps. La guerre des Bulgares et des Abares rappelle la guerre de Sept Ans, commencée en 1756. L’amiral fusillé à Portsmouth est l’Anglais John Byng, exécuté en 1757, que Voltaire avait tenté de défendre ; le narrateur ironise qu’il faut en tuer un de temps en temps « pour encourager les autres ». L’Inquisition, les jésuites du Paraguay, les salons parisiens et le commerce colonial passent tous sous la plume de Voltaire. La page sur l’esclave du Surinam compte parmi les premières dénonciations littéraires du coût humain du sucre."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "La conclusion est souvent mal comprise. « Cultiver notre jardin » n’est pas un repli égoïste : c’est le refus des grandes théories qui expliquent tout et ne changent rien, au profit d’une action limitée mais réelle. Face à un monde que l’on ne maîtrise pas, Voltaire propose de se concentrer sur ce qui dépend de nous et produit un résultat [[tangible|tangible]]. Le conte se lit en deux heures et reste d’une modernité frappante, notamment pour quiconque a dû travailler avec quelqu’un qui trouve toujours que tout va bien."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Chassé du château où il a grandi pour avoir embrassé Cunégonde, le naïf Candide traverse l’Europe, l’Amérique du Sud et l’Orient. Chaque épreuve dément son précepteur Pangloss, pour qui tout est au mieux. Il finit dans une ferme près de Constantinople, convaincu qu’il faut d’abord cultiver son jardin.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’optimisme à l’épreuve des faits</b> : le « meilleur des mondes possibles » de Leibniz, répété par Pangloss, sert à tout excuser.",
+      "<b>Le mal vient surtout des hommes</b> : guerre, fanatisme, cupidité, esclavage. La nature ne frappe qu’une fois, à Lisbonne.",
+      "<b>Le travail</b> éloigne trois maux : l’ennui, le vice et le besoin. Une règle de vie modeste, pas une doctrine.",
+      "<b>L’utopie</b> : Candide quitte l’Eldorado au bout d’un mois. Le bonheur parfait n’est pas fait pour les hommes.",
+      "<b>Le rire comme arme</b> : les horreurs sont racontées sur un ton neutre, ce qui les rend plus choquantes.",
+      "<b>Les personnages</b> : Pangloss, le philosophe qui justifie tout ; Martin, le pessimiste ; Cacambo, le valet débrouillard ; la vieille, qui a tout subi et veut pourtant vivre."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>La Westphalie</b> : Candide, élève de Pangloss, embrasse Cunégonde et se fait chasser du château.",
+      "<b>L’Europe</b> : enrôlé chez les Bulgares, il assiste à une « boucherie héroïque », puis vit le séisme de Lisbonne. Pangloss est pendu par l’Inquisition. Candide retrouve Cunégonde et tue ses deux protecteurs.",
+      "<b>L’Amérique</b> : Buenos Aires, les jésuites du Paraguay, puis l’Eldorado, royaume parfait qu’il quitte chargé d’or. Au Surinam, un esclave mutilé lui montre le prix du sucre. Il renonce à l’optimisme.",
+      "<b>Le retour</b> : Paris l’escroque, Portsmouth fusille un amiral, Venise lui montre un riche blasé et six rois détrônés.",
+      "<b>Le jardin</b> : il rachète Pangloss, le frère de Cunégonde et Cunégonde, devenue laide, qu’il épouse. Installés dans une ferme, ils s’ennuient jusqu’à ce qu’un vieux paysan turc leur montre comment il cultive ses vingt arpents avec ses enfants. Chacun se met au travail."
+     ]
+    },
+    {
+     "quote": "Cela est bien dit, répondit Candide, mais il faut cultiver notre jardin.",
+     "cite": "Dernière phrase du conte, chapitre 30"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Publié anonymement</b> en janvier 1759, attribué à un « docteur Ralph ». Condamné à Genève et à Paris, mais plus d’une dizaine d’éditions dès 1759.",
+      "<b>La cible</b> : Leibniz et ses <em>Essais de théodicée</em> (1710). Pangloss récite la doctrine même pendu.",
+      "<b>Lisbonne</b> : le séisme du 1er novembre 1755, des dizaines de milliers de morts, puis le <em>Poème sur le désastre de Lisbonne</em> (1756) et la réponse de Rousseau.",
+      "<b>L’ironie</b> : ton neutre, héros naïf, « boucherie héroïque », noms comiques (Pangloss, « tout langue »).",
+      "<b>La satire</b> : guerre de Sept Ans, exécution de l’amiral Byng (1757), Inquisition, jésuites, esclavage.",
+      "<b>Aujourd’hui</b> : cultiver son jardin, c’est préférer une action limitée mais [[tangible|tangible]] aux théories qui expliquent tout."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Steve Jobs",
+   "by": "Walter Isaacson · 2011",
+   "min": 9,
+   "exMin": 3,
+   "src": "Walter Isaacson, Steve Jobs (Simon & Schuster, 2011 ; trad. fr. JC Lattès, 2011). Chiffres d’Apple : rapports annuels 10-K (exercices 1997, 2001, 2004, 2007, 2011) ; rachat de NeXT annoncé en décembre 1996 ; vente de Pixar à Disney annoncée en janvier 2006.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "La biographie autorisée du cofondateur d’Apple, écrite à partir de plus de quarante entretiens avec lui sur deux ans et de plus d’une centaine de témoins. Elle suit l’enfant adopté de Californie, chassé de sa propre entreprise en 1985, revenu en 1997 et mort en 2011 après avoir lancé l’iPod, l’iPhone et l’iPad. Le livre paraît le 24 octobre 2011, dix-neuf jours après sa mort."
+      ],
+      [
+       "Le croisement des arts et de la technologie",
+       "C’est la thèse centrale d’Isaacson : Jobs n’était ni un grand ingénieur ni un grand programmeur, mais il savait relier la technique au goût, au design et à l’usage. Son avantage tenait à ce regard de chef d’orchestre, plus qu’à une invention précise."
+      ],
+      [
+       "Le contrôle de bout en bout",
+       "Jobs voulait maîtriser à la fois l’appareil, le logiciel et, plus tard, les services comme iTunes et l’App Store. Ce modèle fermé l’a d’abord desservi face à Microsoft dans les années 1980, puis il est devenu la source des marges exceptionnelles d’Apple."
+      ],
+      [
+       "Dire non pour se concentrer",
+       "À son retour en 1997, Apple perd environ 1 milliard de dollars sur l’année. Jobs supprime l’essentiel des produits et n’en garde que quatre : un ordinateur de bureau et un portable, pour le grand public et pour les professionnels. En 2011, le chiffre d’affaires dépasse 108 milliards."
+      ],
+      [
+       "Le génie et ses dégâts",
+       "Isaacson ne cache rien : la colère, l’humiliation des collaborateurs, la paternité longtemps niée de sa fille aînée. Il décrit le fameux « champ de distorsion de la réalité », cette capacité à convaincre ses équipes que l’impossible était faisable, qui a produit des exploits et des dégâts."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un projet voulu par Jobs"
+    },
+    {
+     "p": "Walter Isaacson, ancien patron de CNN et rédacteur en chef de <em>Time</em>, avait déjà écrit les vies de Benjamin Franklin et d’Albert Einstein. Jobs lui propose d’écrire la sienne dès 2004 ; Isaacson accepte plus tard, quand il comprend que Jobs est gravement malade. Le patron d’Apple lui ouvre sa famille et ses proches, et s’engage à ne pas relire le manuscrit. Il ne demande qu’à choisir la couverture. Le résultat, d’environ 600 pages, est à la fois admiratif et sans complaisance. Isaacson y fait parler aussi les rivaux, comme Bill Gates, les associés écartés et les anciennes compagnes. Sa thèse est simple : Jobs n’a inventé presque aucune technologie, mais il a su repérer celles qui étaient mûres et les rendre désirables pour le grand public.",
+     "lead": 1
+    },
+    {
+     "h5": "1955-1985 : le garage et la chute"
+    },
+    {
+     "p": "Né en 1955 à San Francisco et adopté à la naissance, Jobs grandit dans la future Silicon Valley. Il fonde Apple le 1er avril 1976 avec Steve Wozniak, le véritable génie technique du duo. L’Apple II (1977) fait leur fortune, et l’entreprise entre en Bourse en 1980. En 1984, le Macintosh popularise la souris et l’interface graphique. Mais Jobs est ingérable. En 1983, il a recruté John Sculley, patron de Pepsi, pour diriger l’entreprise. Deux ans plus tard, le conseil d’administration [[enteriner|entérine]] le choix de Sculley de lui retirer tout pouvoir opérationnel. Jobs quitte Apple en septembre 1985, à 30 ans."
+    },
+    {
+     "h5": "1985-1997 : la traversée du désert"
+    },
+    {
+     "p": "Il fonde NeXT, qui produit des ordinateurs superbes, trop chers, qui se vendent mal. Il rachète en 1986 la division d’images de synthèse de George Lucas, pour environ 10 millions de dollars : elle devient Pixar. Pendant des années, il y engloutit sa fortune. En 1995, <em>Toy Story</em>, premier long métrage entièrement réalisé en images de synthèse, triomphe ; Pixar entre en Bourse une semaine plus tard et Jobs devient milliardaire. En décembre 1996, Apple, en perdition, rachète NeXT pour 429 millions de dollars. Elle achète surtout son système d’exploitation, qui deviendra la base de macOS et d’iOS, et ramène son fondateur."
+    },
+    {
+     "h5": "1997-2011 : le retour"
+    },
+    {
+     "p": "Redevenu patron en 1997, Jobs taille dans les gammes, lance la campagne « Think Different » et, en 1998, l’iMac translucide. Puis il transforme un fabricant d’ordinateurs en entreprise d’électronique grand public : l’iPod en 2001, la boutique iTunes en 2003, l’iPhone présenté en janvier 2007, l’App Store en 2008, l’iPad en 2010. Chaque fois, l’idée n’est pas neuve, mais l’exécution est plus simple et mieux intégrée que celle des concurrents. En 2006, Disney rachète Pixar pour 7,4 milliards de dollars en actions. Malade d’un cancer du pancréas diagnostiqué en 2003, Jobs quitte la direction d’Apple en août 2011 et meurt le 5 octobre, à 56 ans."
+    },
+    {
+     "stats": [
+      [
+       "≈ 1 Md$",
+       "perte d’Apple sur l’exercice 1997"
+      ],
+      [
+       "429 M$",
+       "prix du rachat de NeXT, qui ramène Jobs chez Apple"
+      ],
+      [
+       "10 M$",
+       "mise de Jobs pour racheter Pixar en 1986"
+      ],
+      [
+       "7,4 Md$",
+       "valeur de Pixar à sa vente à Disney en 2006"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le chiffre d’affaires d’Apple, de la crise au sommet",
+      "sub": "exercices fiscaux clos fin septembre, en milliards de dollars",
+      "labels": [
+       "1997",
+       "2001",
+       "2004",
+       "2007",
+       "2011"
+      ],
+      "series": [
+       {
+        "name": "Chiffre d’affaires",
+        "values": [
+         7.1,
+         5.4,
+         8.3,
+         24.0,
+         108.2
+        ]
+       }
+      ],
+      "note": "Source : rapports annuels d’Apple (formulaires 10-K)."
+     }
+    },
+    {
+     "h5": "La méthode Jobs"
+    },
+    {
+     "p": "Le livre dégage quelques principes répétés tout au long de la carrière. La simplicité d’abord : un produit doit pouvoir s’utiliser sans mode d’emploi. Le soin des détails invisibles, jusqu’à l’intérieur des machines, que Jobs voulait beau. Le refus des études de marché, au motif que les clients ne savent pas ce qu’ils veulent avant qu’on le leur montre. Enfin, la volonté de cannibaliser ses propres succès : l’iPhone a rendu l’iPod presque inutile, mais Jobs préférait qu’Apple le fasse plutôt qu’un concurrent. Ces choix ont produit des résultats [[tangible|tangibles]] : en août 2011, Apple devient brièvement la première capitalisation boursière mondiale."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "La biographie a été un immense succès de librairie, mais l’entourage de Jobs l’a jugée injuste. Tim Cook, son successeur, et le designer Jony Ive ont reproché à Isaacson de trop insister sur les colères et pas assez sur l’homme qui avait mûri après 1997. Un autre livre, <em>Becoming Steve Jobs</em> (2015), de Brent Schlender et Rick Tetzeli, a été écrit en partie pour corriger ce portrait. Des lecteurs du monde de la tech regrettent aussi qu’Isaacson, journaliste généraliste, explique peu les choix techniques et stratégiques. Enfin, le livre a contribué à un mythe dangereux : celui selon lequel la brutalité serait la condition du génie. Isaacson lui-même conclut pourtant que Jobs aurait pu obtenir les mêmes résultats en étant plus aimable, et que sa dureté lui a souvent coûté des collaborateurs précieux."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Le livre a inspiré le film <em>Steve Jobs</em> (2015), réalisé par Danny Boyle sur un scénario d’Aaron Sorkin. Il est devenu une lecture classique dans les écoles de commerce, autant pour ce qu’il faut imiter que pour ce qu’il faut éviter. Pour un lecteur de la supply chain, il rappelle aussi que le redressement d’Apple doit beaucoup à Tim Cook, recruté en 1998, qui a réduit les stocks et confié la fabrication à des sous-traitants : le génie du produit n’aurait rien donné sans une chaîne d’approvisionnement maîtrisée."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "La biographie autorisée du cofondateur d’Apple, fondée sur plus de quarante entretiens avec lui et plus d’une centaine de témoins. Chassé en 1985, revenu en 1997, Jobs lance l’iPod, l’iPhone et l’iPad avant de mourir en octobre 2011. Le livre paraît dix-neuf jours plus tard.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Arts et technologie</b> : Jobs n’était pas un grand ingénieur, mais il reliait technique, design et usage.",
+      "<b>Le contrôle de bout en bout</b> : appareil, logiciel et services maîtrisés ensemble. Un handicap face à Microsoft dans les années 1980, puis la source des marges d’Apple.",
+      "<b>Dire non</b> : en 1997, Apple perd environ 1 milliard de dollars. Jobs ne garde que quatre produits.",
+      "<b>Le génie et ses dégâts</b> : colères, humiliations, « champ de distorsion de la réalité ». Capacité à obtenir l’impossible de ses équipes, au prix de nombreux départs.",
+      "<b>Un projet voulu par Jobs</b> : proposé à Isaacson, ancien patron de CNN et biographe d’Einstein, dès 2004. Jobs s’engage à ne pas relire le manuscrit."
+     ]
+    },
+    {
+     "h": "Les grandes étapes"
+    },
+    {
+     "ul": [
+      "<b>1976-1985</b> : Apple fondée avec Wozniak, Apple II (1977), Macintosh (1984). Le conseil [[enteriner|entérine]] la mise à l’écart de Jobs, qui part en 1985.",
+      "<b>1985-1997</b> : NeXT, puis Pixar, rachetée environ 10 millions de dollars. <em>Toy Story</em> en 1995. Apple rachète NeXT 429 millions en 1996.",
+      "<b>1997-2011</b> : iMac, iPod, iTunes, iPhone, App Store, iPad. Disney rachète Pixar 7,4 milliards en 2006. Jobs meurt le 5 octobre 2011."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 1 Md$",
+       "perte d’Apple sur l’exercice 1997"
+      ],
+      [
+       "429 M$",
+       "prix du rachat de NeXT, qui ramène Jobs chez Apple"
+      ],
+      [
+       "10 M$",
+       "mise de Jobs pour racheter Pixar en 1986"
+      ],
+      [
+       "7,4 Md$",
+       "valeur de Pixar à sa vente à Disney en 2006"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le chiffre d’affaires d’Apple, de la crise au sommet",
+      "sub": "exercices fiscaux clos fin septembre, en milliards de dollars",
+      "labels": [
+       "1997",
+       "2001",
+       "2004",
+       "2007",
+       "2011"
+      ],
+      "series": [
+       {
+        "name": "Chiffre d’affaires",
+        "values": [
+         7.1,
+         5.4,
+         8.3,
+         24.0,
+         108.2
+        ]
+       }
+      ],
+      "note": "Source : rapports annuels d’Apple (formulaires 10-K)."
+     }
+    },
+    {
+     "h": "Critiques et postérité"
+    },
+    {
+     "ul": [
+      "<b>La méthode</b> : simplicité, détails invisibles, pas d’études de marché, cannibaliser ses propres succès. Résultat [[tangible|tangible]] : Apple première capitalisation mondiale en août 2011.",
+      "<b>Les critiques</b> : Tim Cook et Jony Ive jugent le portrait trop centré sur les colères ; <em>Becoming Steve Jobs</em> (2015) le corrige.",
+      "<b>La leçon supply chain</b> : le redressement doit aussi beaucoup à Tim Cook, recruté en 1998, qui a réduit les stocks et sous-traité la fabrication."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "L’or recule, les banques centrales continuent d’acheter",
+   "by": "Analyse",
+   "fig": "− 26 %",
+   "figl": "l’once d’or depuis son record",
+   "min": 3,
+   "exMin": 2,
+   "src": "VanEck (record de 5 595 $ le 29 janvier 2026, chute de 9 % le 30 janvier) ; USAGold et Fortune, 21 octobre 2026 (cours, Brent, probabilités CME FedWatch) ; World Gold Council, Gold Demand Trends année 2025 (achats annuels, Pologne) et chiffres préliminaires de septembre 2026 cités par le Financial Times. Données arrêtées au 21 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "L’once d’or s’échangeait autour de 4 120 dollars le 21 octobre, environ 26 % sous son record de 5 595 dollars atteint en séance le 29 janvier 2026. Elle a perdu plus de 5 % en un mois. Pourtant, les banques centrales n’ont jamais cessé d’acheter : selon les chiffres préliminaires du World Gold Council, elles ont acquis environ 63 tonnes en septembre, leur plus gros mois depuis novembre 2024.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "5 595 $",
+       "record de l’once, en séance, le 29 janvier 2026"
+      ],
+      [
+       "≈ 4 120 $",
+       "cours de l’once le 21 octobre 2026"
+      ],
+      [
+       "≈ 63 t",
+       "achats des banques centrales en septembre, plus haut depuis fin 2024"
+      ],
+      [
+       "≈ 90 %",
+       "probabilité d’une hausse des taux de la Fed en décembre"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi l’or baisse quand les taux montent"
+    },
+    {
+     "p": "L’or ne verse ni intérêt ni dividende. Le détenir a donc un coût : celui des intérêts auxquels on renonce. Quand les taux montent, ce coût augmente et l’or perd de son attrait. C’est ce qui se passe. Le baril de Brent a dépassé 110 dollars avec les tensions au Moyen-Orient, ce qui ravive l’inflation. Les marchés jugent désormais probable à environ 90 % que la Réserve fédérale relève ses taux en décembre, et le dollar se raffermit. Or l’or est coté en dollars : un dollar fort le rend plus cher pour le reste du monde. La chute avait d’ailleurs commencé dès le 30 janvier, avec un plongeon de 9 % en une séance, le jour où Kevin Warsh, perçu comme un défenseur de taux élevés, avait été désigné pour présider la Fed."
+    },
+    {
+     "h": "Les banques centrales, acheteurs de fond"
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Achats nets d’or des banques centrales",
+      "sub": "en tonnes par an",
+      "rows": [
+       [
+        "Moyenne 2010-2021",
+        473
+       ],
+       [
+        "2024",
+        1092
+       ],
+       [
+        "2025",
+        863
+       ]
+      ],
+      "suffix": " t",
+      "note": "Le total 2025 inclut une estimation des achats non déclarés. Source : World Gold Council, Gold Demand Trends, année 2025."
+     }
+    },
+    {
+     "p": "Depuis 2022, les banques centrales achètent deux fois plus d’or qu’au cours de la décennie précédente. Le déclencheur a été le gel des réserves russes en dollars et en euros après l’invasion de l’Ukraine : un lingot stocké chez soi ne peut pas être bloqué par un pays étranger. La Pologne a été le premier acheteur en 2025 avec 102 tonnes, devant le Kazakhstan, le Brésil, la Turquie et la Chine. Pour ces institutions, l’or est un actif [[tangible|tangible]], sans risque de défaut, qui réduit leur dépendance au dollar. Elles achètent sur le long terme et profitent des baisses."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Deux forces s’opposent. À court terme, les taux et le dollar dictent le prix : si la Fed [[enteriner|entérine]] une hausse en décembre, l’or peut encore reculer. À long terme, les achats réguliers des banques centrales forment un plancher. Pour un épargnant, la leçon est classique : l’or protège contre les crises et la défiance envers les monnaies, pas contre la hausse des taux."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>≈ 4 120 dollars</b> l’once le 21 octobre, environ 26 % sous le record de 5 595 dollars du 29 janvier 2026.",
+      "<b>Le mécanisme</b> : l’or ne rapporte rien. Quand les taux montent, le détenir coûte plus cher.",
+      "<b>Le contexte</b> : Brent au-dessus de 110 dollars, hausse de la Fed en décembre jugée probable à environ 90 %, dollar ferme. Chute de 9 % le 30 janvier après la désignation de Kevin Warsh à la Fed.",
+      "<b>Les banques centrales achètent</b> : environ 63 tonnes en septembre, plus haut depuis novembre 2024. Pologne en tête en 2025 (102 t). L’or est pour elles un actif [[tangible|tangible]] que personne ne peut geler."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Achats nets d’or des banques centrales",
+      "sub": "en tonnes par an",
+      "rows": [
+       [
+        "Moyenne 2010-2021",
+        473
+       ],
+       [
+        "2024",
+        1092
+       ],
+       [
+        "2025",
+        863
+       ]
+      ],
+      "suffix": " t",
+      "note": "Le total 2025 inclut une estimation des achats non déclarés. Source : World Gold Council, Gold Demand Trends, année 2025."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Court terme</b> : si la Fed [[enteriner|entérine]] une hausse en décembre, l’or peut encore reculer.",
+      "<b>Long terme</b> : les achats des banques centrales forment un plancher. Depuis 2022, elles achètent deux fois plus d’or que sur 2010-2021, depuis le gel des réserves russes.",
+      "<b>Pourquoi acheter</b> : un lingot stocké chez soi ne peut pas être bloqué par un pays étranger, et il réduit la dépendance au dollar.",
+      "<b>La leçon</b> : l’or protège contre les crises et la défiance envers les monnaies, pas contre la hausse des taux."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "ONU : la course pour succéder à Guterres s’accélère",
+   "by": "Analyse",
+   "fig": "9 sur 15",
+   "figl": "voix requises au Conseil, sans veto",
+   "min": 3,
+   "exMin": 2,
+   "src": "PassBlue, 7 et 16 octobre 2026 (résultats des votes indicatifs, retrait de Macky Sall, déclarations de Mike Waltz) ; Wikipedia, « 2026 United Nations Secretary-General selection » (candidats, retrait de Michelle Bachelet le 19 septembre) ; Gulf News, 22 octobre 2026 (candidature de Lana Nusseibeh) ; Charte des Nations unies, article 97. Données arrêtées au 21 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le second mandat d’António Guterres s’achève le 31 décembre 2026, et la course à sa succession entre dans sa phase décisive. Le 16 octobre, lors de son sixième vote indicatif, le Conseil de sécurité a pour la première fois distingué les voix des cinq membres permanents. La Costaricienne Rebeca Grynspan, secrétaire générale de la CNUCED, reste en tête, mais deux membres permanents l’ont découragée. Cette semaine, les Émirats arabes unis ont lancé une nouvelle candidate.",
+     "lead": 1
+    },
+    {
+     "h": "Une élection sans urne"
+    },
+    {
+     "p": "La Charte de l’ONU prévoit que le secrétaire général est nommé par l’Assemblée générale, sur recommandation du Conseil de sécurité. En pratique, tout se joue au Conseil. Ses quinze membres votent à bulletin secret, en plusieurs tours, avec trois options : encourager, décourager ou sans opinion. Pour être recommandé, un candidat doit réunir au moins neuf voix favorables et aucune opposition des cinq membres permanents (États-Unis, Chine, Russie, Royaume-Uni, France). Les 193 États de l’Assemblée [[enteriner|entérinent]] ensuite ce choix, traditionnellement sans vote disputé."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "6e vote indicatif du Conseil de sécurité",
+      "sub": "votes « encourage » sur 15, le 16 octobre 2026",
+      "rows": [
+       [
+        "Rebeca Grynspan (Costa Rica)",
+        9
+       ],
+       [
+        "Carolyn Rodrigues Birkett (Guyana)",
+        8
+       ],
+       [
+        "Rafael Grossi (Argentine)",
+        8
+       ],
+       [
+        "Ivonne A-Baki (Équateur)",
+        1
+       ]
+      ],
+      "note": "Grynspan, Rodrigues Birkett et Grossi ont chacun reçu deux votes « décourage » de membres permanents. Source : PassBlue, 16 octobre 2026."
+     }
+    },
+    {
+     "h": "Rotation et parité"
+    },
+    {
+     "stats": [
+      [
+       "9",
+       "secrétaires généraux depuis 1946, tous des hommes"
+      ],
+      [
+       "1",
+       "seul Latino-Américain : le Péruvien Javier Pérez de Cuéllar (1982-1991)"
+      ],
+      [
+       "9 sur 15",
+       "votes favorables requis au Conseil, sans veto"
+      ],
+      [
+       "31 déc.",
+       "fin du second mandat d’António Guterres"
+      ]
+     ]
+    },
+    {
+     "p": "Une règle non écrite fait tourner le poste entre les régions. L’Amérique latine et les Caraïbes ne l’ont occupé qu’une fois, et beaucoup de pays estiment que leur tour est venu. Aucune femme n’a dirigé l’ONU en quatre-vingts ans, et de nombreux États en font une priorité. D’où un plateau largement latino-américain et féminin. Le champ se réduit : l’ancienne présidente chilienne Michelle Bachelet s’est retirée en septembre, l’ancien président sénégalais Macky Sall à la mi-octobre. L’Argentin Rafael Grossi, patron de l’Agence internationale de l’énergie atomique, et la Guyanienne Carolyn Rodrigues Birkett restent en lice. L’arrivée de l’Émiratie Lana Nusseibeh, ancienne ambassadrice à l’ONU, bouscule la logique régionale."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le vrai pouvoir est celui du veto. Les États-Unis souhaitent un choix avant la fin de l’année, ce qui pousse à un compromis rapide. L’enjeu est [[tangible|tangible]] : le futur secrétaire général héritera d’une organisation en crise budgétaire, contournée par les grandes puissances et appelée à se réformer. Un candidat acceptable pour Washington, Pékin et Moscou à la fois sera, presque par définition, un profil prudent. Les prochains votes indicatifs diront si Rebeca Grynspan peut lever les deux oppositions qui la bloquent, ou si le Conseil se tournera vers un candidat de compromis."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Fin de mandat</b> : António Guterres part le 31 décembre 2026.",
+      "<b>La règle</b> : le Conseil de sécurité recommande (9 voix sur 15, aucun veto des cinq permanents), l’Assemblée générale [[enteriner|entérine]].",
+      "<b>Le 16 octobre</b> : Rebeca Grynspan (Costa Rica) en tête avec 9 voix, mais deux membres permanents la découragent. Rodrigues Birkett (Guyana) et Grossi (Argentine) suivent avec 8.",
+      "<b>Rotation et parité</b> : un seul Latino-Américain (Pérez de Cuéllar, 1982-1991) et aucune femme en neuf secrétaires généraux.",
+      "<b>Le champ bouge</b> : Bachelet et Sall se sont retirés ; l’Émiratie Lana Nusseibeh entre en lice cette semaine."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "6e vote indicatif du Conseil de sécurité",
+      "sub": "votes « encourage » sur 15, le 16 octobre 2026",
+      "rows": [
+       [
+        "Rebeca Grynspan (Costa Rica)",
+        9
+       ],
+       [
+        "Carolyn Rodrigues Birkett (Guyana)",
+        8
+       ],
+       [
+        "Rafael Grossi (Argentine)",
+        8
+       ],
+       [
+        "Ivonne A-Baki (Équateur)",
+        1
+       ]
+      ],
+      "note": "Grynspan, Rodrigues Birkett et Grossi ont chacun reçu deux votes « décourage » de membres permanents. Source : PassBlue, 16 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le veto décide</b> : Washington veut un choix avant la fin de l’année. Un profil acceptable à la fois pour Washington, Pékin et Moscou sera forcément prudent.",
+      "<b>L’enjeu</b> est [[tangible|tangible]] : le successeur héritera d’une ONU en crise budgétaire, contournée par les grandes puissances et appelée à se réformer.",
+      "<b>Les autres candidats</b> : Rafael Grossi dirige l’Agence internationale de l’énergie atomique ; Carolyn Rodrigues Birkett est ambassadrice du Guyana à l’ONU.",
+      "<b>La suite</b> : de nouveaux votes indicatifs, puis la recommandation du Conseil à l’Assemblée générale."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Rail américain : le premier transcontinental attend son verdict",
+   "by": "Analyse",
+   "fig": "85 Md$",
+   "figl": "rachat de Norfolk Southern par Union Pacific",
+   "min": 3,
+   "exMin": 2,
+   "src": "CSX, communiqué des résultats du 3e trimestre 2026 (21 octobre 2026) ; Surface Transportation Board, communiqué du 28 mai 2026 et calendrier de procédure du 18 août 2026 (Thompson Hine) ; Progressive Railroading, 28 mai 2026 ; Wikipedia, « Proposed merger between Union Pacific and Norfolk Southern » (montant, prix par action, synergies, indemnité de rupture, opposants). Données arrêtées au 21 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 21 octobre, le chemin de fer CSX a publié un trimestre record : 4,02 milliards de dollars de chiffre d’affaires, en hausse de 12 %, et un résultat d’exploitation en hausse de 44 %. Mais l’enjeu du rail américain est ailleurs : le projet de rachat de Norfolk Southern par Union Pacific, pour environ 85 milliards de dollars, créerait le premier réseau ferroviaire transcontinental des États-Unis. Le 18 novembre, les opposants devront déposer leurs objections.",
+     "lead": 1
+    },
+    {
+     "h": "Ce que changerait la fusion"
+    },
+    {
+     "p": "Le fret ferroviaire américain est dominé par quelques grandes compagnies, coupées en deux camps. À l’ouest du Mississippi, Union Pacific et BNSF ; à l’est, CSX et Norfolk Southern. Un conteneur qui traverse le pays doit donc changer de compagnie en chemin, ce qui coûte du temps. Réunis, Union Pacific et Norfolk Southern formeraient un réseau de plus de 50 000 miles, soit plus de 80 000 kilomètres, dans 43 États et vers une centaine de ports. Annoncé le 29 juillet 2025, l’accord valorise Norfolk Southern à 320 dollars par action. Les deux groupes promettent 2,75 milliards de dollars de gains annuels, dont 1,75 milliard de revenus nouveaux, en grande partie des trafics à reprendre à la route."
+    },
+    {
+     "stats": [
+      [
+       "> 80 000 km",
+       "de voies du futur réseau (plus de 50 000 miles)"
+      ],
+      [
+       "43",
+       "États américains desservis"
+      ],
+      [
+       "2,75 Md$",
+       "synergies annuelles promises"
+      ],
+      [
+       "28 août 2027",
+       "date limite de décision du régulateur"
+      ]
+     ]
+    },
+    {
+     "h": "Un examen sous haute tension"
+    },
+    {
+     "p": "Le régulateur, le Surface Transportation Board, a d’abord rejeté le dossier comme incomplet en janvier 2026, avant d’accepter une version révisée en mai. C’est la première grande fusion examinée sous les règles de 2001, qui exigent qu’une telle opération renforce la concurrence, et pas seulement qu’elle la préserve. Les opposants sont nombreux : les concurrents BNSF et CPKC, le syndicat des Teamsters, les agriculteurs, six procureurs d’État et plusieurs associations de chargeurs, qui craignent des hausses de tarifs. Si le régulateur refuse ou impose des conditions inacceptables, Union Pacific devra verser 2,5 milliards de dollars à Norfolk Southern."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "CSX : un troisième trimestre record",
+      "sub": "variation sur un an, en %, 3e trimestre 2026",
+      "rows": [
+       [
+        "Bénéfice par action",
+        54
+       ],
+       [
+        "Résultat d’exploitation",
+        44
+       ],
+       [
+        "Chiffre d’affaires",
+        12
+       ],
+       [
+        "Trafic intermodal",
+        7
+       ],
+       [
+        "Volume total",
+        5
+       ]
+      ],
+      "prefix": "+",
+      "suffix": " %",
+      "note": "Source : CSX, résultats du 3e trimestre 2026, 21 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Si le régulateur [[enteriner|entérine]] l’opération, d’ici fin août 2027 au plus tard, CSX se retrouverait seul face à un géant d’un océan à l’autre, et beaucoup anticipent un rapprochement entre BNSF et CSX. Pour les chargeurs, le gain promis est [[tangible|tangible]] : moins de ruptures de charge et des délais plus courts. Le risque l’est aussi : moins de concurrents, donc moins de pouvoir de négociation sur les prix."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>CSX record</b> : 4,02 milliards de dollars de chiffre d’affaires au 3e trimestre (+ 12 %), résultat d’exploitation + 44 %.",
+      "<b>Le grand dossier</b> : Union Pacific veut racheter Norfolk Southern pour environ 85 milliards de dollars (320 dollars par action), annonce du 29 juillet 2025.",
+      "<b>Le premier transcontinental</b> : plus de 50 000 miles de voies (plus de 80 000 km), 43 États, une centaine de ports. Fin des changements de compagnie au milieu du pays.",
+      "<b>Le calendrier</b> : dossier rejeté en janvier, accepté en mai, objections attendues le 18 novembre, décision au plus tard le 28 août 2027.",
+      "<b>Les opposants</b> : BNSF, CPKC, Teamsters, agriculteurs, six procureurs d’État, chargeurs. Indemnité de rupture : 2,5 milliards."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "CSX : un troisième trimestre record",
+      "sub": "variation sur un an, en %, 3e trimestre 2026",
+      "rows": [
+       [
+        "Bénéfice par action",
+        54
+       ],
+       [
+        "Résultat d’exploitation",
+        44
+       ],
+       [
+        "Chiffre d’affaires",
+        12
+       ],
+       [
+        "Trafic intermodal",
+        7
+       ],
+       [
+        "Volume total",
+        5
+       ]
+      ],
+      "prefix": "+",
+      "suffix": " %",
+      "note": "Source : CSX, résultats du 3e trimestre 2026, 21 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’enjeu</b> : si le régulateur [[enteriner|entérine]] la fusion, CSX reste seul face à un géant, et un rapprochement BNSF-CSX devient probable.",
+      "<b>Les règles de 2001</b> : première grande fusion examinée sous ces règles, qui exigent de renforcer la concurrence, pas seulement de la préserver.",
+      "<b>Pour les chargeurs</b> : gain [[tangible|tangible]] en délais et en ruptures de charge, mais moins de concurrents, donc moins de pouvoir de négociation sur les prix."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Tesla : les marges remontent, le bénéfice fond",
+   "by": "Analyse",
+   "fig": "− 43 %",
+   "figl": "bénéfice net du 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Tesla, communiqué des livraisons du 3e trimestre 2026 (formulaire 8-K, SEC) ; Electrek, 21 octobre 2026, et Teslarati, 21 octobre 2026 (résultats financiers du 3e trimestre 2026 et consensus des analystes). Données arrêtées au 21 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Tesla a publié mercredi 21 octobre des résultats contrastés pour le troisième trimestre 2026. Le chiffre d’affaires est stable, à 28,05 milliards de dollars, et la marge brute remonte à 19,6 %. Mais le bénéfice net chute de 43 %, à 787 millions de dollars, et le résultat d’exploitation de 56 %. La raison : Tesla dépense massivement pour devenir une entreprise d’intelligence artificielle et de robotique.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "28,05 Md$",
+       "chiffre d’affaires, stable sur un an"
+      ],
+      [
+       "19,6 %",
+       "marge brute, contre 18,0 % un an plus tôt"
+      ],
+      [
+       "2,6 %",
+       "marge d’exploitation, contre 5,8 %"
+      ],
+      [
+       "1,74 M",
+       "abonnés à la conduite autonome FSD (+ 67 %)"
+      ]
+     ]
+    },
+    {
+     "h": "Des voitures plus rentables, mais pas plus nombreuses"
+    },
+    {
+     "p": "Tesla a livré 486 532 véhicules, 2,1 % de moins qu’un an plus tôt. La gamme reste dominée par deux modèles vieillissants, la Model 3 et la Model Y, qui représentent plus de 98 % des livraisons. Pourtant, chaque voiture rapporte davantage : hors crédits réglementaires, la marge brute de l’automobile passe de 15,4 % à 18,1 %. Ces crédits, que Tesla vendait aux constructeurs en retard sur les normes d’émissions, s’effondrent de 73 %, à 113 millions de dollars. L’énergie déçoit aussi : 13,7 GWh de batteries stationnaires installés, en hausse de 10 % mais sous les attentes, et des revenus en baisse de 16 %."
+    },
+    {
+     "h": "Le pari de l’autonomie"
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Tesla au 3e trimestre 2026",
+      "sub": "variation sur un an, en %",
+      "rows": [
+       [
+        "Investissements",
+        110
+       ],
+       [
+        "Services et autres",
+        33
+       ],
+       [
+        "Stockage d’énergie déployé",
+        10
+       ],
+       [
+        "Chiffre d’affaires",
+        0
+       ],
+       [
+        "Livraisons de véhicules",
+        -2.1
+       ],
+       [
+        "Revenus énergie",
+        -16
+       ],
+       [
+        "Bénéfice net",
+        -43
+       ],
+       [
+        "Résultat d’exploitation",
+        -56
+       ]
+      ],
+      "suffix": " %",
+      "note": "Investissements : 4,73 Md$ contre 2,25 Md$ un an plus tôt. Sources : Tesla, résultats et livraisons du 3e trimestre 2026, via Electrek (21 octobre 2026) et formulaire 8-K."
+     }
+    },
+    {
+     "p": "Les dépenses de recherche bondissent de 69 %, à 2,76 milliards de dollars, et les investissements doublent, à 4,73 milliards sur le trimestre. Tesla prévoit plus de 25 milliards d’investissements sur l’année. L’argent finance les centres de calcul pour entraîner l’IA, le robot humanoïde Optimus et le Cybercab, le taxi sans volant, entré dans la flotte d’Austin à la fin de l’été. Les premiers signes sont [[tangible|tangibles]] : 1,74 million d’abonnés au logiciel de conduite autonome, en hausse de 67 %, et près de 2 millions de miles parcourus sans superviseur par le service de robotaxi. Le groupe garde 45,4 milliards de dollars de trésorerie, de quoi tenir longtemps."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La valorisation de Tesla ne repose plus sur les voitures qu’il vend, mais sur celles qui rouleront seules demain. Chaque trimestre de bénéfices en baisse [[enteriner|entérine]] ce changement de modèle : les investisseurs acceptent de financer la promesse tant que la technologie progresse. Le risque est connu : si l’autonomie complète tarde encore, Tesla redeviendra un constructeur automobile ordinaire, dont la gamme vieillit, face à des concurrents chinois plus rapides à renouveler leurs modèles."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Stabilité apparente</b> : 28,05 milliards de dollars de chiffre d’affaires, marge brute à 19,6 % (contre 18,0 %).",
+      "<b>Bénéfice en chute</b> : 787 millions de dollars (− 43 %), résultat d’exploitation − 56 %, marge d’exploitation à 2,6 %.",
+      "<b>Les voitures</b> : 486 532 livraisons (− 2,1 %), mais marge automobile hors crédits à 18,1 % (contre 15,4 %). Crédits réglementaires − 73 %.",
+      "<b>Le pari de l’IA</b> : recherche + 69 %, investissements doublés à 4,73 milliards, plus de 25 milliards prévus sur l’année. Signes [[tangible|tangibles]] : 1,74 million d’abonnés FSD (+ 67 %), Cybercab à Austin."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Tesla au 3e trimestre 2026",
+      "sub": "variation sur un an, en %",
+      "rows": [
+       [
+        "Investissements",
+        110
+       ],
+       [
+        "Services et autres",
+        33
+       ],
+       [
+        "Stockage d’énergie déployé",
+        10
+       ],
+       [
+        "Chiffre d’affaires",
+        0
+       ],
+       [
+        "Livraisons de véhicules",
+        -2.1
+       ],
+       [
+        "Revenus énergie",
+        -16
+       ],
+       [
+        "Bénéfice net",
+        -43
+       ],
+       [
+        "Résultat d’exploitation",
+        -56
+       ]
+      ],
+      "suffix": " %",
+      "note": "Investissements : 4,73 Md$ contre 2,25 Md$ un an plus tôt. Sources : Tesla, résultats et livraisons du 3e trimestre 2026, via Electrek (21 octobre 2026) et formulaire 8-K."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Énergie décevante</b> : 13,7 GWh de stockage (+ 10 %, sous les attentes), revenus − 16 %. Les services progressent de 33 %.",
+      "<b>Un matelas</b> : 45,4 milliards de dollars de trésorerie, de quoi financer le pari longtemps. Le robotaxi a parcouru près de 2 millions de miles sans superviseur.",
+      "<b>Un changement de modèle</b> : chaque trimestre de profits en baisse [[enteriner|entérine]] le virage vers l’autonomie et la robotique. Si elle tarde, Tesla redevient un constructeur ordinaire, à la gamme vieillissante."
+     ]
+    }
+   ]
+  }
+ ]
+}
