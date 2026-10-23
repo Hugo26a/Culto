@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-22",
+ "latest": "2026-10-23",
  "editions": [
+  {
+   "date": "2026-10-23",
+   "label": "Vendredi 23 octobre",
+   "words": [
+    "Entériner",
+    "Tangible"
+   ],
+   "items": [
+    [
+     "lit",
+     "Une maison de poupée"
+    ],
+    [
+     "essai",
+     "Prospérité, puissance et pauvreté"
+    ],
+    [
+     "eco",
+     "Royaume-Uni : l’essence relance l’inflation, Londres prépare la hausse"
+    ],
+    [
+     "geo",
+     "Ukraine : Poutine propose un sommet à trois, sans Kiev"
+    ],
+    [
+     "log",
+     "Diesel à plus de 6 dollars : le carburant du fret flambe"
+    ],
+    [
+     "ent",
+     "Accor : l’hôtellerie sans hôtels tient malgré le Golfe"
+    ]
+   ]
+  },
   {
    "date": "2026-10-22",
    "label": "Jeudi 22 octobre",

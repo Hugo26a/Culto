@@ -1,0 +1,972 @@
+{
+ "date": "2026-10-23",
+ "label": "Vendredi 23 octobre 2026",
+ "n": 10,
+ "example": false,
+ "week": {
+  "start": "2026-10-19",
+  "label": "Semaine du 19 octobre",
+  "day": 5,
+  "words": [
+   {
+    "key": "enteriner",
+    "w": "Entériner",
+    "ph": "[ɑ̃.te.ʁi.ne] · verbe transitif",
+    "short": "Rendre officiel ce qui était décidé ou admis.",
+    "def": "Valider, ratifier, rendre définitif ce qui était déjà décidé, constaté ou admis dans les faits. Une direction entérine un choix fait par ses équipes ; un accord entérine une situation existante. Le mot suppose souvent qu’on ne fait que confirmer ce qui était acquis.",
+    "ety": "De l’ancien français enterin, « entier, complet », lui-même tiré de entier. À l’origine terme de droit : entériner un acte, c’était le rendre entier, donc pleinement valable, en le confirmant officiellement.",
+    "ex": "Le comité de direction a entériné mardi le choix du nouveau transporteur, testé depuis trois mois sur deux entrepôts.",
+    "syn": "ratifier, valider, confirmer, homologuer, consacrer"
+   },
+   {
+    "key": "tangible",
+    "w": "Tangible",
+    "ph": "[tɑ̃.ʒibl] · adjectif",
+    "short": "Concret, réel, que l’on peut constater.",
+    "def": "Au sens propre, qui peut être touché. Au sens courant, concret, réel, vérifiable : un résultat tangible se voit et se mesure, par opposition à une promesse ou à une impression. On parle de preuves, de progrès ou de bénéfices tangibles.",
+    "ety": "Du bas latin tangibilis, « qui peut être touché », de tangere, « toucher ». Même famille que tact, contact, intact et tangente.",
+    "ex": "Trois mois après la réorganisation de l’entrepôt, les gains sont tangibles : les délais de préparation ont baissé d’un quart.",
+    "syn": "concret, palpable, réel, manifeste, mesurable"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Une maison de poupée",
+   "by": "Henrik Ibsen · 1879",
+   "tagline": "La porte qui claque",
+   "min": 10,
+   "exMin": 4,
+   "src": "Henrik Ibsen, Et dukkehjem (Une maison de poupée), 1879, domaine public. Première au Théâtre royal de Copenhague le 21 décembre 1879. Citation : traduction de l’équipe Culto à partir du texte original. Contexte : affaire Laura Kieler ; fin alternative écrite en 1880 pour la scène allemande.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Nora Helmer semble mener une vie insouciante auprès de son mari Torvald, futur directeur de banque. Elle cache pourtant un secret : des années plus tôt, elle a emprunté en imitant la signature de son père pour sauver la vie de son mari. Quand ce secret éclate, la réaction de Torvald lui ouvre les yeux, et elle quitte le foyer en claquant la porte."
+      ],
+      [
+       "Un mariage de façade",
+       "Torvald appelle sa femme « mon alouette », « mon écureuil » ; il la gronde pour quelques macarons. Derrière cette tendresse, il la traite comme une enfant. Ibsen montre un couple où l’un décide et l’autre amuse, sans que personne ne s’en rende compte."
+      ],
+      [
+       "L’honneur contre la vérité",
+       "Le drame repose sur un faux en écriture commis par amour. Pour Torvald, la faute compte moins que le qu’en-dira-t-on. Sa première pensée n’est pas pour Nora, mais pour sa réputation. C’est cette révélation, plus que le chantage, qui brise le mariage."
+      ],
+      [
+       "Devenir un être humain",
+       "Nora découvre qu’elle a été la poupée de son père, puis celle de son mari. Elle part non pour rejoindre quelqu’un, mais pour apprendre à penser par elle-même. Le départ est un commencement, pas une victoire."
+      ],
+      [
+       "Une pièce sans dénouement heureux",
+       "Ibsen refuse la réconciliation finale attendue par le public de son temps. Il laisse le spectateur face à une question ouverte : un vrai mariage entre égaux est-il possible ?"
+      ],
+      [
+       "Le bruit qui a traversé l’Europe",
+       "La porte qui claque à la fin est devenue l’un des sons les plus célèbres du théâtre. La pièce a fait scandale, a été jouée dans toute l’Europe et reste l’une des plus montées au monde."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le soir de Noël"
+    },
+    {
+     "p": "Dans un appartement confortable de Norvège, la veille de Noël, Nora rentre les bras chargés de cadeaux. Son mari, l’avocat Torvald Helmer, vient d’être nommé directeur d’une banque. Pour la première fois, le couple ne comptera plus chaque couronne. Torvald taquine sa femme, qu’il trouve dépensière et étourdie, et lui défend de manger des sucreries. Elle en grignote en cachette. Une ancienne amie de pension, Kristine Linde, arrive en ville. Veuve, sans enfant ni argent, elle cherche un emploi. Nora lui confie alors un secret dont elle est fière : quelques années plus tôt, Torvald était gravement malade et les médecins exigeaient un séjour dans le Sud. Nora a emprunté en cachette la somme nécessaire pour une année en Italie, et elle la rembourse depuis, sou par sou, en économisant sur ses toilettes et en faisant des copies le soir.",
+     "lead": 1
+    },
+    {
+     "h5": "Le créancier"
+    },
+    {
+     "p": "Le prêteur s’appelle Nils Krogstad. C’est un employé de la banque de Torvald, à la réputation abîmée par une ancienne affaire de faux. Torvald veut le renvoyer et donner sa place à Mme Linde. Krogstad vient trouver Nora et lui révèle qu’il sait tout. Pour obtenir le prêt, il fallait la signature d’un garant ; Nora a signé à la place de son père mourant. Or la signature est datée de trois jours après la mort du vieil homme. C’est un faux, punissable par la loi. Krogstad pose ses conditions : s’il perd son poste, il dira tout à Torvald. Nora ne voit pas où est le crime : elle a voulu épargner un père mourant et sauver un mari."
+    },
+    {
+     "h5": "Le compte à rebours"
+    },
+    {
+     "p": "Nora supplie Torvald de garder Krogstad. Il refuse, d’autant plus vexé que cet ancien camarade le tutoie devant les autres. Il envoie sur-le-champ la lettre de renvoi. Krogstad dépose alors dans la boîte aux lettres fermée à clé du couple une lettre qui révèle tout. Nora pense un instant demander de l’argent au docteur Rank, un ami de la maison, atteint d’une maladie mortelle héritée des excès de son père. Mais Rank lui avoue son amour, et elle renonce. Pour empêcher Torvald d’ouvrir sa boîte, elle répète devant lui, de façon presque hystérique, la tarentelle qu’elle doit danser au bal costumé du lendemain. Elle attend désormais ce qu’elle appelle « le prodige » : la conviction que Torvald prendra toute la faute sur lui pour la protéger."
+    },
+    {
+     "h5": "La lettre"
+    },
+    {
+     "p": "Pendant le bal, Mme Linde retrouve Krogstad, qu’elle a aimé autrefois et quitté pour un mari plus riche. Elle lui propose de reconstruire leur vie ensemble. Transformé, Krogstad offre de reprendre sa lettre. Mme Linde l’en dissuade : elle veut que la vérité éclate entre les époux. De retour à la maison, Rank laisse dans la boîte deux cartes de visite barrées d’une croix noire, pour annoncer sa mort prochaine. Torvald lit enfin la lettre de Krogstad. Il explose. Il traite Nora d’hypocrite et de menteuse, lui annonce qu’elle n’élèvera plus leurs enfants et qu’ils sauveront seulement les apparences. Pas un mot pour la protéger. Arrive alors une seconde lettre : Krogstad renvoie la reconnaissance de dette. Torvald s’écrie qu’il est sauvé, et pardonne aussitôt à sa femme avec générosité."
+    },
+    {
+     "h5": "Les comptes"
+    },
+    {
+     "p": "Nora quitte son costume de bal, s’habille pour sortir et invite Torvald à s’asseoir. Après huit ans de mariage, dit-elle, c’est leur première conversation sérieuse. Elle a vécu comme une poupée chez son père, puis chez son mari. Le prodige n’a pas eu lieu : elle a vu l’homme qu’elle avait épousé. Elle doit maintenant s’éduquer seule, comprendre la société, la loi, la religion. Torvald invoque ses devoirs d’épouse et de mère. Nora répond qu’elle a d’abord des devoirs envers elle-même. Elle rend son alliance, laisse les trois enfants à leur nourrice et sort. Le rideau tombe sur le bruit de la porte d’entrée."
+    },
+    {
+     "quote": "Je crois qu’avant tout je suis un être humain, tout comme toi, ou du moins que je dois essayer d’en devenir un.",
+     "cite": "Nora, acte III (traduction Culto)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un fait divers norvégien"
+    },
+    {
+     "p": "Installé hors de Norvège depuis quinze ans, Ibsen écrit la pièce en 1879, en grande partie en Italie. Il s’inspire d’une jeune romancière qu’il connaît, Laura Kieler. Pour soigner son mari, elle avait emprunté en secret puis tenté un faux. Découverte, elle fut traitée par son époux comme une criminelle et brièvement internée. Ibsen transforme ce drame privé en question publique : que vaut un mariage où la femme n’a ni droits sur l’argent ni droit à la parole ? Comme le rappelle la pièce elle-même, une femme mariée ne pouvait pas emprunter sans l’accord de son mari. C’est le ressort [[tangible|tangible]] de toute l’intrigue."
+    },
+    {
+     "h5": "Un succès de scandale"
+    },
+    {
+     "p": "La pièce paraît à Copenhague le 4 décembre 1879 et y est créée le 21 décembre au Théâtre royal. Le texte se vend vite et la fin divise. Dans les salons, on se dispute pour savoir si Nora a raison de partir, au point, raconte-t-on, que certaines invitations précisent qu’on n’en parlera pas. En Allemagne, l’actrice principale refuse de jouer une mère qui abandonne ses enfants. Pour éviter qu’un autre ne le fasse à sa place, Ibsen écrit à contrecœur une seconde fin : Nora voit ses enfants endormis et reste. Il qualifiera lui-même cette version d’outrage barbare. C’est la version originale que la postérité [[enteriner|entérinera]]."
+    },
+    {
+     "h5": "La mécanique du drame"
+    },
+    {
+     "p": "Ibsen emprunte la construction de la « pièce bien faite », très populaire à son époque : un secret, un chantage, une lettre compromettante, un suspense qui monte jusqu’à la découverte. Tout est réglé comme une horloge, en trois actes et trois jours. Mais au moment où le public attend le dénouement, Ibsen change de genre. Les personnages s’assoient et discutent. L’action cède la place à l’examen d’un mariage. Les historiens du théâtre y voient l’une des naissances du théâtre moderne, où le débat d’idées remplace le coup de théâtre."
+    },
+    {
+     "h5": "Les symboles du quotidien"
+    },
+    {
+     "p": "Le décor dit tout. Le sapin de Noël, d’abord paré, se retrouve dépouillé et ses bougies consumées au deuxième acte, comme Nora. La boîte aux lettres dont seul Torvald a la clé figure le contrôle du mari sur la vie du couple. Les macarons interdits sont la seule liberté de Nora. La tarentelle, danse censée guérir d’une morsure d’araignée, devient une danse de désespoir. Le costume de bal enlevé à la fin marque la fin d’un rôle."
+    },
+    {
+     "h5": "Féministe malgré elle ?"
+    },
+    {
+     "p": "En 1898, devant une association norvégienne pour les droits des femmes, Ibsen affirme qu’il n’a pas cherché à servir une cause. Il voulait, dit-il, décrire l’être humain. La pièce dépasse en effet la question des femmes : elle parle de quiconque a vécu dans le rôle qu’on attendait de lui. Elle est pourtant devenue un emblème du féminisme, jouée et discutée sur tous les continents."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "La pièce se lit en deux heures et n’a rien perdu de sa force. Elle pose une question qui dépasse le couple : que vaut une relation, personnelle ou professionnelle, quand l’un des deux porte seul le risque et n’est jamais consulté ? Elle rappelle aussi qu’une crise révèle les gens. Ce n’est pas la faute de Nora qui détruit le mariage, c’est la réaction de Torvald, qui montre que son amour n’avait rien de [[tangible|tangible]] dès que sa réputation était en jeu."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Nora Helmer paraît insouciante auprès de son mari Torvald, nouveau directeur de banque. Elle cache un secret : pour sauver la vie de Torvald, elle a emprunté en imitant la signature de son père. Quand le secret éclate, la réaction de son mari lui ouvre les yeux. Elle part en claquant la porte.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un mariage de façade</b> : « mon alouette », « mon écureuil ». Torvald traite sa femme comme une enfant.",
+      "<b>L’honneur contre la vérité</b> : face au faux commis par amour, Torvald pense d’abord à sa réputation, pas à Nora.",
+      "<b>Devenir un être humain</b> : poupée de son père, puis de son mari, Nora part pour apprendre à penser seule.",
+      "<b>Pas de fin heureuse</b> : Ibsen refuse la réconciliation attendue et laisse la question ouverte.",
+      "<b>La porte qui claque</b> : l’un des sons les plus célèbres du théâtre. La pièce reste l’une des plus jouées au monde."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le soir de Noël</b> : Torvald vient d’être nommé directeur de banque. Nora confie à son amie Kristine Linde qu’elle a emprunté en secret pour une année en Italie qui a sauvé son mari, et qu’elle rembourse depuis.",
+      "<b>Le créancier</b> : Krogstad, employé que Torvald veut renvoyer, sait que Nora a signé à la place de son père, trois jours après sa mort. Il menace de tout dire.",
+      "<b>Le compte à rebours</b> : Torvald renvoie Krogstad, qui dépose une lettre accusatrice dans la boîte fermée à clé. Le docteur Rank, mourant, avoue son amour à Nora. Elle danse la tarentelle pour gagner du temps et espère un « prodige » : que Torvald prenne la faute sur lui.",
+      "<b>La lettre</b> : Mme Linde et Krogstad se retrouvent. Torvald lit la lettre, insulte Nora, puis lui pardonne dès que Krogstad renvoie la reconnaissance de dette.",
+      "<b>Les comptes</b> : après huit ans de mariage, première conversation sérieuse. Nora rend son alliance, laisse ses trois enfants et sort."
+     ]
+    },
+    {
+     "quote": "Je crois qu’avant tout je suis un être humain, tout comme toi, ou du moins que je dois essayer d’en devenir un.",
+     "cite": "Nora, acte III (traduction Culto)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>La source</b> : l’affaire de Laura Kieler, qui avait emprunté en secret pour soigner son mari et fut internée après la découverte. Une femme mariée ne pouvait alors pas emprunter seule : le ressort [[tangible|tangible]] du drame.",
+      "<b>Le scandale</b> : publiée le 4 décembre 1879, créée le 21 décembre à Copenhague. En Allemagne, Ibsen doit écrire une fin où Nora reste, qu’il juge lui-même barbare. La postérité [[enteriner|entérinera]] la fin originale.",
+      "<b>La construction</b> : secret, chantage, lettre, suspense en trois actes et trois jours, puis une discussion à la place du dénouement. L’une des naissances du théâtre moderne.",
+      "<b>Les symboles</b> : le sapin dépouillé, la boîte aux lettres dont Torvald a la clé, les macarons interdits, la tarentelle, le costume enlevé.",
+      "<b>Féministe ?</b> En 1898, Ibsen dit avoir voulu décrire l’être humain, pas servir une cause. La pièce est pourtant devenue un emblème.",
+      "<b>Aujourd’hui</b> : une crise révèle les gens. Ce n’est pas la faute de Nora qui brise le couple, c’est la réaction de Torvald."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Prospérité, puissance et pauvreté",
+   "by": "Daron Acemoglu et James A. Robinson · 2012",
+   "min": 9,
+   "exMin": 3,
+   "src": "Daron Acemoglu et James A. Robinson, Why Nations Fail (Crown, 2012) ; trad. fr. Prospérité, puissance et pauvreté (Markus Haller, 2015). Corée : Banque de Corée, estimations du revenu nord-coréen 2025 (Korea Times, 31 juillet 2026). Prix Nobel d’économie 2024 (Acemoglu, Johnson, Robinson). Critique de Jared Diamond, New York Review of Books, 7 juin 2012.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Pourquoi certains pays sont-ils riches et d’autres pauvres ? Ni le climat, ni la culture, ni l’ignorance des dirigeants, répondent un économiste du MIT et un politologue de Harvard. Ce sont les institutions, c’est-à-dire les règles du jeu politique et économique. Le livre a valu à ses auteurs, avec Simon Johnson, le prix Nobel d’économie 2024."
+      ],
+      [
+       "Inclusives contre extractives",
+       "Des institutions inclusives protègent la propriété, garantissent des contrats fiables et ouvrent l’économie au plus grand nombre. Des institutions extractives servent à transférer la richesse vers une petite élite. Les premières encouragent l’effort et l’innovation ; les secondes les découragent."
+      ],
+      [
+       "La politique commande l’économie",
+       "Une élite qui détient le pouvoir n’a aucun intérêt à le partager. Les bonnes règles économiques ne durent donc que si le pouvoir politique est lui-même réparti. Les pays pauvres ne le sont pas par erreur, mais parce que cela profite à ceux qui les gouvernent."
+      ],
+      [
+       "La peur de la destruction créatrice",
+       "Toute innovation fait des perdants. Les élites qui craignent de perdre leur rente bloquent les nouvelles technologies : les auteurs citent les tsars et les Habsbourg, méfiants envers le chemin de fer. C’est pourquoi la croissance sous un régime extractif finit par s’essouffler."
+      ],
+      [
+       "Une expérience naturelle : les deux Corées",
+       "Même peuple, même histoire jusqu’en 1945, même géographie. Soixante-dix ans de régimes opposés plus tard, le revenu par habitant du Sud est environ 28 fois celui du Nord, selon la Banque de Corée."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Une ville coupée en deux"
+    },
+    {
+     "p": "Le livre s’ouvre sur Nogales, une ville traversée par la frontière entre l’Arizona et le Mexique. Même climat, mêmes origines, même cuisine. Pourtant, côté américain, les habitants sont plus riches, vivent plus longtemps, vont plus longtemps à l’école et choisissent leurs dirigeants dans des élections fiables. Côté mexicain, la corruption, la criminalité et la précarité sont bien plus fortes. Pour Daron Acemoglu, économiste au MIT, et James Robinson, politologue à Harvard puis à Chicago, une seule chose diffère : les règles sous lesquelles vivent les deux moitiés de la ville. Le livre, de plus de 500 pages, est la synthèse grand public de quinze ans de recherches communes. Il traverse l’histoire du Néolithique à nos jours, des Mayas à l’Ouzbékistan, avec une ambition rare : expliquer par un seul mécanisme l’écart de richesse entre les nations, qui va aujourd’hui de un à plusieurs dizaines.",
+     "lead": 1
+    },
+    {
+     "h5": "Trois explications écartées"
+    },
+    {
+     "p": "Les auteurs commencent par démonter les thèses rivales. La géographie ? Le Botswana, enclavé et aride, a été l’une des économies les plus dynamiques du monde après son indépendance, tandis que des régions fertiles stagnent. La culture ? Les deux Corées partagent la même. L’ignorance des dirigeants, qui appliqueraient de mauvaises politiques faute de mieux ? Pour les auteurs, la plupart savent très bien ce qu’ils font : les politiques qui appauvrissent le pays enrichissent souvent ceux qui les décident."
+    },
+    {
+     "h5": "Le cœur de la thèse"
+    },
+    {
+     "p": "Tout repose sur une opposition. Les institutions économiques inclusives protègent la propriété privée, font respecter les contrats, offrent un système juridique impartial et laissent chacun entrer sur les marchés. Elles s’appuient sur des institutions politiques inclusives : un pouvoir réparti, soumis à des contre-pouvoirs, et un État assez centralisé pour faire respecter l’ordre. À l’inverse, les institutions extractives organisent la confiscation : travail forcé, monopoles accordés aux proches, impôts arbitraires. Les deux ensembles se renforcent mutuellement, ce qui crée des cercles vertueux ou vicieux très durables. Un point est souvent oublié : l’absence d’État est aussi néfaste que la tyrannie. Sans un pouvoir central capable de faire respecter les règles, aucun marché ne fonctionne."
+    },
+    {
+     "stats": [
+      [
+       "≈ 28 fois",
+       "revenu par habitant du Sud par rapport au Nord, Corée, 2025"
+      ],
+      [
+       "1688",
+       "Glorieuse Révolution, point de départ du modèle britannique"
+      ],
+      [
+       "1297",
+       "fermeture du Grand Conseil de Venise, début du déclin"
+      ],
+      [
+       "2024",
+       "prix Nobel d’économie pour les deux auteurs et Simon Johnson"
+      ]
+     ]
+    },
+    {
+     "h5": "Les moments charnières"
+    },
+    {
+     "p": "Pourquoi certains pays prennent-ils le bon chemin ? Les auteurs parlent de « moments critiques », des chocs qui bouleversent l’équilibre des pouvoirs. La peste noire du XIVe siècle tue une grande partie de la population européenne. À l’Ouest, la main-d’œuvre devenue rare obtient de meilleures conditions et le servage recule ; à l’Est, les seigneurs le durcissent. De petites différences de départ deviennent de grands écarts. En Angleterre, la Glorieuse Révolution de 1688 [[enteriner|entérine]] la suprématie du Parlement sur le roi. Le pouvoir se partage entre marchands, propriétaires et industriels, les droits de propriété deviennent sûrs, et la révolution industrielle peut naître un siècle plus tard."
+    },
+    {
+     "h5": "Les contre-exemples"
+    },
+    {
+     "p": "Le livre multiplie les récits de déclin. Venise, république marchande prospère, ferme son Grand Conseil aux nouvelles familles en 1297, puis réserve le commerce lointain aux nobles : la ville devient un musée. L’Empire ottoman freine l’imprimerie pendant des siècles. En Afrique, la traite négrière puis la colonisation installent des systèmes de prédation que les régimes indépendants reprennent souvent à leur compte, comme en Sierra Leone. Le Botswana est l’exception : ses chefs traditionnels, habitués à consulter les assemblées de village, mettent en place après 1966 un État de droit qui a su gérer la rente du diamant."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Deux Corées, un même peuple",
+      "sub": "revenu national brut par habitant, millions de wons, 2025",
+      "rows": [
+       [
+        "Corée du Sud",
+        52.57
+       ],
+       [
+        "Corée du Nord",
+        1.87
+       ]
+      ],
+      "suffix": " M",
+      "note": "Le Nord atteint environ 3,6 % du niveau du Sud. Source : Banque de Corée, estimations publiées le 31 juillet 2026."
+     }
+    },
+    {
+     "h5": "La croissance sans liberté peut-elle durer ?"
+    },
+    {
+     "p": "Les auteurs reconnaissent qu’un régime extractif peut connaître une forte croissance, à condition de déplacer des ressources vers des secteurs plus productifs. L’Union soviétique l’a fait des années 1930 aux années 1960, avant de stagner faute d’innovation. Ils en tirent une prédiction pour la Chine : sans ouverture politique, sa croissance finira par ralentir, car un pouvoir qui peut tout confisquer décourage la prise de risque. C’est l’affirmation la plus discutée du livre, et la Chine des années 2020, ralentie mais devenue une puissance technologique, lui donne à la fois tort et raison."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le géographe Jared Diamond a reproché aux auteurs de balayer trop vite le rôle des maladies tropicales, de la qualité des sols et de l’ancienneté de l’agriculture. D’autres critiques visent le caractère circulaire de la thèse : un pays riche aurait par définition des institutions inclusives. Les auteurs expliquent bien après coup pourquoi un pays a réussi, mais leur théorie aide peu à prévoir quand un moment critique tournera bien. Enfin, le livre aligne des récits historiques plus que des démonstrations chiffrées, même si ses conclusions s’appuient sur des travaux statistiques publiés ailleurs."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Traduit dans des dizaines de langues, le livre a imposé l’idée que la qualité des institutions est la condition de la prospérité, au point de devenir une référence pour les organisations internationales. En 2024, le comité Nobel a récompensé ses auteurs pour leurs travaux sur la formation des institutions et leur effet sur la prospérité. Pour un lecteur pressé, la leçon est [[tangible|tangible]] : quand on se demande si une économie, une région ou même une entreprise va prospérer, il faut regarder qui a le pouvoir de changer les règles, et dans l’intérêt de qui."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Pourquoi certains pays sont-ils riches et d’autres pauvres ? Ni le climat, ni la culture, ni l’ignorance des dirigeants : ce sont les institutions, les règles du jeu politique et économique. Le livre a valu à ses deux auteurs, avec Simon Johnson, le prix Nobel d’économie 2024.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Nogales</b> : une ville coupée par la frontière. Côté Arizona, plus riche, plus sûr, plus démocratique. Seule différence : les règles.",
+      "<b>Inclusives ou extractives</b> : les premières protègent la propriété et ouvrent les marchés ; les secondes transfèrent la richesse à une élite.",
+      "<b>La politique commande</b> : une élite ne partage pas le pouvoir de son plein gré. La pauvreté profite souvent à ceux qui gouvernent.",
+      "<b>Destruction créatrice</b> : toute innovation fait des perdants, que les élites cherchent à bloquer, comme les tsars face au chemin de fer.",
+      "<b>Deux Corées</b> : même peuple, même culture, même géographie jusqu’en 1945. En 2025, le revenu par habitant du Sud vaut environ 28 fois celui du Nord.",
+      "<b>Moments critiques</b> : la peste noire affaiblit le servage à l’Ouest et le durcit à l’Est. La Glorieuse Révolution de 1688 [[enteriner|entérine]] le pouvoir du Parlement anglais."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "≈ 28 fois",
+       "revenu par habitant du Sud par rapport au Nord, Corée, 2025"
+      ],
+      [
+       "1688",
+       "Glorieuse Révolution, point de départ du modèle britannique"
+      ],
+      [
+       "1297",
+       "fermeture du Grand Conseil de Venise, début du déclin"
+      ],
+      [
+       "2024",
+       "prix Nobel d’économie pour les deux auteurs et Simon Johnson"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Deux Corées, un même peuple",
+      "sub": "revenu national brut par habitant, millions de wons, 2025",
+      "rows": [
+       [
+        "Corée du Sud",
+        52.57
+       ],
+       [
+        "Corée du Nord",
+        1.87
+       ]
+      ],
+      "suffix": " M",
+      "note": "Le Nord atteint environ 3,6 % du niveau du Sud. Source : Banque de Corée, estimations publiées le 31 juillet 2026."
+     }
+    },
+    {
+     "h": "Débats"
+    },
+    {
+     "ul": [
+      "<b>Contre-exemples</b> : Venise se ferme et décline ; le Botswana, aride et enclavé, prospère grâce à un État de droit qui gère la rente du diamant.",
+      "<b>Postérité</b> : prix Nobel 2024 pour les travaux sur la formation des institutions et leurs effets sur la prospérité.",
+      "<b>La Chine</b> : une croissance sans liberté finirait par ralentir, comme celle de l’URSS. La prédiction la plus discutée.",
+      "<b>Critiques</b> : Jared Diamond juge sous-estimés la géographie et les maladies ; d’autres dénoncent une thèse circulaire, utile après coup, peu prédictive.",
+      "<b>La leçon</b> : [[tangible|tangible]] pour un pays comme pour une entreprise : regarder qui peut changer les règles, et dans l’intérêt de qui."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Royaume-Uni : l’essence relance l’inflation, Londres prépare la hausse",
+   "by": "Analyse",
+   "fig": "3,5 %",
+   "figl": "inflation britannique en septembre",
+   "min": 3,
+   "exMin": 2,
+   "src": "ONS, Consumer price inflation UK: September 2026 (publié le 21 octobre 2026) ; Banque d’Angleterre, Monetary Policy Summary du 17 septembre 2026 (vote 6-3, projections, salaires, chômage, Brent) ; MoneyWeek, 21 octobre 2026 (budget du 28 octobre, prévisions de Schroders) ; Reuters cité par Babypips (probabilité de hausse supérieure à 90 %). Données arrêtées au 22 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "L’inflation britannique est montée à 3,5 % sur un an en septembre, contre 3,1 % en août, selon l’Office national de statistiques publié le 21 octobre. C’est son plus haut niveau depuis octobre 2025. Le carburant en est la cause principale : le diesel a atteint 192,5 pence le litre, un sommet depuis juillet 2022. La Banque d’Angleterre, qui maintient son taux à 3,75 %, devrait le relever le 5 novembre.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "3,5 %",
+       "inflation sur un an en septembre (3,1 % en août)"
+      ],
+      [
+       "+ 29,8 %",
+       "prix des carburants sur un an"
+      ],
+      [
+       "3,75 %",
+       "taux directeur de la Banque d’Angleterre"
+      ],
+      [
+       "6 contre 3",
+       "vote de septembre : trois membres voulaient déjà monter"
+      ]
+     ]
+    },
+    {
+     "h": "Un choc venu de la pompe"
+    },
+    {
+     "p": "Le détail des chiffres est clair. Les transports, dont l’inflation passe de 4,6 % à 6,6 %, expliquent l’essentiel de la hausse. Le prix des carburants a bondi de près de 30 % en un an, sous l’effet du conflit dans le Golfe et des attaques contre les raffineries russes. L’énergie domestique suit : le plafond des factures fixé par le régulateur Ofgem a augmenté de 4 % au 1er octobre, et une hausse plus forte est attendue en janvier. La Banque d’Angleterre estime qu’environ 0,7 point de l’écart à sa cible de 2 % vient directement de l’énergie. Le choc est [[tangible|tangible]] pour les ménages : il touche les dépenses qu’on ne peut pas reporter."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Inflation au Royaume-Uni",
+      "sub": "indice CPI, sur un an, en %",
+      "labels": [
+       "Août 26",
+       "Sept. 26",
+       "T4 26 (prév.)",
+       "T1 27 (prév.)"
+      ],
+      "series": [
+       {
+        "name": "Inflation",
+        "values": [
+         3.1,
+         3.5,
+         3.75,
+         4.0
+        ]
+       }
+      ],
+      "note": "Prévisions de la Banque d’Angleterre (septembre) : environ 3¾ % au T4 2026, un peu plus de 4 % au T1 2027. Source : ONS, 21 octobre 2026 ; Banque d’Angleterre, 17 septembre 2026."
+     }
+    },
+    {
+     "h": "Le piège de l’inflation importée"
+    },
+    {
+     "p": "Une banque centrale ne peut rien contre le prix du baril. Elle craint en revanche les effets de second tour : que les entreprises augmentent leurs prix et les salariés leurs revendications pour suivre le carburant. Or l’inflation sous-jacente, hors énergie et alimentation, remonte aussi, à 2,8 %. Les salaires, eux, ralentissent, avec une hausse de 2,9 % dans le privé, et le chômage atteint 4,9 % sur les trois mois à juillet. Monter les taux freinera une économie déjà fragile ; ne rien faire risque d’ancrer l’inflation. En septembre, trois des neuf membres du comité votaient déjà pour une hausse. Les marchés jugent à plus de 90 % probable que la Banque [[enteriner|entérine]] ce choix le 5 novembre, pour porter le taux à 4 %."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le Royaume-Uni illustre le dilemme de toutes les banques centrales importatrices d’énergie : combattre une inflation qui ne vient pas de chez soi. Le budget du nouveau chancelier John Healey, présenté le 28 octobre, sera le prochain test : toute aide aux ménages contre la vie chère pourrait nourrir la demande au moment où la Banque cherche à la freiner. La Banque prévoit une inflation un peu au-dessus de 4 % au début de 2027."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>3,5 %</b> d’inflation sur un an en septembre, contre 3,1 % en août (ONS, 21 octobre).",
+      "<b>La cause</b> : les carburants, + 29,8 % sur un an. Diesel à 192,5 pence le litre, plus haut depuis juillet 2022. Un choc [[tangible|tangible]] pour les ménages.",
+      "<b>L’énergie</b> explique environ 0,7 point de l’écart à la cible de 2 %. Plafond Ofgem + 4 % au 1er octobre.",
+      "<b>Second tour</b> : la Banque craint que prix et salaires s’alignent sur le carburant. L’inflation sous-jacente remonte à 2,8 %, alors que les salaires privés ralentissent (+ 2,9 %) et que le chômage atteint 4,9 %."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Inflation au Royaume-Uni",
+      "sub": "indice CPI, sur un an, en %",
+      "labels": [
+       "Août 26",
+       "Sept. 26",
+       "T4 26 (prév.)",
+       "T1 27 (prév.)"
+      ],
+      "series": [
+       {
+        "name": "Inflation",
+        "values": [
+         3.1,
+         3.5,
+         3.75,
+         4.0
+        ]
+       }
+      ],
+      "note": "Prévisions de la Banque d’Angleterre (septembre) : environ 3¾ % au T4 2026, un peu plus de 4 % au T1 2027. Source : ONS, 21 octobre 2026 ; Banque d’Angleterre, 17 septembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Taux à 3,75 %</b> : vote à 6 contre 3 en septembre, trois membres voulaient déjà monter.",
+      "<b>5 novembre</b> : les marchés jugent à plus de 90 % probable que la Banque [[enteriner|entérine]] une hausse à 4 %.",
+      "<b>Budget du 28 octobre</b> : le chancelier John Healey doit aider les ménages sans relancer l’inflation.",
+      "<b>Le dilemme</b> : combattre une inflation importée en freinant une économie déjà fragile. La Banque prévoit un peu plus de 4 % d’inflation au début de 2027."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Ukraine : Poutine propose un sommet à trois, sans Kiev",
+   "by": "Analyse",
+   "fig": "18-19 nov.",
+   "figl": "sommet APEC de Shenzhen visé par Moscou",
+   "min": 3,
+   "exMin": 2,
+   "src": "Wall Street Journal, 18 octobre 2026, repris par Reuters (TimesLIVE, 19 octobre) ; Council on Foreign Relations, « Trump’s Russian Diesel Deal, Explained » (volumes, licence jusqu’en avril 2027, décret du 16 octobre, sanctions européennes du 12 octobre) ; Al Jazeera, 20 octobre 2026 (pourparlers d’Oslo) ; Open Chronicle, 21 octobre 2026. Données arrêtées au 22 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Vladimir Poutine propose de régler la guerre en Ukraine lors d’un sommet avec Donald Trump et Xi Jinping, sans Volodymyr Zelensky. Selon le Wall Street Journal du 18 octobre, il en a parlé à Trump au téléphone le 9 octobre, et le Kremlin suggère de se retrouver en marge du sommet de l’APEC, les 18 et 19 novembre à Shenzhen. Le porte-parole du Kremlin, Dmitri Peskov, confirme des discussions, mais sans idée claire de l’agenda. Selon un haut responsable américain cité par le journal, Trump n’a pas dit oui, mais ne ferme pas la porte.",
+     "lead": 1
+    },
+    {
+     "h": "Un mois de gestes envers Moscou"
+    },
+    {
+     "p": "La proposition arrive après une série de concessions américaines. Le 9 octobre, Trump annonce un accord d’achat de diesel russe pour faire baisser le prix du diesel, en hausse de près de 80 % aux États-Unis depuis janvier avec la guerre contre l’Iran. Le Trésor suspend ses sanctions sur ces livraisons jusqu’en avril 2027. Le 16 octobre, un décret exempte la Russie des nouvelles sanctions et des droits de douane prévus par la loi Graham, deux jours avant leur entrée en vigueur. Kiev aurait même été pressé de suspendre ses frappes sur les raffineries russes. Zelensky parle d’une récompense offerte à Poutine."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le diesel russe promis par l’accord",
+      "sub": "en tonnes, selon l’annonce du 9 octobre",
+      "rows": [
+       [
+        "Livraison immédiate",
+        300000
+       ],
+       [
+        "Novembre",
+        500000
+       ],
+       [
+        "Ensuite",
+        1000000
+       ],
+       [
+        "Plus tard, selon les raffineries",
+        3000000
+       ]
+      ],
+      "suffix": " t",
+      "note": "Volumes annoncés, non encore livrés. Source : Council on Foreign Relations, « Trump’s Russian Diesel Deal, Explained », octobre 2026."
+     }
+    },
+    {
+     "h": "Pourquoi associer Pékin"
+    },
+    {
+     "p": "Pour Moscou, l’idée est habile. Un tête-à-tête entre grandes puissances placerait Kiev et les Européens devant le fait accompli. La présence de Xi, premier client du pétrole russe, donnerait à la Chine un rôle de garant et à la Russie un allié à la table. Trump y trouverait une victoire diplomatique et, peut-être, un carburant moins cher. Le risque pour l’Ukraine est qu’un tel sommet [[enteriner|entérine]] les gains territoriaux russes sans garanties de sécurité [[tangible|tangibles]]. À Tokyo et à Taipei, on s’inquiète aussi d’un marchandage entre Washington et Pékin qui déborderait sur l’Asie."
+    },
+    {
+     "stats": [
+      [
+       "9 oct.",
+       "appel Trump-Poutine et annonce de l’accord sur le diesel"
+      ],
+      [
+       "16 oct.",
+       "décret suspendant les sanctions de la loi Graham"
+      ],
+      [
+       "≈ 1 600",
+       "nouvelles inscriptions dans le paquet de sanctions de l’UE du 12 octobre"
+      ]
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Deux diplomaties avancent en parallèle. À Oslo, le 20 octobre, Zelensky a rencontré l’émissaire américain Steve Witkoff et des dirigeants européens, avant que Witkoff ne parte voir Poutine. L’Europe, elle, durcit le ton : son plus gros paquet de sanctions a été adopté le 12 octobre. Côté américain, le calendrier compte : les élections de mi-mandat ont lieu le 3 novembre, et la baisse du prix de l’essence est devenue une priorité de la Maison-Blanche. La question des prochaines semaines est simple : la paix se négociera-t-elle avec l’Ukraine, ou au-dessus d’elle ?"
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>La proposition</b> : selon le WSJ, Poutine veut un sommet avec Trump et Xi sur l’Ukraine, sans Zelensky, en marge de l’APEC à Shenzhen les 18 et 19 novembre.",
+      "<b>Les réactions</b> : le Kremlin confirme des discussions sans agenda ; Washington n’a pas accepté mais reste ouvert.",
+      "<b>Les gestes américains</b> : accord sur le diesel russe le 9 octobre, sanctions suspendues jusqu’en avril 2027, exemption de la loi Graham le 16 octobre.",
+      "<b>Le risque</b> : un sommet qui [[enteriner|entérine]] les gains russes sans garanties [[tangible|tangibles]] pour Kiev."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le diesel russe promis par l’accord",
+      "sub": "en tonnes, selon l’annonce du 9 octobre",
+      "rows": [
+       [
+        "Livraison immédiate",
+        300000
+       ],
+       [
+        "Novembre",
+        500000
+       ],
+       [
+        "Ensuite",
+        1000000
+       ],
+       [
+        "Plus tard, selon les raffineries",
+        3000000
+       ]
+      ],
+      "suffix": " t",
+      "note": "Volumes annoncés, non encore livrés. Source : Council on Foreign Relations, « Trump’s Russian Diesel Deal, Explained », octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Pékin à la table</b> : premier client du pétrole russe, la Chine deviendrait garante et Moscou aurait un allié face à Kiev et aux Européens. Tokyo et Taipei craignent un marchandage plus large.",
+      "<b>Calendrier</b> : élections de mi-mandat le 3 novembre ; la Maison-Blanche veut faire baisser le prix du carburant.",
+      "<b>Oslo</b> : Zelensky a vu l’émissaire Steve Witkoff le 20 octobre, avant le départ de celui-ci pour Moscou.",
+      "<b>L’Europe durcit</b> : paquet de sanctions record le 12 octobre, près de 1 600 nouvelles inscriptions.",
+      "<b>La question</b> : la paix se fera-t-elle avec l’Ukraine ou au-dessus d’elle ?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Diesel à plus de 6 dollars : le carburant du fret flambe",
+   "by": "Analyse",
+   "fig": "6,28 $",
+   "figl": "le gallon de diesel aux États-Unis",
+   "min": 3,
+   "exMin": 2,
+   "src": "EIA, prix hebdomadaires du diesel routier (via weeklydiesel.com et IndexBox, relevé du 19 octobre 2026) ; Shale Magazine, 10 septembre 2026 (ancien record de juin 2022, marge de raffinage, taux d’utilisation) ; Discovery Alert, 21 octobre 2026 (déficit mondial selon Kpler, exportations russes) ; ATRI, Operational Costs of Trucking, 15 juillet 2026 ; DAT via Intelligent Audit, 19 octobre 2026 (taux spot). Données arrêtées au 19 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Aux États-Unis, le gallon de diesel coûtait en moyenne 6,28 dollars le 19 octobre, selon le département de l’Énergie, contre 3,48 dollars début janvier. Il avait atteint 6,53 dollars le 21 septembre, un record absolu, bien au-delà du pic de juin 2022. Pour le transport routier, qui vit au diesel, c’est un choc de coûts comparable à celui qui avait suivi l’invasion de l’Ukraine.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "6,28 $",
+       "le gallon de diesel, 19 octobre 2026"
+      ],
+      [
+       "6,53 $",
+       "record hebdomadaire, 21 septembre 2026"
+      ],
+      [
+       "5,81 $",
+       "ancien record, juin 2022"
+      ],
+      [
+       "≈ 1 Mb/j",
+       "déficit mondial de diesel selon Kpler"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le gallon de diesel aux États-Unis",
+      "sub": "prix moyen à la pompe, en dollars, 2026",
+      "labels": [
+       "5 janv.",
+       "2 mars",
+       "16 mars",
+       "29 juin",
+       "21 sept.",
+       "19 oct."
+      ],
+      "series": [
+       {
+        "name": "Diesel",
+        "values": [
+         3.48,
+         3.9,
+         5.07,
+         4.67,
+         6.53,
+         6.28
+        ]
+       }
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Relevés hebdomadaires du département de l’Énergie (EIA). Le 21 septembre marque le record de l’année. Source : EIA, via weeklydiesel.com."
+     }
+    },
+    {
+     "h": "Une crise de raffinage, pas seulement de pétrole"
+    },
+    {
+     "p": "Le pétrole brut a monté avec la guerre contre l’Iran, mais le diesel a monté bien plus vite. Le problème se situe dans les raffineries. Les frappes ukrainiennes ont fait chuter les exportations russes de diesel, à environ 141 000 barils par jour en septembre contre plus de 600 000 un an plus tôt. Des capacités du Golfe sont à l’arrêt. Les raffineries américaines tournent à plein, avec un taux d’utilisation de 98 % fin août, du jamais vu depuis 2018. Résultat : l’écart entre le prix du diesel et celui du brut a dépassé 100 dollars par baril en août, une première. L’accord sur le diesel russe annoncé par Washington ne devrait pas changer la donne avant plusieurs semaines."
+    },
+    {
+     "h": "Qui paie la facture"
+    },
+    {
+     "p": "En 2025, le carburant représentait environ un cinquième du coût d’exploitation d’un camion américain, soit près de 0,48 dollar par mile sur un total de 2,34 dollars, selon l’institut de recherche ATRI, alors que le gallon valait en moyenne 3,66 dollars. À plus de 6 dollars, ce poste dépasse vraisemblablement 0,80 dollar par mile. Les transporteurs le répercutent par la surcharge carburant, indexée chaque semaine sur le prix officiel : la hausse est donc [[tangible|tangible]] tout de suite pour les chargeurs. Avec des marges déjà inférieures à 1 % dans le lot complet, les petits transporteurs n’ont aucun coussin. Les capacités se contractent, et le taux spot d’une semi-remorque sèche atteignait 2,26 dollars par mile début octobre, en hausse de 35 % sur un an."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le diesel transmet le choc pétrolier à toute l’économie : chaque produit livré par camion le porte dans son prix. Pour un responsable supply chain, trois réflexes : vérifier les formules de surcharge carburant des contrats, consolider les envois pour réduire les kilomètres, et regarder le rail ou le fluvial là où ils existent."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>6,28 dollars</b> le gallon de diesel aux États-Unis le 19 octobre, contre 3,48 dollars début janvier.",
+      "<b>Record</b> : 6,53 dollars le 21 septembre, au-delà du pic de 5,81 dollars de juin 2022. Un choc comparable à celui de l’invasion de l’Ukraine.",
+      "<b>La cause</b> : le raffinage. Exportations russes de diesel tombées à environ 141 000 barils par jour, raffineries américaines à 98 %, marge de raffinage au-delà de 100 dollars le baril. Déficit mondial ≈ 1 million de barils par jour."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le gallon de diesel aux États-Unis",
+      "sub": "prix moyen à la pompe, en dollars, 2026",
+      "labels": [
+       "5 janv.",
+       "2 mars",
+       "16 mars",
+       "29 juin",
+       "21 sept.",
+       "19 oct."
+      ],
+      "series": [
+       {
+        "name": "Diesel",
+        "values": [
+         3.48,
+         3.9,
+         5.07,
+         4.67,
+         6.53,
+         6.28
+        ]
+       }
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Relevés hebdomadaires du département de l’Énergie (EIA). Le 21 septembre marque le record de l’année. Source : EIA, via weeklydiesel.com."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le coût du camion</b> : le carburant pesait ≈ 0,48 dollar sur 2,34 dollars par mile en 2025 (ATRI). Au-dessus de 6 dollars le gallon, sans doute plus de 0,80 dollar.",
+      "<b>Surcharge carburant</b> : indexée chaque semaine, elle rend la hausse [[tangible|tangible]] tout de suite pour les chargeurs.",
+      "<b>Capacités</b> : marges sous 1 % dans le lot complet, taux spot à 2,26 dollars par mile, + 35 % sur un an.",
+      "<b>L’enjeu</b> : le diesel transmet le choc pétrolier à tout ce qui voyage en camion.",
+      "<b>Réflexes</b> : relire les clauses de surcharge, consolider les envois, regarder le rail et le fluvial."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Accor : l’hôtellerie sans hôtels tient malgré le Golfe",
+   "by": "Analyse",
+   "fig": "+ 4,9 %",
+   "figl": "revenu par chambre au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Accor, communiqué « Chiffre d’affaires du 3e trimestre 2026 », 22 octobre 2026 (chiffre d’affaires, RevPAR, réseau, objectifs, rachats d’actions, cession d’Essendi). Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Accor a publié le 22 octobre un chiffre d’affaires de 1,503 milliard d’euros pour le troisième trimestre, en hausse de 9,8 %. Le revenu par chambre disponible, l’indicateur clé de l’hôtellerie, progresse de 4,9 %. Le groupe relève le bas de sa fourchette d’excédent brut d’exploitation courant pour 2026, désormais de 1,270 à 1,285 milliard d’euros, alors même que les Émirats restent pénalisés par la guerre.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "1,503 Md€",
+       "chiffre d’affaires du 3e trimestre, + 9,8 %"
+      ],
+      [
+       "5 857",
+       "hôtels dans le réseau fin septembre"
+      ],
+      [
+       "102",
+       "hôtels seulement détenus ou loués en propre"
+      ],
+      [
+       "≈ 273 000",
+       "chambres en projet"
+      ]
+     ]
+    },
+    {
+     "h": "Un hôtelier qui possède peu d’hôtels"
+    },
+    {
+     "p": "Accor exploite les marques Ibis, Novotel, Mercure, Pullman, Sofitel, Fairmont ou Raffles, mais il ne possède presque pas les murs. Sur ses 5 857 hôtels, 3 676 sont franchisés et 2 079 gérés pour le compte de propriétaires ; seuls 102 sont détenus ou loués. Le groupe vit de redevances calculées sur le chiffre d’affaires des hôtels. D’où l’importance du RevPAR, qui combine taux d’occupation et prix moyen : 70,6 % d’occupation et 117 euros la nuit donnent 82 euros par chambre disponible. Ce modèle demande peu de capital et dégage beaucoup de trésorerie, ce qui finance les rachats d’actions : une seconde enveloppe de 500 millions d’euros est prévue après la vente de la participation résiduelle dans Essendi, l’ex-AccorInvest."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Accor : RevPAR au 3e trimestre 2026",
+      "sub": "variation sur un an à changes constants, en %",
+      "rows": [
+       [
+        "Luxe",
+        8.9
+       ],
+       [
+        "Luxe & Lifestyle",
+        8.3
+       ],
+       [
+        "Lifestyle",
+        7.1
+       ],
+       [
+        "Groupe",
+        4.9
+       ],
+       [
+        "Premium, milieu de gamme et économique",
+        3.2
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Hors Moyen-Orient, le RevPAR Lifestyle progresse de 13,8 %. Source : Accor, chiffre d’affaires du 3e trimestre 2026, 22 octobre 2026."
+     }
+    },
+    {
+     "h": "Le luxe tire, le Golfe freine"
+    },
+    {
+     "p": "La croissance vient du haut de gamme : + 8,9 % pour le luxe, contre + 3,2 % pour les gammes moyenne et économique. Le Moyen-Orient pèse encore. Les Émirats arabes unis, seul pays vraiment touché par le conflit, voient leur RevPAR reculer d’environ 20 % sur un an, même si la reprise est nette depuis le deuxième trimestre. Hors Moyen-Orient, le Lifestyle progresse de 13,8 %. L’Arabie saoudite, l’Égypte et la Turquie compensent en partie. Sur neuf mois, la croissance du RevPAR du groupe reste plus modeste, à 3,3 %, car le deuxième trimestre avait été fortement perturbé par le conflit. Prudence : la croissance du réseau est ramenée à 3 à 3,5 % pour l’année, et les objectifs supposent que la situation aux Émirats ne se dégrade pas."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le modèle sans murs amortit les chocs : quand une région souffre, Accor perd des redevances, pas des actifs, et n’a pas à financer des hôtels vides. Le revers est une dépendance aux propriétaires, qui peuvent changer d’enseigne à la fin de leur contrat. Si la vente d’Essendi se conclut au quatrième trimestre comme prévu, elle [[enteriner|entérinera]] la mue d’un ancien propriétaire d’hôtels en pur gestionnaire de marques."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>1,503 milliard d’euros</b> de chiffre d’affaires au 3e trimestre, + 9,8 %. RevPAR + 4,9 %.",
+      "<b>Objectif relevé</b> : excédent brut d’exploitation courant 2026 entre 1,270 et 1,285 milliard d’euros.",
+      "<b>Peu de murs</b> : 5 857 hôtels, dont 102 seulement détenus ou loués. Le reste est franchisé ou géré, contre redevances.",
+      "<b>Le RevPAR</b> : 70,6 % d’occupation × 117 euros la nuit = 82 euros par chambre disponible. C’est sur lui que reposent les redevances, donc les revenus d’Accor."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Accor : RevPAR au 3e trimestre 2026",
+      "sub": "variation sur un an à changes constants, en %",
+      "rows": [
+       [
+        "Luxe",
+        8.9
+       ],
+       [
+        "Luxe & Lifestyle",
+        8.3
+       ],
+       [
+        "Lifestyle",
+        7.1
+       ],
+       [
+        "Groupe",
+        4.9
+       ],
+       [
+        "Premium, milieu de gamme et économique",
+        3.2
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Hors Moyen-Orient, le RevPAR Lifestyle progresse de 13,8 %. Source : Accor, chiffre d’affaires du 3e trimestre 2026, 22 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le luxe tire</b> : + 8,9 %, contre + 3,2 % pour le milieu de gamme et l’économique.",
+      "<b>Le Golfe freine</b> : RevPAR des Émirats ≈ − 20 % sur un an, malgré une nette reprise depuis le deuxième trimestre ; croissance du réseau ramenée à 3 à 3,5 %. Sur neuf mois, RevPAR + 3,3 %.",
+      "<b>Rachats d’actions</b> : 500 millions d’euros de plus prévus après la vente d’Essendi.",
+      "<b>Amortisseur</b> : quand une région souffre, Accor perd des redevances, pas des actifs.",
+      "<b>La mue</b> : la cession d’Essendi [[enteriner|entérinera]] le passage au pur gestionnaire de marques."
+     ]
+    }
+   ]
+  }
+ ]
+}
