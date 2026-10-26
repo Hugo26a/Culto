@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-23",
+ "latest": "2026-10-26",
  "editions": [
+  {
+   "date": "2026-10-26",
+   "label": "Lundi 26 octobre",
+   "words": [
+    "Inhérent",
+    "Éluder"
+   ],
+   "items": [
+    [
+     "lit",
+     "Tout s’effondre"
+    ],
+    [
+     "essai",
+     "La Guerre des semi-conducteurs"
+    ],
+    [
+     "eco",
+     "Japon : le pétrole cher efface des exportations record"
+    ],
+    [
+     "geo",
+     "Pékin veut mettre son IA sous licence"
+    ],
+    [
+     "log",
+     "Porte-conteneurs : la vague de 2027 se prépare"
+    ],
+    [
+     "ent",
+     "Valeo : l’électronique accélère, l’Europe freine"
+    ]
+   ]
+  },
   {
    "date": "2026-10-23",
    "label": "Vendredi 23 octobre",
@@ -377,6 +411,16 @@
   }
  ],
  "review": [
+  {
+   "w": "Entériner",
+   "short": "Rendre officiel ce qui était décidé ou admis",
+   "week": "sem. du 19 oct."
+  },
+  {
+   "w": "Tangible",
+   "short": "Concret, réel, que l’on peut constater",
+   "week": "sem. du 19 oct."
+  },
   {
    "w": "Pallier",
    "short": "Compenser un manque, sans le faire disparaître",

@@ -1,0 +1,954 @@
+{
+ "date": "2026-10-26",
+ "label": "Lundi 26 octobre 2026",
+ "n": 11,
+ "example": false,
+ "week": {
+  "start": "2026-10-26",
+  "label": "Semaine du 26 octobre",
+  "day": 1,
+  "words": [
+   {
+    "key": "inherent",
+    "w": "Inhérent",
+    "ph": "[i.ne.ʁɑ̃] · adjectif",
+    "short": "Qui fait partie de la nature même d’une chose.",
+    "def": "Qui est lié par nature à une chose, au point qu’on ne peut l’en séparer. Un risque inhérent à une activité ne vient pas d’un accident extérieur : il existe dès qu’on exerce cette activité. Se construit avec « à » : les aléas inhérents au transport maritime, les difficultés inhérentes à tout changement.",
+    "ety": "Du latin inhaerens, participe présent de inhaerere, « être attaché à », formé sur haerere, « adhérer, rester collé ». Même famille que adhérer, cohérent, cohésion et hésiter (du latin haesitare, « rester accroché »).",
+    "ex": "Les retards sont inhérents à un approvisionnement depuis l’Asie : mieux vaut les intégrer au stock de sécurité que les découvrir à chaque arrivage.",
+    "syn": "intrinsèque, propre à, indissociable de, consubstantiel, naturel"
+   },
+   {
+    "key": "eluder",
+    "w": "Éluder",
+    "ph": "[e.ly.de] · verbe transitif",
+    "short": "Éviter adroitement une question ou une difficulté.",
+    "def": "Se soustraire habilement à ce qui dérange : une question, une objection, un problème, une obligation. Éluder n’est pas répondre non, c’est faire en sorte de ne pas avoir à répondre. Le mot suggère souvent une habileté un peu suspecte.",
+    "ety": "Du latin eludere, « se jouer de, esquiver en jouant », formé sur ludere, « jouer ». Même famille que ludique, illusion, allusion et prélude.",
+    "ex": "Interrogé sur les pénalités de retard, le fournisseur a éludé la question et n’a parlé que de ses nouveaux délais.",
+    "syn": "esquiver, contourner, escamoter, se dérober à, passer sous silence"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Tout s’effondre",
+   "by": "Chinua Achebe · 1958",
+   "tagline": "La chute d’un homme fort",
+   "min": 10,
+   "exMin": 4,
+   "src": "Chinua Achebe, Things Fall Apart (Heinemann, Londres, 1958) ; trad. fr. Le monde s’effondre (Michel Ligny, Présence Africaine, 1966) puis Tout s’effondre (Pierre Girard, Actes Sud, 2013). Œuvre protégée : aucune citation longue. Ventes et traductions : nécrologie d’Achebe (mars 2013, plus de 8 millions d’exemplaires, plus de 50 langues) ; recensement Brittle Paper (2019, 61 traductions). Traductions françaises : Canadian Review of Comparative Literature.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Okonkwo est l’homme le plus respecté d’Umuofia, un groupe de neuf villages igbo du sud-est du Nigeria, à la fin du XIXe siècle. Obsédé par la peur de ressembler à son père, qu’il juge faible, il gouverne sa vie par la force. Un accident l’envoie sept ans en exil ; à son retour, les missionnaires et l’administration britanniques ont commencé à défaire le monde qu’il connaissait."
+      ],
+      [
+       "Une tragédie intime avant d’être coloniale",
+       "La chute d’Okonkwo commence bien avant l’arrivée des Blancs. Sa dureté, sa colère et sa honte de toute tendresse le poussent à des gestes qu’il regrette, jusqu’à tuer de sa main l’enfant qu’il a élevé. Le colonisateur trouve une société déjà fissurée, et un homme déjà blessé."
+      ],
+      [
+       "Une société complète, ni idéalisée ni méprisée",
+       "Achebe montre un monde igbo riche : justice des anciens, religion, poésie des proverbes, fêtes, lutte, commerce. Mais il n’en cache pas les cruautés : jumeaux abandonnés dans la forêt maudite, parias exclus de tout. C’est parmi les rejetés que les missionnaires font leurs premières conversions."
+      ],
+      [
+       "La force qui se croit vertu",
+       "Okonkwo confond virilité et refus de l’émotion. Cette peur est [[inherent|inhérente]] à son personnage : elle explique sa réussite comme sa ruine. Le roman montre qu’une qualité poussée jusqu’au bout devient un défaut, et qu’on ne bâtit rien de solide sur la honte de soi."
+      ],
+      [
+       "Le colonialisme par le bas",
+       "Pas de grande bataille : l’ordre ancien cède par une église, une école, un tribunal, un marché. La religion nouvelle divise les familles ; le tribunal impose une autre loi ; le commerce apporte de l’argent. Le clan ne s’effondre pas sous les coups, il se défait de l’intérieur."
+      ],
+      [
+       "Raconter l’Afrique depuis l’Afrique",
+       "Le livre répond aux romans européens qui faisaient des Africains des figurants muets. La dernière page, ironique, montre un administrateur britannique qui compte résumer toute cette vie en un paragraphe. Achebe écrit précisément le livre que cet homme était incapable d’écrire."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "La gloire d’Umuofia"
+    },
+    {
+     "p": "À dix-huit ans, Okonkwo a fait sa réputation en terrassant à la lutte Amalinze, dit le Chat, invaincu depuis sept ans. Devenu adulte, il a trois épouses, des greniers pleins d’ignames, deux titres honorifiques, et sa parole compte au conseil. Tout en lui est une revanche sur son père, Unoka, joueur de flûte charmant, paresseux et criblé de dettes, mort sans aucun titre. Okonkwo a bâti sa fortune seul, en partant de semences d’ignames prêtées par un notable, malgré une année de sécheresse puis de pluies qui ruina presque toute la récolte.",
+     "lead": 1
+    },
+    {
+     "p": "Le village voisin de Mbaino ayant tué une femme d’Umuofia, il doit livrer en réparation une jeune fille et un garçon de quinze ans, Ikemefuna. Le conseil confie le garçon à Okonkwo. Il vit trois ans dans sa concession et devient le grand frère de Nwoye, le fils aîné, rêveur et sensible, qui inquiète tant son père. Okonkwo s’attache à Ikemefuna, sans jamais le montrer. Pendant la semaine de la paix, consacrée à la déesse de la terre, il bat l’une de ses femmes et doit payer une amende : sa violence déborde jusque sur le sacré."
+    },
+    {
+     "h5": "Le geste irréparable"
+    },
+    {
+     "p": "L’oracle des collines et des grottes décrète la mort d’Ikemefuna. Le plus vieil homme du village, Ezeudu, conseille à Okonkwo de ne pas s’en mêler : l’enfant l’appelle père. Okonkwo accompagne pourtant les hommes dans la forêt. Quand le premier coup de machette ne suffit pas et que le garçon court vers lui en l’appelant, il porte lui-même le coup fatal, par peur de passer pour faible. Il ne dort plus, ne mange plus pendant des jours. Nwoye, qui a tout deviné, se ferme à jamais à son père."
+    },
+    {
+     "p": "Une autre peur traverse la maison. Ekwefi, la deuxième épouse, a perdu neuf enfants en bas âge ; seule a survécu Ezinma, la fille préférée d’Okonkwo, celle dont il regrette qu’elle ne soit pas un garçon. Une nuit, la prêtresse Chielo vient chercher l’enfant pour l’emporter jusqu’à la grotte de l’oracle. Ekwefi la suit dans l’obscurité, puis Okonkwo, machette à la main, qui attend jusqu’à l’aube devant la grotte. La scène révèle ce qu’il refuse d’avouer : il aime les siens."
+    },
+    {
+     "h5": "L’exil"
+    },
+    {
+     "p": "Aux funérailles d’Ezeudu, le fusil d’Okonkwo explose et tue le fils du défunt, un garçon de seize ans. C’est un crime involontaire, dit « féminin », que la coutume punit de sept ans d’exil. Ses propres amis, dont le sage Obierika, brûlent sa case et abattent ses bêtes pour purifier la terre. Il part avec sa famille à Mbanta, le village de sa mère, où son oncle Uchendu l’accueille et lui reproche de se croire le plus malheureux des hommes."
+    },
+    {
+     "p": "Pendant ces années, les nouvelles arrivent par Obierika. Le village d’Abame a été rasé par des soldats blancs après le meurtre d’un premier Blanc venu sur un « cheval de fer », une bicyclette. Puis les missionnaires s’installent à Mbanta, sur un terrain de la forêt maudite qu’on leur cède en pensant qu’ils y mourront. Ils survivent. Les premiers convertis sont des parias, des mères de jumeaux, des hommes sans titre. Nwoye les rejoint. Okonkwo le frappe ; le fils quitte la maison pour l’école de la mission et prend le nom d’Isaac."
+    },
+    {
+     "h5": "Le retour et la chute"
+    },
+    {
+     "p": "Okonkwo rentre à Umuofia avec l’espoir de retrouver son rang. Le village a changé : une église, une école, un tribunal où un administrateur britannique juge selon une loi étrangère, avec des messagers qui se font payer. Le premier missionnaire, M. Brown, dialoguait avec les anciens et ouvrait des écoles. Son successeur, le révérend Smith, ne transige sur rien. Un converti exalté, Enoch, arrache le masque d’un ancêtre lors d’une cérémonie : un sacrilège. Les masques détruisent sa concession, puis l’église."
+    },
+    {
+     "p": "L’administrateur convoque six notables, dont Okonkwo, pour une discussion, puis les fait arrêter, raser et frapper. Le village paie une amende de deux cents sacs de cauris, que les messagers gonflent à deux cent cinquante. Libéré, Okonkwo veut la guerre. Lors de la grande assemblée, des messagers viennent l’interrompre. Il tranche la tête de leur chef. Personne ne le suit ; la foule laisse fuir les autres et se demande pourquoi il a fait cela. Okonkwo comprend que son clan ne se battra pas."
+    },
+    {
+     "p": "Quand l’administrateur arrive chez lui, Okonkwo s’est pendu à un arbre. Le suicide est une abomination : ses frères ne peuvent pas toucher son corps et demandent aux étrangers de le décrocher. Obierika accuse l’administrateur d’avoir poussé au désespoir l’un des plus grands hommes d’Umuofia. L’Anglais, lui, pense au livre qu’il écrira sur la pacification des tribus du bas Niger : l’histoire d’Okonkwo y mériterait peut-être un paragraphe."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un livre né d’une colère de lecteur"
+    },
+    {
+     "p": "Chinua Achebe naît en 1930 à Ogidi, dans le pays igbo, fils d’un catéchiste converti. Étudiant à Ibadan, il lit des romans britanniques sur l’Afrique, comme <em>Mister Johnson</em> de Joyce Cary (1939), et n’y reconnaît ni son peuple ni son histoire. Il décide de raconter de l’intérieur ce que ces livres voyaient de l’extérieur. Le roman paraît à Londres en 1958, deux ans avant l’indépendance du Nigeria, après plusieurs refus d’éditeurs. En 1962, il devient le premier titre de la collection African Writers Series, qu’Achebe dirige lui-même."
+    },
+    {
+     "h5": "L’anglais comme langue igbo"
+    },
+    {
+     "p": "Achebe écrit en anglais, mais un anglais habité par l’igbo : des mots laissés tels quels (<em>chi</em>, le dieu personnel ; <em>obi</em>, la case du chef de famille ; <em>egwugwu</em>, les ancêtres masqués) et surtout des proverbes. Chez les Igbo, dit le narrateur, les proverbes sont l’huile qui fait passer les paroles. Ce procédé donne au lecteur étranger l’impression d’entrer dans une conversation qui existait avant lui, et qui n’a pas besoin de lui pour avoir un sens."
+    },
+    {
+     "h5": "Une construction en trois temps"
+    },
+    {
+     "p": "La première partie, la plus longue, installe un monde au rythme des saisons, des récoltes et des fêtes : le lecteur doit l’habiter avant de le voir disparaître. La deuxième, l’exil, est un entre-deux où l’histoire se fait ailleurs. La troisième accélère : en quelques chapitres, tout bascule. Le titre vient d’un poème de W. B. Yeats, « The Second Coming » (1920), qui décrit un monde dont le centre ne tient plus. Achebe l’applique au clan, mais aussi à son héros, dont la seule force ne suffit plus à faire tenir sa vie."
+    },
+    {
+     "h5": "Le refus du héros exemplaire"
+    },
+    {
+     "p": "Achebe aurait pu faire d’Okonkwo un résistant héroïque face au colon. Il en fait un homme brutal, rigide, que son propre clan ne suit pas. Le roman n’[[eluder|élude]] rien : ni la violence domestique, ni le meurtre d’Ikemefuna, ni le sort des jumeaux. Cette honnêteté explique sa force. Elle montre que les conversions ne sont pas seulement imposées : elles attirent ceux que l’ancien ordre rejetait, comme Nwoye, blessé par la mort de son frère adoptif."
+    },
+    {
+     "h5": "La dernière page"
+    },
+    {
+     "p": "Le roman se clôt sur le regard de l’administrateur. En une page, Achebe change de point de vue et montre comment l’histoire coloniale allait écrire ce qu’on vient de lire : un incident pittoresque, un paragraphe dans un livre savant. Toute l’ironie du livre tient dans cet écart. En 1975, dans une conférence restée célèbre, Achebe accusera <em>Au cœur des ténèbres</em> de Joseph Conrad de faire de l’Afrique un simple décor pour l’âme européenne."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Le livre s’est vendu à plus de 8 millions d’exemplaires selon les chiffres cités à la mort de son auteur, en 2013, et a été traduit dans plus de cinquante langues. Il reste le roman africain le plus lu au monde. Il parle d’un changement subi, de la difficulté [[inherent|inhérente]] à toute société de s’adapter sans se renier, et d’un homme qui préfère casser plutôt que plier. Une question très actuelle, dans les familles comme dans les organisations."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Okonkwo est l’homme le plus respecté d’Umuofia, un groupe de neuf villages igbo du sud-est du Nigeria, à la fin du XIXe siècle. Obsédé par la peur de ressembler à son père, qu’il juge faible, il gouverne sa vie par la force. Un accident l’envoie sept ans en exil ; à son retour, les missionnaires et l’administration britanniques ont commencé à défaire son monde.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Une tragédie intime</b> : la chute d’Okonkwo commence avant l’arrivée des Blancs, avec sa dureté et sa honte de toute tendresse.",
+      "<b>Une société complète</b> : justice, religion, proverbes, fêtes, mais aussi jumeaux abandonnés et parias. Les premiers convertis viennent des rejetés.",
+      "<b>La force qui se croit vertu</b> : la peur de paraître faible est [[inherent|inhérente]] au personnage. Elle fait sa réussite et sa ruine.",
+      "<b>Le colonialisme par le bas</b> : une église, une école, un tribunal. Le clan se défait de l’intérieur.",
+      "<b>Raconter l’Afrique depuis l’Afrique</b> : une réponse aux romans européens où les Africains n’étaient que des figurants."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>La gloire</b> : champion de lutte à 18 ans, trois épouses, deux titres. Tout est revanche sur son père Unoka, flûtiste endetté.",
+      "<b>Ikemefuna</b> : garçon de 15 ans livré par un village voisin, élevé trois ans chez Okonkwo. Quand l’oracle ordonne sa mort, Okonkwo porte le coup fatal pour ne pas paraître faible. Son fils Nwoye se ferme à lui.",
+      "<b>L’exil</b> : son fusil explose aux funérailles d’Ezeudu et tue un garçon de 16 ans. Sept ans d’exil au village de sa mère.",
+      "<b>Les missionnaires</b> : installés dans la forêt maudite, ils survivent et convertissent les parias. Nwoye part et devient Isaac.",
+      "<b>La chute</b> : de retour, Okonkwo trouve église et tribunal. Humilié et emprisonné, il tue un messager du tribunal. Le clan ne le suit pas ; il se pend. L’administrateur ne lui accorde qu’un paragraphe dans son futur livre."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Chinua Achebe (1930-2013), igbo, fils d’un catéchiste. Roman publié à Londres en 1958, deux ans avant l’indépendance du Nigeria.",
+      "<b>Une réponse</b> aux romans coloniaux comme <em>Mister Johnson</em> de Joyce Cary (1939) : raconter de l’intérieur ce qu’ils voyaient de l’extérieur.",
+      "<b>Un anglais igbo</b> : mots laissés tels quels (<em>chi</em>, <em>obi</em>, <em>egwugwu</em>) et proverbes, « l’huile qui fait passer les paroles ».",
+      "<b>Trois temps</b> : un monde installé, l’exil, l’effondrement. Titre emprunté au poème de Yeats « The Second Coming » (1920).",
+      "<b>Pas de héros exemplaire</b> : le roman n’[[eluder|élude]] ni la violence d’Okonkwo ni les cruautés de la coutume.",
+      "<b>La dernière page</b> : l’administrateur réduit tout à un paragraphe. En 1975, Achebe attaquera <em>Au cœur des ténèbres</em> de Conrad.",
+      "<b>Postérité</b> : plus de 8 millions d’exemplaires, plus de 50 langues. En français : <em>Le monde s’effondre</em> (1966), puis <em>Tout s’effondre</em> (2013)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "La Guerre des semi-conducteurs",
+   "by": "Chris Miller · 2022",
+   "min": 9,
+   "exMin": 3,
+   "src": "Chris Miller, Chip War: The Fight for the World’s Most Critical Technology (Scribner, octobre 2022) ; trad. fr. La Guerre des semi-conducteurs. Un conflit mondial pour une technologie vitale (Pierre Roncuzzi, L’Artilleur, mai 2024). Prix : Financial Times Business Book of the Year 2022. Capacités de production : Boston Consulting Group et Semiconductor Industry Association, rapports de septembre 2020 et d’avril 2021. Importations chinoises de circuits intégrés : douanes chinoises, 2021 (ordre de grandeur). CHIPS and Science Act : 9 août 2022. Critique : Barry Eichengreen, Foreign Affairs.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "L’historien américain Chris Miller raconte soixante-quinze ans d’histoire de la puce électronique, de la Californie des années 1950 à la rivalité sino-américaine. Sa thèse : les semi-conducteurs sont devenus la ressource stratégique du siècle, comme le pétrole au XXe, et leur production repose sur une poignée d’entreprises et de pays impossibles à remplacer."
+      ],
+      [
+       "La puce est née militaire",
+       "Les premiers circuits intégrés ont trouvé leurs clients dans les missiles et la conquête spatiale, pas dans l’électronique grand public. Le Pentagone et la NASA ont payé les premières séries, très chères. La supériorité militaire américaine, de la guerre du Golfe à aujourd’hui, repose sur cette avance."
+      ],
+      [
+       "Une chaîne mondiale pleine de goulets",
+       "Une puce avancée est conçue avec des logiciels américains, gravée par des machines néerlandaises, fabriquée à Taïwan ou en Corée, assemblée en Asie du Sud-Est. Chaque maillon est tenu par un, deux ou trois acteurs. Ces points d’étranglement sont autant de leviers de puissance."
+      ],
+      [
+       "Taïwan, cœur du système",
+       "En 2019, 92 % des capacités de gravure les plus fines se trouvaient à Taïwan, selon le BCG et l’association américaine des fabricants. La part des États-Unis dans la production mondiale est tombée de 37 % en 1990 à 12 % en 2020. Le pays qui invente les puces ne les fabrique presque plus."
+      ],
+      [
+       "La Chine dépend de ce qu’elle combat",
+       "Pékin importe chaque année des centaines de milliards de dollars de puces, de l’ordre de 430 milliards en 2021, plus que pour le pétrole selon Miller. Le livre montre comment Washington a appris à utiliser cette dépendance, de Huawei en 2019 aux contrôles à l’exportation."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "L’auteur et son projet"
+    },
+    {
+     "p": "Chris Miller est historien de l’économie à la Fletcher School de l’université Tufts, près de Boston, spécialiste de la Russie à l’origine. Paru en octobre 2022, son livre a été élu meilleur livre économique de l’année par le <em>Financial Times</em>. Sa traduction française est parue en 2024 chez L’Artilleur. Le projet est simple et ambitieux : expliquer la géopolitique contemporaine par un objet que presque personne ne voit, gravé de milliards de transistors, et sans lequel ni téléphone, ni voiture, ni missile ne fonctionnent."
+    },
+    {
+     "h5": "De Bell Labs à la Silicon Valley"
+    },
+    {
+     "p": "Tout commence en 1947, quand trois chercheurs des laboratoires Bell inventent le transistor, un interrupteur électrique miniature. À la fin des années 1950, Jack Kilby chez Texas Instruments et Robert Noyce chez Fairchild Semiconductor parviennent, chacun de son côté, à réunir plusieurs transistors sur une même plaque : le circuit intégré. Les premiers clients sont militaires. Le missile Minuteman II et l’ordinateur de guidage d’Apollo achètent des puces à prix d’or, ce qui finance la montée en volume. En 1965, Gordon Moore, futur cofondateur d’Intel, prédit que le nombre de composants sur une puce doublera à intervalles réguliers. Cette « loi de Moore » devient le métronome d’une industrie entière."
+    },
+    {
+     "p": "Miller insiste sur un épisode : en 1972, des bombes guidées par laser, conçues chez Texas Instruments, détruisent au Vietnam le pont de Thanh Hóa, que des centaines de sorties aériennes n’avaient pas réussi à abattre. Les militaires soviétiques comprennent alors que l’électronique change la guerre. L’URSS tente de rattraper son retard en copiant les puces américaines, dans sa ville scientifique de Zelenograd. Mais copier, c’est toujours avoir un temps de retard dans une industrie qui double ses performances tous les deux ans. La démonstration éclate en 1991, quand les munitions guidées américaines écrasent l’armée irakienne, équipée à la soviétique."
+    },
+    {
+     "stats": [
+      [
+       "1947",
+       "invention du transistor aux laboratoires Bell"
+      ],
+      [
+       "1987",
+       "fondation de TSMC par Morris Chang à Taïwan"
+      ],
+      [
+       "92 %",
+       "des capacités de gravure les plus fines (moins de 10 nm) situées à Taïwan en 2019"
+      ],
+      [
+       "37 % → 12 %",
+       "part des États-Unis dans la capacité mondiale de production de puces, 1990 puis 2020"
+      ]
+     ]
+    },
+    {
+     "h5": "Le choc japonais et la naissance de TSMC"
+    },
+    {
+     "p": "Dans les années 1980, le Japon, Sony et Toshiba en tête, domine la mémoire informatique avec une qualité de production que l’Amérique ne sait pas égaler. Intel abandonne la mémoire en 1985 pour se concentrer sur les microprocesseurs. Washington négocie un accord commercial avec Tokyo en 1986 et soutient la Corée du Sud, où Samsung devient géant. Au même moment, un ingénieur né en Chine et formé aux États-Unis, Morris Chang, écarté de la direction de Texas Instruments, est recruté par le gouvernement taïwanais. En 1987, il fonde TSMC sur une idée neuve : ne rien concevoir, seulement fabriquer pour les autres. Ce modèle de fonderie permet à des milliers d’entreprises sans usine, comme Apple ou Nvidia, de dessiner des puces sans investir des dizaines de milliards dans des usines."
+    },
+    {
+     "h5": "La concentration extrême"
+    },
+    {
+     "p": "Le livre décrit une chaîne où chaque étape est devenue un quasi-monopole. Les logiciels de conception sont dominés par quelques sociétés américaines. Les machines de lithographie à ultraviolets extrêmes, indispensables aux puces les plus fines, ne sont produites que par le néerlandais ASML, après des décennies de recherche et grâce à des fournisseurs comme l’optique de Zeiss. La fabrication de pointe est concentrée chez TSMC et, dans une moindre mesure, chez Samsung. Pour Miller, cette concentration est [[inherent|inhérente]] à l’économie du secteur : une usine de pointe coûte si cher que seuls les plus grands peuvent suivre, et chaque génération élimine des concurrents."
+    },
+    {
+     "h5": "La nouvelle guerre froide"
+    },
+    {
+     "p": "La dernière partie porte sur la Chine. Pékin a lancé un grand fonds d’investissement en 2014 et le plan Made in China 2025 en 2015 pour produire ses propres puces. Le champion chinois SMIC progresse, mais reste dépendant des machines étrangères. En 2019, puis en 2020, Washington coupe Huawei de ses fournisseurs américains, puis de TSMC, en interdisant l’usage de toute technologie américaine pour le servir. Miller y voit l’arme la plus efficace de la rivalité : contrôler les goulets d’étranglement. Et il pointe le risque majeur : Taïwan, à moins de 200 kilomètres des côtes chinoises, dont un blocus paralyserait l’économie mondiale."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le récit est vivant, porté par des portraits d’ingénieurs et de patrons, mais il privilégie les grands hommes au détriment des politiques industrielles et des ouvriers d’Asie. Il est très centré sur les États-Unis : l’Europe n’y apparaît guère qu’à travers ASML. L’économiste Barry Eichengreen note surtout que le livre a été achevé avant les contrôles américains d’octobre 2022 : Miller [[eluder|élude]] donc la question de leur efficacité, et celle de la réaction chinoise, qu’elle passe par un effort national accru ou par une pression sur Taïwan."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Le livre est paru deux mois après la signature du CHIPS and Science Act, qui consacre 52,7 milliards de dollars à la relance de la production américaine. Il est devenu la lecture de référence des dirigeants et des diplomates sur le sujet. L’actualité lui donne raison presque chaque mois : en octobre 2026 encore, la Chine a proposé de soumettre à licence l’exportation de ses propres technologies d’IA et de conception de puces. La guerre des semi-conducteurs se joue désormais dans les deux sens."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "L’historien Chris Miller raconte 75 ans d’histoire de la puce électronique. Sa thèse : les semi-conducteurs sont la ressource stratégique du siècle, comme le pétrole au XXe, et leur production dépend d’une poignée d’entreprises et de pays impossibles à remplacer.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Née militaire</b> : missiles Minuteman II et programme Apollo ont payé les premières puces.",
+      "<b>Une chaîne pleine de goulets</b> : conception américaine, machines néerlandaises (ASML), fabrication taïwanaise ou coréenne, assemblage en Asie.",
+      "<b>Taïwan au cœur</b> : 92 % des capacités les plus fines en 2019 ; les États-Unis passent de 37 % à 12 % de la production mondiale entre 1990 et 2020.",
+      "<b>La Chine dépendante</b> : ≈ 430 milliards de dollars de puces importées en 2021, plus que pour le pétrole selon Miller."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "1947",
+       "invention du transistor aux laboratoires Bell"
+      ],
+      [
+       "1987",
+       "fondation de TSMC par Morris Chang à Taïwan"
+      ],
+      [
+       "92 %",
+       "des capacités de gravure les plus fines (moins de 10 nm) situées à Taïwan en 2019"
+      ],
+      [
+       "37 % → 12 %",
+       "part des États-Unis dans la capacité mondiale de production de puces, 1990 puis 2020"
+      ]
+     ]
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Chris Miller, historien de l’économie à l’université Tufts. Traduction française chez L’Artilleur (2024).",
+      "<b>Les débuts</b> : transistor chez Bell (1947), circuit intégré chez Texas Instruments et Fairchild (fin des années 1950), loi de Moore (1965).",
+      "<b>Le Vietnam</b> : en 1972, des bombes guidées par laser abattent le pont de Thanh Hóa. Moscou comprend que l’électronique change la guerre ; l’URSS copie, donc reste en retard.",
+      "<b>Le choc japonais</b> : Sony et Toshiba dominent la mémoire ; Intel l’abandonne en 1985.",
+      "<b>TSMC</b> : Morris Chang fonde en 1987 la première fonderie pure, qui fabrique pour Apple ou Nvidia.",
+      "<b>ASML</b> : seul fabricant au monde des machines de lithographie à ultraviolets extrêmes, indispensables aux puces les plus fines.",
+      "<b>La concentration</b> est [[inherent|inhérente]] au secteur : une usine de pointe coûte si cher que chaque génération élimine des concurrents.",
+      "<b>La Chine</b> : grand fonds (2014), Made in China 2025 (2015). Huawei coupé des puces américaines puis de TSMC en 2019-2020.",
+      "<b>Le risque majeur</b> : Taïwan, à moins de 200 kilomètres des côtes chinoises. Un blocus paralyserait l’économie mondiale.",
+      "<b>Les critiques</b> : récit centré sur les grands hommes et les États-Unis. Achevé avant les contrôles d’octobre 2022, il [[eluder|élude]] la question de leur efficacité.",
+      "<b>Postérité</b> : meilleur livre économique du <em>Financial Times</em> en 2022, paru juste après le CHIPS Act (52,7 milliards de dollars)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Japon : le pétrole cher efface des exportations record",
+   "by": "Analyse",
+   "fig": "+ 39,4 %",
+   "figl": "facture énergétique japonaise en septembre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Ministère japonais des Finances, statistiques commerciales provisoires de septembre 2026 et du premier semestre de l’exercice, publiées le 21 octobre 2026 (via AP et IndexBox) ; part du pétrole américain : douanes japonaises, juillet 2026 (via Arab News Japan) ; Banque du Japon, décision de septembre 2026 (via AP). Données arrêtées au 21 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le Japon n’a jamais autant exporté : 63 500 milliards de yens d’avril à septembre, + 18,4 % sur un an, un record. Il n’a jamais autant importé non plus : 66 300 milliards, + 20,4 %. Le déficit commercial du semestre atteint 2 810 milliards de yens, soit environ 17,8 milliards de dollars. En septembre, cinquième mois de déficit d’affilée, les achats de combustibles ont bondi de 39,4 %.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Japon : commerce extérieur en septembre 2026",
+      "sub": "variation sur un an, en %",
+      "rows": [
+       [
+        "Exportations de semi-conducteurs",
+        49.4
+       ],
+       [
+        "Importations de combustibles minéraux",
+        39.4
+       ],
+       [
+        "Exportations vers les États-Unis",
+        22.9
+       ],
+       [
+        "Importations totales",
+        18.9
+       ],
+       [
+        "Exportations totales",
+        16.7
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Données provisoires. Source : ministère japonais des Finances, 21 octobre 2026."
+     }
+    },
+    {
+     "h": "Une économie qui achète son énergie"
+    },
+    {
+     "p": "Le Japon importe la quasi-totalité de son pétrole, et dépendait du golfe Persique pour environ 95 % de son brut avant la guerre avec l’Iran. Avec le détroit d’Ormuz bloqué, le Brent est passé d’environ 70 dollars en février à près de 110. Tokyo s’est tourné vers les États-Unis, qui fournissaient 37 % de son brut en juillet, un record. Mais ce pétrole vient de plus loin et coûte plus cher. La faiblesse du yen, proche de 150 pour un dollar, alourdit encore la facture : chaque baril se paie en dollars."
+    },
+    {
+     "p": "Les économistes parlent de dégradation des termes de l’échange : le prix de ce que le pays achète monte plus vite que celui de ce qu’il vend. Le Japon doit donc exporter davantage pour payer le même volume d’énergie. Le scénario rappelle 2022 : après l’invasion de l’Ukraine, la flambée du pétrole et du gaz, combinée à un yen faible, avait déjà creusé un déficit commercial annuel record. La différence, cette fois, est que la contrainte est physique autant que financière : les tankers doivent changer de route."
+    },
+    {
+     "h": "Les puces tirent les exportations"
+    },
+    {
+     "stats": [
+      [
+       "536,6 Md¥",
+       "déficit commercial de septembre"
+      ],
+      [
+       "2 810 Md¥",
+       "déficit d’avril à septembre"
+      ],
+      [
+       "1,25 %",
+       "taux directeur de la Banque du Japon, au plus haut depuis 31 ans"
+      ],
+      [
+       "37 %",
+       "part du pétrole américain dans le brut importé en juillet"
+      ]
+     ]
+    },
+    {
+     "p": "Côté ventes, l’intelligence artificielle porte le pays : les exportations de semi-conducteurs ont progressé de 49,4 % en septembre, et celles vers les États-Unis de 22,9 %. Les ventes vers le Moyen-Orient reculent de 12 %. Le Japon gagne donc sur l’électronique ce qu’il perd sur l’énergie, mais pas tout. Le déficit de septembre, 536,6 milliards de yens, est moitié moindre qu’en août ; il reste un déficit."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Un déficit commercial n’est pas un drame pour le Japon, dont les revenus tirés de ses investissements à l’étranger restent considérables. Le vrai risque est l’inflation importée. La Banque du Japon a relevé son taux à 1,25 % en septembre et se réunit de nouveau cette semaine. Le gouvernement de Sanae Takaichi propose, lui, de ramener la TVA sur l’alimentation de 8 % à 1 %. Personne ne peut [[eluder|éluder]] la question de fond : tant qu’Ormuz restera fermé, l’archipel paiera son énergie au prix fort."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Records d’avril à septembre</b> : exportations 63 500 milliards de yens (+ 18,4 %), importations 66 300 milliards (+ 20,4 %).",
+      "<b>Déficit</b> : 2 810 milliards de yens sur le semestre (≈ 17,8 milliards de dollars) ; 536,6 milliards en septembre, cinquième mois d’affilée.",
+      "<b>L’énergie</b> : combustibles importés + 39,4 % en septembre. Brent passé d’≈ 70 à ≈ 110 dollars depuis février, Ormuz bloqué.",
+      "<b>Changement de fournisseur</b> : 37 % du brut venait des États-Unis en juillet, contre ≈ 95 % du Golfe avant la guerre. Plus loin, donc plus cher, et payé avec un yen faible (≈ 150 pour un dollar)."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Japon : commerce extérieur en septembre 2026",
+      "sub": "variation sur un an, en %",
+      "rows": [
+       [
+        "Exportations de semi-conducteurs",
+        49.4
+       ],
+       [
+        "Importations de combustibles minéraux",
+        39.4
+       ],
+       [
+        "Exportations vers les États-Unis",
+        22.9
+       ],
+       [
+        "Importations totales",
+        18.9
+       ],
+       [
+        "Exportations totales",
+        16.7
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Données provisoires. Source : ministère japonais des Finances, 21 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les puces compensent</b> : exportations de semi-conducteurs + 49,4 %, vers les États-Unis + 22,9 %.",
+      "<b>Le vrai risque</b> : l’inflation importée. Taux de la Banque du Japon à 1,25 % (plus haut depuis 31 ans), nouvelle réunion cette semaine ; projet de TVA alimentaire ramenée de 8 % à 1 %.",
+      "<b>La question de fond</b>, qu’on ne peut [[eluder|éluder]] : tant qu’Ormuz restera fermé, le Japon paiera son énergie au prix fort."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Pékin veut mettre son IA sous licence",
+   "by": "Analyse",
+   "fig": "40",
+   "figl": "technologies chinoises proposées au contrôle",
+   "min": 3,
+   "exMin": 2,
+   "src": "Ministère chinois du Commerce et ministère des Sciences et des Technologies, annonce 2026 n° 48 et conférence de presse du 16 octobre 2026 (via The Frontier, Tech Insider, Caixin et Global Times). Seuils techniques : lectures de l’annexe 1 par la presse spécialisée, texte en consultation jusqu’au 15 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 16 octobre, les ministères chinois du Commerce et des Sciences ont publié un projet de liste de 40 technologies dont l’exportation serait interdite ou soumise à licence : 23 dans l’intelligence artificielle, 12 dans le solaire et 5 dans la biomédecine. Quatorze seraient interdites, vingt-six autorisées au cas par cas. Le texte est ouvert aux commentaires jusqu’au 15 novembre, mais une obligation de déclaration s’applique déjà.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Chine : les 40 technologies du projet de contrôle",
+      "sub": "nombre de technologies par domaine",
+      "rows": [
+       [
+        "Intelligence artificielle",
+        23
+       ],
+       [
+        "Photovoltaïque",
+        12
+       ],
+       [
+        "Biomédecine",
+        5
+       ]
+      ],
+      "prefix": "",
+      "suffix": "",
+      "note": "14 seraient interdites d’exportation, 26 soumises à licence. Source : ministères chinois du Commerce et des Sciences, annonce n° 48, 16 octobre 2026."
+     }
+    },
+    {
+     "h": "Ce que vise la liste"
+    },
+    {
+     "p": "Pour l’IA, un modèle serait soumis à licence s’il remplit une seule de ces conditions, selon les lectures de l’annexe : plus de 2 000 milliards de paramètres, un entraînement d’au moins 10²⁶ opérations, ou une place dans le top 10 mondial des évaluations publiques. Sont aussi visées la conception de puces d’IA gravées en 14 nanomètres ou plus finement, les techniques d’empilement en 2,5D et 3D, et les grappes de plus d’environ 10 000 accélérateurs. Dans le solaire, la technologie des cellules pérovskites serait interdite d’exportation ; celle des cellules à hétérojonction et des grandes usines de polysilicium, sous licence."
+    },
+    {
+     "stats": [
+      [
+       "14",
+       "technologies interdites d’exportation"
+      ],
+      [
+       "26",
+       "technologies soumises à licence"
+      ],
+      [
+       "2 000 Md",
+       "paramètres : seuil de licence pour un modèle d’IA"
+      ],
+      [
+       "15 nov.",
+       "fin de la consultation publique"
+      ]
+     ]
+    },
+    {
+     "h": "Ce qui reste ouvert"
+    },
+    {
+     "p": "Le contrôle porte sur le savoir-faire, pas sur les produits : les panneaux, les puces ou l’accès à un modèle par une application restent libres. Les technologies déjà publiées en open source sont exclues. Le porte-parole du ministère affirme que la révision ne vise aucun pays et relève d’une gestion de routine du catalogue. Il [[eluder|élude]] ainsi l’essentiel : Pékin copie la méthode que Washington applique contre lui depuis 2019, en contrôlant les goulets d’étranglement plutôt que les marchandises."
+    },
+    {
+     "p": "La logique est industrielle. Un panneau solaire ou une puce s’achètent et se démontent ; une ligne de production clé en main, elle, crée un concurrent. Ces dernières années, les fabricants chinois ont construit de nombreuses usines solaires à l’étranger, notamment en Asie du Sud-Est, en partie pour contourner les droits de douane américains. En soumettant ces transferts à licence, Pékin garde la main sur la diffusion de son avance, et se donne un levier de négociation avec chaque pays d’accueil."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La Chine ne se contente plus de restreindre ses matières premières, comme les terres rares depuis avril 2025. Elle protège désormais ses savoir-faire, là où elle est en avance : le solaire, dont elle domine la production mondiale, et une partie de l’IA. Pour les entreprises étrangères qui achètent des lignes de production chinoises, en Asie du Sud-Est, en Inde ou au Golfe, il faudra compter avec des délais d’autorisation."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>16 octobre</b> : Pékin propose de contrôler l’exportation de 40 technologies, 23 en IA, 12 dans le solaire, 5 en biomédecine.",
+      "<b>Deux niveaux</b> : 14 interdites, 26 soumises à licence. Consultation jusqu’au 15 novembre ; déclaration obligatoire dès maintenant.",
+      "<b>L’IA visée</b> : modèles de plus de 2 000 milliards de paramètres, entraînés à 10²⁶ opérations ou classés dans le top 10 mondial ; puces d’IA en 14 nm ou moins ; grappes de plus de ≈ 10 000 accélérateurs.",
+      "<b>Le solaire</b> : pérovskites interdites, hétérojonction et grandes usines de polysilicium sous licence."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Chine : les 40 technologies du projet de contrôle",
+      "sub": "nombre de technologies par domaine",
+      "rows": [
+       [
+        "Intelligence artificielle",
+        23
+       ],
+       [
+        "Photovoltaïque",
+        12
+       ],
+       [
+        "Biomédecine",
+        5
+       ]
+      ],
+      "prefix": "",
+      "suffix": "",
+      "note": "14 seraient interdites d’exportation, 26 soumises à licence. Source : ministères chinois du Commerce et des Sciences, annonce n° 48, 16 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le savoir-faire, pas les produits</b> : panneaux, puces et applications d’IA restent exportables ; l’open source est exclu.",
+      "<b>Le discours officiel</b> : une révision de routine qui ne vise aucun pays. Il [[eluder|élude]] l’essentiel : Pékin reprend la méthode américaine des goulets d’étranglement.",
+      "<b>Le changement</b> : après les terres rares (avril 2025), la Chine protège ses technologies d’avance. Les usines solaires étrangères équipées en chinois devront attendre des licences."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Porte-conteneurs : la vague de 2027 se prépare",
+   "by": "Analyse",
+   "fig": "42 %",
+   "figl": "navires commandés rapportés à la flotte",
+   "min": 3,
+   "exMin": 2,
+   "src": "BIMCO, perspectives du transport conteneurisé, septembre 2026 (via gCaptain et SAFETY4SEA) ; Linerlytica (carnet de commandes, congestion, retour à Suez) ; Drewry, World Container Index du 22 octobre 2026 ; port de Long Beach, trafic de septembre 2026 (via Intelligent Audit). Données arrêtées au 22 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La flotte mondiale de porte-conteneurs a dépassé 34 millions d’EVP (équivalent vingt pieds), 10 millions de plus qu’il y a cinq ans et demi. Et les chantiers ont encore plus de 14 millions d’EVP en commande, soit 42 % de la flotte existante, selon l’organisation maritime BIMCO. Elle prévoit une hausse de capacité de 4,6 % en 2026, puis de 9 % en 2027, bien plus vite que la demande.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "34 M EVP",
+       "capacité de la flotte mondiale"
+      ],
+      [
+       "14 M EVP",
+       "en commande dans les chantiers"
+      ],
+      [
+       "+ 9 %",
+       "hausse de capacité prévue en 2027"
+      ],
+      [
+       "0,5 à 4,5 %",
+       "hausse de la demande prévue en 2027"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi les tarifs tiennent encore"
+    },
+    {
+     "p": "Les crises absorbent les navires. Environ 250 porte-conteneurs, 3,5 millions d’EVP, contournent encore l’Afrique au lieu de passer par Suez, contre 380 au plus fort de l’année. La congestion des ports immobilise plus de 11 % de la capacité selon Linerlytica, et le blocage d’Ormuz désorganise le Golfe. Résultat : le conteneur de 40 pieds Shanghai-New York coûte encore plus de 10 000 dollars, et l’indice mondial de Drewry a remonté de 2 % la semaine dernière, à 4 585 dollars."
+    },
+    {
+     "p": "La demande américaine reste forte. Le port de Long Beach, en Californie, a traité 997 177 EVP en septembre, un record, en hausse de 25 % sur un an. Les armateurs, eux, continuent de commander : le coréen HMM vient d’approuver 1,6 milliard de dollars pour douze navires, livrables d’ici fin 2029. Chaque compagnie a intérêt à disposer d’une flotte moderne et sobre ; toutes ensemble, elles fabriquent la surcapacité de demain."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Fret conteneurisé : tarifs spot au 22 octobre 2026",
+      "sub": "en dollars par conteneur de 40 pieds, au départ de Shanghai",
+      "rows": [
+       [
+        "New York",
+        10166
+       ],
+       [
+        "Los Angeles",
+        8007
+       ],
+       [
+        "Moyenne mondiale (WCI)",
+        4585
+       ],
+       [
+        "Gênes",
+        4152
+       ],
+       [
+        "Rotterdam",
+        3632
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : Drewry, World Container Index du 22 octobre 2026."
+     }
+    },
+    {
+     "h": "Le moment de bascule"
+    },
+    {
+     "p": "Linerlytica anticipe un retour complet par Suez au premier trimestre 2027. Pour BIMCO, une fois les routes normalisées, le besoin en navires serait inférieur d’environ 10 % à ce qu’il est avec le détour par le cap. Au même moment arrivera la vague de livraisons commandée pendant les années fastes. Côté demande, BIMCO ne prévoit que 0,5 à 2,5 % de croissance en 2027 si Ormuz reste fermé, 2,5 à 4,5 % s’il rouvre. La démolition de vieux navires restera limitée."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le transport maritime vit de cycles : les armateurs commandent quand les prix sont hauts, et les navires arrivent deux ou trois ans plus tard, quand la demande s’est calmée. Ce décalage est [[inherent|inhérent]] au secteur. Pour un chargeur, 2027 pourrait être l’année où le rapport de force s’inverse : bon moment pour négocier des contrats annuels, à condition de ne pas s’engager trop tôt sur les prix actuels."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>34 millions d’EVP</b> : la flotte mondiale de porte-conteneurs, + 10 millions en cinq ans et demi.",
+      "<b>14 millions d’EVP en commande</b>, 42 % de la flotte existante (BIMCO). Capacité + 4,6 % en 2026, + 9 % en 2027.",
+      "<b>La demande ne suit pas</b> : + 0,5 à 2,5 % en 2027 si Ormuz reste fermé, + 2,5 à 4,5 % s’il rouvre.",
+      "<b>Ce qui soutient les prix</b> : ≈ 250 navires encore détournés par le cap, une congestion qui immobilise plus de 11 % de la capacité, Ormuz bloqué."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Fret conteneurisé : tarifs spot au 22 octobre 2026",
+      "sub": "en dollars par conteneur de 40 pieds, au départ de Shanghai",
+      "rows": [
+       [
+        "New York",
+        10166
+       ],
+       [
+        "Los Angeles",
+        8007
+       ],
+       [
+        "Moyenne mondiale (WCI)",
+        4585
+       ],
+       [
+        "Gênes",
+        4152
+       ],
+       [
+        "Rotterdam",
+        3632
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : Drewry, World Container Index du 22 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La bascule</b> : retour complet à Suez attendu au premier trimestre 2027 ; besoin en navires alors ≈ 10 % plus faible.",
+      "<b>Un cycle</b> [[inherent|inhérent]] au secteur : on commande au plus haut, les navires arrivent quand la demande retombe.",
+      "<b>Pour les chargeurs</b> : 2027 pourrait inverser le rapport de force. Ne pas figer trop tôt les tarifs actuels."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Valeo : l’électronique accélère, l’Europe freine",
+   "by": "Analyse",
+   "fig": "− 2,6 %",
+   "figl": "ventes du 3e trimestre à données comparables",
+   "min": 3,
+   "exMin": 2,
+   "src": "Valeo, communiqué « Chiffre d’affaires du 3e trimestre 2026 », 22 octobre 2026 (chiffre d’affaires par activité, région et division, objectifs 2026) ; S&P Global Mobility pour la production automobile. Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "L’équipementier automobile Valeo a réalisé 4,88 milliards d’euros de chiffre d’affaires au troisième trimestre, en baisse de 2,3 % et de 2,6 % à périmètre et change constants. Le groupe fait un peu moins bien que le marché : la production automobile mondiale n’a reculé que de 1,6 %. Il confirme pourtant tous ses objectifs annuels, avec 20 à 21 milliards d’euros de ventes et une marge opérationnelle de 4,7 à 5,3 %.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "4,88 Md€",
+       "chiffre d’affaires du 3e trimestre"
+      ],
+      [
+       "+ 8,2 %",
+       "ventes de la division électronique BRAIN"
+      ],
+      [
+       "− 9,6 %",
+       "ventes de la division motorisation POWER"
+      ],
+      [
+       "56 %",
+       "part des constructeurs chinois dans ses ventes en Chine"
+      ]
+     ]
+    },
+    {
+     "p": "Le métier d’équipementier est exigeant. Valeo vend ses pièces aux constructeurs, qui fixent les volumes et négocient durement les prix. Ses usines et sa recherche coûtent à peu près la même chose que la production automobile monte ou baisse : chaque recul des volumes pèse donc directement sur la marge, qui n’était que de 4,7 % en 2025 pour 20,9 milliards d’euros de ventes. Sur neuf mois, l’activité est presque stable à données comparables (− 0,3 %), à 15,26 milliards d’euros."
+    },
+    {
+     "h": "Deux Valeo en un"
+    },
+    {
+     "p": "Le groupe est organisé en trois divisions. BRAIN, l’électronique d’aide à la conduite, les écrans et la télématique, renoue avec la croissance : + 8,2 %, dix points de mieux que le marché, grâce notamment aux systèmes de vision livrés à un grand constructeur européen. POWER, la motorisation et l’électrification, la plus grosse avec 2,4 milliards d’euros, recule de 9,6 % : l’Europe pèse, et le trimestre de l’an dernier avait été gonflé par des compensations versées par des clients. LIGHT, l’éclairage, est quasi stable. Le pari de Valeo est que la voiture se vendra de plus en plus sur son électronique."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Valeo : ventes première monte par région au 3e trimestre 2026",
+      "sub": "variation sur un an à périmètre et change constants, en %",
+      "rows": [
+       [
+        "Asie hors Chine",
+        7.5
+       ],
+       [
+        "Amérique du Sud",
+        5.2
+       ],
+       [
+        "Amérique du Nord",
+        0.0
+       ],
+       [
+        "Europe et Afrique",
+        -7.1
+       ],
+       [
+        "Chine",
+        -12.9
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Production automobile mondiale estimée à − 1,6 % sur la période (S&P Global Mobility). Source : Valeo, chiffre d’affaires du 3e trimestre 2026, 22 octobre 2026."
+     }
+    },
+    {
+     "h": "La géographie du ralentissement"
+    },
+    {
+     "p": "L’Europe, qui représente encore 46 % des ventes aux constructeurs, chute de 7,1 %, sept points de moins que la production locale. La Chine recule de 12,9 %. À l’inverse, l’Asie hors Chine, Inde en tête, progresse de 7,5 %. En Chine, Valeo s’adapte : 56 % de ses ventes y sont désormais réalisées avec des marques chinoises, contre 52 % un an plus tôt. Le marché de la pièce de rechange, + 3 %, amortit un peu le choc ; cette résistance est [[inherent|inhérente]] à un parc automobile qui vieillit."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Valeo vit la double transition de l’automobile européenne : moins de voitures produites sur le continent, et plus d’électronique dans chacune. Le groupe mise sur le second mouvement pour compenser le premier. Ses objectifs supposent qu’aucun nouveau choc de droits de douane ou d’approvisionnement ne survienne : une hypothèse que la direction pose sans pouvoir l’[[eluder|éluder]], tant les équipementiers sont exposés aux décisions des autres."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>4,88 milliards d’euros</b> au 3e trimestre : − 2,3 %, − 2,6 % à données comparables, pour une production mondiale à − 1,6 %.",
+      "<b>Objectifs confirmés</b> : 20 à 21 milliards d’euros de ventes en 2026, marge opérationnelle de 4,7 à 5,3 %.",
+      "<b>BRAIN, l’électronique</b> : + 8,2 %, dix points de mieux que le marché (aide à la conduite, écrans, vision).",
+      "<b>POWER, la motorisation</b> : − 9,6 %, plombée par l’Europe et par une base de comparaison élevée."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Valeo : ventes première monte par région au 3e trimestre 2026",
+      "sub": "variation sur un an à périmètre et change constants, en %",
+      "rows": [
+       [
+        "Asie hors Chine",
+        7.5
+       ],
+       [
+        "Amérique du Sud",
+        5.2
+       ],
+       [
+        "Amérique du Nord",
+        0.0
+       ],
+       [
+        "Europe et Afrique",
+        -7.1
+       ],
+       [
+        "Chine",
+        -12.9
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Production automobile mondiale estimée à − 1,6 % sur la période (S&P Global Mobility). Source : Valeo, chiffre d’affaires du 3e trimestre 2026, 22 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’Europe chute</b> : − 7,1 % sur 46 % des ventes aux constructeurs. La Chine recule de 12,9 %, l’Asie hors Chine progresse de 7,5 %.",
+      "<b>En Chine</b> : 56 % des ventes avec des marques chinoises, contre 52 % un an plus tôt.",
+      "<b>La rechange résiste</b> (+ 3 %), une solidité [[inherent|inhérente]] à un parc qui vieillit.",
+      "<b>La condition</b> : pas de nouveau choc de douanes ou d’approvisionnement, un risque que la direction ne peut [[eluder|éluder]]."
+     ]
+    }
+   ]
+  }
+ ]
+}
