@@ -1,0 +1,1084 @@
+{
+ "date": "2026-10-27",
+ "label": "Mardi 27 octobre 2026",
+ "n": 12,
+ "example": false,
+ "week": {
+  "start": "2026-10-26",
+  "label": "Semaine du 26 octobre",
+  "day": 2,
+  "words": [
+   {
+    "key": "inherent",
+    "w": "Inhérent",
+    "ph": "[i.ne.ʁɑ̃] · adjectif",
+    "short": "Qui fait partie de la nature même d’une chose.",
+    "def": "Qui est lié par nature à une chose, au point qu’on ne peut l’en séparer. Un risque inhérent à une activité ne vient pas d’un accident extérieur : il existe dès qu’on exerce cette activité. Se construit avec « à » : les aléas inhérents au transport maritime, les difficultés inhérentes à tout changement.",
+    "ety": "Du latin inhaerens, participe présent de inhaerere, « être attaché à », formé sur haerere, « adhérer, rester collé ». Même famille que adhérer, cohérent, cohésion et hésiter (du latin haesitare, « rester accroché »).",
+    "ex": "Les retards sont inhérents à un approvisionnement depuis l’Asie : mieux vaut les intégrer au stock de sécurité que les découvrir à chaque arrivage.",
+    "syn": "intrinsèque, propre à, indissociable de, consubstantiel, naturel"
+   },
+   {
+    "key": "eluder",
+    "w": "Éluder",
+    "ph": "[e.ly.de] · verbe transitif",
+    "short": "Éviter adroitement une question ou une difficulté.",
+    "def": "Se soustraire habilement à ce qui dérange : une question, une objection, un problème, une obligation. Éluder n’est pas répondre non, c’est faire en sorte de ne pas avoir à répondre. Le mot suggère souvent une habileté un peu suspecte.",
+    "ety": "Du latin eludere, « se jouer de, esquiver en jouant », formé sur ludere, « jouer ». Même famille que ludique, illusion, allusion et prélude.",
+    "ex": "Interrogé sur les pénalités de retard, le fournisseur a éludé la question et n’a parlé que de ses nouveaux délais.",
+    "syn": "esquiver, contourner, escamoter, se dérober à, passer sous silence"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Madame Bovary",
+   "by": "Gustave Flaubert · 1857",
+   "tagline": "Rêver plus grand que sa vie",
+   "min": 10,
+   "exMin": 4,
+   "src": "Gustave Flaubert, Madame Bovary. Mœurs de province, publié en feuilleton dans la Revue de Paris (octobre-décembre 1856), puis en volume chez Michel Lévy (avril 1857). Procès devant le tribunal correctionnel de la Seine, acquittement le 7 février 1857. Œuvre du domaine public (Flaubert est mort en 1880) : citation tirée de la première partie, chapitre IX. Terme « bovarysme » : Jules de Gaultier, Le Bovarysme (1892).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Emma, fille de fermier normande nourrie de romans sentimentaux, épouse Charles Bovary, un médecin de campagne honnête et terne. Déçue par le mariage et par la province, elle cherche dans deux liaisons et dans des achats à crédit la vie passionnée qu’elle a lue dans les livres. Couverte de dettes et abandonnée, elle s’empoisonne à l’arsenic."
+      ],
+      [
+       "Le mal de vivre dans les livres",
+       "Emma n’est pas punie pour ses amants, mais pour son regard. Elle juge sa vie à l’aune des romans de couvent, où l’amour est toujours sublime et le décor toujours lointain. L’écart entre le rêve et le réel, qu’on appellera plus tard « bovarysme », est [[inherent|inhérent]] au personnage : aucun homme, aucun lieu ne peut le combler."
+      ],
+      [
+       "Une société de la bêtise satisfaite",
+       "Autour d’Emma, Flaubert peint la province sans indulgence : le pharmacien Homais, bavard et opportuniste, le curé qui ne comprend rien, le marchand Lheureux qui prête pour mieux saisir. Ceux qui réussissent sont les médiocres. Le roman se clôt sur la décoration d’Homais."
+      ],
+      [
+       "L’argent, ressort caché du drame",
+       "Les amants trahissent Emma, mais c’est la dette qui la tue. Lheureux lui vend étoffes et meubles, fait signer des billets, les renouvelle, puis fait saisir la maison. Flaubert montre avec précision comment le crédit à la consommation transforme un désir en piège."
+      ],
+      [
+       "Un style qui ne juge pas",
+       "Flaubert s’efface derrière ses personnages. Il fait entendre leurs pensées sans les commenter, ce qu’on nomme le style indirect libre. Le lecteur doit juger seul. C’est cette neutralité qui valut au livre un procès pour atteinte aux bonnes mœurs, et qui en fait l’acte de naissance du roman moderne."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le mariage"
+    },
+    {
+     "p": "Charles Bovary est un garçon lent, élevé à la campagne, devenu officier de santé, c’est-à-dire médecin sans doctorat, à Tostes, en Normandie. Sa mère l’a marié à une veuve plus âgée que lui, qu’elle croyait riche. Appelé un jour pour soigner la jambe cassée du père Rouault, fermier aux Bertaux, il y rencontre sa fille, Emma, élevée chez les ursulines de Rouen. La première épouse meurt peu après, ruinée par un notaire indélicat. Charles demande Emma en mariage ; la noce, longue et bruyante, est un festin de campagne.",
+     "lead": 1
+    },
+    {
+     "p": "Très vite, Emma s’ennuie. Au couvent, elle a dévoré des romans d’amour, des récits de châteaux et de grandes passions. Le mariage devait lui apporter ce bonheur ; elle ne trouve qu’un mari satisfait, qui mange sa soupe et s’endort. Un bal au château de la Vaubyessard, chez un marquis, lui fait entrevoir le luxe et la valse. Elle en garde un porte-cigares trouvé sur la route et une nostalgie qui ne la quittera plus. Elle tombe malade d’ennui ; Charles, pour la distraire, décide de quitter Tostes."
+    },
+    {
+     "h5": "Yonville et les deux tentations"
+    },
+    {
+     "p": "Le couple s’installe à Yonville-l’Abbaye, gros bourg sans relief où règne le pharmacien Homais, fier de ses idées modernes. Emma met au monde une fille, Berthe, qu’elle aurait voulue garçon et qu’elle confie à une nourrice. Elle se lie avec Léon Dupuis, jeune clerc de notaire qui partage son goût pour la musique et la poésie. L’amour reste muet. Emma joue un temps l’épouse vertueuse, puis Léon part étudier le droit à Paris. Elle sombre de nouveau."
+    },
+    {
+     "p": "Arrive Rodolphe Boulanger, propriétaire du domaine de la Huchette, séducteur expérimenté. Il la courtise pendant les comices agricoles, une grande fête où les discours des notables sur les engrais se mêlent à ses déclarations d’amour. Une promenade à cheval achève la conquête. Emma se croit enfin dans un roman. Pendant ce temps, poussé par Homais, Charles opère le pied bot du garçon d’écurie Hippolyte. L’opération tourne mal ; la gangrène impose une amputation par un vrai médecin. Emma méprise désormais son mari."
+    },
+    {
+     "h5": "La fuite manquée"
+    },
+    {
+     "p": "Emma veut partir avec Rodolphe et emmener Berthe. Elle commande au marchand Lheureux un manteau, des malles, un sac de voyage, à crédit. La veille du départ, Rodolphe renonce : il lui envoie une lettre de rupture au fond d’un panier d’abricots. Emma manque de se jeter par la fenêtre, puis tombe gravement malade pendant des semaines. Elle se tourne un moment vers la religion, sans y trouver la paix."
+    },
+    {
+     "p": "Pour la distraire, Charles l’emmène à l’opéra de Rouen voir <em>Lucia di Lammermoor</em>. Ils y retrouvent Léon, revenu de Paris, plus assuré. Il devient l’amant d’Emma lors d’une longue course en fiacre, rideaux baissés, à travers la ville. Sous prétexte de leçons de piano, elle part chaque jeudi le rejoindre à Rouen, dans une chambre d’hôtel. Elle ment de plus en plus, et dépense de plus en plus."
+    },
+    {
+     "h5": "La dette et la mort"
+    },
+    {
+     "p": "Lheureux a tout compris. Il lui fait signer des billets, obtient une procuration sur les biens de Charles, renouvelle les échéances en ajoutant ses intérêts. Un jour, un huissier vient saisir les meubles. Emma court chercher de l’argent : Léon promet et n’apporte rien ; le notaire Guillaumin lui propose de payer en nature ; Rodolphe, qu’elle supplie, refuse. Elle comprend qu’on ne l’a jamais aimée comme elle aimait."
+    },
+    {
+     "p": "Emma entre dans l’arrière-boutique d’Homais, où le jeune commis Justin garde la clé, et avale de l’arsenic à pleines mains. Son agonie, longue et atroce, est décrite sans un mot de trop, jusqu’à la chanson d’un mendiant aveugle sous la fenêtre. Charles, ruiné, découvre plus tard les lettres de ses amants. Il croise Rodolphe et lui dit seulement que c’est la faute de la fatalité. Il meurt peu après dans son jardin. Berthe, recueillie par une tante pauvre, travaille dans une filature de coton. Homais, lui, vient de recevoir la Légion d’honneur."
+    },
+    {
+     "quote": "Elle souhaitait à la fois mourir et habiter Paris.",
+     "cite": "Gustave Flaubert, Madame Bovary, première partie, chapitre IX"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Cinq ans pour un fait divers"
+    },
+    {
+     "p": "Flaubert a presque trente ans quand il commence le livre, en septembre 1851, sur le conseil d’amis qui jugeaient trop lyrique sa première <em>Tentation de saint Antoine</em>. Il s’impose un sujet bas, presque trivial : l’histoire, connue en Normandie, de Delphine Delamare, épouse d’un officier de santé de Ry, morte jeune après des dettes et des liaisons. Il y travaille près de cinq ans, à Croisset, près de Rouen, pesant chaque phrase et la lisant à voix haute. Sa correspondance raconte des journées entières pour quelques lignes."
+    },
+    {
+     "h5": "Le procès"
+    },
+    {
+     "p": "Le roman paraît en feuilleton dans la <em>Revue de Paris</em> à la fin de 1856, avec des coupures. En janvier 1857, Flaubert, son éditeur et l’imprimeur sont poursuivis pour outrage à la morale publique et religieuse. Le procureur Ernest Pinard reproche au livre de ne condamner personne : aucun narrateur ne vient blâmer l’adultère. L’avocat Jules Senard plaide que la mort atroce d’Emma vaut toutes les leçons. Le tribunal acquitte le 7 février. Le livre sort en avril chez Michel Lévy, et le scandale fait son succès."
+    },
+    {
+     "h5": "Le style indirect libre"
+    },
+    {
+     "p": "La grande invention du roman est de mêler la voix du narrateur et celle du personnage, sans guillemets ni « pensa-t-elle ». Quand Emma rêve de gondoles et de lunes de miel en Écosse, c’est sa pensée qu’on lit, avec ses clichés, mais dans la phrase même de Flaubert. L’ironie naît de cet écart. Flaubert n’[[eluder|élude]] rien de la médiocrité de ses personnages, mais il ne la commente jamais : il la montre."
+    },
+    {
+     "h5": "La scène des comices"
+    },
+    {
+     "p": "Le chapitre des comices agricoles est un modèle de montage. Flaubert alterne, phrase après phrase, le discours d’un conseiller sur l’agriculture et les déclarations de Rodolphe à Emma, jusqu’à la remise d’une médaille pour un fumier. Les deux discours se ressemblent : même enflure, mêmes formules creuses. L’amour romantique et l’éloquence officielle sont renvoyés dos à dos. Le cinéma reprendra souvent ce procédé du montage alterné."
+    },
+    {
+     "h5": "Le bovarysme"
+    },
+    {
+     "p": "En 1892, le philosophe Jules de Gaultier forge le mot « bovarysme » : le pouvoir de se concevoir autre qu’on n’est. Le terme est passé dans la langue. Il désigne l’insatisfaction de celui qui vit sa vie à travers des images empruntées. Flaubert aurait dit « Madame Bovary, c’est moi » ; la phrase n’est attestée par aucun écrit de sa main, mais elle dit bien que l’auteur partageait la maladie de son héroïne, lui qui détestait la province autant qu’elle."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Emma ne lisait que des romans ; nous avons les publicités, les séries et les réseaux sociaux. Le mécanisme est le même : désirer une vie vue ailleurs, et payer à crédit pour s’en approcher. Lheureux, qui vend des facilités de paiement à une cliente fragile, n’a rien perdu de son actualité. Le livre rappelle aussi qu’on ne peut [[eluder|éluder]] indéfiniment le réel : les échéances finissent toujours par arriver. Et il reste une leçon d’écriture : chaque mot y est pesé."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Emma, fille de fermier normande nourrie de romans sentimentaux, épouse Charles Bovary, médecin de campagne honnête et terne. Déçue, elle cherche dans deux liaisons et des achats à crédit la vie passionnée de ses lectures. Couverte de dettes et abandonnée, elle s’empoisonne à l’arsenic.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le mal de vivre dans les livres</b> : Emma juge sa vie à l’aune des romans. Cet écart, le « bovarysme », est [[inherent|inhérent]] au personnage : rien ne peut le combler.",
+      "<b>La bêtise satisfaite</b> : le pharmacien Homais, le curé, le marchand Lheureux. Les médiocres réussissent ; Homais finit décoré.",
+      "<b>L’argent tue</b> : les amants trahissent, mais c’est la dette qui perd Emma. Le crédit transforme le désir en piège.",
+      "<b>Un style qui ne juge pas</b> : Flaubert fait entendre les pensées sans les commenter. Le lecteur juge seul. Cette neutralité valut au livre un procès et en fait l’acte de naissance du roman moderne."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le mariage</b> : Charles, officier de santé à Tostes, médecin sans doctorat, soigne le père Rouault et épouse sa fille Emma. Elle s’ennuie vite ; un bal au château de la Vaubyessard lui laisse une nostalgie du luxe.",
+      "<b>Yonville</b> : naissance de Berthe. Amour muet avec Léon, clerc de notaire, qui part pour Paris.",
+      "<b>Rodolphe</b> : séduction pendant les comices agricoles, liaison. Charles rate l’opération du pied bot d’Hippolyte ; Emma le méprise.",
+      "<b>La fuite manquée</b> : Rodolphe rompt par une lettre cachée dans un panier d’abricots. Emma tombe malade.",
+      "<b>Léon à Rouen</b> : retrouvailles à l’opéra, liaison chaque jeudi sous prétexte de leçons de piano.",
+      "<b>La chute</b> : Lheureux fait saisir les meubles. Léon, le notaire, Rodolphe : personne n’aide Emma. Elle avale de l’arsenic chez Homais.",
+      "<b>Après</b> : Charles meurt ruiné, Berthe travaille dans une filature, Homais reçoit la Légion d’honneur."
+     ]
+    },
+    {
+     "quote": "Elle souhaitait à la fois mourir et habiter Paris.",
+     "cite": "Gustave Flaubert, Madame Bovary, première partie, chapitre IX"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Un fait divers</b> : inspiré de l’histoire de Delphine Delamare, à Ry. Près de cinq ans d’écriture à Croisset, de 1851 à 1856.",
+      "<b>Le procès</b> : poursuivi pour outrage à la morale en janvier 1857, Flaubert est acquitté le 7 février. Le scandale fait le succès du livre.",
+      "<b>Le style indirect libre</b> : la pensée d’Emma, avec ses clichés, dans la phrase de Flaubert. Il n’[[eluder|élude]] rien de la médiocrité, mais ne la commente jamais.",
+      "<b>Les comices</b> : discours officiel et déclaration d’amour alternés phrase à phrase, même enflure. Un montage que le cinéma reprendra.",
+      "<b>Le bovarysme</b> : mot forgé en 1892 par Jules de Gaultier, se concevoir autre qu’on n’est. « Madame Bovary, c’est moi » n’est attesté par aucun écrit de Flaubert.",
+      "<b>Aujourd’hui</b> : désirer une vie vue ailleurs et la payer à crédit. On ne peut [[eluder|éluder]] le réel indéfiniment : les échéances arrivent."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Stratégie Océan Bleu",
+   "by": "W. Chan Kim et Renée Mauborgne · 2005",
+   "min": 9,
+   "exMin": 3,
+   "src": "W. Chan Kim et Renée Mauborgne, Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant (Harvard Business School Press, 2005 ; édition augmentée 2015) ; trad. fr. Stratégie Océan Bleu (Village Mondial, 2005). Article fondateur : « Blue Ocean Strategy », Harvard Business Review, octobre 2004 (étude des 108 lancements). Ventes et traductions, critiques : notice Wikipédia du livre. Ventes de [yellow tail] : notice Wikipédia de la marque. Prix de la Ford T : résumé de l’article HBR (MAAW).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Deux professeurs de l’Insead, W. Chan Kim et Renée Mauborgne, opposent les « océans rouges », marchés saturés où les concurrents se disputent les mêmes clients, aux « océans bleus », marchés encore inexistants. Leur thèse : les entreprises qui gagnent durablement ne battent pas leurs rivaux, elles rendent la concurrence sans objet en inventant une offre nouvelle."
+      ],
+      [
+       "Les océans bleus rapportent plus",
+       "Sur 108 lancements de nouvelles activités étudiés, 86 % étaient des extensions de l’offre existante. Elles ont produit 62 % du chiffre d’affaires mais seulement 39 % des profits. Les 14 % restants, qui créaient un marché, ont dégagé 38 % des ventes et 61 % des profits."
+      ],
+      [
+       "Casser l’arbitrage entre prix et qualité",
+       "La stratégie classique impose de choisir : être le moins cher ou être différent. L’« innovation-valeur » vise les deux à la fois. On supprime ce qui coûte sans plaire, ce qui baisse les coûts ; on crée ce qui manque, ce qui attire de nouveaux clients."
+      ],
+      [
+       "Une grille en quatre verbes",
+       "Éliminer, réduire, augmenter, créer : quatre questions à poser à chaque facteur de concurrence d’un secteur. Le Cirque du Soleil a éliminé les animaux et les vedettes, réduit le danger, et créé un thème, une musique, une mise en scène dignes du théâtre."
+      ],
+      [
+       "Regarder les non-clients",
+       "Les auteurs conseillent d’étudier ceux qui n’achètent pas, plutôt que de mieux servir ceux qui achètent déjà. Le vin australien [yellow tail] a séduit des Américains qui buvaient de la bière et trouvaient le vin intimidant : 200 000 caisses en 2001, 2,2 millions en 2002."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Deux professeurs et une métaphore"
+    },
+    {
+     "p": "W. Chan Kim, né en Corée du Sud, et Renée Mauborgne, Américaine, enseignent la stratégie à l’Insead, à Fontainebleau. Ils travaillent ensemble depuis les années 1980. Leur article de la <em>Harvard Business Review</em> d’octobre 2004 devient un livre en 2005, traduit en français la même année sous le titre <em>Stratégie Océan Bleu</em>. Il s’en est vendu plus de 3,5 millions d’exemplaires, en 43 langues. La métaphore a fait son succès : dans l’océan rouge, l’eau est teintée par le sang de la concurrence ; dans l’océan bleu, l’espace est libre."
+    },
+    {
+     "h5": "La thèse : l’unité d’analyse est le mouvement stratégique"
+    },
+    {
+     "p": "La plupart des livres de management étudient des entreprises « excellentes ». Kim et Mauborgne objectent qu’aucune entreprise ne reste excellente longtemps. Ils étudient donc des décisions : plus de 150 mouvements stratégiques, sur plus de cent ans et dans une trentaine de secteurs. La Ford T de 1908 en est l’archétype. Quand des centaines d’ateliers fabriquent des automobiles de luxe à la main, Ford propose une voiture unique, robuste, à 850 dollars, puis à 290 dollars en 1924. Il ne bat pas les constructeurs de luxe : il crée le marché de l’automobile populaire, celui de familles qui n’avaient jamais envisagé d’acheter une voiture."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Océans rouges et océans bleus : 108 lancements étudiés",
+      "sub": "en % du total de l’échantillon",
+      "labels": [
+       "Lancements",
+       "Chiffre d’affaires",
+       "Profits"
+      ],
+      "series": [
+       {
+        "name": "Extensions de l’offre existante",
+        "values": [
+         86,
+         62,
+         39
+        ]
+       },
+       {
+        "name": "Création d’un nouveau marché",
+        "values": [
+         14,
+         38,
+         61
+        ]
+       }
+      ],
+      "note": "Échantillon de 108 lancements de nouvelles activités. Source : W. Chan Kim et Renée Mauborgne, Harvard Business Review (octobre 2004) et Stratégie Océan Bleu (2005)."
+     }
+    },
+    {
+     "h5": "L’innovation-valeur"
+    },
+    {
+     "p": "Le cœur du livre est un refus. Depuis Michael Porter, on enseigne qu’une entreprise doit choisir entre domination par les coûts et différenciation. Pour les auteurs, ce choix n’est [[inherent|inhérent]] qu’aux marchés existants, où l’on se compare aux mêmes critères. Dès qu’on redéfinit ce que le client achète, on peut baisser les coûts et augmenter la valeur à la fois. C’est l’« innovation-valeur » : non pas une prouesse technologique, mais une nouvelle manière de combiner utilité, prix et coût."
+    },
+    {
+     "h5": "Les outils"
+    },
+    {
+     "p": "Le premier outil est le canevas stratégique. On place en abscisse les facteurs sur lesquels un secteur se concurrence, en ordonnée le niveau d’offre de chaque acteur. Dans un océan rouge, toutes les courbes se ressemblent. Le second est la grille des quatre actions. Le Cirque du Soleil, fondé en 1984 au Québec par des artistes de rue, l’illustre : il supprime les numéros d’animaux, coûteux et contestés, et les vedettes ; il garde la tente et les acrobates ; il ajoute une histoire, de la danse, de la musique originale. Il attire des adultes qui n’allaient plus au cirque, à des prix de théâtre. Selon les auteurs, il atteint en moins de vingt ans un chiffre d’affaires que le cirque Ringling Bros. avait mis plus d’un siècle à atteindre."
+    },
+    {
+     "p": "Le livre propose aussi six pistes pour sortir des frontières d’un marché : regarder les secteurs de substitution, les autres groupes stratégiques, les prescripteurs plutôt que les acheteurs, les produits complémentaires, l’émotionnel contre le fonctionnel, les tendances de fond. Southwest Airlines a ainsi conçu son offre face à la voiture, et non face aux autres compagnies : la vitesse de l’avion au prix d’un trajet en auto. Pas de repas, pas de classes, pas de grands aéroports, mais des vols fréquents et ponctuels entre villes moyennes."
+    },
+    {
+     "stats": [
+      [
+       "150",
+       "mouvements stratégiques étudiés, sur plus de cent ans et trente secteurs"
+      ],
+      [
+       "14 % → 61 %",
+       "des lancements créant un marché, pour 61 % des profits"
+      ],
+      [
+       "2,2 M",
+       "caisses de vin [yellow tail] vendues aux États-Unis en 2002, contre 200 000 en 2001"
+      ],
+      [
+       "3,5 M",
+       "exemplaires vendus, traduits en 43 langues"
+      ]
+     ]
+    },
+    {
+     "h5": "Exécuter : le point de bascule"
+    },
+    {
+     "p": "La seconde moitié du livre traite de la mise en œuvre. Les auteurs identifient quatre obstacles : cognitif (les équipes ne voient pas le problème), de ressources, de motivation, et politique. Ils s’appuient sur l’exemple de Bill Bratton, chef de la police de New York dans les années 1990, qui concentre ses moyens sur quelques leviers décisifs. Ils insistent enfin sur le « processus équitable » : associer, expliquer, clarifier les attentes. Une stratégie imposée sans explication est souvent sabotée en silence. Les auteurs résument leur démarche en une séquence simple : vérifier d’abord l’utilité pour l’acheteur, puis fixer un prix accessible au plus grand nombre, ensuite seulement calculer le coût cible, et enfin lever les obstacles à l’adoption. Inverser cet ordre, partir du coût ou de la technologie, mène selon eux à des innovations brillantes que personne n’achète."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre est souvent attaqué sur sa méthode. Il raisonne à partir de succès choisis après coup, sans groupe de comparaison : on ne sait rien des entreprises qui ont tenté un océan bleu et ont échoué. La théorie est donc difficile à réfuter. Les critiques notent aussi que beaucoup d’idées figuraient déjà chez Gary Hamel et C. K. Prahalad, et que la réussite du marketing y est supposée plutôt qu’analysée. Surtout, l’océan bleu ne reste pas bleu : les imitateurs arrivent. Les auteurs ne l’[[eluder|éludent]] pas, mais leur réponse, recommencer, reste générale."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Le vocabulaire est entré dans toutes les écoles de commerce et dans les comités de direction. On cite souvent la console Wii de Nintendo, vendue à plus de 100 millions d’exemplaires, qui visait les familles plutôt que les joueurs passionnés. Les auteurs ont publié une édition augmentée en 2015, puis <em>Blue Ocean Shift</em> en 2017. Pour un responsable de la supply chain, la leçon est concrète : une offre nouvelle se gagne souvent en supprimant des coûts que les clients ne valorisent pas, plutôt qu’en ajoutant des services."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Deux professeurs de l’Insead opposent les « océans rouges », marchés saturés où l’on se dispute les mêmes clients, aux « océans bleus », marchés encore inexistants. Leur thèse : les gagnants durables ne battent pas leurs rivaux, ils rendent la concurrence sans objet en inventant une offre nouvelle.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Plus rentable</b> : sur 108 lancements, 86 % d’extensions font 62 % des ventes et 39 % des profits ; 14 % de créations de marché font 38 % des ventes et 61 % des profits.",
+      "<b>L’innovation-valeur</b> : baisser les coûts et augmenter la valeur à la fois. L’arbitrage prix-différenciation n’est [[inherent|inhérent]] qu’aux marchés existants.",
+      "<b>Quatre verbes</b> : éliminer, réduire, augmenter, créer. Le Cirque du Soleil supprime animaux et vedettes, ajoute histoire et musique.",
+      "<b>Les non-clients</b> : [yellow tail] séduit les buveurs de bière intimidés par le vin. Ventes américaines : 200 000 caisses en 2001, 2,2 millions en 2002."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "150",
+       "mouvements stratégiques étudiés, sur plus de cent ans et trente secteurs"
+      ],
+      [
+       "14 % → 61 %",
+       "des lancements créant un marché, pour 61 % des profits"
+      ],
+      [
+       "2,2 M",
+       "caisses de vin [yellow tail] vendues aux États-Unis en 2002, contre 200 000 en 2001"
+      ],
+      [
+       "3,5 M",
+       "exemplaires vendus, traduits en 43 langues"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Océans rouges et océans bleus : 108 lancements étudiés",
+      "sub": "en % du total de l’échantillon",
+      "labels": [
+       "Lancements",
+       "Chiffre d’affaires",
+       "Profits"
+      ],
+      "series": [
+       {
+        "name": "Extensions de l’offre existante",
+        "values": [
+         86,
+         62,
+         39
+        ]
+       },
+       {
+        "name": "Création d’un nouveau marché",
+        "values": [
+         14,
+         38,
+         61
+        ]
+       }
+      ],
+      "note": "Échantillon de 108 lancements de nouvelles activités. Source : W. Chan Kim et Renée Mauborgne, Harvard Business Review (octobre 2004) et Stratégie Océan Bleu (2005)."
+     }
+    },
+    {
+     "ul": [
+      "<b>Les auteurs</b> : W. Chan Kim et Renée Mauborgne, Insead. Article HBR en 2004, livre en 2005, traduit la même année. Plus de 3,5 millions d’exemplaires, 43 langues.",
+      "<b>La méthode</b> : étudier des décisions, pas des entreprises, car aucune entreprise ne reste excellente longtemps. Plus de 150 mouvements stratégiques sur cent ans. Archétype : la Ford T, 850 dollars en 1908, 290 dollars en 1924, qui crée le marché de l’automobile populaire.",
+      "<b>Les outils</b> : canevas stratégique, grille des quatre actions, six pistes pour sortir d’un marché. Southwest se compare à la voiture, pas aux autres compagnies : la vitesse de l’avion au prix d’un trajet en auto.",
+      "<b>L’exécution</b> : quatre obstacles (cognitif, ressources, motivation, politique) et le « processus équitable ». Ordre à respecter : utilité, prix, coût, adoption.",
+      "<b>Les critiques</b> : succès choisis après coup, pas de groupe témoin, idées proches de Hamel et Prahalad. L’océan bleu se fait imiter : les auteurs ne l’[[eluder|éludent]] pas, mais répondent de façon générale.",
+      "<b>Le Cirque du Soleil</b> : fondé en 1984 au Québec. Selon les auteurs, il atteint en moins de vingt ans un chiffre d’affaires que Ringling Bros. avait mis plus d’un siècle à atteindre.",
+      "<b>Postérité</b> : la Wii de Nintendo (plus de 100 millions d’unités), <em>Blue Ocean Shift</em> en 2017. Leçon : gagner en supprimant ce que le client ne valorise pas."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Banques centrales : cinq décisions face au choc pétrolier",
+   "by": "Analyse",
+   "fig": "5",
+   "figl": "décisions de taux en trois jours",
+   "min": 3,
+   "exMin": 2,
+   "src": "Taux directeurs et inflation : Fed, BCE, Banque du Japon, Banque d’Angleterre, Banque du Canada, Banque de réserve de Nouvelle-Zélande, compilés par Fattail (« Same Oil Shock, Ten Central Banks », octobre 2026) ; agenda et consensus : Newsquawk, « Week in Focus 26-30 October 2026 » (sondage Reuters, enquête de la Banque du Canada) ; Brent et Banque du Canada : FXStreet, 26 octobre 2026. Données arrêtées au 26 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Cinq grandes banques centrales décident de leurs taux entre mercredi et vendredi. La Fed américaine, la Banque du Canada et celle de Nouvelle-Zélande mercredi, la BCE jeudi, la Banque du Japon vendredi. Toutes affrontent le même problème : le pétrole cher, avec un Brent monté au-dessus de 117 dollars début octobre, a fait remonter l’inflation partout. Et presque toutes penchent vers la hausse des taux.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Inflation sur un an, dernier chiffre connu",
+      "sub": "en %, septembre 2026 (3e trimestre pour la Nouvelle-Zélande)",
+      "rows": [
+       [
+        "Zone euro",
+        3.8
+       ],
+       [
+        "États-Unis",
+        3.7
+       ],
+       [
+        "Nouvelle-Zélande",
+        3.7
+       ],
+       [
+        "Royaume-Uni",
+        3.5
+       ],
+       [
+        "Canada",
+        3.1
+       ],
+       [
+        "Japon",
+        2.1
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Sources : Eurostat, BLS, Stats NZ, ONS, Statistique Canada, ministère japonais des Affaires intérieures (via Fattail et Newsquawk)."
+     }
+    },
+    {
+     "h": "Pourquoi relever les taux face à un choc d’offre"
+    },
+    {
+     "p": "En théorie, une banque centrale doit regarder au-delà d’un choc pétrolier. Monter les taux ne produit pas un baril de plus, et la hausse des prix de l’énergie pèse déjà sur la consommation. Le risque est ailleurs : les effets de second tour. Quand l’essence augmente de près de 30 % en un an, comme au Royaume-Uni en septembre, les salariés réclament des hausses de salaire, les entreprises répercutent leurs coûts, et l’inflation s’installe. Ce danger est [[inherent|inhérent]] à tout choc durable : c’est la leçon des années 1970."
+    },
+    {
+     "p": "Les signaux d’alerte se multiplient. Au Canada, les anticipations d’inflation à cinq ans mesurées par l’enquête de la banque centrale sont passées de 3,39 % à 3,91 %. Aux États-Unis, l’inflation atteint 3,7 % ; la Fed a relevé ses taux en septembre pour la première fois depuis juillet 2023. La BCE a fait de même, avec un taux de dépôt porté à 2,50 %."
+    },
+    {
+     "stats": [
+      [
+       "3,75-4 %",
+       "taux de la Fed après la hausse du 16 septembre"
+      ],
+      [
+       "2,50 %",
+       "taux de dépôt de la BCE, deuxième hausse de l’année en septembre"
+      ],
+      [
+       "1,25 %",
+       "taux de la Banque du Japon"
+      ],
+      [
+       "2,25 %",
+       "taux de la Banque du Canada, qui devrait monter à 2,50 %"
+      ]
+     ]
+    },
+    {
+     "h": "Cinq cas différents"
+    },
+    {
+     "p": "La Fed devrait marquer une pause : 94 économistes sur 100 interrogés par Reuters l’attendent, mais une hausse en décembre reste discutée. La Banque du Canada, avec 3,1 % d’inflation, devrait relever son taux pour la première fois depuis trois ans ; les marchés y voient environ 80 % de chances. La Nouvelle-Zélande, à 3,7 % d’inflation, devrait relever son taux de 2,75 % à 3 %, selon le consensus. La BCE devrait attendre, freinée par les tensions sur la dette française. Au Japon, où l’inflation vient seulement de dépasser 2 %, la hausse est attendue en décembre."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le cycle de baisse des taux de 2024-2025 est bel et bien terminé, des deux côtés de l’Atlantique. Pour les entreprises, cela signifie un crédit plus cher et des stocks plus coûteux à financer, au moment où le transport et l’énergie pèsent déjà sur les marges. Les banquiers centraux ne peuvent pas [[eluder|éluder]] le dilemme : freiner une économie déjà ralentie par le pétrole, ou laisser l’inflation devenir une habitude."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Cinq décisions en trois jours</b> : Fed, Canada et Nouvelle-Zélande mercredi, BCE jeudi, Japon vendredi.",
+      "<b>Le même choc</b> : Brent au-dessus de 117 dollars début octobre ; inflation de 2,1 % (Japon) à 3,8 % (zone euro).",
+      "<b>Pourquoi monter les taux</b> : éviter les effets de second tour, salaires et prix qui s’emballent. Un risque [[inherent|inhérent]] à tout choc durable, la leçon des années 1970.",
+      "<b>Signal d’alerte</b> : au Canada, anticipations d’inflation à cinq ans de 3,39 % à 3,91 %. Au Royaume-Uni, essence + 29,8 % en un an.",
+      "<b>Déjà relevés</b> : Fed en septembre, première hausse depuis juillet 2023 ; BCE à 2,50 %, deuxième hausse de l’année."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "3,75-4 %",
+       "taux de la Fed après la hausse du 16 septembre"
+      ],
+      [
+       "2,50 %",
+       "taux de dépôt de la BCE, deuxième hausse de l’année en septembre"
+      ],
+      [
+       "1,25 %",
+       "taux de la Banque du Japon"
+      ],
+      [
+       "2,25 %",
+       "taux de la Banque du Canada, qui devrait monter à 2,50 %"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Inflation sur un an, dernier chiffre connu",
+      "sub": "en %, septembre 2026 (3e trimestre pour la Nouvelle-Zélande)",
+      "rows": [
+       [
+        "Zone euro",
+        3.8
+       ],
+       [
+        "États-Unis",
+        3.7
+       ],
+       [
+        "Nouvelle-Zélande",
+        3.7
+       ],
+       [
+        "Royaume-Uni",
+        3.5
+       ],
+       [
+        "Canada",
+        3.1
+       ],
+       [
+        "Japon",
+        2.1
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Sources : Eurostat, BLS, Stats NZ, ONS, Statistique Canada, ministère japonais des Affaires intérieures (via Fattail et Newsquawk)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Attendu</b> : pause de la Fed (94 économistes sur 100) et de la BCE, freinée par la dette française ; hausse probable au Canada (≈ 80 %) et en Nouvelle-Zélande (à 3 %) ; Japon en décembre.",
+      "<b>Fin du cycle de baisse</b> : crédit plus cher, stocks plus coûteux à financer.",
+      "<b>Le dilemme</b>, qu’on ne peut [[eluder|éluder]] : freiner une économie déjà ralentie ou laisser l’inflation s’installer."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Israël vote, et aucun camp n’a de majorité",
+   "by": "Analyse",
+   "fig": "61",
+   "figl": "sièges pour gouverner, hors de portée",
+   "min": 3,
+   "exMin": 2,
+   "src": "Système électoral, partis et alliances : Wikipédia, « 2026 Israeli legislative election » ; sondages : The Jerusalem Post (25 octobre 2026, moyenne de quatre sondages), Anadolu et HNGN (26 octobre 2026) ; enjeux des électeurs : sondage de la chaîne 12 (via HNGN) ; soutien de Donald Trump : The New Arab. Données arrêtées au 26 octobre 2026, avant le scrutin.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Les Israéliens élisent aujourd’hui leurs 120 députés, pour la première fois depuis l’attaque du Hamas du 7 octobre 2023. Environ 7,3 millions d’électeurs sont appelés aux urnes, dont 1,2 million de citoyens arabes. Les derniers sondages donnent la tête à Gadi Eisenkot, ancien chef d’état-major, devant le Likoud de Benjamin Netanyahou. Mais aucun des deux blocs n’approche des 61 sièges nécessaires pour gouverner.",
+     "lead": 1
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Israël : sièges prévus par les derniers sondages",
+      "sub": "moyenne de quatre sondages, sur 120 sièges",
+      "rows": [
+       [
+        "Yashar (Eisenkot)",
+        22
+       ],
+       [
+        "Likoud (Netanyahou)",
+        19.8
+       ],
+       [
+        "Ensemble (Bennett, Lapid)",
+        14.5
+       ],
+       [
+        "Démocrates (Golan)",
+        9.5
+       ],
+       [
+        "Liste unifiée (arabe)",
+        9
+       ],
+       [
+        "Israel Beytenou (Lieberman)",
+        8
+       ],
+       [
+        "Force juive (Ben-Gvir)",
+        7.8
+       ],
+       [
+        "Shas",
+        7.5
+       ]
+      ],
+      "prefix": "",
+      "suffix": "",
+      "note": "Moyenne des sondages des chaînes 12, 13, 14 et de Maariv, publiés le 25 octobre 2026. Source : The Jerusalem Post."
+     }
+    },
+    {
+     "h": "Deux blocs, aucune majorité"
+    },
+    {
+     "p": "Le scrutin est proportionnel intégral, avec une seule circonscription nationale et un seuil de 3,25 % des voix. Ce système favorise la fragmentation : 38 listes se présentent, et onze à treize devraient entrer à la Knesset. La coalition sortante, qui réunit le Likoud, l’extrême droite et les partis ultra-orthodoxes, obtiendrait environ 50 sièges. L’opposition, de la droite laïque de Bennett et Lieberman à la gauche de Yair Golan, en aurait de 52 à 56. Les partis arabes, 14 à 16 sièges, deviennent l’arbitre."
+    },
+    {
+     "stats": [
+      [
+       "61",
+       "sièges sur 120 pour une majorité"
+      ],
+      [
+       "≈ 50",
+       "sièges prévus pour le bloc de Netanyahou"
+      ],
+      [
+       "52 à 56",
+       "sièges prévus pour le bloc d’opposition"
+      ],
+      [
+       "14 à 16",
+       "sièges prévus pour les partis arabes"
+      ]
+     ]
+    },
+    {
+     "p": "Netanyahou, 77 ans, brigue un septième mandat. Il reste jugé pour corruption, ce qu’il conteste, et visé par un mandat d’arrêt de la Cour pénale internationale. Donald Trump lui a apporté un soutien public pendant la campagne. Eisenkot, 66 ans, chef de l’armée de 2015 à 2019, a perdu un fils à Gaza. Il réclame une commission d’enquête officielle sur le 7 octobre, que Netanyahou refuse, et la fin des exemptions de service militaire des ultra-orthodoxes."
+    },
+    {
+     "h": "Les scénarios"
+    },
+    {
+     "p": "Selon un sondage de la chaîne 12, les électeurs placent en tête le coût de la vie (21 %), puis le service militaire des ultra-orthodoxes (17 %), les défaillances du 7 octobre (14 %) et la guerre avec l’Iran (10 %). Pour gouverner, Eisenkot devrait s’appuyer sur les partis arabes, au moins de l’extérieur, ce que Lieberman refuse. Netanyahou, lui, a besoin que ses petits alliés franchissent le seuil et d’au moins un transfuge ; il courtise Bennett et Lieberman. Un gouvernement d’union reste possible, mais l’opposition [[eluder|élude]] pour l’instant la question en refusant de siéger sous Netanyahou."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les résultats officiels sont attendus le 4 novembre. Le président Isaac Herzog confiera ensuite à la personnalité la plus à même de réunir 61 députés un délai de 28 jours, prolongeable de 14, pour former un gouvernement. Un blocage laisserait Netanyahou en fonction comme Premier ministre par intérim, et pourrait conduire à un nouveau scrutin. L’instabilité est presque [[inherent|inhérente]] à ce système : Israël a voté cinq fois entre 2019 et 2022."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Premier scrutin depuis le 7 octobre 2023</b> : 120 sièges, ≈ 7,3 millions d’électeurs, dont 1,2 million de citoyens arabes.",
+      "<b>En tête</b> : Yashar de Gadi Eisenkot (≈ 22 sièges) devant le Likoud de Netanyahou (≈ 20).",
+      "<b>Pas de majorité</b> : bloc Netanyahou ≈ 50 sièges, opposition 52 à 56, partis arabes 14 à 16. Il en faut 61.",
+      "<b>Le système</b> : proportionnelle intégrale, seuil de 3,25 %, 38 listes. L’instabilité y est presque [[inherent|inhérente]] : cinq scrutins entre 2019 et 2022."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Israël : sièges prévus par les derniers sondages",
+      "sub": "moyenne de quatre sondages, sur 120 sièges",
+      "rows": [
+       [
+        "Yashar (Eisenkot)",
+        22
+       ],
+       [
+        "Likoud (Netanyahou)",
+        19.8
+       ],
+       [
+        "Ensemble (Bennett, Lapid)",
+        14.5
+       ],
+       [
+        "Démocrates (Golan)",
+        9.5
+       ],
+       [
+        "Liste unifiée (arabe)",
+        9
+       ],
+       [
+        "Israel Beytenou (Lieberman)",
+        8
+       ],
+       [
+        "Force juive (Ben-Gvir)",
+        7.8
+       ],
+       [
+        "Shas",
+        7.5
+       ]
+      ],
+      "prefix": "",
+      "suffix": "",
+      "note": "Moyenne des sondages des chaînes 12, 13, 14 et de Maariv, publiés le 25 octobre 2026. Source : The Jerusalem Post."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les enjeux</b> : coût de la vie (21 %), service militaire des ultra-orthodoxes (17 %), 7 octobre (14 %), Iran (10 %).",
+      "<b>Les hommes</b> : Netanyahou, 77 ans, jugé pour corruption et visé par la CPI, soutenu par Trump. Eisenkot, 66 ans, ex-chef d’état-major, veut une enquête sur le 7 octobre.",
+      "<b>Les scénarios</b> : Eisenkot avec un appui arabe (refusé par Lieberman), Netanyahou avec un transfuge, ou une union que l’opposition [[eluder|élude]] pour l’instant.",
+      "<b>Calendrier</b> : résultats officiels le 4 novembre, puis 28 jours (+ 14) pour former un gouvernement. Blocage : Netanyahou reste par intérim."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Camionnage américain : les transporteurs reprennent la main",
+   "by": "Analyse",
+   "fig": "≈ 14 %",
+   "figl": "chargements refusés par les transporteurs",
+   "min": 3,
+   "exMin": 2,
+   "src": "Knight-Swift, résultats du 3e trimestre 2026, 21 octobre 2026 (via CCJ, 23 octobre, et FreightWaves, 22 octobre) ; taux de refus, tracteurs et conducteurs : FreightWaves SONAR, 6 octobre 2026 ; règle sur les permis de non-résidents : FMCSA (règle définitive du 16 mars 2026, via J.B. Hunt) ; diesel : Intelligent Audit, 26 octobre 2026. Données arrêtées au 26 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Après plus de trois ans de prix bas, le transport routier américain bascule en faveur des transporteurs. Près de 14 % des chargements prévus sous contrat sont désormais refusés par les camionneurs, qui préfèrent le marché spot, mieux payé : trois fois plus qu’en 2023. Knight-Swift, numéro un du lot complet aux États-Unis, va réclamer à ses clients des hausses de tarifs « à deux chiffres » lors des appels d’offres annuels qui s’ouvrent en novembre.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "≈ 14 %",
+       "chargements refusés par les transporteurs sous contrat, début octobre"
+      ],
+      [
+       "89,2 %",
+       "ratio d’exploitation du lot complet chez Knight-Swift, contre 96,2 % un an plus tôt"
+      ],
+      [
+       "≈ 200 000",
+       "permis poids lourd de non-résidents visés par la nouvelle règle fédérale"
+      ],
+      [
+       "≈ 2 700",
+       "conducteurs retirés chaque mois pour anglais insuffisant"
+      ]
+     ]
+    },
+    {
+     "h": "Une crise de l’offre, pas de la demande"
+    },
+    {
+     "p": "Les volumes de lots complets n’ont progressé que d’environ 9 % en trois ans, mais les refus ont presque quadruplé. Ce n’est donc pas la demande qui tend le marché, c’est la capacité qui disparaît. Les règles fédérales en sont la cause principale. Depuis 2025, les conducteurs qui ne maîtrisent pas l’anglais peuvent être immobilisés : environ 2 700 sont retirés de la route chaque mois. Une règle définitive, entrée en vigueur en mars 2026, restreint les permis délivrés aux non-résidents ; elle vise environ 200 000 conducteurs, dont l’immense majorité ne remplira pas les nouvelles conditions."
+    },
+    {
+     "p": "S’y ajoutent les coûts. Le gazole dépasse 6,27 dollars le gallon, les assurances augmentent, les camions neufs renchérissent avec les nouvelles normes antipollution. Les petits transporteurs, nombreux et fragiles, garent leurs camions ou disparaissent : environ un camion sur dix serait à l’arrêt. Les camionneurs n’[[eluder|éludent]] plus les chargements mal payés, ils les refusent."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Knight-Swift : 3e trimestre 2026",
+      "sub": "variation sur un an, en %",
+      "rows": [
+       [
+        "Chiffre d’affaires total",
+        14.2
+       ],
+       [
+        "Recette par mile parcouru (hors carburant)",
+        12.2
+       ],
+       [
+        "Recette par mile chargé (hors carburant)",
+        9.7
+       ],
+       [
+        "Kilomètres chargés",
+        -3.0
+       ],
+       [
+        "Nombre moyen de tracteurs",
+        -4.0
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Activité de lot complet, sauf chiffre d’affaires total. Sources : Knight-Swift, résultats du 21 octobre 2026 (via CCJ et FreightWaves)."
+     }
+    },
+    {
+     "h": "Le cas Knight-Swift"
+    },
+    {
+     "p": "Le groupe illustre la bascule. Au troisième trimestre, son chiffre d’affaires a progressé de 14,2 %, à 2,2 milliards de dollars, et son bénéfice par action ajusté a atteint 83 cents. Sa recette par mile chargé a gagné 9,7 % alors qu’il roule moins et avec 4 % de tracteurs en moins. Son ratio d’exploitation, la part des recettes absorbée par les coûts, est passé de 96,2 % à 89,2 % dans le lot complet. Il vise 650 à 750 points de base d’amélioration supplémentaire au quatrième trimestre, et ses taux de refus sont deux à trois fois supérieurs à la moyenne du marché."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le transport routier est un marché à cycles : des prix bas font fuir la capacité, qui finit par manquer, et les prix remontent. Cette fois, la réglementation accélère le mouvement. Pour les chargeurs, l’enjeu des négociations de novembre est de sécuriser des volumes contractuels plutôt que de tout miser sur le spot. La hausse des coûts logistiques en 2027 semble [[inherent|inhérente]] à ce nouveau rapport de force."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le retournement</b> : ≈ 14 % des chargements sous contrat refusés par les camionneurs, trois fois plus qu’en 2023.",
+      "<b>L’offre recule</b> : volumes + 9 % en trois ans, refus presque multipliés par quatre.",
+      "<b>La réglementation</b> : ≈ 2 700 conducteurs retirés par mois pour anglais insuffisant ; ≈ 200 000 permis de non-résidents visés par la règle de mars 2026.",
+      "<b>Les coûts</b> : gazole au-dessus de 6,27 dollars le gallon, assurances, camions neufs plus chers. ≈ 1 camion sur 10 à l’arrêt."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Knight-Swift : 3e trimestre 2026",
+      "sub": "variation sur un an, en %",
+      "rows": [
+       [
+        "Chiffre d’affaires total",
+        14.2
+       ],
+       [
+        "Recette par mile parcouru (hors carburant)",
+        12.2
+       ],
+       [
+        "Recette par mile chargé (hors carburant)",
+        9.7
+       ],
+       [
+        "Kilomètres chargés",
+        -3.0
+       ],
+       [
+        "Nombre moyen de tracteurs",
+        -4.0
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Activité de lot complet, sauf chiffre d’affaires total. Sources : Knight-Swift, résultats du 21 octobre 2026 (via CCJ et FreightWaves)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Knight-Swift</b> : chiffre d’affaires + 14,2 % (2,2 milliards de dollars), ratio d’exploitation du lot complet de 96,2 % à 89,2 %.",
+      "<b>Novembre</b> : appels d’offres annuels, hausses demandées « à deux chiffres ». Recette par mile chargé déjà + 9,7 % avec 4 % de tracteurs en moins.",
+      "<b>Un cycle</b> : prix bas, capacité qui fuit, pénurie, prix qui remontent. La réglementation accélère le mouvement.",
+      "<b>Pour les chargeurs</b> : sécuriser des volumes sous contrat plutôt que tout miser sur le spot. Une hausse des coûts en 2027 semble [[inherent|inhérente]] à ce nouveau rapport de force."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Nestlé : le géant suisse retrouve des volumes",
+   "by": "Analyse",
+   "fig": "+ 4,0 %",
+   "figl": "croissance organique au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Nestlé, communiqué « Third-quarter and nine-month 2026 sales », 22 octobre 2026 (ventes, croissance par zone et catégorie, objectifs, Russie, cession des vitamines) ; plan de transformation présenté à l’assemblée générale du 16 avril 2026 (via FoodNavigator, 21 avril 2026) ; coentreprise des eaux et rappel de lait infantile : Global Brands Magazine. Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Nestlé, premier groupe alimentaire mondial, a vu sa croissance organique accélérer à 4,0 % au troisième trimestre, contre 3,7 % sur neuf mois. Surtout, les volumes progressent : la croissance interne réelle, qui mesure ce qui est vendu en plus hors hausse de prix, atteint 2,8 %. Mais le franc suisse fort efface tout : sur neuf mois, les ventes publiées stagnent à 65,9 milliards de francs. Le groupe confirme 3 à 4 % de croissance organique pour 2026.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "65,9 Md CHF",
+       "chiffre d’affaires sur neuf mois, stable en francs suisses"
+      ],
+      [
+       "+ 2,8 %",
+       "croissance des volumes (RIG) au 3e trimestre"
+      ],
+      [
+       "− 3,7 %",
+       "effet des changes sur neuf mois"
+      ],
+      [
+       "16 000",
+       "suppressions de postes pour 3 Md CHF d’économies d’ici fin 2027"
+      ]
+     ]
+    },
+    {
+     "h": "Le volume plutôt que le prix"
+    },
+    {
+     "p": "Pendant la vague d’inflation de 2022-2023, Nestlé, comme ses concurrents, a surtout grandi par les prix. Les consommateurs ont fini par acheter moins ou se tourner vers les marques de distributeur. Le nouveau directeur général, Philipp Navratil, nommé en 2025 après le renvoi de Laurent Freixe, veut renverser l’équation. Au troisième trimestre, les prix ne contribuent plus que pour 1,1 point. La croissance vient des volumes, partout : 5,0 % en Asie, Océanie et Afrique, 2,4 % dans les Amériques, 1,0 % en Europe."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Nestlé : croissance organique par catégorie",
+      "sub": "3e trimestre 2026, en %",
+      "rows": [
+       [
+        "Eaux et boissons premium",
+        12.3
+       ],
+       [
+        "Animaux (Purina)",
+        5.3
+       ],
+       [
+        "Plats et confiserie",
+        5.0
+       ],
+       [
+        "Café",
+        3.4
+       ],
+       [
+        "Nutrition",
+        0.3
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Croissance organique : hors effets de change et de périmètre. Source : Nestlé, ventes du 3e trimestre et des neuf mois 2026, 22 octobre 2026."
+     }
+    },
+    {
+     "p": "Les marchés émergents progressent de 6,8 %, les pays développés de 2,2 %. L’alimentaire et la confiserie, avec Maggi, Milo et KitKat, et les aliments pour chats Purina tirent la croissance. La nutrition reste à la peine, freinée par le rappel mondial de lait infantile lancé en janvier, qui a encore coûté 0,2 point de croissance au trimestre. Le commerce en ligne, en hausse de 15,3 %, pèse désormais 21,6 % des ventes."
+    },
+    {
+     "h": "Un groupe qui se resserre"
+    },
+    {
+     "p": "Le plan de Navratil concentre Nestlé sur quatre métiers : café, animaux, nutrition, plats et confiserie. Les eaux premium, Perrier et S.Pellegrino en tête, vont passer dans une coentreprise à parts égales avec Platinum Equity ; les vitamines sont cédées pour 1 milliard de dollars, une vente qui doit se conclure en 2027. Le groupe supprime 16 000 postes, environ 6 % de ses effectifs, pour économiser 3 milliards de francs d’ici fin 2027. Il n’[[eluder|élude]] pas non plus la Russie : ses activités, placées sous administration externe temporaire, sont sorties des comptes fin septembre, avec une charge d’environ 1,4 milliard de francs."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Nestlé montre que la croissance par les prix a une limite : elle porte un risque [[inherent|inhérent]], celui de voir le consommateur décrocher. Le retour des volumes est le meilleur signe de santé d’une marque. Reste à transformer cette dynamique en marge, alors que le café, premier métier du groupe, ralentit au troisième trimestre, à 3,4 %."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Accélération</b> : croissance organique de 4,0 % au 3e trimestre, 3,7 % sur neuf mois. Objectif 2026 confirmé : 3 à 4 %.",
+      "<b>Les volumes reviennent</b> : + 2,8 % au trimestre ; les prix ne pèsent plus que 1,1 point.",
+      "<b>Le franc fort</b> : effet de change de − 3,7 % ; ventes stables à 65,9 milliards de francs sur neuf mois.",
+      "<b>Par zone</b> : volumes + 5,0 % en Asie-Océanie-Afrique, + 2,4 % aux Amériques, + 1,0 % en Europe."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Nestlé : croissance organique par catégorie",
+      "sub": "3e trimestre 2026, en %",
+      "rows": [
+       [
+        "Eaux et boissons premium",
+        12.3
+       ],
+       [
+        "Animaux (Purina)",
+        5.3
+       ],
+       [
+        "Plats et confiserie",
+        5.0
+       ],
+       [
+        "Café",
+        3.4
+       ],
+       [
+        "Nutrition",
+        0.3
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Croissance organique : hors effets de change et de périmètre. Source : Nestlé, ventes du 3e trimestre et des neuf mois 2026, 22 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Moteurs</b> : Maggi, Milo, KitKat, Purina chats ; émergents + 6,8 % ; e-commerce + 15,3 %. Nutrition freinée par le rappel de lait infantile.",
+      "<b>Recentrage</b> : quatre métiers ; eaux premium en coentreprise, vitamines vendues 1 milliard de dollars ; 16 000 postes supprimés, 3 milliards de francs d’économies d’ici fin 2027.",
+      "<b>La Russie</b> : le groupe ne l’[[eluder|élude]] pas, activités sorties des comptes, charge ≈ 1,4 milliard de francs.",
+      "<b>La leçon</b> : la croissance par les prix porte un risque [[inherent|inhérent]], voir le client décrocher. Le retour des volumes est le meilleur signe de santé."
+     ]
+    }
+   ]
+  }
+ ]
+}

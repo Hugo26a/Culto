@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-26",
+ "latest": "2026-10-27",
  "editions": [
+  {
+   "date": "2026-10-27",
+   "label": "Mardi 27 octobre",
+   "words": [
+    "Inhérent",
+    "Éluder"
+   ],
+   "items": [
+    [
+     "lit",
+     "Madame Bovary"
+    ],
+    [
+     "essai",
+     "Stratégie Océan Bleu"
+    ],
+    [
+     "eco",
+     "Banques centrales : cinq décisions face au choc pétrolier"
+    ],
+    [
+     "geo",
+     "Israël vote, et aucun camp n’a de majorité"
+    ],
+    [
+     "log",
+     "Camionnage américain : les transporteurs reprennent la main"
+    ],
+    [
+     "ent",
+     "Nestlé : le géant suisse retrouve des volumes"
+    ]
+   ]
+  },
   {
    "date": "2026-10-26",
    "label": "Lundi 26 octobre",
