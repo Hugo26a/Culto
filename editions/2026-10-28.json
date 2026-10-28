@@ -1,0 +1,975 @@
+{
+ "date": "2026-10-28",
+ "label": "Mercredi 28 octobre 2026",
+ "n": 13,
+ "example": false,
+ "week": {
+  "start": "2026-10-26",
+  "label": "Semaine du 26 octobre",
+  "day": 3,
+  "words": [
+   {
+    "key": "inherent",
+    "w": "Inhérent",
+    "ph": "[i.ne.ʁɑ̃] · adjectif",
+    "short": "Qui fait partie de la nature même d’une chose.",
+    "def": "Qui est lié par nature à une chose, au point qu’on ne peut l’en séparer. Un risque inhérent à une activité ne vient pas d’un accident extérieur : il existe dès qu’on exerce cette activité. Se construit avec « à » : les aléas inhérents au transport maritime, les difficultés inhérentes à tout changement.",
+    "ety": "Du latin inhaerens, participe présent de inhaerere, « être attaché à », formé sur haerere, « adhérer, rester collé ». Même famille que adhérer, cohérent, cohésion et hésiter (du latin haesitare, « rester accroché »).",
+    "ex": "Les retards sont inhérents à un approvisionnement depuis l’Asie : mieux vaut les intégrer au stock de sécurité que les découvrir à chaque arrivage.",
+    "syn": "intrinsèque, propre à, indissociable de, consubstantiel, naturel"
+   },
+   {
+    "key": "eluder",
+    "w": "Éluder",
+    "ph": "[e.ly.de] · verbe transitif",
+    "short": "Éviter adroitement une question ou une difficulté.",
+    "def": "Se soustraire habilement à ce qui dérange : une question, une objection, un problème, une obligation. Éluder n’est pas répondre non, c’est faire en sorte de ne pas avoir à répondre. Le mot suggère souvent une habileté un peu suspecte.",
+    "ety": "Du latin eludere, « se jouer de, esquiver en jouant », formé sur ludere, « jouer ». Même famille que ludique, illusion, allusion et prélude.",
+    "ex": "Interrogé sur les pénalités de retard, le fournisseur a éludé la question et n’a parlé que de ses nouveaux délais.",
+    "syn": "esquiver, contourner, escamoter, se dérober à, passer sous silence"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Kokoro",
+   "by": "Natsume Sōseki · 1914",
+   "tagline": "Le secret du maître",
+   "min": 10,
+   "exMin": 4,
+   "src": "Natsume Sōseki, Kokoro, publié en feuilleton dans le quotidien Asahi Shimbun d’avril à août 1914, puis en volume la même année ; 110 chapitres en trois parties. Longtemps traduit en français sous le titre Le Pauvre Cœur des hommes. Contexte historique : mort de l’empereur Meiji le 30 juillet 1912, suicide du général Nogi Maresuke le 13 septembre 1912, jour des funérailles impériales. Œuvre du domaine public (Sōseki est mort en 1916) ; aucune citation reproduite, faute de traduction française de référence vérifiée.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un étudiant de Tokyo se lie avec un homme mûr et retiré, qu’il appelle « Sensei », le maître. Cet homme cache un secret qui l’a coupé du monde. Dans une longue lettre écrite avant de mettre fin à ses jours, il avoue avoir trahi par amour son meilleur ami, K, qui s’est donné la mort."
+      ],
+      [
+       "Une seule faute, une vie entière",
+       "Sensei n’a commis ni crime ni scandale. Il a seulement devancé son ami auprès d’une jeune fille, en mentant par omission. Le roman montre comment une petite lâcheté, jamais avouée, peut empoisonner toute une existence. La culpabilité devient [[inherent|inhérente]] à sa personne : il ne peut plus se regarder sans la voir."
+      ],
+      [
+       "La méfiance qui se retourne",
+       "Spolié de son héritage par son oncle, Sensei a juré de ne plus faire confiance à personne. Il découvre qu’il est capable de la même trahison que celui qu’il méprise. La leçon est amère : on se croit honnête tant qu’on n’a pas été tenté."
+      ],
+      [
+       "La solitude de l’homme moderne",
+       "Le Japon de Meiji s’ouvre à l’Occident, à l’individu, à la liberté de choisir. Sensei en est le produit et la victime : libre, il est seul. Sōseki fait de cette solitude le prix de la modernité."
+      ],
+      [
+       "La fin d’une époque",
+       "La mort de l’empereur Meiji en 1912, puis le suicide rituel du général Nogi, donnent à Sensei le signal de son propre départ. Le livre est aussi le requiem d’une génération qui a vu le pays changer trop vite."
+      ],
+      [
+       "Le poids du silence",
+       "Sensei [[eluder|élude]] toutes les questions sur son passé, même celles de sa femme. Il ne se confie qu’à un jeune homme, et trop tard. Le roman interroge ce que l’on doit à ceux qu’on aime : la vérité, ou la protection de l’ignorance."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "La rencontre de Kamakura"
+    },
+    {
+     "p": "Le roman est raconté par un jeune étudiant dont on ne connaîtra jamais le nom. Un été, en vacances à Kamakura, au bord de la mer, il remarque sur la plage un homme d’âge mûr accompagné d’un Occidental. Intrigué, il l’observe plusieurs jours, finit par lui parler, nage avec lui. De retour à Tokyo, il lui rend visite. Il l’appelle « Sensei », le mot qu’on emploie pour un maître ou un aîné respecté, bien que l’homme n’enseigne rien et ne travaille pas.",
+     "lead": 1
+    },
+    {
+     "h5": "Le maître et ses silences"
+    },
+    {
+     "p": "Sensei vit retiré avec sa femme, Shizu, dans une maison tranquille. Il est cultivé, courtois, mais sombre. Chaque mois, il se rend seul sur une tombe du cimetière de Zōshigaya, sans dire qui y repose. Il tient des propos étranges : l’amour est un péché, l’argent rend les hommes mauvais, la solitude est le prix à payer pour être né à l’époque moderne. Il met le jeune homme en garde : un jour, l’admiration qu’il lui porte se changera en déception. Quand l’étudiant le presse de questions, Sensei promet de lui raconter son passé, plus tard, quand le moment sera venu."
+    },
+    {
+     "h5": "Le père mourant"
+    },
+    {
+     "p": "Diplômé, le narrateur rentre dans sa famille, à la campagne. Son père souffre d’une maladie des reins qui s’aggrave. Sa mère voudrait qu’il trouve un emploi, et lui demande de solliciter Sensei, qu’elle imagine influent. L’été 1912, l’empereur Meiji tombe malade et meurt. Le père, qui a vécu toute sa vie sous ce règne, en est bouleversé. En septembre, le général Nogi, héros de la guerre contre la Russie, se donne la mort avec son épouse le jour des funérailles impériales, pour suivre son souverain. Le père décline de jour en jour."
+    },
+    {
+     "p": "C’est alors qu’arrive une lettre épaisse de Sensei. En la feuilletant, le jeune homme tombe sur une phrase qui le glace : quand il lira ces lignes, l’auteur ne sera plus de ce monde. Il laisse son père à l’agonie, court à la gare et prend le train pour Tokyo. La troisième partie du livre est cette lettre, que le narrateur lit dans le wagon."
+    },
+    {
+     "h5": "Le testament : l’héritage volé"
+    },
+    {
+     "p": "Sensei raconte sa jeunesse. Ses parents, propriétaires aisés, sont morts de la typhoïde la même année, quand il avait une vingtaine d’années. Son oncle a pris en main ses biens et l’a pressé d’épouser sa cousine. Sensei a refusé, puis découvert que l’oncle avait détourné une grande partie de son héritage. Écœuré, il a vendu ce qui restait et quitté sa province pour toujours. Il en a gardé une conviction : tous les hommes, même les plus respectables, deviennent mauvais dès que l’argent est en jeu."
+    },
+    {
+     "h5": "Le testament : K"
+    },
+    {
+     "p": "Étudiant à Tokyo, Sensei loue une chambre chez la veuve d’un militaire, qui vit avec sa fille. Il s’éprend peu à peu de la jeune fille, sans oser se déclarer, partagé entre le désir et la crainte d’être manipulé. Il fait alors venir dans la maison son ami d’enfance, K, fils d’un prêtre bouddhiste. K est pauvre, austère, tout entier tourné vers l’effort spirituel. Il a menti à sa famille adoptive sur ses études ; elle l’a renié. Sensei veut l’aider à sortir de sa misère et de sa raideur."
+    },
+    {
+     "p": "La présence de la jeune fille adoucit K. Un jour, il avoue à Sensei qu’il l’aime. Sensei, pris de court, ne dit rien de ses propres sentiments. Quand K, tourmenté, lui demande conseil, il retourne contre lui ses propres principes : un homme sans exigence spirituelle, lui rappelle-t-il, n’est qu’un imbécile. K se tait, désemparé."
+    },
+    {
+     "h5": "La trahison et ses suites"
+    },
+    {
+     "p": "Quelques jours plus tard, Sensei feint une maladie pour rester seul à la maison et demande à la veuve la main de sa fille. Elle accepte aussitôt. Il ne trouve pas le courage d’en parler à K, qui l’apprend de la bouche de la veuve. K ne dit rien. Peu après, une nuit, il se tranche la gorge dans sa chambre. Sa lettre d’adieu ne contient aucun reproche : il se dit faible et regrette de ne pas être parti plus tôt. Ce silence généreux accable Sensei davantage qu’une accusation."
+    },
+    {
+     "p": "Sensei épouse la jeune fille, Shizu. Il ne lui dira jamais la vérité, pour ne pas souiller le souvenir qu’elle garde de K et l’image qu’elle a de son mari. Il renonce à toute carrière et vit en reclus, rongé par la faute, avec le sentiment d’être devenu ce qu’il détestait chez son oncle. La mort de l’empereur, puis celle de Nogi, lui donnent le signal qu’il attendait. Il demande au jeune homme de garder son secret tant que sa femme vivra. Le roman s’arrête sur la fin de la lettre, sans dire si le narrateur arrive à temps, ni ce que devient son père."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un feuilleton de 1914"
+    },
+    {
+     "p": "Natsume Sōseki, né en 1867, est alors le romancier le plus admiré du Japon. Ancien boursier à Londres au début du siècle, professeur de littérature anglaise, il a quitté l’université en 1907 pour écrire en exclusivité pour le quotidien <em>Asahi Shimbun</em>. <em>Kokoro</em> y paraît en feuilleton d’avril à août 1914, puis en volume. Le titre signifie à la fois le cœur, l’esprit et l’âme : tout ce que l’on garde au-dedans de soi. Sōseki meurt deux ans plus tard, à 49 ans."
+    },
+    {
+     "h5": "Une construction en miroir"
+    },
+    {
+     "p": "Le livre se compose de trois parties : « Sensei et moi », « Mes parents et moi », « Le testament de Sensei ». Les deux premières, racontées par l’étudiant, posent une énigme ; la troisième la résout. Le jeune homme vit entre deux pères : le sien, simple et attaché au passé, et Sensei, le père qu’il s’est choisi. En abandonnant le premier sur son lit de mort pour courir vers le second, il fait à son tour un choix moral, que le roman laisse sans jugement."
+    },
+    {
+     "h5": "Meiji, la fin d’un monde"
+    },
+    {
+     "p": "L’ère Meiji, de 1868 à 1912, a fait du Japon féodal une puissance industrielle et militaire en deux générations. Sōseki en mesure le coût intime : l’individu s’est libéré des liens de clan et de famille, mais il s’est retrouvé seul face à sa conscience. Le suicide du général Nogi, fidèle à un code d’honneur que beaucoup jugent déjà anachronique, fascine Sensei. Il y voit le geste d’un homme qui a porté sa faute pendant trente-cinq ans, comme lui."
+    },
+    {
+     "h5": "Une écriture du non-dit"
+    },
+    {
+     "p": "La prose de Sōseki est d’une grande sobriété. Les scènes décisives tiennent en quelques lignes ; l’essentiel se joue dans les silences, les regards évités, les phrases interrompues. Sensei [[eluder|élude]], K se tait, la veuve devine sans parler. Ce dépouillement donne au livre sa force : le lecteur comprend avant les personnages. Le roman est l’un des plus lus au Japon, étudié au lycée, et Sōseki a figuré sur le billet de 1 000 yens de 1984 à 2004."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que la question qu’il pose ne vieillit pas : que faire d’une faute que personne d’autre ne connaît ? Sensei choisit le secret, et le secret le dévore. Le livre parle aussi de concurrence et de loyauté, d’amitié trahie pour un avantage, situations qui existent dans toute équipe. Il rappelle que la défiance envers les autres ne protège de rien quand le risque est [[inherent|inhérent]] à soi-même. C’est enfin un roman court, limpide, idéal pour entrer dans la littérature japonaise."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Un étudiant de Tokyo se lie avec un homme retiré qu’il appelle « Sensei », le maître. Celui-ci cache un secret. Dans une longue lettre écrite avant de mettre fin à ses jours, il avoue avoir trahi par amour son meilleur ami, K, qui s’est donné la mort.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Une seule faute</b> : un mensonge par omission, jamais avoué, empoisonne toute une vie. La culpabilité devient [[inherent|inhérente]] à Sensei.",
+      "<b>La méfiance retournée</b> : spolié par son oncle, Sensei ne croit plus en personne, puis découvre qu’il est capable de la même trahison.",
+      "<b>La solitude moderne</b> : le Japon de Meiji libère l’individu, mais le laisse seul face à sa conscience.",
+      "<b>La fin d’une époque</b> : la mort de l’empereur Meiji en 1912 et le suicide du général Nogi donnent à Sensei le signal de son départ.",
+      "<b>Le silence</b> : Sensei [[eluder|élude]] toutes les questions, même celles de sa femme. Il ne se confie qu’à un jeune homme, trop tard."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le narrateur</b> : un étudiant sans nom raconte les deux premières parties ; la troisième est la lettre de Sensei.",
+      "<b>Kamakura</b> : en vacances au bord de la mer, l’étudiant aborde un homme mûr et le fréquente à Tokyo. Il l’appelle Sensei, bien qu’il n’enseigne rien.",
+      "<b>Les silences</b> : Sensei vit en reclus avec sa femme Shizu, visite seul chaque mois une tombe, et promet de raconter son passé plus tard.",
+      "<b>Le père mourant</b> : à la campagne, le père du narrateur décline. L’empereur Meiji meurt, Nogi se donne la mort. Une lettre de Sensei arrive : il ne sera plus de ce monde. L’étudiant saute dans le train.",
+      "<b>L’héritage volé</b> : orphelin à vingt ans, Sensei a été dépouillé par son oncle et a quitté sa province.",
+      "<b>K</b> : logé chez une veuve, Sensei aime sa fille. Il y fait venir son ami K, austère, qui tombe amoureux à son tour et se confie.",
+      "<b>La trahison</b> : Sensei demande la main de la jeune fille en secret. K l’apprend, se tue sans un reproche. Sensei épouse Shizu, lui cache tout, et vit rongé jusqu’à sa propre fin."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Le contexte</b> : feuilleton dans l’<em>Asahi Shimbun</em>, avril-août 1914. Le titre signifie le cœur, l’esprit, l’âme.",
+      "<b>La construction</b> : trois parties ; deux posent l’énigme, la lettre la résout. L’étudiant choisit entre deux pères.",
+      "<b>Meiji</b> : 1868-1912, une modernisation fulgurante dont Sōseki mesure le coût intime.",
+      "<b>Le non-dit</b> : tout se joue dans les silences. Sensei [[eluder|élude]], K se tait. Sōseki a figuré sur le billet de 1 000 yens de 1984 à 2004.",
+      "<b>Aujourd’hui</b> : que faire d’une faute que personne ne connaît ? La défiance ne protège de rien quand le risque est [[inherent|inhérent]] à soi-même."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "L’Investisseur intelligent",
+   "by": "Benjamin Graham · 1949",
+   "min": 9,
+   "exMin": 3,
+   "src": "Benjamin Graham, The Intelligent Investor (Harper & Brothers, 1949 ; éditions révisées en 1954, 1959, 1965 et 1973 ; édition commentée par Jason Zweig, HarperCollins, 2003) ; trad. fr. L’Investisseur intelligent. Monsieur Marché : chapitre 8 de l’édition de 1973 ; marge de sécurité : chapitre 20 ; critères de l’investisseur défensif : chapitre 14. Ouvrage antérieur : Benjamin Graham et David Dodd, Security Analysis (1934). Parcours de Graham et de Warren Buffett : préface de Buffett à l’édition de 1973 et notices biographiques. Chutes du S&P 500 : S&P Dow Jones Indices, valeurs arrondies.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Benjamin Graham, professeur à Columbia et gérant de fonds, écrit en 1949 un guide pour l’épargnant ordinaire. Sa thèse : on gagne en Bourse moins par l’intelligence que par le tempérament. Il faut acheter des entreprises solides à un prix raisonnable, garder une marge de sécurité et ne jamais se laisser dicter sa conduite par l’humeur du marché."
+      ],
+      [
+       "Investir n’est pas spéculer",
+       "Un placement, pour Graham, suppose une analyse sérieuse, la protection du capital et un rendement correct. Tout le reste est spéculation. Le risque est [[inherent|inhérent]] à la Bourse ; l’erreur est de spéculer en croyant investir."
+      ],
+      [
+       "Monsieur Marché",
+       "Imaginez un associé lunatique qui vous propose chaque jour d’acheter ou de vendre sa part, à un prix qui dépend de son humeur. Vous n’êtes pas obligé de l’écouter. Ses accès de panique sont des occasions, pas des ordres."
+      ],
+      [
+       "La marge de sécurité",
+       "Payer une action nettement moins que ce qu’elle vaut, pour absorber les erreurs de calcul et les mauvaises surprises. C’est, dit Graham, le cœur de l’investissement en trois mots."
+      ],
+      [
+       "Deux profils, deux méthodes",
+       "L’investisseur défensif veut la sécurité sans effort : 25 à 75 % d’actions, le reste en obligations, et des sociétés filtrées par des critères simples. L’investisseur entreprenant accepte d’y passer du temps pour chercher les bonnes affaires."
+      ],
+      [
+       "Le pire ennemi, c’est soi",
+       "Graham ne promet pas de battre le marché. Il promet d’éviter les pertes graves. Les ruines viennent rarement d’un manque d’information, presque toujours de l’enthousiasme ou de la peur."
+      ]
+     ]
+    },
+    {
+     "stats": [
+      [
+       "25 à 75 %",
+       "part des actions dans le portefeuille défensif, 50 % par défaut"
+      ],
+      [
+       "15",
+       "cours maximum en multiple des bénéfices moyens sur trois ans"
+      ],
+      [
+       "22,5",
+       "plafond du produit PER × cours sur actif net"
+      ],
+      [
+       "2/3",
+       "de l’actif net circulant : le prix d’achat idéal d’une « net-net »"
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un rescapé de 1929"
+    },
+    {
+     "p": "Benjamin Graham naît à Londres en 1894 et grandit à New York dans une famille ruinée par la mort du père. Brillant élève de Columbia, il entre à Wall Street en 1914 et s’y fait vite un nom. Le krach de 1929 et la longue chute qui suit jusqu’en 1932 font fondre l’essentiel de son capital. Il en tire une méthode. En 1934, avec David Dodd, il publie <em>Security Analysis</em>, la bible des professionnels. Quinze ans plus tard, <em>L’Investisseur intelligent</em> s’adresse à tous les autres.",
+     "lead": 1
+    },
+    {
+     "h5": "La thèse"
+    },
+    {
+     "p": "Le livre part d’un constat : les marchés financiers alternent euphorie et désespoir, et les particuliers achètent presque toujours au sommet et vendent au creux. Graham ne prétend pas prévoir ces mouvements. Il propose une discipline pour ne pas en être victime. Une action n’est pas un ticket de loterie, c’est une part d’entreprise. Sa valeur dépend des bénéfices, des actifs et des dividendes de cette entreprise, pas de ce que le voisin est prêt à payer demain. Celui qui [[eluder|élude]] cette question de la valeur ne fait plus qu’un pari."
+    },
+    {
+     "h5": "Monsieur Marché"
+    },
+    {
+     "p": "Le chapitre le plus célèbre met en scène un personnage imaginaire. Vous possédez une petite part d’une affaire avec un associé, Monsieur Marché. Chaque jour, il vous annonce le prix auquel il achèterait votre part ou vous vendrait la sienne. Certains jours, il est euphorique et demande un prix absurde ; d’autres jours, il est déprimé et brade tout. Le bon investisseur profite de ses excès sans jamais les partager. Il n’a pas besoin de lui : il peut ignorer ses cotations et juger l’entreprise d’après ses résultats. La leçon vaut pour tous les marchés : le prix est ce que l’on paie, la valeur est ce que l’on obtient, et les deux s’écartent souvent, parfois pendant des années."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Monsieur Marché en colère : les grandes chutes de Wall Street",
+      "sub": "baisse du S&P 500 du sommet au creux, en %",
+      "rows": [
+       [
+        "1929-1932",
+        86
+       ],
+       [
+        "2007-2009",
+        57
+       ],
+       [
+        "2000-2002",
+        49
+       ],
+       [
+        "1973-1974",
+        48
+       ],
+       [
+        "2020",
+        34
+       ],
+       [
+        "2022",
+        25
+       ]
+      ],
+      "prefix": "− ",
+      "suffix": " %",
+      "note": "Valeurs arrondies (≈), hors dividendes ; 1929-1932 : indice reconstitué. Source : S&P Dow Jones Indices, séries historiques du S&P 500."
+     }
+    },
+    {
+     "p": "L’histoire a souvent donné raison à cette image. Le S&P 500 a perdu environ 86 % entre 1929 et 1932, près de la moitié en 1973-1974 et en 2000-2002, 57 % pendant la crise financière de 2007-2009. À chaque fois, ceux qui ont vendu dans la panique ont transformé une baisse temporaire en perte définitive ; ceux qui ont acheté des entreprises saines au plus bas ont fait les meilleures affaires de leur vie."
+    },
+    {
+     "h5": "La marge de sécurité"
+    },
+    {
+     "p": "Le dernier chapitre résume tout le livre. Warren Buffett l’illustrera plus tard par une image d’ingénieur : un pont où passent des camions de 10 tonnes doit être calculé pour 30. L’investisseur doit acheter assez bas pour que l’opération reste bonne même si ses prévisions sont trop optimistes. Pour une obligation, la marge vient de l’excès des bénéfices sur les intérêts à payer. Pour une action, elle vient de l’écart entre le prix payé et la valeur estimée. La forme la plus pure est l’action « net-net » : une société cotée moins des deux tiers de son actif circulant net, dettes déduites. On l’achète alors pour moins que sa trésorerie et ses stocks."
+    },
+    {
+     "h5": "Les deux investisseurs"
+    },
+    {
+     "p": "Pour l’investisseur défensif, Graham donne une recette. Garder entre 25 et 75 % d’actions, 50 % par défaut, et rééquilibrer quand le marché fait varier ces proportions. Choisir de grandes sociétés, financièrement solides, avec des bénéfices sur dix ans, des dividendes versés sans interruption depuis vingt ans et une croissance d’au moins un tiers en dix ans. Ne pas payer plus de 15 fois les bénéfices moyens des trois dernières années, ni plus d’une fois et demie l’actif net ; le produit des deux ne doit pas dépasser 22,5. L’investisseur entreprenant, lui, cherche les sociétés négligées, les situations spéciales, les net-nets. Graham l’avertit : c’est un vrai métier, à plein temps, pas un passe-temps."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Les critères de Graham ont été pensés pour une économie d’usines et de stocks. Ils écartent les entreprises dont la valeur repose sur des marques, des logiciels ou des brevets, qui figurent peu au bilan. Les net-nets ont presque disparu des grands marchés, que les ordinateurs scrutent en permanence. Warren Buffett lui-même, sous l’influence de Charlie Munger, a évolué : plutôt une entreprise excellente à un prix correct qu’une entreprise médiocre à un prix bradé. Le temps lui a donné raison : les grands gagnants des dernières décennies, comme les géants du logiciel, n’auraient jamais passé les filtres de Graham. Enfin, Graham reconnaissait à la fin de sa vie que l’analyse détaillée apportait de moins en moins, et voyait d’un bon œil une approche plus simple, proche des fonds indiciels d’aujourd’hui."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Warren Buffett lit le livre à 19 ans, s’inscrit à Columbia pour suivre les cours de Graham, puis travaille pour lui de 1954 à 1956. Dans sa préface de 1973, il le présente comme le meilleur livre jamais écrit sur l’investissement. Graham lui-même a réalisé son plus beau coup en 1948 : l’achat de la moitié de l’assureur GEICO, qui rapportera plus que tous ses autres placements réunis, en contradiction avec ses propres règles de diversification. Le livre, révisé jusqu’en 1973 puis commenté par le journaliste Jason Zweig en 2003, se vend toujours. Graham meurt en 1976 à Aix-en-Provence."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Benjamin Graham, professeur à Columbia et gérant de fonds, écrit en 1949 un guide pour l’épargnant ordinaire. On gagne en Bourse par le tempérament plus que par l’intelligence : acheter des entreprises solides à prix raisonnable, garder une marge de sécurité, ignorer l’humeur du marché.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : né à Londres en 1894, entré à Wall Street en 1914, presque ruiné par le krach de 1929. Il publie <em>Security Analysis</em> avec David Dodd en 1934, puis ce guide pour le grand public.",
+      "<b>Investir n’est pas spéculer</b> : analyse sérieuse, capital protégé, rendement correct. Le risque est [[inherent|inhérent]] à la Bourse ; l’erreur est de spéculer en croyant investir.",
+      "<b>Monsieur Marché</b> : un associé lunatique qui propose chaque jour un prix selon son humeur. Ses paniques sont des occasions, pas des ordres.",
+      "<b>La marge de sécurité</b> : payer nettement moins que la valeur, pour absorber les erreurs. Buffett la compare à un pont calculé pour 30 tonnes quand passent des camions de 10.",
+      "<b>Le défensif</b> : 25 à 75 % d’actions, 50 % par défaut, rééquilibrées régulièrement ; grandes sociétés solides, bénéfices sur dix ans, dividendes depuis vingt ans, croissance d’un tiers en dix ans, pas plus de 15 fois les bénéfices ni 1,5 fois l’actif net.",
+      "<b>L’entreprenant</b> : sociétés négligées, net-nets cotées sous les deux tiers de leur actif circulant net. Un métier à plein temps.",
+      "<b>La question centrale</b> : une action est une part d’entreprise, pas un ticket de loterie. Que vaut l’entreprise ? Qui l’[[eluder|élude]] ne fait plus qu’un pari."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "25 à 75 %",
+       "part des actions dans le portefeuille défensif, 50 % par défaut"
+      ],
+      [
+       "15",
+       "cours maximum en multiple des bénéfices moyens sur trois ans"
+      ],
+      [
+       "22,5",
+       "plafond du produit PER × cours sur actif net"
+      ],
+      [
+       "2/3",
+       "de l’actif net circulant : le prix d’achat idéal d’une « net-net »"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Monsieur Marché en colère : les grandes chutes de Wall Street",
+      "sub": "baisse du S&P 500 du sommet au creux, en %",
+      "rows": [
+       [
+        "1929-1932",
+        86
+       ],
+       [
+        "2007-2009",
+        57
+       ],
+       [
+        "2000-2002",
+        49
+       ],
+       [
+        "1973-1974",
+        48
+       ],
+       [
+        "2020",
+        34
+       ],
+       [
+        "2022",
+        25
+       ]
+      ],
+      "prefix": "− ",
+      "suffix": " %",
+      "note": "Valeurs arrondies (≈), hors dividendes ; 1929-1932 : indice reconstitué. Source : S&P Dow Jones Indices, séries historiques du S&P 500."
+     }
+    },
+    {
+     "ul": [
+      "<b>Les limites</b> : critères pensés pour une économie d’usines ; ils écartent marques et logiciels, et les net-nets ont presque disparu des grands marchés. Buffett, avec Munger, préférera une excellente entreprise à un prix correct.",
+      "<b>Ce que disent les krachs</b> : S&P 500 − 86 % en 1929-1932, ≈ − 50 % en 1973-1974 et 2000-2002, − 57 % en 2007-2009. Vendre dans la panique transforme une baisse temporaire en perte définitive.",
+      "<b>La postérité</b> : Buffett, élève puis employé de Graham de 1954 à 1956. Le coup de GEICO en 1948. Révisé jusqu’en 1973, commenté par Jason Zweig en 2003."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Consommateur américain : le moral remonte, pas le pouvoir d’achat",
+   "by": "Analyse",
+   "fig": "91,7",
+   "figl": "indice de confiance des ménages américains",
+   "min": 3,
+   "exMin": 2,
+   "src": "The Conference Board, Consumer Confidence Index, communiqué du 27 octobre 2026 (enquête du 1er au 21 octobre) ; Université du Michigan, Surveys of Consumers, résultat final d’octobre publié le 23 octobre 2026 (via Trading Economics) ; prix des carburants : EIA, Gasoline and Diesel Fuel Update, semaine du 26 octobre 2026. Inflation de septembre : BLS. Données arrêtées au 27 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Les ménages américains reprennent un peu confiance. L’indice du Conference Board, publié mardi, a bondi de 7,5 points en octobre, à 91,7, sa première hausse depuis quatre mois. La raison est simple : l’essence a cessé de monter. Mais l’autre grande enquête, celle de l’Université du Michigan, reste à 48,0, un niveau de crise. Les deux disent la même chose : on respire, mais on n’achète pas plus.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "91,7",
+       "confiance des consommateurs (Conference Board), + 7,5 points en octobre"
+      ],
+      [
+       "48,0",
+       "sentiment des ménages (Université du Michigan), octobre"
+      ],
+      [
+       "5,8 %",
+       "inflation attendue à un an (Conference Board)"
+      ],
+      [
+       "4,27 $",
+       "le gallon d’essence, contre 3,04 $ il y a un an"
+      ]
+     ]
+    },
+    {
+     "h": "Deux thermomètres, deux questions"
+    },
+    {
+     "p": "Les deux enquêtes ne mesurent pas tout à fait la même chose. Le Conference Board interroge surtout les ménages sur l’emploi et la conjoncture. Or le marché du travail tient : la part de ceux qui jugent les emplois abondants dépasse de 5,3 points celle qui les juge rares. Le Michigan, lui, insiste sur les prix et les finances personnelles. Là, rien ne va : l’appréciation des conditions d’achat de biens durables, une voiture ou un réfrigérateur, a chuté de 18 %, et les ménages attendent 4,7 % d’inflation sur un an. Son indice est même passé sous le creux de juin 2022, à 50."
+    },
+    {
+     "p": "Dans le détail, le Conference Board montre une amélioration sur les deux horizons. L’indice de la situation présente gagne 8,6 points, à 120,4. Celui des attentes, qui mesure l’opinion sur les six prochains mois, remonte de 6,9 points, à 72,6, après trois baisses mensuelles d’affilée. Il reste pourtant sous 80, le seuil que l’institut associe d’ordinaire à un risque de récession. Son économiste Fergus McCormick le reconnaît : la confiance reste sur une pente de long terme descendante."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le prix du carburant à la pompe aux États-Unis",
+      "sub": "dollars par gallon, moyenne nationale, fin octobre",
+      "labels": [
+       "Essence",
+       "Gazole"
+      ],
+      "series": [
+       {
+        "name": "Octobre 2025",
+        "values": [
+         3.04,
+         3.72
+        ]
+       },
+       {
+        "name": "Octobre 2026",
+        "values": [
+         4.27,
+         6.35
+        ]
+       }
+      ],
+      "note": "Semaine du 26 octobre 2026 et même semaine de 2025 (valeur 2025 déduite de la variation annuelle publiée). Source : EIA, Gasoline and Diesel Fuel Update."
+     }
+    },
+    {
+     "h": "Le carburant fait la loi"
+    },
+    {
+     "p": "Depuis la fermeture du détroit d’Ormuz, fin février, le prix à la pompe pilote l’humeur des Américains. L’essence coûte 4,27 dollars le gallon, 41 % de plus qu’il y a un an ; le gazole, carburant des camions, 6,35 dollars, 71 % de plus. La légère détente de l’essence entre septembre et octobre a suffi à relever le moral. Le Conference Board note pourtant que les ménages prévoient de dépenser moins en services et en biens durables dans les six mois. Le risque d’une consommation qui cale est [[inherent|inhérent]] à ce choc : chaque dollar versé à la pompe manque ailleurs, au restaurant ou chez le concessionnaire."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La consommation représente environ les deux tiers de l’économie américaine. Un moral qui remonte grâce à l’essence est fragile : il retombera au premier sursaut du baril. Pour la Fed, qui décide ce mercredi, le signal est ambigu. Les ménages attendent encore 5,8 % d’inflation, trop pour baisser les taux, alors que leurs intentions d’achat faiblissent. On ne peut [[eluder|éluder]] la question : jusqu’où le consommateur américain encaissera-t-il le choc pétrolier ?"
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Rebond</b> : confiance du Conference Board à 91,7 en octobre, + 7,5 points, première hausse en quatre mois, grâce à l’essence qui se stabilise.",
+      "<b>Mais</b> : le sentiment du Michigan reste à 48,0, sous le creux de juin 2022 (50). Inflation attendue : 4,7 % à un an.",
+      "<b>Le détail</b> : situation présente à 120,4 (+ 8,6) ; attentes à 72,6 (+ 6,9), après trois baisses d’affilée, mais toujours sous le seuil de 80 associé à un risque de récession.",
+      "<b>Pourquoi l’écart</b> : l’emploi tient (+ 5,3 points d’écart entre emplois jugés abondants et rares), les prix et les achats non.",
+      "<b>À la pompe</b> : essence 4,27 $ le gallon (+ 41 % sur un an), gazole 6,35 $ (+ 71 %). Une consommation qui cale est un risque [[inherent|inhérent]] au choc."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le prix du carburant à la pompe aux États-Unis",
+      "sub": "dollars par gallon, moyenne nationale, fin octobre",
+      "labels": [
+       "Essence",
+       "Gazole"
+      ],
+      "series": [
+       {
+        "name": "Octobre 2025",
+        "values": [
+         3.04,
+         3.72
+        ]
+       },
+       {
+        "name": "Octobre 2026",
+        "values": [
+         4.27,
+         6.35
+        ]
+       }
+      ],
+      "note": "Semaine du 26 octobre 2026 et même semaine de 2025 (valeur 2025 déduite de la variation annuelle publiée). Source : EIA, Gasoline and Diesel Fuel Update."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les dépenses</b> : les ménages prévoient de dépenser moins en services et en biens durables dans les six mois.",
+      "<b>Fragile</b> : la consommation pèse environ deux tiers de l’économie ; ce moral retombera au premier sursaut du baril.",
+      "<b>Pour la Fed</b>, qui décide mercredi : 5,8 % d’inflation attendue, mais des intentions d’achat en baisse. Une question qu’on ne peut [[eluder|éluder]]."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Oleshky : une trêve pour une ville coupée du monde",
+   "by": "Analyse",
+   "fig": "≈ 2 000",
+   "figl": "habitants restés sur 24 000",
+   "min": 3,
+   "exMin": 2,
+   "src": "Kyiv Independent, « Local ceasefire in besieged Oleshky begins », 27 octobre 2026 (déclarations de Dmytro Lubinets et Kyrylo Budanov, ministère russe de la Défense) ; The Moscow Times, 24 octobre 2026 (population selon la Maison-Blanche, pourparlers d’Abu Dhabi, échange de prisonniers, bilan du parquet ukrainien) ; Maison-Blanche, communiqué du 23 octobre 2026. Données arrêtées au 27 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Depuis mardi 3 heures, heure de Kiev, les armes se taisent autour d’Oleshky, petite ville occupée de la région de Kherson. Russes et Ukrainiens ont accepté un cessez-le-feu local pour laisser entrer l’aide humanitaire et évacuer les civils, au moins jusqu’à samedi. La médiation est attribuée à Melania Trump. Mais quelques minutes après le début de la trêve, des missiles russes visaient Kiev.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "24 000",
+       "habitants à Oleshky avant l’invasion"
+      ],
+      [
+       "1 700 à 2 000",
+       "habitants restés, surtout des personnes âgées"
+      ],
+      [
+       "270",
+       "prisonniers échangés de chaque côté le 24 octobre"
+      ],
+      [
+       "19 000",
+       "civils ukrainiens tués depuis février 2022, dont 762 enfants"
+      ]
+     ]
+    },
+    {
+     "h": "Une ville prise au piège du fleuve"
+    },
+    {
+     "p": "Oleshky est occupée depuis les premiers jours de l’invasion, en février 2022. Elle se trouve sur la rive gauche du Dniepr, juste en face de Kherson, reprise par l’Ukraine à l’automne 2022. Le fleuve est devenu une ligne de front. La ville est soumise à un blocus : routes minées, drones qui frappent tout ce qui bouge, aucune aide autorisée. Il ne reste qu’environ 2 000 habitants sur 24 000, en majorité des personnes âgées, privées d’eau potable, d’électricité, de nourriture et de soins. Kiev dit avoir dû livrer des vivres par drone à deux reprises. Chaque camp accuse l’autre du blocage."
+    },
+    {
+     "p": "Côté ukrainien, Kyrylo Budanov, chef du bureau du président, parle d’un cessez-le-feu bilatéral, et Dmytro Lubinets assure que Kiev tient ses engagements. Côté russe, le chef d’état-major Valeri Guerassimov a annoncé l’arrêt des tirs, et le Kremlin indique que Vladimir Poutine en a parlé avec Donald Trump. Chacun veut apparaître comme le camp raisonnable aux yeux de Washington."
+    },
+    {
+     "h": "Ce que la trêve dit des négociations"
+    },
+    {
+     "p": "L’accord a été conclu entre les deux chefs de délégation, Dmytro Lubinets pour l’Ukraine et Yana Lantratova pour la Russie, alors que le pape Léon XIV avait plaidé pour la ville. Les équipes doivent encore déminer les routes. Les évacués choisiront leur destination, en Russie ou en Ukraine. Le même week-end, les deux pays ont échangé 270 prisonniers chacun, une première depuis août, et des réunions techniques sont prévues début novembre à Abu Dhabi avec les États-Unis. Le fond reste bloqué : Moscou exige tout le Donbass, y compris ce qu’il n’occupe pas ; Kiev refuse et réclame des garanties de sécurité solides, ainsi que dix ans de financement pour son armée. Ces trêves locales permettent aux deux camps d’[[eluder|éluder]] les questions territoriales tout en montrant leur bonne volonté à Washington."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Un cessez-le-feu humanitaire de quelques kilomètres ne fait pas la paix, mais il en teste les mécanismes : contacts directs, déminage, couloirs, vérification. La fragilité est [[inherent|inhérente]] à ce type d’accord, qui ne tient que tant que chacun y trouve un intérêt. Le bilan rappelle l’enjeu : plus de 19 000 civils ukrainiens tués depuis 2022, selon le parquet ukrainien."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>La trêve</b> : depuis mardi 3 h, cessez-le-feu local autour d’Oleshky (région de Kherson), au moins jusqu’à samedi, pour l’aide et l’évacuation. Médiation attribuée à Melania Trump.",
+      "<b>La ville</b> : occupée depuis février 2022, face à Kherson, de l’autre côté du Dniepr. Environ 2 000 habitants sur 24 000, surtout âgés, sans eau, électricité ni soins.",
+      "<b>Le blocus</b> : routes minées, drones. Kiev a livré des vivres par drone deux fois.",
+      "<b>Les acteurs</b> : Lubinets et Budanov côté ukrainien, Lantratova et le chef d’état-major Guerassimov côté russe. Poutine en a parlé avec Trump ; le pape Léon XIV avait plaidé pour la ville.",
+      "<b>Le contexte</b> : échange de 270 prisonniers chacun, réunions prévues début novembre à Abu Dhabi. Ces trêves permettent d’[[eluder|éluder]] la question du Donbass, que Moscou exige en entier."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "24 000",
+       "habitants à Oleshky avant l’invasion"
+      ],
+      [
+       "1 700 à 2 000",
+       "habitants restés, surtout des personnes âgées"
+      ],
+      [
+       "270",
+       "prisonniers échangés de chaque côté le 24 octobre"
+      ],
+      [
+       "19 000",
+       "civils ukrainiens tués depuis février 2022, dont 762 enfants"
+      ]
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un test</b> : contacts directs, déminage, couloirs. La fragilité est [[inherent|inhérente]] à ces accords locaux.",
+      "<b>Ce que veut Kiev</b> : des garanties de sécurité fortes et dix ans de financement de son armée dans tout accord de paix.",
+      "<b>L’enjeu</b> : plus de 19 000 civils ukrainiens tués depuis 2022, dont 762 enfants. Des missiles visaient Kiev dès le début de la trêve."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Petits colis chinois : l’Europe referme la franchise",
+   "by": "Analyse",
+   "fig": "− 50 %",
+   "figl": "fret aérien e-commerce Chine-UE en septembre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Commission européenne, chiffres 2025 des envois de faible valeur (via Reuters / The Standard, 27 janvier 2026) ; Euronews, 1er juillet 2026 (droit de 3 €, suppression du seuil de 150 € d’ici 2028, statut d’importateur des plateformes) ; Air Cargo News, 23 octobre 2026 (données Aevean, frais de 2 € au 1er novembre, calculs et chiffres des douanes néerlandaises par Holdwise) et 12 octobre 2026 (données WorldACD). Données arrêtées au 23 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Depuis le 1er juillet, les colis de moins de 150 euros qui entrent dans l’Union européenne paient un droit de douane forfaitaire de 3 euros par type d’article. L’effet est brutal : en septembre, le fret aérien de petits colis d’e-commerce entre la Chine et l’Europe a chuté de moitié sur un an, selon le cabinet Aevean. Et le 1er novembre, s’ajoutent des frais de traitement de 2 euros. Le modèle Shein-Temu, l’envoi direct depuis la Chine par avion, est remis en cause.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "5,8 Md",
+       "petits colis entrés dans l’UE en 2025, + 26 % sur un an"
+      ],
+      [
+       "3 €",
+       "droit de douane par type d’article depuis le 1er juillet"
+      ],
+      [
+       "2 €",
+       "frais de traitement supplémentaires dès le 1er novembre"
+      ],
+      [
+       "− 50 %",
+       "tonnage aérien e-commerce Chine-UE en septembre, sur un an"
+      ]
+     ]
+    },
+    {
+     "h": "La fin d’une niche"
+    },
+    {
+     "p": "Jusqu’en juin, les envois de moins de 150 euros étaient exemptés de droits de douane. Ce seuil, pensé pour quelques colis entre particuliers, est devenu une autoroute : 5,8 milliards de petits envois en 2025, 26 % de plus qu’en 2024, en grande majorité venus de Chine. Les douanes ne pouvaient en contrôler qu’une infime partie ; les fausses déclarations de valeur et les produits non conformes étaient [[inherent|inhérents]] au système. Les États-Unis avaient fermé leur propre franchise en 2025. L’Europe suit : le droit de 3 euros est provisoire, avant la suppression totale du seuil d’ici 2028, et les plateformes deviennent juridiquement responsables comme importateurs."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Fret aérien Chine et Hong Kong vers l’Europe",
+      "sub": "variation du tonnage sur un an, en %, 2026",
+      "labels": [
+       "Juillet",
+       "Août",
+       "Septembre"
+      ],
+      "series": [
+       {
+        "name": "Chine + Hong Kong",
+        "values": [
+         -14,
+         -15,
+         -10
+        ]
+       },
+       {
+        "name": "Chine continentale",
+        "values": [
+         -9,
+         -5,
+         -2
+        ]
+       }
+      ],
+      "note": "Tout le fret aérien, pas seulement l’e-commerce. En septembre, Chine-États-Unis : + 17 %. Source : WorldACD, via Air Cargo News, 12 octobre 2026."
+     }
+    },
+    {
+     "h": "Les flux se déplacent"
+    },
+    {
+     "p": "Les douanes néerlandaises comptent environ 70 % de lignes de déclaration e-commerce en moins en août et septembre. Le cabinet Holdwise a fait le calcul pour une montre et un t-shirt : 19,50 euros de frais par commande en envoi direct depuis la Chine, contre 10 euros si les articles arrivent en conteneur dans un entrepôt aux Pays-Bas. Les vendeurs basculent donc vers le stock européen, acheminé par mer. Les avions cargo se redéploient vers les États-Unis, où le trafic depuis la Chine progresse de 17 % en septembre."
+    },
+    {
+     "p": "Le fret aérien total vers l’Europe le montre aussi. Selon WorldACD, les tonnages depuis la Chine et Hong Kong ont reculé de 14 % en juillet, 15 % en août et 10 % en septembre. Hong Kong, plaque tournante historique de l’e-commerce, chute de 24 % en septembre. Les tarifs suivent : le kilo transporté de Chine vers l’Europe est passé de 5,22 dollars en moyenne en juin à 4,53 dollars en septembre, quand celui vers les États-Unis atteint 6,05 dollars."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une petite taxe change toute une chaîne logistique : moins d’avion, plus de bateau et d’entrepôts en Europe, des délais de livraison plus longs. Pour les logisticiens européens, c’est une occasion de remplir des entrepôts. Les plateformes ne pourront plus [[eluder|éluder]] la douane en fragmentant les envois."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>La règle</b> : depuis le 1er juillet, 3 € de droit de douane par type d’article sur les colis de moins de 150 €. Dès le 1er novembre, 2 € de frais de traitement en plus.",
+      "<b>L’effet</b> : fret aérien de petits colis Chine-UE − 50 % en septembre (Aevean). Douanes néerlandaises : − 70 % de déclarations e-commerce.",
+      "<b>La niche</b> : 5,8 milliards de petits colis en 2025, + 26 %, surtout de Chine. Fraudes à la valeur [[inherent|inhérentes]] au système. Seuil supprimé d’ici 2028."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Fret aérien Chine et Hong Kong vers l’Europe",
+      "sub": "variation du tonnage sur un an, en %, 2026",
+      "labels": [
+       "Juillet",
+       "Août",
+       "Septembre"
+      ],
+      "series": [
+       {
+        "name": "Chine + Hong Kong",
+        "values": [
+         -14,
+         -15,
+         -10
+        ]
+       },
+       {
+        "name": "Chine continentale",
+        "values": [
+         -9,
+         -5,
+         -2
+        ]
+       }
+      ],
+      "note": "Tout le fret aérien, pas seulement l’e-commerce. En septembre, Chine-États-Unis : + 17 %. Source : WorldACD, via Air Cargo News, 12 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les plateformes</b> : désormais importateurs responsables de la conformité des produits.",
+      "<b>Le calcul</b> : 19,50 € de frais par commande en direct de Chine, 10 € depuis un stock aux Pays-Bas (Holdwise).",
+      "<b>Hong Kong</b> : − 24 % de fret aérien vers l’Europe en septembre (WorldACD). Le kilo Chine-Europe tombe de 5,22 $ en juin à 4,53 $ en septembre.",
+      "<b>Le basculement</b> : moins d’avion, plus de bateau et d’entrepôts européens ; les cargos repartent vers les États-Unis (+ 17 %).",
+      "<b>Fin du contournement</b> : les plateformes ne pourront plus [[eluder|éluder]] la douane en fragmentant les envois."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Boeing : la convalescence se confirme",
+   "by": "Analyse",
+   "fig": "745 Md$",
+   "figl": "carnet de commandes record",
+   "min": 3,
+   "exMin": 2,
+   "src": "Boeing, communiqué « Boeing Reports Third Quarter Results », 27 octobre 2026 (résultats, livraisons, cadences, carnet, trésorerie et dette, certifications, F/A-XX). Charge du 777X au 3e trimestre 2025 : communiqué Boeing du 29 octobre 2025. Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Boeing a publié mardi des comptes presque à l’équilibre : une perte nette de 116 millions de dollars au troisième trimestre, contre 5,3 milliards un an plus tôt. Le chiffre d’affaires progresse de 4 %, à 24,2 milliards, et le groupe dégage 464 millions de trésorerie disponible. Surtout, deux étapes longtemps attendues sont franchies : la certification des 737-7 et 737-10. Deux ans après l’arrivée de Kelly Ortberg à sa tête, l’avionneur américain sort lentement de la crise.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "24,2 Md$",
+       "chiffre d’affaires du 3e trimestre, + 4 %"
+      ],
+      [
+       "− 116 M$",
+       "perte nette, contre − 5,3 Md$ un an plus tôt"
+      ],
+      [
+       "464 M$",
+       "flux de trésorerie disponible"
+      ],
+      [
+       "745,4 Md$",
+       "carnet de commandes record, dont plus de 6 300 avions"
+      ]
+     ]
+    },
+    {
+     "h": "Des avions enfin livrés"
+    },
+    {
+     "p": "Boeing a livré 161 avions commerciaux au trimestre, dont 124 monocouloirs 737 et 22 long-courriers 787. La cadence du 737 progresse vers 47 appareils par mois, celle du 787 est stable à 8. Après l’accident de janvier 2024, quand une porte bouchon s’était détachée en vol d’un appareil d’Alaska Airlines, l’autorité américaine de l’aviation avait plafonné la production. Le redressement passe par la qualité en usine, ce que Kelly Ortberg résume par le lean et une exécution disciplinée. Le 737-10, la version la plus longue, certifiée en octobre, doit permettre de mieux concurrencer l’A321neo d’Airbus."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Boeing : marge opérationnelle par activité",
+      "sub": "3e trimestre 2026, en %",
+      "rows": [
+       [
+        "Services (BGS)",
+        18.3
+       ],
+       [
+        "Défense et espace (BDS)",
+        6.2
+       ],
+       [
+        "Avions commerciaux (BCA)",
+        -6.5
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "BDS inclut un gain de 252 M$ sur la cession de HRL Laboratories. Au 3e trimestre 2025 : BCA − 48,3 %, BDS 1,7 %, BGS 17,5 %. Source : Boeing, résultats du 3e trimestre, 27 octobre 2026."
+     }
+    },
+    {
+     "h": "Les fragilités qui restent"
+    },
+    {
+     "p": "La division avions commerciaux perd encore de l’argent, avec une marge de − 6,5 %, même si c’est beaucoup moins que le − 48,3 % de 2025, plombé par une charge de 4,9 milliards de dollars liée au retard du gros-porteur 777X, dont la première livraison est désormais prévue en 2027. La dette atteint 45,9 milliards, pour 20,7 milliards de trésorerie. Le risque industriel est [[inherent|inhérent]] à ce métier : un seul défaut sur une chaîne peut coûter un trimestre. Les bénéfices viennent pour l’instant des services et de la défense, dopée par une cession et par la sélection pour le futur chasseur F/A-XX de l’US Navy, pas encore inscrit au carnet."
+    },
+    {
+     "p": "Les services, pièces détachées et maintenance, rapportent un peu plus d’un milliard de dollars de résultat sur 5,6 milliards de ventes. La défense progresse de 15 %, à 7,9 milliards, et son carnet atteint 100,5 milliards, dont 23 % hors des États-Unis. La trésorerie a aussi absorbé environ 0,7 milliard de paiements liés à l’accord conclu avec le ministère américain de la Justice."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le carnet de commandes est à un record de 745,4 milliards de dollars : la demande n’a jamais été le problème. Le défi est de produire à l’heure et sans défaut. Boeing ne peut plus [[eluder|éluder]] cette exigence : chaque hausse de cadence sera scrutée par les régulateurs et par les compagnies, qui attendent leurs avions depuis des années."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Presque à l’équilibre</b> : perte nette de 116 M$ au 3e trimestre, contre 5,3 Md$ un an plus tôt. Chiffre d’affaires 24,2 Md$ (+ 4 %), 464 M$ de trésorerie disponible.",
+      "<b>Livraisons</b> : 161 avions, dont 124 737 et 22 787. Cadence du 737 vers 47 par mois, 787 stable à 8.",
+      "<b>Certifications</b> : 737-7 et 737-10, ce dernier en octobre, pour concurrencer l’A321neo.",
+      "<b>Ce qui rapporte</b> : services, 1 Md$ de résultat pour 5,6 Md$ de ventes (marge 18,3 %) ; défense + 15 %, carnet de 100,5 Md$, sélection pour le chasseur F/A-XX.",
+      "<b>Fragilités</b> : avions commerciaux à − 6,5 % de marge ; 777X attendu en 2027 ; dette de 45,9 Md$. Le risque industriel est [[inherent|inhérent]] au métier."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Boeing : marge opérationnelle par activité",
+      "sub": "3e trimestre 2026, en %",
+      "rows": [
+       [
+        "Services (BGS)",
+        18.3
+       ],
+       [
+        "Défense et espace (BDS)",
+        6.2
+       ],
+       [
+        "Avions commerciaux (BCA)",
+        -6.5
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "BDS inclut un gain de 252 M$ sur la cession de HRL Laboratories. Au 3e trimestre 2025 : BCA − 48,3 %, BDS 1,7 %, BGS 17,5 %. Source : Boeing, résultats du 3e trimestre, 27 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Carnet record</b> : 745,4 Md$, plus de 6 300 avions. La demande n’est pas le problème.",
+      "<b>Le contexte</b> : production plafonnée après l’incident de la porte d’Alaska Airlines en janvier 2024 ; Kelly Ortberg mise sur la qualité en usine et le lean.",
+      "<b>Le défi</b> : produire à l’heure et sans défaut, une exigence que Boeing ne peut plus [[eluder|éluder]]."
+     ]
+    }
+   ]
+  }
+ ]
+}
