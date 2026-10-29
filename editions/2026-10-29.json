@@ -1,0 +1,917 @@
+{
+ "date": "2026-10-29",
+ "label": "Jeudi 29 octobre 2026",
+ "n": 14,
+ "example": false,
+ "week": {
+  "start": "2026-10-26",
+  "label": "Semaine du 26 octobre",
+  "day": 4,
+  "words": [
+   {
+    "key": "inherent",
+    "w": "Inhérent",
+    "ph": "[i.ne.ʁɑ̃] · adjectif",
+    "short": "Qui fait partie de la nature même d’une chose.",
+    "def": "Qui est lié par nature à une chose, au point qu’on ne peut l’en séparer. Un risque inhérent à une activité ne vient pas d’un accident extérieur : il existe dès qu’on exerce cette activité. Se construit avec « à » : les aléas inhérents au transport maritime, les difficultés inhérentes à tout changement.",
+    "ety": "Du latin inhaerens, participe présent de inhaerere, « être attaché à », formé sur haerere, « adhérer, rester collé ». Même famille que adhérer, cohérent, cohésion et hésiter (du latin haesitare, « rester accroché »).",
+    "ex": "Les retards sont inhérents à un approvisionnement depuis l’Asie : mieux vaut les intégrer au stock de sécurité que les découvrir à chaque arrivage.",
+    "syn": "intrinsèque, propre à, indissociable de, consubstantiel, naturel"
+   },
+   {
+    "key": "eluder",
+    "w": "Éluder",
+    "ph": "[e.ly.de] · verbe transitif",
+    "short": "Éviter adroitement une question ou une difficulté.",
+    "def": "Se soustraire habilement à ce qui dérange : une question, une objection, un problème, une obligation. Éluder n’est pas répondre non, c’est faire en sorte de ne pas avoir à répondre. Le mot suggère souvent une habileté un peu suspecte.",
+    "ety": "Du latin eludere, « se jouer de, esquiver en jouant », formé sur ludere, « jouer ». Même famille que ludique, illusion, allusion et prélude.",
+    "ex": "Interrogé sur les pénalités de retard, le fournisseur a éludé la question et n’a parlé que de ses nouveaux délais.",
+    "syn": "esquiver, contourner, escamoter, se dérober à, passer sous silence"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Des souris et des hommes",
+   "by": "John Steinbeck · 1937",
+   "tagline": "Le rêve d’un lopin de terre",
+   "min": 10,
+   "exMin": 4,
+   "src": "John Steinbeck, Of Mice and Men (Covici-Friede, 1937) ; trad. fr. Maurice-Edgar Coindreau, Des souris et des hommes (Gallimard, 1939). Adaptation théâtrale créée à Broadway en 1937. Titre emprunté au poème de Robert Burns « To a Mouse » (1785). Steinbeck, prix Nobel de littérature 1962, est mort en 1968 : œuvre protégée, aucune citation reproduite.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Dans la Californie de la Grande Dépression, deux ouvriers agricoles, George, petit et vif, et Lennie, colosse à l’esprit d’enfant, vont de ranch en ranch avec un rêve : acheter un jour leur propre ferme. Dans un nouveau ranch, ce rêve semble enfin à portée de main, jusqu’à ce que Lennie tue sans le vouloir la femme du fils du patron. George l’abat lui-même pour lui épargner le lynchage."
+      ],
+      [
+       "L’amitié comme seul bien",
+       "Les saisonniers de Steinbeck n’ont ni famille, ni maison, ni avenir. George et Lennie possèdent une chose rare : ils voyagent à deux. Les autres hommes du ranch s’en étonnent, et s’en méfient presque. Dans un monde de solitudes, une fidélité tient lieu de patrimoine."
+      ],
+      [
+       "Le rêve qui fait vivre",
+       "La petite ferme, avec ses lapins et son potager, n’est pas vraiment un projet : c’est une histoire que George raconte à Lennie comme une prière. Elle donne un sens à des journées toutes identiques. Il suffit de la partager pour qu’elle paraisse possible, et d’un geste pour qu’elle s’effondre."
+      ],
+      [
+       "La violence des faibles",
+       "Chacun écrase plus faible que soi. Curley, petit et nerveux, provoque les grands gaillards ; sa femme menace Crooks, le palefrenier noir, de le faire pendre. Lennie, lui, tue sans le vouloir ce qu’il aime caresser. La brutalité semble [[inherent|inhérente]] à ce monde où personne n’a prise sur son sort."
+      ],
+      [
+       "Le geste de George",
+       "George tue Lennie pour le soustraire à la meute de Curley. Ce geste fait écho à celui de Carlson, qui a abattu le vieux chien de Candy. Acte de miséricorde ou renoncement ? Le roman ne tranche pas, mais il oblige le lecteur à affronter la question au lieu de l’[[eluder|éluder]]."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Au bord de la Salinas"
+    },
+    {
+     "p": "Un soir de fin d’été, deux hommes descendent vers une rivière, près de la petite ville de Soledad, en Californie. George Milton est petit, sec, l’œil vif. Lennie Small, malgré son nom, qui signifie « petit » en anglais, est un géant à la force immense et à l’intelligence d’un enfant. Il garde dans sa poche une souris morte, qu’il aime caresser ; George la lui confisque. On apprend qu’ils ont dû fuir la ville de Weed : Lennie avait voulu toucher la robe rouge d’une jeune femme, s’y était agrippé de peur, et elle avait crié au viol. George fait promettre à Lennie, s’il a des ennuis, de revenir se cacher dans ces buissons au bord de l’eau.",
+     "lead": 1
+    },
+    {
+     "h5": "L’histoire de la ferme"
+    },
+    {
+     "p": "Le soir, près du feu, Lennie réclame « l’histoire ». George la récite. Les gars comme eux n’ont personne ; ils dépensent leur paie en une nuit en ville et repartent sans rien. Eux sont différents : ils ont quelqu’un qui s’occupe d’eux. Un jour, ils auront un petit bout de terrain, une vache, des cochons, des poules, et Lennie soignera les lapins. Ils vivront du meilleur de la terre et ne travailleront plus pour un patron."
+    },
+    {
+     "h5": "Le ranch"
+    },
+    {
+     "p": "Le lendemain, ils se présentent au ranch. Le patron se méfie : pourquoi George parle-t-il toujours à la place de son compagnon ? George [[eluder|élude]] la question et invente un cousin qu’un cheval aurait frappé à la tête dans son enfance. Ils découvrent les lieux. Candy, le vieux balayeur qui a perdu une main dans un accident, vit avec un chien aveugle et malodorant. Curley, le fils du patron, ancien boxeur poids léger, cherche la bagarre avec les hommes plus grands que lui. Sa jeune épouse, maquillée, rôde dans le baraquement sous prétexte de chercher son mari. George pressent le danger et ordonne à Lennie de ne jamais lui adresser la parole. Ils rencontrent aussi Slim, le meneur d’attelage que tous respectent, et Carlson, un ouvrier robuste et sans états d’âme."
+    },
+    {
+     "h5": "Le chien de Candy"
+    },
+    {
+     "p": "La chienne de Slim vient d’avoir des petits ; Slim en donne un à Lennie, fou de joie. Le soir, Carlson se plaint de l’odeur du vieux chien de Candy et propose de l’abattre d’une balle à l’arrière du crâne : l’animal ne sentira rien. Slim approuve. Candy finit par céder. Carlson l’emmène dehors. Les hommes attendent en silence, jusqu’au coup de feu. Candy, allongé sur sa couchette, se tourne vers le mur."
+    },
+    {
+     "h5": "Trois hommes et une ferme"
+    },
+    {
+     "p": "Candy surprend George et Lennie qui parlent de leur ferme. George connaît un petit terrain qu’un vieux couple vendrait 600 dollars. Le vieil homme propose de se joindre à eux : il a touché 250 dollars d’indemnité pour sa main et en attend 50 autres à la fin du mois. Avec les paies de George et de Lennie, la somme serait réunie en un mois. Pour la première fois, le rêve devient un plan."
+    },
+    {
+     "h5": "Le poing de Curley"
+    },
+    {
+     "p": "Curley entre, en quête de sa femme et d’une querelle. Il voit Lennie sourire et croit qu’on se moque de lui. Il le frappe au visage, encore et encore ; Lennie, terrifié, ne se défend pas. George lui crie de riposter. Lennie saisit alors le poing de Curley et le broie. Slim persuade Curley de raconter qu’il s’est pris la main dans une machine : sinon, tout le monde saura qu’il a été rossé."
+    },
+    {
+     "h5": "La chambre de Crooks"
+    },
+    {
+     "p": "Le samedi soir, les hommes partent en ville. Lennie entre dans la chambre de Crooks, le palefrenier noir qui loge à l’écart, près de l’écurie, le dos tordu par un coup de sabot. Crooks, d’abord hostile, finit par parler : la solitude rend fou, dit-il. Il se moque du rêve de la ferme, qu’il a entendu cent fois chez les saisonniers, puis, quand Candy les rejoint, demande timidement s’il pourrait venir travailler avec eux. La femme de Curley surgit. Crooks lui demande de partir ; elle le menace de le faire lyncher. Il se tait aussitôt et retire sa demande."
+    },
+    {
+     "h5": "La grange"
+    },
+    {
+     "p": "Le dimanche après-midi, Lennie est seul dans la grange. Il a tué son chiot en le caressant trop fort. La femme de Curley entre et se confie : elle aurait pu tourner au cinéma, un homme le lui avait promis ; elle a épousé Curley par dépit et étouffe dans ce ranch. Elle laisse Lennie toucher ses cheveux. Il serre trop ; elle prend peur et crie. Pour la faire taire, il la secoue et lui brise la nuque. Effrayé, il s’enfuit vers la rivière."
+    },
+    {
+     "h5": "Au bord de l’eau"
+    },
+    {
+     "p": "Candy découvre le corps et prévient George, qui comprend que tout est fini. Curley réunit les hommes pour tuer Lennie. George a pris en secret le pistolet de Carlson. Il rejoint Lennie avant les autres, au point convenu. Il lui raconte une dernière fois l’histoire de la ferme, lui demande de regarder de l’autre côté de la rivière et d’imaginer le terrain, les lapins. Puis il tire, à la nuque. Quand les hommes arrivent, seul Slim comprend ; il emmène George boire un verre. Carlson, en les regardant partir, se demande ce qui peut bien tracasser ces deux-là."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un roman écrit comme une pièce"
+    },
+    {
+     "p": "John Steinbeck publie <em>Des souris et des hommes</em> en 1937. Il l’a conçu comme une « pièce-roman » : six chapitres, chacun en un seul lieu, ouverts par une description qui ressemble à une indication de décor, puis portés presque entièrement par les dialogues. La même année, le texte est adapté à Broadway. La traduction française de Maurice-Edgar Coindreau paraît chez Gallimard en 1939."
+    },
+    {
+     "h5": "Un titre emprunté à Burns"
+    },
+    {
+     "p": "Le titre vient d’un poème de l’Écossais Robert Burns, <em>À une souris</em> (1785). Le poète, en labourant, détruit par mégarde le nid d’une souris, et constate que les plans les mieux conçus des souris comme des hommes tournent souvent mal. Tout le roman tient dans cette idée : la catastrophe n’est pas un accident extérieur, elle est [[inherent|inhérent]] à la condition de ceux qui n’ont aucune marge."
+    },
+    {
+     "h5": "Un monde que Steinbeck connaît"
+    },
+    {
+     "p": "Né en 1902 à Salinas, Steinbeck a travaillé jeune dans des ranchs et des exploitations sucrières de la vallée. Il a vu passer ces hommes sans attaches qui portent leur balluchon de ferme en ferme. Le livre précède de deux ans <em>Les Raisins de la colère</em> (1939), sa grande fresque des migrants de la Dépression. Steinbeck reçoit le prix Nobel de littérature en 1962."
+    },
+    {
+     "h5": "Une construction en échos"
+    },
+    {
+     "p": "Tout est annoncé. La souris morte du premier chapitre préfigure le chiot, puis la femme de Curley. La mort du chien de Candy, abattu pour lui éviter de souffrir, prépare le geste de George. Le roman commence et finit au même endroit, au bord de la rivière. Cette circularité donne au récit la rigueur d’une tragédie : le lecteur sait, bien avant les personnages, que la ferme ne sera jamais achetée."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’il parle de travail précaire, de gens qui changent d’employeur chaque mois sans jamais rien bâtir. Parce qu’il montre ce que vaut un projet commun, même modeste, pour tenir dans la durée. Et parce qu’il pose une question morale qu’on ne peut [[eluder|éluder]] : jusqu’où va la responsabilité envers celui qu’on protège ?"
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Dans la Californie de la Grande Dépression, deux ouvriers agricoles, George, petit et vif, et Lennie, colosse à l’esprit d’enfant, rêvent d’acheter leur propre ferme. Le rêve semble à portée de main quand Lennie tue sans le vouloir la femme du fils du patron. George l’abat pour lui épargner le lynchage.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’amitié comme seul bien</b> : sans famille ni maison, George et Lennie ont une chose rare, ils voyagent à deux.",
+      "<b>Le rêve qui fait vivre</b> : la ferme et ses lapins est une histoire récitée comme une prière, qui donne un sens aux journées.",
+      "<b>La violence des faibles</b> : chacun écrase plus faible que soi. La brutalité semble [[inherent|inhérente]] à ce monde sans prise sur son sort.",
+      "<b>Le geste de George</b> : miséricorde ou renoncement ? Le roman oblige à affronter la question sans l’[[eluder|éluder]]."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>La rivière</b> : près de Soledad, George et Lennie ont fui Weed, où Lennie s’est agrippé à la robe d’une jeune femme. George lui fait promettre de revenir se cacher là en cas d’ennuis.",
+      "<b>L’histoire</b> : chaque soir, George raconte la ferme rêvée, une vache, des poules, et des lapins dont Lennie s’occupera.",
+      "<b>Le ranch</b> : le patron se méfie, George [[eluder|élude]] ses questions. Ils croisent Candy, vieux balayeur manchot, Curley, fils du patron et ex-boxeur agressif, sa femme qui rôde, et Slim, respecté de tous.",
+      "<b>Le chien de Candy</b> : Carlson abat le vieux chien d’une balle à l’arrière du crâne. Candy se tourne vers le mur.",
+      "<b>Le plan</b> : Candy offre ses économies, 250 dollars plus 50 à venir ; le terrain coûte 600 dollars. Le rêve devient possible.",
+      "<b>Le poing</b> : Curley frappe Lennie, qui finit par lui broyer la main. Slim impose la version de l’accident de machine.",
+      "<b>Crooks</b> : le palefrenier noir, isolé, se prend à espérer, jusqu’à ce que la femme de Curley le menace de lynchage.",
+      "<b>La grange</b> : Lennie tue son chiot, puis, voulant faire taire la femme de Curley qui crie, lui brise la nuque.",
+      "<b>La fin</b> : George rejoint Lennie à la rivière, lui raconte une dernière fois la ferme et tire. Seul Slim comprend."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>La forme</b> : une « pièce-roman » de 1937 en six scènes, adaptée à Broadway la même année ; traduite par Coindreau chez Gallimard en 1939.",
+      "<b>Le titre</b> : tiré du poème <em>À une souris</em> de Robert Burns (1785) : les plans les mieux conçus tournent souvent mal. L’échec est [[inherent|inhérent]] à la condition des sans-marge.",
+      "<b>Le vécu</b> : Steinbeck a travaillé dans les ranchs de Salinas ; <em>Les Raisins de la colère</em> suivent en 1939, le Nobel en 1962.",
+      "<b>Les échos</b> : la souris, le chiot, le chien de Candy annoncent tout ; le récit finit là où il a commencé.",
+      "<b>Aujourd’hui</b> : un livre sur le travail précaire, la valeur d’un projet commun, et la responsabilité envers celui qu’on protège."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Titan",
+   "by": "Ron Chernow · 1998",
+   "min": 9,
+   "exMin": 3,
+   "src": "Ron Chernow, Titan: The Life of John D. Rockefeller, Sr. (Random House, 1998). Repères : Standard Oil fondée en 1870 ; rachats de Cleveland en 1872 ; trust de 1882 ; loi Sherman de 1890 ; arrêt Standard Oil Co. of New Jersey v. United States de la Cour suprême, 15 mai 1911. Ida Tarbell, The History of the Standard Oil Company, publiée dans McClure’s Magazine de 1902 à 1904. Parts de marché et montants arrondis, d’après Chernow.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Ron Chernow retrace la vie de John D. Rockefeller (1839-1937), fondateur de la Standard Oil et premier grand milliardaire américain. Il montre un homme double : un monopoleur méthodique, qui a contrôlé environ 90 % du raffinage du pays, et un philanthrope qui a fondé universités et instituts de recherche."
+      ],
+      [
+       "L’obsession du coût",
+       "Rockefeller s’enrichit moins en trouvant du pétrole qu’en le raffinant et en le transportant moins cher que tous. Il fabrique ses barils, achète ses wagons-citernes, construit des oléoducs. Chaque fraction de centime gagnée par baril devient, à son échelle, un avantage décisif."
+      ],
+      [
+       "La logistique comme arme",
+       "Ses volumes lui permettent d’obtenir des chemins de fer des rabais secrets que nul concurrent ne peut égaler. Le contrôle du transport, plus que celui des puits, fait le monopole."
+      ],
+      [
+       "La concentration à marche forcée",
+       "En 1872, en quelques semaines, la Standard Oil absorbe 22 des 26 raffineries de Cleveland. Vers 1880, elle contrôle autour de 90 % du raffinage américain. En 1911, la Cour suprême la scinde en 34 sociétés, dont descendent ExxonMobil et Chevron."
+      ],
+      [
+       "Donner comme on investit",
+       "Retiré des affaires, Rockefeller applique au don la rigueur de la gestion : Université de Chicago (1890), Institut Rockefeller pour la recherche médicale (1901), Fondation Rockefeller (1913). Il donne plus d’un demi-milliard de dollars de son vivant."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "stats": [
+      [
+       "≈ 90 %",
+       "du raffinage américain contrôlé par la Standard Oil vers 1880"
+      ],
+      [
+       "22 sur 26",
+       "raffineries de Cleveland absorbées en 1872"
+      ],
+      [
+       "34",
+       "sociétés issues du démantèlement de 1911"
+      ],
+      [
+       "97 ans",
+       "l’âge de Rockefeller à sa mort, en 1937"
+      ]
+     ]
+    },
+    {
+     "h5": "Un biographe de la finance"
+    },
+    {
+     "p": "Ron Chernow, ancien journaliste, s’était fait connaître par une histoire de la banque Morgan, <em>The House of Morgan</em>, couronnée par le National Book Award en 1990. Pour <em>Titan</em>, publié en 1998, il obtient un large accès aux archives de la famille Rockefeller, dont les entretiens que le vieil homme accorda à la fin des années 1910 à un journaliste chargé de préparer ses mémoires. Le résultat, un livre de plus de 700 pages, devient un succès de librairie. Chernow écrira ensuite la biographie d’Alexander Hamilton qui a inspiré la comédie musicale de Broadway."
+    },
+    {
+     "h5": "Un père escroc, une mère pieuse"
+    },
+    {
+     "p": "Né en 1839 dans l’État de New York, John Davison Rockefeller grandit entre deux modèles. Son père, William, colporteur de remèdes miracles, charmeur et souvent absent, mène une double vie sous un faux nom, avec une seconde épouse : Chernow en documente les détails. Sa mère, Eliza, baptiste austère, lui apprend l’ordre, l’épargne et le don. Le fils retiendra les deux leçons : la méfiance envers les beaux parleurs, et le goût d’une comptabilité exacte."
+    },
+    {
+     "h5": "Le comptable de Cleveland"
+    },
+    {
+     "p": "À 16 ans, en septembre 1855, il entre comme aide-comptable chez un négociant de Cleveland. Il fêtera toute sa vie l’anniversaire de cette embauche. Il tient ses comptes personnels au centime près et donne déjà une part de ses maigres gages à son église. En 1859, l’année où l’on fore en Pennsylvanie le premier puits de pétrole commercial, il fonde une maison de négoce. En 1863, il investit dans une raffinerie. En 1865, il rachète aux enchères la part de ses associés pour 72 500 dollars : à 25 ans, il possède la plus grande raffinerie de Cleveland."
+    },
+    {
+     "h5": "La machine Standard Oil"
+    },
+    {
+     "p": "La Standard Oil naît en 1870 avec un capital d’un million de dollars. Le pétrole sert alors surtout à fabriquer du kérosène pour l’éclairage. Le marché est chaotique : des centaines de petits raffineurs se livrent une guerre des prix, et les cours s’effondrent à chaque nouveau gisement. Rockefeller y voit un gaspillage. Sa réponse est double. D’abord l’intégration : la Standard fabrique ses barils, ses produits chimiques, possède ses entrepôts, puis ses oléoducs. Ensuite l’échelle : plus elle raffine, plus elle obtient des chemins de fer des rabais qu’aucun rival ne peut égaler. Pour qui travaille dans la supply chain, la leçon est nette : le coût logistique n’est pas un détail du prix, c’est souvent le prix."
+    },
+    {
+     "h5": "Le « massacre de Cleveland »"
+    },
+    {
+     "p": "En 1872, un projet d’entente avec des compagnies ferroviaires, la South Improvement Company, prévoit de surtaxer les raffineurs extérieurs et de reverser une part de ces surtaxes aux membres du cartel. Le scandale fait capoter le projet, mais Rockefeller a eu le temps d’agir. En quelques semaines, il rachète 22 des 26 raffineries de Cleveland, souvent en payant en actions de la Standard. Les vendeurs qui acceptent ces titres feront fortune ; ceux qui exigent du comptant le regretteront. Vers 1880, la Standard contrôle autour de 90 % du raffinage américain. En 1882, Rockefeller réunit ses sociétés dans un « trust », une structure juridique inédite qui donnera son nom aux lois antitrust."
+    },
+    {
+     "h5": "La chute du monopole"
+    },
+    {
+     "p": "La puissance de la Standard suscite la haine. La journaliste Ida Tarbell, fille d’un petit producteur de pétrole malmené par le cartel, publie de 1902 à 1904 une enquête implacable sur ses méthodes. Interrogé lors des procès, Rockefeller [[eluder|élude]] les questions, affichant une mémoire étonnamment défaillante. Le 15 mai 1911, la Cour suprême, appliquant la loi Sherman de 1890, ordonne le démantèlement du groupe en 34 sociétés. Ironie de l’histoire : les morceaux valent plus que l’ensemble, et la fortune de Rockefeller augmente. Les héritières de la Standard s’appellent aujourd’hui ExxonMobil, Chevron ou Marathon."
+    },
+    {
+     "h5": "Le philanthrope"
+    },
+    {
+     "p": "Retiré de la gestion quotidienne vers 1897, Rockefeller consacre ses dernières décennies au don, guidé par un pasteur devenu son conseiller, Frederick Gates. Il refuse la charité au hasard et finance des institutions capables de s’attaquer aux causes. L’Université de Chicago, l’Institut Rockefeller, une vaste campagne contre l’ankylostome, un ver parasite qui affaiblissait les populations du Sud des États-Unis, puis la Fondation Rockefeller, créée en 1913, transforment la médecine et la santé publique. Pour Chernow, cette générosité ne rachète pas les méthodes, mais elle prolonge la même logique : organiser, mesurer, passer à l’échelle."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre est foisonnant, parfois long. Certains lecteurs lui reprochent une indulgence finale, comme si la philanthropie équilibrait le bilan. Chernow répond par la nuance : il refuse aussi bien le portrait du pur prédateur que celui du saint, et montre qu’un monopole peut à la fois faire baisser le prix du kérosène et étouffer toute concurrence. Ce double visage est [[inherent|inhérent]] à toute position dominante : l’efficacité qui profite au client donne aussi le pouvoir de fixer les règles."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "À l’heure où l’on débat du pouvoir des géants du numérique et où le pétrole cher pèse sur l’économie mondiale, <em>Titan</em> rappelle d’où viennent nos règles de concurrence. Il montre aussi qu’une domination durable se construit moins sur une idée de génie que sur une discipline des coûts et une maîtrise de toute la chaîne, du puits au client."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Ron Chernow retrace la vie de John D. Rockefeller (1839-1937), fondateur de la Standard Oil. Un homme double : un monopoleur qui a contrôlé environ 90 % du raffinage américain, et un philanthrope qui a fondé universités et instituts de recherche.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Chernow, biographe de la banque Morgan (National Book Award 1990), publie <em>Titan</em> en 1998 grâce aux archives familiales.",
+      "<b>Les origines</b> : un père colporteur à double vie, une mère baptiste austère. Aide-comptable à 16 ans en 1855, raffineur en 1863, il rachète ses associés 72 500 dollars en 1865.",
+      "<b>L’obsession du coût</b> : barils, wagons-citernes, oléoducs maison. Le coût logistique n’est pas un détail du prix, c’est souvent le prix.",
+      "<b>La logistique comme arme</b> : ses volumes lui valent des rabais ferroviaires secrets. Le transport, plus que les puits, fait le monopole.",
+      "<b>La concentration</b> : 22 des 26 raffineries de Cleveland absorbées en 1872 ; ≈ 90 % du raffinage vers 1880 ; un « trust » en 1882.",
+      "<b>La chute</b> : enquête d’Ida Tarbell (1902-1904) ; Rockefeller [[eluder|élude]] les questions aux procès. Le 15 mai 1911, la Cour suprême scinde le groupe en 34 sociétés, dont ExxonMobil et Chevron descendent.",
+      "<b>La méthode du don</b> : guidé par Frederick Gates, il finance des institutions qui s’attaquent aux causes, comme la campagne contre l’ankylostome dans le Sud. Organiser, mesurer, passer à l’échelle : la même logique que dans les affaires.",
+      "<b>Le don</b> : Université de Chicago (1890), Institut Rockefeller (1901), Fondation (1913) ; plus d’un demi-milliard de dollars donné de son vivant."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "≈ 90 %",
+       "du raffinage américain contrôlé par la Standard Oil vers 1880"
+      ],
+      [
+       "22 sur 26",
+       "raffineries de Cleveland absorbées en 1872"
+      ],
+      [
+       "34",
+       "sociétés issues du démantèlement de 1911"
+      ],
+      [
+       "97 ans",
+       "l’âge de Rockefeller à sa mort, en 1937"
+      ]
+     ]
+    },
+    {
+     "ul": [
+      "<b>Les limites</b> : un livre long, jugé indulgent par certains. Un monopole peut faire baisser les prix et étouffer la concurrence : ce double visage est [[inherent|inhérent]] à toute position dominante.",
+      "<b>Aujourd’hui</b> : une leçon pour le débat sur les géants du numérique, et sur la maîtrise de la chaîne, du puits au client."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Fed : une pause, mais la porte reste ouverte à une hausse",
+   "by": "Analyse",
+   "fig": "3,75-4 %",
+   "figl": "taux directeurs de la Fed, inchangés",
+   "min": 3,
+   "exMin": 2,
+   "src": "Réserve fédérale, décision du FOMC du 28 octobre 2026 (via Reuters / Nation Thailand, Yahoo Finance et Fox Business, 28 octobre 2026 : vote, dissidences, communiqué, rendements) ; annonce sur le calendrier 2027-2028 : Reuters via Yahoo Finance, 28 octobre 2026 ; inflation de septembre : Bureau of Labor Statistics, 14 octobre 2026 (via Kiplinger) ; probabilités de marché : CME FedWatch ; Brent : CBS News, 27 octobre 2026. Données arrêtées au 28 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La Réserve fédérale américaine a laissé mercredi ses taux directeurs entre 3,75 % et 4 %, un mois après les avoir relevés d’un quart de point, sa première hausse depuis juillet 2023. La pause n’a rien d’un apaisement : deux membres du comité ont voté pour une nouvelle hausse, et les marchés en attendent une en décembre. À six jours des élections de mi-mandat, la Fed temporise sans renoncer.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "3,75-4 %",
+       "fourchette des taux directeurs, inchangée le 28 octobre"
+      ],
+      [
+       "10 contre 2",
+       "le vote ; les deux dissidents voulaient + 0,25 point"
+      ],
+      [
+       "3,7 %",
+       "inflation sur un an en septembre"
+      ],
+      [
+       "≈ 5 %",
+       "rendement de l’emprunt d’État américain à 10 ans"
+      ]
+     ]
+    },
+    {
+     "h": "Un communiqué plus ferme qu’il n’y paraît"
+    },
+    {
+     "p": "Le texte publié par la Fed juge désormais la croissance « forte », et non plus « solide ». Il répète que l’inflation « reste élevée ». La gouverneure Lisa Cook et la présidente de la Fed de Cleveland, Beth Hammack, ont réclamé une hausse immédiate d’un quart de point. Avant la réunion, les contrats à terme donnaient environ 84 % de chances à une hausse lors de la réunion des 8 et 9 décembre. Le président Kevin Warsh, en poste depuis mai, refuse de guider les marchés sur ses décisions futures. Il n’[[eluder|élude]] pas pour autant le risque d’inflation : il laisse les données trancher."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Inflation américaine : loin de la cible",
+      "sub": "hausse des prix sur un an, septembre 2026, en %",
+      "rows": [
+       [
+        "Inflation d’ensemble",
+        3.7
+       ],
+       [
+        "Inflation sous-jacente",
+        2.6
+       ],
+       [
+        "Cible de la Fed",
+        2.0
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Sous-jacente : hors énergie et alimentation. Source : Bureau of Labor Statistics, indice des prix à la consommation de septembre 2026, publié le 14 octobre."
+     }
+    },
+    {
+     "h": "L’essence, moteur de l’inflation"
+    },
+    {
+     "p": "Les prix ont augmenté de 3,7 % sur un an en septembre, contre 3,4 % en août. L’essence, en hausse de 9,1 % sur le seul mois, explique plus de la moitié de la poussée mensuelle. Hors énergie et alimentation, l’inflation n’est que de 2,6 %. Tout le dilemme est là : le choc est d’abord pétrolier, avec un Brent autour de 113 dollars le baril, et une hausse de taux ne fera pas baisser le prix du brut. Mais laisser l’inflation s’installer dans les anticipations coûterait plus cher. Ce risque est [[inherent|inhérent]] à tout choc d’offre durable."
+    },
+    {
+     "h": "Moins de réunions à partir de 2027"
+    },
+    {
+     "p": "Warsh a aussi annoncé un changement de méthode : en 2027, l’une des huit réunions annuelles sera consacrée à la stratégie, sans vote sur les taux ; en 2028, deux le seront. Il a déjà raccourci le communiqué et la conférence de presse."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La Fed fait une pause tactique, pas un virage. Avec un emprunt à 10 ans proche de 5 %, le crédit immobilier et l’investissement des entreprises restent chers. Pour l’Europe, un dollar soutenu par des taux élevés renchérit encore le pétrole, facturé en dollars. Rendez-vous le 9 décembre."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>La décision</b> : taux maintenus entre 3,75 % et 4 % le 28 octobre, un mois après une hausse d’un quart de point, la première depuis juillet 2023.",
+      "<b>Le vote</b> : 10 contre 2 ; Lisa Cook et Beth Hammack voulaient relever les taux. Les marchés misaient à ≈ 84 % sur une hausse en décembre.",
+      "<b>Le ton</b> : croissance jugée « forte », inflation « élevée ». Kevin Warsh ne guide pas les marchés, sans [[eluder|éluder]] le risque.",
+      "<b>L’inflation</b> : 3,7 % en septembre (3,4 % en août), dont plus de la moitié de la hausse mensuelle due à l’essence (+ 9,1 %). Sous-jacente : 2,6 %."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Inflation américaine : loin de la cible",
+      "sub": "hausse des prix sur un an, septembre 2026, en %",
+      "rows": [
+       [
+        "Inflation d’ensemble",
+        3.7
+       ],
+       [
+        "Inflation sous-jacente",
+        2.6
+       ],
+       [
+        "Cible de la Fed",
+        2.0
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Sous-jacente : hors énergie et alimentation. Source : Bureau of Labor Statistics, indice des prix à la consommation de septembre 2026, publié le 14 octobre."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le dilemme</b> : un choc pétrolier (Brent ≈ 113 $) que les taux ne corrigent pas, mais une inflation à ne pas laisser s’installer. Un risque [[inherent|inhérent]] à tout choc d’offre.",
+      "<b>La méthode</b> : en 2027, une réunion sur huit sans vote, consacrée à la stratégie ; deux en 2028.",
+      "<b>L’effet</b> : 10 ans ≈ 5 %, crédit cher, dollar soutenu. Prochaine décision le 9 décembre, au terme de la réunion des 8 et 9."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Égypte : Le Caire prêt à défendre l’Arabie saoudite",
+   "by": "Analyse",
+   "fig": "4,67 Md$",
+   "figl": "recettes du canal de Suez en 2025-2026",
+   "min": 3,
+   "exMin": 2,
+   "src": "The National, « Egypt’s parliament authorises El Sisi to send troops to defend Saudi Arabia », 26 octobre 2026 (calendrier, mandat, règle des deux tiers, frappe du 10 octobre) ; CBS News, suivi en direct du 27 octobre 2026 (bilan des combats, Ras Tanura, réaction houthie) ; recettes du canal de Suez : Autorité du canal de Suez, via Egyptian Streets, 30 juin 2026. Données arrêtées au 27 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le Parlement égyptien a autorisé lundi 26 octobre le président Abdel Fattah al-Sissi à envoyer des troupes défendre l’Arabie saoudite, visée depuis des semaines par les missiles des Houthis du Yémen. Le Caire parle d’une mission défensive, sans attaque contre le Yémen. Les Houthis y voient une déclaration de guerre. Pour l’Égypte, l’enjeu est autant financier que militaire.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "2/3",
+       "des 596 députés requis pour un déploiement de combat"
+      ],
+      [
+       "97",
+       "combattants tués le 26 octobre au Yémen, près de Bab el-Mandeb"
+      ],
+      [
+       "4,67 Md$",
+       "recettes du canal de Suez en 2025-2026, contre 9,4 au record"
+      ]
+     ]
+    },
+    {
+     "h": "Un mandat large, un déploiement conditionnel"
+    },
+    {
+     "p": "Sissi a demandé ce mandat le 17 octobre ; le Conseil de défense nationale l’a approuvé le 18. Le vote, à huis clos, a réuni la majorité des deux tiers exigée par la Constitution. Le texte couvre la défense du territoire saoudien, de sa souveraineté et des lieux saints, en coordination avec Riyad. Les soldats ne partiront qu’à la demande saoudienne, qui n’a pas encore été annoncée. Un petit parti d’opposition, les sociaux-démocrates, a appelé ses élus à s’abstenir, en invoquant le coût économique et le risque d’escalade. Le Caire [[eluder|élude]] la question des effectifs et des moyens : forces terrestres, défense aérienne ou marine."
+    },
+    {
+     "p": "L’escalade est réelle. Le 10 octobre, une frappe houthie sur l’aéroport de Riyad a tué 12 personnes, dont une hôtesse de l’air égyptienne. Le 26, des combats ont fait 97 morts au Yémen, et les Houthis revendiquent une frappe sur la raffinerie saoudienne de Ras Tanura, d’une capacité de 550 000 barils par jour."
+    },
+    {
+     "h": "Suez, la vraie ligne de front"
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Canal de Suez : des recettes amputées de moitié",
+      "sub": "recettes annuelles, en milliards de dollars",
+      "rows": [
+       [
+        "2022-2023 (record)",
+        9.4
+       ],
+       [
+        "Année 2024",
+        3.9
+       ],
+       [
+        "2025-2026",
+        4.67
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md$",
+      "note": "Exercices budgétaires de juillet à juin, sauf 2024 (année civile). Source : Autorité du canal de Suez, via Egyptian Streets, 30 juin 2026."
+     }
+    },
+    {
+     "p": "Les attaques houthies en mer Rouge ont détourné les navires du canal de Suez, l’une des premières sources de devises du pays. Les recettes sont tombées de 9,4 milliards de dollars à 3,9 milliards en 2024, puis n’ont remonté qu’à 4,67 milliards. Bab el-Mandeb, à l’entrée sud de la mer Rouge, commande l’accès au canal : la sécurité du détroit est [[inherent|inhérente]] à la santé de l’économie égyptienne. L’Arabie saoudite est en outre l’un des principaux bailleurs du Caire."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "L’Égypte garde le souvenir de son intervention au Yémen de 1962 à 1967, un enlisement souvent comparé à un Vietnam égyptien. D’où la prudence du mot « défensif ». Elle avait aussi rejoint en 1991 la coalition contre l’Irak. Mais en s’engageant aux côtés de Riyad, Le Caire lie son sort à une guerre régionale qui a déjà fermé Ormuz. Si la mer Rouge s’embrase à son tour, les deux routes maritimes entre l’Asie et l’Europe seraient menacées en même temps."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le vote</b> : le 26 octobre, le Parlement autorise Sissi à envoyer des troupes défendre l’Arabie saoudite. Majorité des deux tiers sur 596 députés, à huis clos.",
+      "<b>Le mandat</b> : défense du territoire et des lieux saints saoudiens, à la demande de Riyad, sans attaque contre le Yémen. Effectifs et moyens : Le Caire [[eluder|élude]] la question.",
+      "<b>L’escalade</b> : 12 morts à l’aéroport de Riyad le 10 octobre ; 97 combattants tués le 26 ; frappe revendiquée sur Ras Tanura (550 000 b/j). Les Houthis parlent de déclaration de guerre."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Canal de Suez : des recettes amputées de moitié",
+      "sub": "recettes annuelles, en milliards de dollars",
+      "rows": [
+       [
+        "2022-2023 (record)",
+        9.4
+       ],
+       [
+        "Année 2024",
+        3.9
+       ],
+       [
+        "2025-2026",
+        4.67
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md$",
+      "note": "Exercices budgétaires de juillet à juin, sauf 2024 (année civile). Source : Autorité du canal de Suez, via Egyptian Streets, 30 juin 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’enjeu</b> : le canal de Suez, grande source de devises, est passé de 9,4 Md$ à 3,9 Md$ en 2024, puis 4,67 Md$. Sa santé est [[inherent|inhérente]] à la sécurité de Bab el-Mandeb.",
+      "<b>L’opposition</b> : les sociaux-démocrates, une douzaine de sièges, ont appelé à l’abstention, citant le coût économique et le risque d’escalade. Riyad est aussi l’un des principaux bailleurs du Caire.",
+      "<b>Le précédent</b> : l’enlisement au Yémen de 1962 à 1967 explique la prudence du mot « défensif ».",
+      "<b>Le risque</b> : avec Ormuz déjà fermé, une mer Rouge en guerre menacerait les deux routes Asie-Europe."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "UPS : moins de colis, plus de valeur par colis",
+   "by": "Analyse",
+   "fig": "+ 6,1 %",
+   "figl": "revenu par colis aux États-Unis",
+   "min": 3,
+   "exMin": 2,
+   "src": "UPS, « UPS Releases 3Q 2026 Earnings », communiqué du 27 octobre 2026 (formulaire 8-K, SEC) : chiffre d’affaires, volumes, revenu et coût par colis, marges, programmes d’économies, prévisions. Plan de réduction des volumes d’Amazon annoncé par UPS en janvier 2025. Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "UPS livre moins de colis, mais gagne davantage sur chacun. Au troisième trimestre, le géant américain a transporté 3,3 % de colis de moins par jour aux États-Unis, tandis que son revenu par colis progressait de 6,1 %. Le chiffre d’affaires total monte de 6,7 %, à 22,9 milliards de dollars, et le groupe relève ses prévisions annuelles. C’est la stratégie assumée depuis 2025 : choisir ses volumes plutôt que les subir.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "− 3,3 %",
+       "colis livrés par jour aux États-Unis (15,6 millions)"
+      ],
+      [
+       "+ 6,1 %",
+       "revenu par colis aux États-Unis"
+      ],
+      [
+       "9,0 %",
+       "marge opérationnelle ajustée, contre 10,0 % un an plus tôt"
+      ],
+      [
+       "≈ 3 Md$",
+       "économies attendues en 2026"
+      ]
+     ]
+    },
+    {
+     "h": "Moins d’Amazon, plus de valeur"
+    },
+    {
+     "p": "UPS a terminé au deuxième trimestre la réduction programmée des volumes de son plus gros client, Amazon, dont les colis rapportaient peu. Le groupe ferme des activités dans certains bâtiments, automatise ses centres de tri et a proposé à ses chauffeurs un programme de départs volontaires, qui coûte à lui seul 1,2 milliard de dollars cette année. Sur neuf mois, ces plans ont déjà rapporté 1,8 milliard d’économies. L’objectif : un réseau plus petit mais plus dense en envois rentables, où chaque camion transporte des colis qui paient leur place."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "UPS : la croissance vient d’ailleurs que du colis américain",
+      "sub": "hausse du chiffre d’affaires sur un an, 3e trimestre 2026, en %",
+      "rows": [
+       [
+        "Logistique (Supply Chain Solutions)",
+        18.2
+       ],
+       [
+        "International",
+        7.1
+       ],
+       [
+        "Colis États-Unis",
+        4.5
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Source : UPS, résultats du 3e trimestre 2026, 27 octobre 2026."
+     }
+    },
+    {
+     "h": "Le piège des coûts fixes"
+    },
+    {
+     "p": "La limite est [[inherent|inhérente]] à un réseau de transport : camions, hubs et tournées coûtent presque autant avec moins de colis. Le coût ajusté par colis américain grimpe ainsi de 5,5 %, à 13,32 dollars, presque autant que le revenu. Résultat : la marge ajustée recule d’un point. L’international, avec un revenu par colis en hausse de 15 % et une marge de 14,9 %, et la logistique contractuelle, notamment pour la santé, tirent la croissance. Mais cette dernière a aussi coûté une dépréciation de 182 millions de dollars. La trésorerie, elle, se porte bien : 4,2 milliards de dollars de flux disponible sur neuf mois, contre 2,7 un an plus tôt, et une plus-value de 33 millions sur la vente d’avions MD-11."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Pour un chargeur, le message est clair : les transporteurs préfèrent désormais le colis rentable au gros volume, et le prix d’un envoi dépend de la densité qu’il apporte au réseau. On ne peut [[eluder|éluder]] la question de la valeur de ses flux au moment de négocier. Le prochain test sera le pic de fin d’année : UPS vise 25,7 milliards de dollars de chiffre d’affaires au quatrième trimestre, et 92,6 milliards sur l’ensemble de 2026."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Les chiffres</b> : 22,9 Md$ de chiffre d’affaires au 3e trimestre (+ 6,7 %), prévisions relevées à 92,6 Md$ pour 2026.",
+      "<b>Moins de colis</b> : 15,6 millions par jour aux États-Unis (− 3,3 %), mais un revenu par colis en hausse de 6,1 %.",
+      "<b>Amazon</b> : la réduction des volumes du plus gros client, peu rentables, est achevée depuis le 2e trimestre.",
+      "<b>Les économies</b> : automatisation, fermetures, départs volontaires de chauffeurs (1,2 Md$ de coût) ; 1,8 Md$ d’économies sur neuf mois, ≈ 3 Md$ sur l’année."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "UPS : la croissance vient d’ailleurs que du colis américain",
+      "sub": "hausse du chiffre d’affaires sur un an, 3e trimestre 2026, en %",
+      "rows": [
+       [
+        "Logistique (Supply Chain Solutions)",
+        18.2
+       ],
+       [
+        "International",
+        7.1
+       ],
+       [
+        "Colis États-Unis",
+        4.5
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Source : UPS, résultats du 3e trimestre 2026, 27 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les coûts fixes</b> : une limite [[inherent|inhérente]] aux réseaux. Coût par colis + 5,5 % (13,32 $) ; marge ajustée 9,0 %, contre 10,0 %.",
+      "<b>La trésorerie</b> : 4,2 Md$ de flux disponible sur neuf mois, contre 2,7 Md$ un an plus tôt ; 25,7 Md$ de chiffre d’affaires visés au 4e trimestre, celui du pic de fin d’année.",
+      "<b>Les relais</b> : international (revenu par colis + 15 %, marge 14,9 %) et logistique santé, malgré une dépréciation de 182 M$.",
+      "<b>Pour un chargeur</b> : la valeur de ses flux pour le réseau, une question à ne pas [[eluder|éluder]] en négociation."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Equinor : la guerre double les profits, Oslo encaisse",
+   "by": "Analyse",
+   "fig": "12,4 Md$",
+   "figl": "résultat d’exploitation ajusté trimestriel",
+   "min": 3,
+   "exMin": 2,
+   "src": "Equinor, « Equinor third quarter 2026 results », 28 octobre 2026, et « Equinor third quarter 2025 results », 29 octobre 2025 ; Reuters via Euronext, 28 octobre 2026 (consensus, négoce, action, déclarations du directeur financier Torgrim Reitan). Fiscalité pétrolière norvégienne (22 % d’impôt sur les sociétés + 56 % d’impôt spécial) et participation de l’État (67 %) : gouvernement norvégien. Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le norvégien Equinor a publié mercredi son meilleur trimestre depuis la fin de 2022. Son résultat d’exploitation ajusté a doublé en un an, à 12,4 milliards de dollars, porté par la flambée du pétrole et du gaz depuis le début de la guerre avec l’Iran. Premier fournisseur de gaz de l’Europe, sans exposition directe au Moyen-Orient, le groupe est l’un des grands gagnants de la crise.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "12,4 Md$",
+       "résultat d’exploitation ajusté, contre 6,2 un an plus tôt"
+      ],
+      [
+       "20,0 $",
+       "prix du gaz européen obtenu, par MMBtu (11,4 $ un an plus tôt)"
+      ],
+      [
+       "2,17 Mbep/j",
+       "production de pétrole et de gaz"
+      ],
+      [
+       "+ 86 %",
+       "hausse de l’action depuis janvier"
+      ]
+     ]
+    },
+    {
+     "h": "Des prix, pas des volumes"
+    },
+    {
+     "p": "La production n’a progressé que de 2 %, à 2,17 millions de barils équivalent pétrole par jour. L’essentiel vient des prix : le gaz vendu en Europe rapporte 20 dollars par million de BTU, contre 11,4 un an plus tôt ; le pétrole 92,3 dollars le baril, contre 64,9. Le négoce d’énergie, qui profite de la volatilité, a gagné 893 millions de dollars. Les analystes attendaient 12,19 milliards de résultat ajusté : le groupe fait mieux. Sa production d’électricité, 1,32 térawattheure sur le trimestre, reste marginale face aux hydrocarbures, même si le renouvelable progresse de 26 %. Equinor relève sa prévision de croissance de production pour 2026 à environ 4 %, mais son directeur financier prévient qu’elle pourrait fléchir en 2027 : cette année est « extraordinaire »."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Equinor : le profit double, l’impôt aussi",
+      "sub": "3e trimestre, en milliards de dollars",
+      "labels": [
+       "Résultat avant impôt ajusté",
+       "Résultat net ajusté"
+      ],
+      "series": [
+       {
+        "name": "T3 2025",
+        "values": [
+         6.21,
+         0.93
+        ]
+       },
+       {
+        "name": "T3 2026",
+        "values": [
+         12.35,
+         2.86
+        ]
+       }
+      ],
+      "note": "Résultat d’exploitation ajusté et résultat net ajusté. Source : Equinor, résultats du 3e trimestre 2025 et 2026."
+     }
+    },
+    {
+     "h": "Oslo, premier bénéficiaire"
+    },
+    {
+     "p": "L’écart entre les deux barres du graphique s’explique par la fiscalité norvégienne, qui prélève 78 % des bénéfices pétroliers en mer. Le résultat net comptable atteint 2,54 milliards de dollars. Au troisième trimestre, Equinor a versé 6,2 milliards de dollars d’acomptes d’impôt. L’État, actionnaire à 67 %, encaisse aussi l’essentiel des dividendes, qui alimentent avec l’impôt le fonds souverain du pays. Le groupe maintient son dividende à 0,39 dollar par action et rachète jusqu’à 3 milliards de dollars de titres cette année, mais [[eluder|élude]] l’idée d’un dividende exceptionnel."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Equinor illustre un paradoxe [[inherent|inhérent]] aux chocs énergétiques : ce que l’Europe paie en plus pour son gaz enrichit son voisin du Nord, membre de l’Espace économique européen mais pas de l’Union. Son endettement net est tombé à 3,8 % des capitaux employés. En Bourse, l’action a gagné 86 % depuis janvier, contre 43 % pour les pétrolières européennes. Le groupe aborde l’hiver en position de force, tant qu’Ormuz restera fermé."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le record</b> : résultat d’exploitation ajusté de 12,4 Md$ au 3e trimestre, contre 6,2 Md$ un an plus tôt ; meilleur trimestre depuis fin 2022.",
+      "<b>Les prix</b> : gaz européen à 20 $ par MMBtu (11,4 $ un an plus tôt), pétrole à 92,3 $ le baril (64,9 $). Production + 2 % seulement, à 2,17 Mbep/j.",
+      "<b>La suite</b> : production 2026 relevée à ≈ + 4 %, mais 2027 pourrait fléchir après une année « extraordinaire ». Action + 86 % depuis janvier."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Equinor : le profit double, l’impôt aussi",
+      "sub": "3e trimestre, en milliards de dollars",
+      "labels": [
+       "Résultat avant impôt ajusté",
+       "Résultat net ajusté"
+      ],
+      "series": [
+       {
+        "name": "T3 2025",
+        "values": [
+         6.21,
+         0.93
+        ]
+       },
+       {
+        "name": "T3 2026",
+        "values": [
+         12.35,
+         2.86
+        ]
+       }
+      ],
+      "note": "Résultat d’exploitation ajusté et résultat net ajusté. Source : Equinor, résultats du 3e trimestre 2025 et 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le marché</b> : consensus de 12,19 Md$ dépassé ; action + 86 % depuis janvier, contre + 43 % pour les pétrolières européennes. Négoce : 893 M$. Dette nette : 3,8 % des capitaux employés.",
+      "<b>L’impôt</b> : 78 % sur les bénéfices pétroliers en mer ; 6,2 Md$ d’acomptes versés au trimestre. L’État détient 67 % du capital.",
+      "<b>Les actionnaires</b> : dividende de 0,39 $, rachats jusqu’à 3 Md$ en 2026 ; Equinor [[eluder|élude]] le dividende exceptionnel.",
+      "<b>Le paradoxe</b> : un effet [[inherent|inhérent]] aux chocs énergétiques, le surcoût du gaz européen enrichit la Norvège, hors de l’Union."
+     ]
+    }
+   ]
+  }
+ ]
+}
