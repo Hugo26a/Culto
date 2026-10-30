@@ -1,0 +1,1013 @@
+{
+ "date": "2026-10-30",
+ "label": "Vendredi 30 octobre 2026",
+ "n": 15,
+ "example": false,
+ "week": {
+  "start": "2026-10-26",
+  "label": "Semaine du 26 octobre",
+  "day": 5,
+  "words": [
+   {
+    "key": "inherent",
+    "w": "Inhérent",
+    "ph": "[i.ne.ʁɑ̃] · adjectif",
+    "short": "Qui fait partie de la nature même d’une chose.",
+    "def": "Qui est lié par nature à une chose, au point qu’on ne peut l’en séparer. Un risque inhérent à une activité ne vient pas d’un accident extérieur : il existe dès qu’on exerce cette activité. Se construit avec « à » : les aléas inhérents au transport maritime, les difficultés inhérentes à tout changement.",
+    "ety": "Du latin inhaerens, participe présent de inhaerere, « être attaché à », formé sur haerere, « adhérer, rester collé ». Même famille que adhérer, cohérent, cohésion et hésiter (du latin haesitare, « rester accroché »).",
+    "ex": "Les retards sont inhérents à un approvisionnement depuis l’Asie : mieux vaut les intégrer au stock de sécurité que les découvrir à chaque arrivage.",
+    "syn": "intrinsèque, propre à, indissociable de, consubstantiel, naturel"
+   },
+   {
+    "key": "eluder",
+    "w": "Éluder",
+    "ph": "[e.ly.de] · verbe transitif",
+    "short": "Éviter adroitement une question ou une difficulté.",
+    "def": "Se soustraire habilement à ce qui dérange : une question, une objection, un problème, une obligation. Éluder n’est pas répondre non, c’est faire en sorte de ne pas avoir à répondre. Le mot suggère souvent une habileté un peu suspecte.",
+    "ety": "Du latin eludere, « se jouer de, esquiver en jouant », formé sur ludere, « jouer ». Même famille que ludique, illusion, allusion et prélude.",
+    "ex": "Interrogé sur les pénalités de retard, le fournisseur a éludé la question et n’a parlé que de ses nouveaux délais.",
+    "syn": "esquiver, contourner, escamoter, se dérober à, passer sous silence"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Le Guépard",
+   "by": "Giuseppe Tomasi di Lampedusa · 1958",
+   "tagline": "Tout changer pour que rien ne change",
+   "min": 10,
+   "exMin": 4,
+   "src": "Giuseppe Tomasi di Lampedusa, Il Gattopardo (Feltrinelli, novembre 1958, publication posthume) ; trad. fr. Fanette Pézard (Seuil, 1959), nouvelle traduction Jean-Paul Manganaro (Seuil, 2007). Prix Strega 1959. Film de Luchino Visconti, Palme d’or au Festival de Cannes 1963. Lampedusa est mort en 1957 : l’œuvre n’est pas encore dans le domaine public, d’où l’absence de citation longue.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Sicile, 1860. Pendant que Garibaldi conquiert l’île pour l’unité italienne, le prince Fabrizio Salina, aristocrate lucide et désabusé, regarde son monde s’effacer. Il marie son neveu Tancredi à la fille d’un parvenu enrichi et laisse la bourgeoisie prendre la place des grandes familles, en sachant que, sous le changement, l’essentiel ne bougera pas."
+      ],
+      [
+       "La formule qui a fait le tour du monde",
+       "Tancredi, qui rejoint les insurgés, explique à son oncle que pour que tout reste comme avant, il faut que tout change. Le mot a donné un adjectif en italien, « gattopardesco », pour désigner une réforme de façade qui préserve les positions acquises."
+      ],
+      [
+       "Une aristocratie qui choisit de s’effacer",
+       "Salina pourrait résister ; il préfère négocier sa sortie. Le mariage de Tancredi avec Angelica, fille du maire affairiste don Calogero, est un échange : le nom contre l’argent. Le roman montre comment une élite se survit en s’alliant à celle qui la remplace."
+      ],
+      [
+       "La Sicile, une île qui veut dormir",
+       "Quand un émissaire piémontais lui propose un siège de sénateur, le prince refuse : selon lui, les Siciliens n’aspirent pas à être améliorés mais au sommeil. Ce fatalisme, qu’il juge [[inherent|inhérent]] à l’île, est à la fois son analyse et son alibi."
+      ],
+      [
+       "Un livre sur la mort autant que sur l’histoire",
+       "Le vrai sujet est le temps qui passe : la beauté qui fane, les palais qui se vident, la mort du prince racontée de l’intérieur. L’histoire politique n’est que le décor d’une méditation sur ce qui disparaît."
+      ],
+      [
+       "Un chef-d’œuvre refusé",
+       "Écrit par un aristocrate inconnu à la fin de sa vie, le manuscrit est refusé par deux grands éditeurs. Il paraît un an après la mort de son auteur et devient le premier best-seller de l’édition italienne d’après-guerre."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Mai 1860 : le débarquement"
+    },
+    {
+     "p": "Palerme, mai 1860. Dans sa villa, le prince Fabrizio Salina, un colosse aux yeux bleus, termine le chapelet quotidien avec sa famille. Grand seigneur, astronome amateur respecté, il porte le guépard sur ses armoiries. Le royaume des Bourbons de Naples vacille : on a trouvé dans son jardin le cadavre d’un soldat royal, et la rumeur annonce le débarquement de Garibaldi et de ses Mille à Marsala.",
+     "lead": 1
+    },
+    {
+     "p": "Son neveu préféré, Tancredi Falconeri, orphelin brillant et sans le sou, vient lui dire adieu : il part rejoindre les insurgés dans les montagnes. Le prince s’en étonne ; Tancredi lui répond que si les grandes familles ne participent pas au mouvement, d’autres feront la république à leur place. Il faut que tout change pour que tout reste comme avant. Le prince comprend et lui glisse un rouleau de pièces d’or."
+    },
+    {
+     "h5": "Été 1860 : Donnafugata"
+    },
+    {
+     "p": "Garibaldi a pris Palerme. Comme chaque été, la famille part pour son fief de Donnafugata, à trois jours de voiture. Au château, le prince découvre que le maire, don Calogero Sedàra, est devenu un notable de l’ordre nouveau. Fils de paysan, usurier habile, il possède désormais presque autant de terres que les Salina. Au dîner, il paraît en habit de soirée, faute de goût qui fait sourire. Mais sa fille Angelica entre à son tour : elle est d’une beauté saisissante. Tancredi, de retour avec un grade d’officier, ne voit plus qu’elle."
+    },
+    {
+     "p": "Concetta, la fille du prince, aimait Tancredi et croyait être aimée. Le soir même, le jeune homme raconte une anecdote grivoise sur une expédition dans un couvent ; Concetta s’en offusque, et Tancredi se tourne définitivement vers Angelica. Le prince, qui sait que son neveu a besoin d’argent, accepte de demander pour lui la main de la fille du maire."
+    },
+    {
+     "h5": "Octobre 1860 : le plébiscite"
+    },
+    {
+     "p": "La Sicile vote son rattachement au royaume de Piémont-Sardaigne. Le prince vote oui, par réalisme. À Donnafugata, le résultat officiel affiche l’unanimité. Pourtant, son compagnon de chasse, l’organiste don Ciccio Tumeo, lui avoue avoir voté non par fidélité aux Bourbons : sa voix a disparu. Le prince comprend que le nouvel État naît sur un petit mensonge que personne ne relèvera. Plutôt que d’[[eluder|éluder]] la question, il la garde pour lui, ce qui revient presque au même."
+    },
+    {
+     "h5": "Novembre 1860 : le refus"
+    },
+    {
+     "p": "Un fonctionnaire piémontais, le chevalier Chevalley, vient proposer au prince un siège de sénateur du nouveau royaume. Salina décline. Il explique que les Siciliens, après des siècles de dominations étrangères, sont trop vieux et trop fiers pour vouloir changer ; il se décrit comme le représentant d’une classe finie, et prédit qu’après les guépards et les lions viendront des chacals. Il conseille de nommer plutôt don Calogero. Chevalley repart, persuadé que rien ne bougera."
+    },
+    {
+     "h5": "1862 : le bal"
+    },
+    {
+     "p": "Au grand bal du palais Ponteleone, à Palerme, Angelica fait son entrée dans le monde au bras de Tancredi. Le prince valse avec elle et retrouve, l’espace d’une danse, sa jeunesse. Puis, seul dans la bibliothèque, devant un tableau représentant la mort d’un juste, il pense à sa propre fin. Un colonel se vante d’avoir blessé Garibaldi à l’Aspromonte : la révolution d’hier est déjà rentrée dans l’ordre."
+    },
+    {
+     "h5": "1883 et 1910 : la fin"
+    },
+    {
+     "p": "Juillet 1883. Le prince meurt dans une chambre d’hôtel de Palerme, au retour d’une consultation à Naples. Il fait le compte des moments de sa vie qui ont vraiment compté et le trouve bien mince. La mort lui apparaît sous les traits d’une jeune femme élégante qu’il avait aperçue en voyage."
+    },
+    {
+     "p": "Mai 1910. Concetta et ses deux sœurs, vieilles demoiselles, vivent parmi les reliques de la villa. Une visite lui apprend que l’anecdote du couvent était inventée, et que sa propre fierté a peut-être brisé son bonheur. Elle fait jeter la dépouille empaillée de Bendicò, le chien du prince, qui tombe en poussière dans la cour."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un aristocrate qui écrit sur les siens"
+    },
+    {
+     "p": "Giuseppe Tomasi, prince de Lampedusa (1896-1957), appartient lui-même à une grande famille sicilienne déclinante. Le prince Salina est inspiré de son arrière-grand-père, Giulio Fabrizio Tomasi, lui aussi astronome. Lettré, grand lecteur de Stendhal et des romanciers anglais, il n’avait rien publié avant de se mettre à l’écriture vers 1955, après avoir accompagné son cousin, le poète Lucio Piccolo, à une rencontre littéraire. Le palais familial de Palerme avait été détruit par un bombardement en 1943."
+    },
+    {
+     "h5": "Un manuscrit refusé"
+    },
+    {
+     "p": "Les éditeurs Mondadori et Einaudi refusent le texte. Lampedusa meurt d’un cancer en juillet 1957 sans le voir publié. C’est l’écrivain Giorgio Bassani qui le fait paraître chez Feltrinelli en novembre 1958. Le succès est immédiat ; le livre obtient le prix Strega en 1959. Une partie de la critique de gauche lui reproche alors son regard désenchanté sur l’unité italienne."
+    },
+    {
+     "h5": "Une narration ironique et lente"
+    },
+    {
+     "p": "Le roman avance par grands tableaux datés, de mai 1860 à mai 1910, séparés par des ellipses. Le narrateur commente avec une ironie tranquille et se permet des anticipations : il évoque parfois ce que deviendront les personnages ou la Sicile au XXe siècle. Les descriptions, très sensuelles, des jardins, des palais et des repas font de la matière même un personnage. La célèbre timbale de macaronis du dîner de Donnafugata dit tout un monde de rang et de rituel."
+    },
+    {
+     "h5": "Le transformisme"
+    },
+    {
+     "p": "Le roman décrit ce que les historiens italiens appellent le transformisme : une classe dirigeante qui intègre ses adversaires pour mieux se maintenir. Le mot de Tancredi n’est pas cynique, il est politique : céder sur la forme pour garder l’essentiel. C’est cette lucidité, sans illusion ni colère, qui rend le livre si moderne. Le pessimisme du prince lui sert aussi d’excuse pour ne rien tenter : le roman laisse au lecteur le soin de juger."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que chaque réorganisation, en entreprise comme en politique, pose la question du Guépard : change-t-on vraiment, ou seulement pour que rien ne bouge ? Le film de Luchino Visconti, Palme d’or en 1963 avec Burt Lancaster, Alain Delon et Claudia Cardinale, a fixé l’image du bal. Le livre ajoute ce que le film ne peut montrer : la voix intérieure d’un homme qui voit le monde changer et choisit de ne pas lutter."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Sicile, 1860. Pendant que Garibaldi conquiert l’île pour l’unité italienne, le prince Fabrizio Salina, aristocrate lucide et désabusé, regarde son monde s’effacer. Il marie son neveu Tancredi à la fille d’un parvenu et laisse la bourgeoisie prendre la place des grandes familles, en sachant que l’essentiel ne bougera pas.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La formule</b> : pour que tout reste comme avant, il faut que tout change. Elle a donné l’adjectif italien « gattopardesco », pour une réforme de façade.",
+      "<b>Une élite qui négocie sa sortie</b> : le mariage de Tancredi et d’Angelica échange le nom contre l’argent.",
+      "<b>Une île qui veut dormir</b> : un fatalisme que le prince juge [[inherent|inhérent]] à la Sicile, à la fois analyse et alibi.",
+      "<b>Un livre sur la mort</b> autant que sur l’histoire : beauté qui fane, palais qui se vident.",
+      "<b>Un chef-d’œuvre refusé</b> par deux éditeurs, publié un an après la mort de l’auteur."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Mai 1860</b> : Garibaldi débarque à Marsala. Tancredi, le neveu sans le sou, rejoint les insurgés pour que les grandes familles gardent la main.",
+      "<b>Été 1860, Donnafugata</b> : le maire don Calogero, usurier devenu riche, présente sa fille Angelica. Tancredi délaisse Concetta, la fille du prince, et épouse l’héritière.",
+      "<b>Le plébiscite</b> : unanimité officielle, alors que l’organiste don Ciccio a voté non. Plutôt que d’[[eluder|éluder]] la fraude, le prince la tait, ce qui revient presque au même.",
+      "<b>Le refus</b> : il décline un siège de sénateur ; après les guépards viendront les chacals. Il propose don Calogero.",
+      "<b>1862, le bal</b> : il valse avec Angelica, puis médite sur sa propre mort.",
+      "<b>1883 et 1910</b> : le prince meurt dans un hôtel de Palerme. Des années plus tard, Concetta découvre son erreur et fait jeter le chien empaillé, qui tombe en poussière."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Giuseppe Tomasi di Lampedusa (1896-1957), aristocrate sicilien ; le héros s’inspire de son arrière-grand-père astronome.",
+      "<b>La publication</b> : refusé par Mondadori et Einaudi, publié chez Feltrinelli en 1958 grâce à Giorgio Bassani ; prix Strega 1959.",
+      "<b>L’écriture</b> : grands tableaux datés de 1860 à 1910, ironie tranquille, anticipations du narrateur, descriptions sensuelles.",
+      "<b>Le transformisme</b> : une classe dirigeante qui absorbe ses adversaires pour durer.",
+      "<b>Le film</b> de Visconti, Palme d’or 1963, a fixé l’image du bal ; le livre garde la voix intérieure du prince.",
+      "<b>Le contexte</b> : Lampedusa n’avait rien publié avant de se lancer, vers 1955 ; le palais familial de Palerme avait été détruit par un bombardement en 1943.",
+      "<b>L’ambiguïté du prince</b> : sa lucidité est réelle, mais son pessimisme lui sert aussi d’excuse pour ne rien tenter. Le roman laisse le lecteur juger.",
+      "<b>Pourquoi le lire aujourd’hui</b> : chaque réorganisation pose la question du Guépard. Change-t-on vraiment, ou seulement pour que rien ne bouge ?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Nudge",
+   "by": "Richard Thaler et Cass Sunstein · 2008",
+   "min": 9,
+   "exMin": 3,
+   "src": "Richard H. Thaler et Cass R. Sunstein, Nudge: Improving Decisions About Health, Wealth, and Happiness (Yale University Press, 2008) ; édition révisée Nudge: The Final Edition (2021). Thaler et Benartzi, « Save More Tomorrow », Journal of Political Economy, 2004. Madrian et Shea, « The Power of Suggestion », Quarterly Journal of Economics, 2001. Johnson et Goldstein, « Do Defaults Save Lives? », Science, 2003. Hallsworth et al., Journal of Public Economics, 2017. DellaVigna et Linos, « RCTs to Scale », Econometrica, 2022 (126 essais, 23 millions de personnes).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un économiste et un juriste montrent que nos choix dépendent énormément de la façon dont ils nous sont présentés. Ils proposent un « paternalisme libéral » : organiser les options pour pousser doucement vers les décisions que les gens eux-mêmes jugent bonnes, sans rien interdire ni rendre plus cher."
+      ],
+      [
+       "Nous ne sommes pas des « Econs »",
+       "L’économie classique suppose des agents parfaitement rationnels. Les vrais humains procrastinent, suivent les autres, surestiment le présent et redoutent les pertes. Ces biais sont prévisibles, donc on peut en tenir compte."
+      ],
+      [
+       "L’option par défaut est la plus puissante",
+       "Inscrire automatiquement les salariés au plan d’épargne, en leur laissant la liberté d’en sortir, fait bondir la participation. Avec le programme Save More Tomorrow, le taux d’épargne passe de 3,5 % à 13,6 % en 40 mois."
+      ],
+      [
+       "Il n’existe pas de présentation neutre",
+       "Une cantine doit bien placer les plats quelque part ; un formulaire a forcément une case cochée ou non. Puisque « l’architecture du choix » influence toujours, autant la concevoir avec soin."
+      ],
+      [
+       "Un livre qui a changé l’action publique",
+       "Il inspire la création de la « nudge unit » britannique en 2010 et des équipes similaires dans le monde. Richard Thaler reçoit le prix Nobel d’économie en 2017."
+      ],
+      [
+       "Des effets réels, mais plus modestes qu’annoncé",
+       "Sur 126 essais menés par des unités publiques, l’effet moyen n’est que de 1,4 point, contre 8,7 points dans les études publiées."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Le contexte"
+    },
+    {
+     "p": "<em>Nudge</em> paraît aux États-Unis en 2008, quelques mois avant la faillite de Lehman Brothers. Le mot anglais désigne un petit coup de coude, celui qu’on donne pour attirer l’attention. Richard Thaler, professeur à l’université de Chicago, est l’un des fondateurs de l’économie comportementale, qui marie psychologie et économie dans la lignée des travaux de Daniel Kahneman et Amos Tversky. Cass Sunstein, juriste à Harvard, deviendra en 2009 le responsable de la réglementation à la Maison-Blanche sous Barack Obama.",
+     "lead": 1
+    },
+    {
+     "p": "Leur cible est double. Contre les économistes qui croient à la rationalité parfaite, ils rappellent que les humains se trompent de façon systématique. Contre ceux qui en concluent que l’État doit décider à la place des gens, ils défendent la liberté de choix. Leur compromis porte un nom provocateur : le paternalisme libéral."
+    },
+    {
+     "h5": "Les biais qu’on peut prévoir"
+    },
+    {
+     "p": "Le livre recense les travers les plus courants. L’ancrage : un premier chiffre entendu oriente toute l’estimation qui suit. L’aversion à la perte : perdre 100 euros fait plus mal que gagner 100 euros ne fait plaisir. Le biais du statu quo : on garde ce que l’on a, par inertie. La comptabilité mentale : on traite différemment un même euro selon le « compte » dans lequel on le range. Ces biais sont [[inherent|inhérents]] au fonctionnement du cerveau, pas à un manque d’intelligence : les auteurs parlent d’un système rapide et automatique, et d’un système lent et réfléchi qui ne prend pas toujours la main."
+    },
+    {
+     "h5": "L’architecture du choix"
+    },
+    {
+     "p": "Thaler et Sunstein comparent celui qui organise une décision à un architecte. Le gérant de cantine qui place les fruits à hauteur des yeux, l’employeur qui rédige le formulaire de retraite, le médecin qui présente un traitement : tous influencent le résultat, qu’ils le veuillent ou non. L’exemple le plus célèbre vient de l’aéroport d’Amsterdam-Schiphol, où l’on a gravé l’image d’une mouche dans les urinoirs. Selon le livre, les éclaboussures auraient baissé de 80 %, sans aucune consigne."
+    },
+    {
+     "p": "L’outil roi est l’option par défaut. Une étude de Brigitte Madrian et Dennis Shea, en 2001, montre que l’inscription automatique au plan d’épargne retraite d’une grande entreprise fait nettement monter la participation, et que la plupart des salariés gardent ensuite le taux et les placements proposés. Pour le don d’organes, l’écart entre pays voisins est spectaculaire : l’Allemagne, où il faut s’inscrire, compte environ 12 % de donneurs consentants, contre près de 100 % en Autriche, où le consentement est présumé."
+    },
+    {
+     "h5": "Épargner demain"
+    },
+    {
+     "p": "Le programme Save More Tomorrow, conçu par Thaler et Shlomo Benartzi, illustre la méthode. Plutôt que de demander aux salariés d’épargner davantage tout de suite, ce qui réduirait leur salaire net, on leur propose d’affecter à l’épargne une partie de leurs futures augmentations. L’aversion à la perte est neutralisée, l’inertie joue en faveur de l’épargne. Résultat : 78 % des salariés adhèrent, 80 % restent jusqu’à la quatrième augmentation, et le taux d’épargne grimpe de 3,5 % à 13,6 % en 40 mois."
+    },
+    {
+     "stats": [
+      [
+       "3,5 % → 13,6 %",
+       "taux d’épargne des salariés du programme Save More Tomorrow, en 40 mois"
+      ],
+      [
+       "78 %",
+       "des salariés à qui le programme a été proposé y ont adhéré"
+      ],
+      [
+       "+ 5 pts",
+       "de contribuables payant à temps grâce à une simple phrase sur la norme sociale (Royaume-Uni)"
+      ],
+      [
+       "8,7 → 1,4 pt",
+       "effet moyen d’un nudge : études publiées, puis mise en œuvre réelle à grande échelle"
+      ]
+     ]
+    },
+    {
+     "h5": "La postérité : les « nudge units »"
+    },
+    {
+     "p": "En 2010, le gouvernement britannique crée la Behavioural Insights Team, surnommée « nudge unit ». L’une de ses expériences les plus connues porte sur les lettres de relance du fisc : ajouter une phrase indiquant que la plupart des contribuables ayant une dette similaire ont déjà payé augmente le paiement à temps de plusieurs points. Des dizaines de pays, dont la France, créent des équipes comparables. En 2017, Thaler reçoit le prix Nobel d’économie pour ses travaux sur l’économie comportementale."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Paiement de l’impôt dans les 23 jours selon la lettre envoyée",
+      "sub": "Royaume-Uni, part des contribuables en retard ayant payé, en %",
+      "rows": [
+       [
+        "Lettre standard",
+        33.6
+       ],
+       [
+        "« La plupart des gens paient à temps »",
+        35.0
+       ],
+       [
+        "Norme de la région",
+        35.8
+       ],
+       [
+        "« La plupart des gens avec une dette comme la vôtre ont payé »",
+        36.6
+       ],
+       [
+        "Norme locale + dette similaire",
+        38.6
+       ]
+      ],
+      "suffix": " %",
+      "note": "Valeurs de référence + écart en points mesuré par l’expérience. Source : Hallsworth et al., Journal of Public Economics, 2017."
+     }
+    },
+    {
+     "p": "Le succès du livre tient aussi à son ton. Thaler et Sunstein écrivent pour le grand public, avec des exemples tirés de la vie quotidienne : la cantine scolaire, la facture d’électricité, le choix d’un forfait de téléphone. Ils proposent même des nudges pour l’environnement, comme afficher la consommation d’énergie d’un foyer à côté de celle de ses voisins, une idée reprise par de nombreux fournisseurs d’électricité."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre n’[[eluder|élude]] pas les reproches de manipulation : les auteurs posent une règle de publicité, selon laquelle un gouvernement ne devrait jamais employer un nudge qu’il ne pourrait pas assumer publiquement. Mais trois critiques se sont imposées. D’abord, l’efficacité : en 2022, Stefano DellaVigna et Elizabeth Linos analysent 126 essais menés auprès de 23 millions de personnes par deux unités américaines ; l’effet moyen tombe à 1,4 point, contre 8,7 points dans les études publiées, souvent les plus spectaculaires. Ensuite, la portée : un nudge ne remplace ni une taxe carbone ni une réforme des retraites. Enfin, le détournement : les entreprises utilisent les mêmes ressorts pour retenir les abonnés, les « sludges » ou obstacles délibérés, que Sunstein dénonce dans l’édition révisée de 2021."
+    },
+    {
+     "p": "Le livre reste une grille de lecture précieuse. Dans une entreprise, l’ordre des options d’un menu, le paramétrage par défaut d’un logiciel ou la formulation d’un indicateur orientent les comportements bien plus sûrement qu’une note de service."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Un économiste et un juriste (2008) montrent que nos choix dépendent de la façon dont ils sont présentés. Ils défendent un « paternalisme libéral » : organiser les options pour pousser doucement vers les bonnes décisions, sans rien interdire.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Des humains, pas des « Econs »</b> : ancrage, aversion à la perte, inertie… Des biais [[inherent|inhérents]] au cerveau, donc prévisibles.",
+      "<b>L’architecture du choix</b> : il n’existe pas de présentation neutre. Une mouche gravée dans les urinoirs de Schiphol réduirait les éclaboussures de 80 %, selon le livre.",
+      "<b>L’option par défaut</b> : l’inscription automatique fait bondir l’épargne retraite. Don d’organes : ≈ 12 % de consentants en Allemagne (inscription) contre près de 100 % en Autriche (consentement présumé).",
+      "<b>Save More Tomorrow</b> : épargner sur ses futures augmentations. 78 % d’adhésion, taux d’épargne de 3,5 % à 13,6 % en 40 mois.",
+      "<b>La postérité</b> : « nudge unit » britannique en 2010, Nobel d’économie pour Thaler en 2017.",
+      "<b>Les critiques</b>, que le livre n’[[eluder|élude]] pas : manipulation, portée limitée, détournement commercial (« sludges »). Sur 126 essais réels, l’effet moyen tombe à 1,4 point, contre 8,7 dans les études publiées."
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "ul": [
+      "<b>Les auteurs</b> : Richard Thaler, économiste à Chicago, pionnier de l’économie comportementale ; Cass Sunstein, juriste à Harvard, chargé de la réglementation à la Maison-Blanche à partir de 2009.",
+      "<b>La cible</b> : à la fois les économistes qui croient à la rationalité parfaite et ceux qui veulent décider à la place des gens.",
+      "<b>Deux systèmes</b> : un cerveau rapide et automatique, un cerveau lent et réfléchi qui ne prend pas toujours la main, dans la lignée de Kahneman et Tversky.",
+      "<b>La règle de publicité</b> : un gouvernement ne devrait jamais employer un nudge qu’il ne pourrait pas assumer publiquement.",
+      "<b>Les impôts britanniques</b> : préciser que la plupart des gens ayant une dette similaire ont déjà payé fait gagner plusieurs points de paiements à temps.",
+      "<b>En entreprise</b> : l’ordre d’un menu, le paramétrage par défaut d’un logiciel ou la formulation d’un indicateur orientent plus sûrement qu’une note de service."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "3,5 % → 13,6 %",
+       "taux d’épargne avec Save More Tomorrow, en 40 mois"
+      ],
+      [
+       "78 %",
+       "d’adhésion au programme"
+      ],
+      [
+       "+ 5 pts",
+       "de paiements d’impôts à temps avec une lettre bien rédigée"
+      ],
+      [
+       "8,7 → 1,4 pt",
+       "effet moyen : études publiées, puis terrain"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Paiement de l’impôt dans les 23 jours selon la lettre envoyée",
+      "sub": "Royaume-Uni, part des contribuables en retard ayant payé, en %",
+      "rows": [
+       [
+        "Lettre standard",
+        33.6
+       ],
+       [
+        "« La plupart des gens paient à temps »",
+        35.0
+       ],
+       [
+        "Norme de la région",
+        35.8
+       ],
+       [
+        "« La plupart des gens avec une dette comme la vôtre ont payé »",
+        36.6
+       ],
+       [
+        "Norme locale + dette similaire",
+        38.6
+       ]
+      ],
+      "suffix": " %",
+      "note": "Valeurs de référence + écart en points mesuré par l’expérience. Source : Hallsworth et al., Journal of Public Economics, 2017."
+     }
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "BCE : les taux tiennent, Lagarde s’en va",
+   "by": "Analyse",
+   "fig": "2,5 %",
+   "figl": "taux de dépôt de la BCE, inchangé",
+   "min": 3,
+   "exMin": 2,
+   "src": "BCE, communiqué « Monetary policy decisions » et déclaration de politique monétaire du 29 octobre 2026 (taux, inflation de septembre, salaires, crédit, chômage, annonce du départ). RTÉ / Reuters, 29 octobre 2026 (motifs, réactions, successeurs pressentis, anticipations de marché). Hausses de juin et septembre 2026 : communiqués de la BCE des 11 juin et 10 septembre 2026. Données arrêtées au 29 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Jeudi 29 octobre, la Banque centrale européenne a laissé son taux de dépôt à 2,5 %, après deux hausses en juin et en septembre destinées à contenir le choc pétrolier lié à la guerre avec l’Iran. Mais l’annonce majeure est venue en conférence de presse : Christine Lagarde quittera la présidence le 7 février 2027, huit mois avant la fin de son mandat de huit ans, entamé en novembre 2019.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "2,5 %",
+       "taux de dépôt de la BCE, inchangé"
+      ],
+      [
+       "3,8 %",
+       "inflation en zone euro en septembre"
+      ],
+      [
+       "7 février 2027",
+       "départ annoncé de Christine Lagarde"
+      ],
+      [
+       "3,25 %",
+       "taux de dépôt anticipé par les marchés fin 2027"
+      ]
+     ]
+    },
+    {
+     "h": "Une pause sous tension"
+    },
+    {
+     "p": "L’inflation est remontée à 3,8 % en septembre, contre 3,2 % en août. Le moteur est presque entièrement l’énergie, en hausse de 18,9 % sur un an : gazole et essence atteignent de nouveaux sommets, en partie à cause des marges de raffinage. Hors énergie, la hausse des prix reste contenue à 2,3 %. Le Conseil des gouverneurs a discuté d’un nouveau relèvement, avant de juger à l’unanimité la politique actuelle suffisante. Les marges de manœuvre sont étroites : les taux longs des États ont gagné environ 0,35 point depuis septembre, les crédits immobiliers sont remontés à 3,6 % et le crédit aux entreprises ralentit."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Zone euro : l’énergie tire l’inflation",
+      "sub": "hausse des prix sur un an, septembre 2026, en %",
+      "rows": [
+       [
+        "Énergie",
+        18.9
+       ],
+       [
+        "Ensemble",
+        3.8
+       ],
+       [
+        "Services",
+        3.2
+       ],
+       [
+        "Hors énergie (sous-jacente)",
+        2.3
+       ],
+       [
+        "Alimentation",
+        1.3
+       ],
+       [
+        "Biens industriels",
+        1.1
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : BCE, déclaration de politique monétaire du 29 octobre 2026 (données Eurostat)."
+     }
+    },
+    {
+     "p": "Le risque [[inherent|inhérent]] à un choc pétrolier est celui des effets de second tour : que les salaires et les prix des services prennent le relais de l’énergie. Pour l’instant, les salaires ralentissent (3,3 % au deuxième trimestre). La BCE garde donc la porte ouverte à une hausse en décembre, quand paraîtront ses nouvelles projections ; les marchés anticipent trois relèvements d’ici fin 2027, jusqu’à 3,25 %."
+    },
+    {
+     "h": "Un départ très politique"
+    },
+    {
+     "p": "Lagarde n’a pas cherché à [[eluder|éluder]] les motifs : elle veut retrouver sa liberté de parole sur des sujets qui dépassent la politique monétaire, et défendre des valeurs proeuropéennes en France, sans être candidate. Le calendrier compte : il permet de désigner son successeur avant l’élection présidentielle française du printemps 2027, où les sondages placent Marine Le Pen en tête. Le choix revient aux chefs d’État de la zone euro, après avis du Parlement européen. Le Néerlandais Klaas Knot et l’Espagnol Pablo Hernández de Cos sont cités en favoris. Deux autres sièges du directoire, ceux d’Isabel Schnabel et de l’économiste en chef Philip Lane, seront aussi à pourvoir en 2027."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les marchés ont à peine réagi : l’institution compte plus que la personne. Mais le prochain président héritera d’une inflation tirée par l’énergie, d’une dette française sous pression et d’une BCE de nouveau en phase de resserrement."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Taux inchangé</b> : dépôt à 2,5 % le 29 octobre, après les hausses de juin et de septembre face au choc pétrolier.",
+      "<b>L’inflation</b> : 3,8 % en septembre, dont + 18,9 % pour l’énergie ; 2,3 % hors énergie. Le risque [[inherent|inhérent]] au choc : des effets de second tour sur salaires et services.",
+      "<b>Porte ouverte</b> : une hausse discutée, possible en décembre ; les marchés visent 3,25 % fin 2027.",
+      "<b>Lagarde part</b> le 7 février 2027, huit mois avant la fin de son mandat. Elle n’[[eluder|élude]] pas le motif : retrouver sa liberté de parole, à l’approche de la présidentielle française.",
+      "<b>La succession</b> : Klaas Knot et Pablo Hernández de Cos favoris ; deux autres sièges du directoire à pourvoir en 2027."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Zone euro : l’énergie tire l’inflation",
+      "sub": "hausse des prix sur un an, septembre 2026, en %",
+      "rows": [
+       [
+        "Énergie",
+        18.9
+       ],
+       [
+        "Ensemble",
+        3.8
+       ],
+       [
+        "Services",
+        3.2
+       ],
+       [
+        "Hors énergie (sous-jacente)",
+        2.3
+       ],
+       [
+        "Alimentation",
+        1.3
+       ],
+       [
+        "Biens industriels",
+        1.1
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : BCE, déclaration de politique monétaire du 29 octobre 2026 (données Eurostat)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Peu de réaction des marchés</b> : l’institution compte plus que la personne. Le successeur héritera d’une BCE en phase de resserrement.",
+      "<b>Les marges de manœuvre</b> : taux longs des États en hausse d’environ 0,35 point depuis septembre, crédits immobiliers à 3,6 %, crédit aux entreprises qui ralentit. Les salaires, eux, décélèrent (3,3 % au 2e trimestre)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Canada-UE : l’association sans l’adhésion",
+   "by": "Analyse",
+   "fig": "81,8 Md€",
+   "figl": "de commerce de biens UE-Canada",
+   "min": 3,
+   "exMin": 2,
+   "src": "CTV News / CP24, suivi en direct du sommet Canada-UE de Montréal, 29 octobre 2026 (participants, accords, déclarations, chiffres TD et Université Carleton) ; Al Jazeera, 28 octobre 2026 (droits de douane américains, programme SAFE, CETA) ; Eurostat via Cyprus Mail, 14 octobre 2026 (commerce de biens 2025). Données arrêtées au 29 octobre 2026, avant la clôture du sommet.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 21e sommet entre le Canada et l’Union européenne se tient à Montréal les 29 et 30 octobre. Ursula von der Leyen y défend une idée lancée en septembre : faire du Canada un « membre associé » de l’Union, une « association sans adhésion ». Le Canada ne peut pas adhérer pour une raison géographique, mais il pourrait participer à des programmes, des marchés et des projets communs.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "81,8 Md€",
+       "commerce de biens UE-Canada en 2025"
+      ],
+      [
+       "+ 18 %",
+       "importations européennes depuis le Canada en un an"
+      ],
+      [
+       "≈ 80 %",
+       "des exportations canadiennes allaient aux États-Unis avant les droits de douane"
+      ],
+      [
+       "10 sur 27",
+       "États membres n’ont pas ratifié le CETA"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi maintenant"
+    },
+    {
+     "p": "Pour Ottawa, la priorité est de réduire une dépendance devenue risquée. Avant la guerre commerciale, près de 80 % des exportations canadiennes partaient vers les États-Unis. Après l’échec des négociations en août, Washington a imposé un droit de douane de 50 % sur 20 milliards de dollars de marchandises canadiennes ; le Canada a riposté. L’Europe offre un marché, de la recherche et une base industrielle ; le Canada apporte de l’énergie, des minerais critiques, de l’IA et un secteur bancaire solide. Il est déjà le seul pays non européen associé à SAFE, le programme de prêts de 150 milliards d’euros pour l’armement."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce que l’Europe achète au Canada",
+      "sub": "importations de l’UE en provenance du Canada, 2025, en milliards d’euros",
+      "rows": [
+       [
+        "Minerais",
+        4.0
+       ],
+       [
+        "Machines",
+        3.8
+       ],
+       [
+        "Combustibles et pétrole",
+        3.1
+       ],
+       [
+        "Aéronautique",
+        2.9
+       ],
+       [
+        "Médicaments",
+        1.9
+       ]
+      ],
+      "suffix": " Md€",
+      "note": "Source : Eurostat, via Cyprus Mail, 14 octobre 2026."
+     }
+    },
+    {
+     "p": "Le commerce a déjà progressé : depuis l’entrée en vigueur provisoire de l’accord de libre-échange CETA, en 2017, les échanges de biens augmentent de 6,1 % par an en moyenne. Mais le Canada ne fournit encore qu’environ 1 % des importations européennes."
+    },
+    {
+     "h": "Les limites"
+    },
+    {
+     "p": "Le statut de membre associé n’existe pas dans les traités. L’Allemagne hésite, car le terme évoque l’étape d’attente proposée à l’Ukraine. Les dirigeants ne veulent donc pas [[eluder|éluder]] la question, mais la renvoient au sommet de 2027. Cette semaine, les résultats sont concrets mais modestes : un accord sur le pays hôte signé jeudi, un accord sur le commerce numérique attendu vendredi, une étude sur des exportations de gaz naturel liquéfié canadien vers l’Europe, un accès prévu aux supercalculateurs européens pour l’IA. Et dix États membres n’ont toujours pas ratifié le CETA. Donald Trump, lui, a menacé l’Europe de lourds droits de douane si le projet visait les États-Unis."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une méfiance [[inherent|inhérente]] à la nouvelle politique américaine rapproche des alliés éloignés par la géographie. Le Canada cherche un second pilier, l’Europe un partenaire riche en énergie. Le nom importe peu, a résumé Mark Carney : ce qui compte, c’est ce qui sera signé."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le sommet</b> : Montréal, 29 et 30 octobre. Von der Leyen propose au Canada un statut de « membre associé », une association sans adhésion.",
+      "<b>Le motif</b> : ≈ 80 % des exportations canadiennes allaient aux États-Unis ; Washington taxe à 50 % 20 Md$ de produits canadiens depuis août.",
+      "<b>Déjà lié</b> : le Canada est le seul pays non européen associé à SAFE (150 Md€ de prêts pour l’armement). Commerce de biens : 81,8 Md€ en 2025, + 6,1 % par an depuis le CETA.",
+      "<b>Les limites</b> : statut absent des traités, Allemagne réticente, 10 États sans ratification du CETA. Sans [[eluder|éluder]] la question, on la renvoie à 2027.",
+      "<b>Cette semaine</b> : accord sur le pays hôte, commerce numérique (attendu vendredi), étude sur le GNL canadien, supercalculateurs. Trump menace de droits de douane."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce que l’Europe achète au Canada",
+      "sub": "importations de l’UE en provenance du Canada, 2025, en milliards d’euros",
+      "rows": [
+       [
+        "Minerais",
+        4.0
+       ],
+       [
+        "Machines",
+        3.8
+       ],
+       [
+        "Combustibles et pétrole",
+        3.1
+       ],
+       [
+        "Aéronautique",
+        2.9
+       ],
+       [
+        "Médicaments",
+        1.9
+       ]
+      ],
+      "suffix": " Md€",
+      "note": "Source : Eurostat, via Cyprus Mail, 14 octobre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un rapprochement défensif</b> : une méfiance [[inherent|inhérente]] à la nouvelle politique américaine unit des alliés éloignés par la géographie.",
+      "<b>Les atouts croisés</b> : l’Europe offre un marché, de la recherche et une base industrielle ; le Canada apporte énergie, minerais critiques et IA. Le nom importe peu, selon Mark Carney : seul compte ce qui sera signé."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Los Angeles : 35 000 conteneurs attendent leur train",
+   "by": "Analyse",
+   "fig": "35 688",
+   "figl": "conteneurs en attente de rail",
+   "min": 3,
+   "exMin": 2,
+   "src": "FreightWaves, « Backlog grows as 35,000 containers await rail service at LA–Long Beach », octobre 2026 (données des ports, de la Pacific Merchant Shipping Association, de C.H. Robinson, de BNSF et Union Pacific) ; SupplyChainBrain, octobre 2026 (préavis de grève de l’ILWU Local 26, terminaux concernés). Données arrêtées au 28 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le premier complexe portuaire des États-Unis s’engorge, non pas en mer mais sur ses voies ferrées. Au 26 octobre, 35 688 conteneurs d’importation attendaient un train sur les terminaux de Los Angeles et de Long Beach, dont plus de 10 500 depuis au moins neuf jours. Un seul navire patientait pour un quai : le goulet d’étranglement se trouve à terre. Et une grève menace pour le 1er novembre.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "35 688",
+       "conteneurs d’import en attente d’un train"
+      ],
+      [
+       "7,19 jours",
+       "temps moyen à quai avant le départ par rail en septembre"
+      ],
+      [
+       "≈ 250",
+       "gardiens de terminaux prêts à faire grève le 1er novembre"
+      ],
+      [
+       "≈ 85 %",
+       "du trafic de Long Beach passe par les terminaux visés"
+      ]
+     ]
+    },
+    {
+     "h": "Un problème de wagons, pas de navires"
+    },
+    {
+     "p": "Septembre a battu des records : environ 1,04 million d’EVP à Los Angeles et près d’un million à Long Beach. Ces volumes, prolongés par une haute saison qui s’étire, se heurtent à une pénurie de wagons intermodaux. Le déséquilibre [[inherent|inhérent]] au trafic transpacifique aggrave les choses : les trains repartent pleins vers l’intérieur, mais les wagons reviennent mal, faute de chargements à l’export. Le temps moyen passé à quai avant un départ par rail est monté à 7,19 jours en septembre, contre 6,75 en août. Los Angeles est la plus touchée : 41 % de ses conteneurs en attente y sont depuis neuf jours ou plus."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Conteneurs en attente d’un train",
+      "sub": "ports de Los Angeles et Long Beach, au 26 octobre 2026, en conteneurs",
+      "rows": [
+       [
+        "Los Angeles : total",
+        19626
+       ],
+       [
+        "Los Angeles : depuis 9 jours ou plus",
+        8133
+       ],
+       [
+        "Long Beach : total",
+        16062
+       ],
+       [
+        "Long Beach : depuis 9 jours ou plus",
+        2429
+       ]
+      ],
+      "note": "Source : FreightWaves, d’après les ports et la PMSA."
+     }
+    },
+    {
+     "p": "Les deux ports ont traité environ 8 millions d’EVP en quatre mois. Certains terminaux de Long Beach utilisent déjà la moitié de leur capacité ferroviaire à quai, et les petites gares intérieures subissent des retards plus longs encore, à mesure que le réseau national absorbe ce surplus."
+    },
+    {
+     "h": "La grève des gardiens"
+    },
+    {
+     "p": "Environ 250 gardiens de l’ILWU Local 26, à peine 2 % des effectifs du syndicat des dockers, ont voté une grève possible dès le 1er novembre à 17 heures. Ils relèvent d’un contrat distinct de celui des dockers, signé en 2023 pour six ans. Huit terminaux seraient touchés, dont six à conteneurs, qui traitent environ 85 % du trafic de Long Beach et un tiers de celui de Los Angeles. Les ports ne peuvent [[eluder|éluder]] le risque : un piquet de grève, même réduit, peut paralyser un terminal si les dockers refusent de le franchir."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les chemins de fer BNSF et Union Pacific envoient davantage de trains vides vers les ports, et une nouvelle gare de Long Beach doit faire passer le transfert du navire au train de quatre jours à 24 heures. Pour un chargeur, la leçon vaut ailleurs : le délai d’un import se joue autant sur le pré et post-acheminement que sur la traversée."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>35 688 conteneurs</b> attendaient un train à Los Angeles et Long Beach au 26 octobre, dont plus de 10 500 depuis 9 jours ou plus.",
+      "<b>Le goulet est à terre</b> : un seul navire en attente. Volumes record en septembre (≈ 1,04 M d’EVP à Los Angeles) et pénurie de wagons.",
+      "<b>Un déséquilibre [[inherent|inhérent]] au transpacifique</b> : trains pleins vers l’intérieur, wagons qui reviennent mal. Attente moyenne avant le rail : 7,19 jours en septembre.",
+      "<b>La grève</b> : ≈ 250 gardiens de l’ILWU Local 26, possible dès le 1er novembre. 8 terminaux visés, ≈ 85 % du trafic de Long Beach. Un risque que les ports ne peuvent [[eluder|éluder]]."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Conteneurs en attente d’un train",
+      "sub": "ports de Los Angeles et Long Beach, au 26 octobre 2026, en conteneurs",
+      "rows": [
+       [
+        "Los Angeles : total",
+        19626
+       ],
+       [
+        "Los Angeles : depuis 9 jours ou plus",
+        8133
+       ],
+       [
+        "Long Beach : total",
+        16062
+       ],
+       [
+        "Long Beach : depuis 9 jours ou plus",
+        2429
+       ]
+      ],
+      "note": "Source : FreightWaves, d’après les ports et la PMSA."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Pour un chargeur</b> : le délai d’un import se joue autant sur l’acheminement terrestre que sur la traversée. Une nouvelle gare à Long Beach doit ramener le transfert navire-train de 4 jours à 24 heures.",
+      "<b>Les réponses</b> : BNSF et Union Pacific envoient davantage de trains vers les ports ; certains terminaux de Long Beach utilisent déjà la moitié de leur capacité ferroviaire à quai. Les gardiens relèvent d’un contrat distinct de celui des dockers, signé en 2023."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Amazon : le cloud s’envole, la trésorerie fond",
+   "by": "Analyse",
+   "fig": "+ 39 %",
+   "figl": "croissance du cloud AWS",
+   "min": 3,
+   "exMin": 2,
+   "src": "Amazon.com, « Amazon.com Announces Third Quarter Results », communiqué du 29 octobre 2026 (Business Wire) : chiffre d’affaires, résultats par segment, flux de trésorerie, investissements, prévisions. MarketBeat, 29 octobre 2026 (consensus, cours de Bourse, carnet de commandes AWS, publicité). Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Amazon a publié jeudi 29 octobre des résultats à deux visages. Son activité de cloud, AWS, accélère à 39 % de croissance, du jamais-vu depuis près de cinq ans, et la marge d’exploitation du groupe atteint un record de 13,9 %. Mais ses investissements dans l’intelligence artificielle sont tels que l’entreprise brûle désormais de la trésorerie. Le titre a reculé d’environ 7 % après la clôture.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "201,9 Md$",
+       "chiffre d’affaires du trimestre, + 12 %"
+      ],
+      [
+       "+ 39 %",
+       "croissance d’AWS, la plus forte depuis près de cinq ans"
+      ],
+      [
+       "13,9 %",
+       "marge d’exploitation, un record"
+      ],
+      [
+       "− 42,4 Md$",
+       "flux de trésorerie disponible sur douze mois"
+      ]
+     ]
+    },
+    {
+     "h": "Le cloud, vrai moteur"
+    },
+    {
+     "p": "Avec 46 milliards de dollars de ventes, AWS ne pèse qu’un quart du chiffre d’affaires mais près des deux tiers du résultat d’exploitation : 17,8 milliards sur 28,1. Son carnet de commandes atteint 578 milliards de dollars. Andy Jassy, le patron du groupe, table sur une croissance supérieure à 40 % en 2027 et en 2028. Le commerce progresse plus lentement (+ 6 % en Amérique du Nord), freiné par le passage de Prime Day au deuxième trimestre, mais sa rentabilité s’améliore grâce à des livraisons plus rapides et un réseau mieux densifié."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Amazon : d’où vient le bénéfice",
+      "sub": "résultat d’exploitation par activité, 3e trimestre 2026, en milliards de dollars",
+      "rows": [
+       [
+        "AWS (cloud)",
+        17.8
+       ],
+       [
+        "Amérique du Nord",
+        8.7
+       ],
+       [
+        "International",
+        1.6
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : Amazon, résultats du 3e trimestre 2026."
+     }
+    },
+    {
+     "p": "La publicité, troisième pilier, a rapporté 19,6 milliards de dollars, en hausse de 12 %. Amazon attend un retour à une croissance de plus de 15 % au quatrième trimestre. Jassy évoque même, d’ici cinq à dix ans, deux activités capables de dépasser chacune mille milliards de dollars de chiffre d’affaires, en citant l’épicerie, la pharmacie, l’internet par satellite Leo et les robotaxis Zoox."
+    },
+    {
+     "h": "Le prix de l’IA"
+    },
+    {
+     "p": "Les investissements, surtout en centres de données et en puces, ont atteint 75,9 milliards de dollars sur le seul trimestre ; Amazon vise environ 220 milliards sur 2026 et « nettement plus » en 2027. Sur douze mois, le flux de trésorerie disponible est négatif de 42,4 milliards, contre un excédent de 14,8 milliards un an plus tôt. Le bénéfice net recule même légèrement, à 20,7 milliards, car l’an dernier avait profité d’une plus-value exceptionnelle de 9,5 milliards sur sa participation dans Anthropic. Le chiffre d’affaires est aussi resté un peu sous les attentes des analystes. Jassy n’[[eluder|élude]] pas le coût, mais le présente comme un pari sur des revenus à venir."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Amazon est devenu une entreprise d’infrastructure autant qu’un commerçant. La tension [[inherent|inhérente]] à ce modèle est claire : chaque dollar investi aujourd’hui doit être rentabilisé par une demande d’IA qui reste à confirmer. Pour le quatrième trimestre, le groupe prévoit 240 à 247 milliards de dollars de ventes."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Les chiffres</b> : 201,9 Md$ de chiffre d’affaires (+ 12 %), marge d’exploitation record de 13,9 %, bénéfice net de 20,7 Md$.",
+      "<b>AWS</b> : 46 Md$ de ventes (+ 39 %), 17,8 Md$ de résultat d’exploitation sur 28,1 ; carnet de commandes de 578 Md$.",
+      "<b>Le prix de l’IA</b> : 75,9 Md$ d’investissements au trimestre, ≈ 220 Md$ sur 2026. Trésorerie disponible : − 42,4 Md$ sur douze mois. Jassy n’[[eluder|élude]] pas le coût.",
+      "<b>La Bourse</b> : environ − 7 % après la clôture ; chiffre d’affaires un peu sous les attentes."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Amazon : d’où vient le bénéfice",
+      "sub": "résultat d’exploitation par activité, 3e trimestre 2026, en milliards de dollars",
+      "rows": [
+       [
+        "AWS (cloud)",
+        17.8
+       ],
+       [
+        "Amérique du Nord",
+        8.7
+       ],
+       [
+        "International",
+        1.6
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : Amazon, résultats du 3e trimestre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Une entreprise d’infrastructure</b> : la tension [[inherent|inhérente]] au modèle est de rentabiliser des investissements géants par une demande d’IA encore à confirmer. Prévision du 4e trimestre : 240 à 247 Md$ de ventes.",
+      "<b>Le commerce</b> : + 6 % en Amérique du Nord, freiné par le passage de Prime Day au 2e trimestre, mais plus rentable grâce à des livraisons plus rapides. Le recul du bénéfice net s’explique par une plus-value exceptionnelle de 9,5 Md$ l’an dernier."
+     ]
+    }
+   ]
+  }
+ ]
+}
