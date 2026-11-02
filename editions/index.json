@@ -1,6 +1,40 @@
 {
- "latest": "2026-10-30",
+ "latest": "2026-11-02",
  "editions": [
+  {
+   "date": "2026-11-02",
+   "label": "Lundi 2 novembre",
+   "words": [
+    "Tributaire",
+    "Exacerber"
+   ],
+   "items": [
+    [
+     "lit",
+     "Pedro Páramo"
+    ],
+    [
+     "essai",
+     "Vers la guerre"
+    ],
+    [
+     "eco",
+     "France : le PIB recule, la cible de 0,5 % s’éloigne"
+    ],
+    [
+     "geo",
+     "Midterms : Washington vote demain, le monde regarde"
+    ],
+    [
+     "log",
+     "Boluda-Samskip : le cabotage européen se regroupe"
+    ],
+    [
+     "ent",
+     "BYD : l’export sauve le trimestre, les stocks gonflent"
+    ]
+   ]
+  },
   {
    "date": "2026-10-30",
    "label": "Vendredi 30 octobre",
@@ -547,6 +581,16 @@
   }
  ],
  "review": [
+  {
+   "w": "Inhérent",
+   "short": "Qui fait partie de la nature même d’une chose",
+   "week": "sem. du 26 oct."
+  },
+  {
+   "w": "Éluder",
+   "short": "Éviter adroitement une question ou une difficulté",
+   "week": "sem. du 26 oct."
+  },
   {
    "w": "Entériner",
    "short": "Rendre officiel ce qui était décidé ou admis",

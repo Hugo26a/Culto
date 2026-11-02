@@ -1,0 +1,1076 @@
+{
+ "date": "2026-11-02",
+ "label": "Lundi 2 novembre 2026",
+ "n": 16,
+ "example": false,
+ "week": {
+  "start": "2026-11-02",
+  "label": "Semaine du 2 novembre",
+  "day": 1,
+  "words": [
+   {
+    "key": "tributaire",
+    "w": "Tributaire",
+    "ph": "[tʁi.by.tɛʁ] · adjectif",
+    "short": "Qui dépend étroitement d’une chose ou d’une personne.",
+    "def": "Qui dépend de quelque chose pour fonctionner ou exister, sans pouvoir s’en affranchir facilement. On dit « être tributaire de ». Le mot est plus précis que « dépendant » : il souligne une contrainte subie, souvent extérieure, comme un fournisseur, un climat ou une décision.",
+    "ety": "Du latin tributarius, « soumis à l’impôt », de tributum, « tribut ». Le tributaire payait une redevance à un pouvoir plus fort. En géographie, un cours d’eau tributaire se jette dans un autre.",
+    "ex": "Notre planning reste tributaire de la livraison des composants par notre fournisseur taïwanais.",
+    "syn": "dépendant, assujetti, subordonné, lié à"
+   },
+   {
+    "key": "exacerber",
+    "w": "Exacerber",
+    "ph": "[ɛɡ.za.sɛʁ.be] · verbe",
+    "short": "Rendre plus vif, plus aigu, plus intense.",
+    "def": "Rendre plus forte une tension, une douleur ou un sentiment déjà présents. On l’emploie pour ce qui existait avant et que l’on aggrave : on exacerbe une rivalité, une colère, un déséquilibre. Il ne s’emploie pas pour ce qui naît de rien.",
+    "ety": "Du latin exacerbare, « irriter », formé sur acerbus, « aigre, âpre », qui a aussi donné « acerbe ».",
+    "ex": "Le retard de livraison a exacerbé les tensions entre l’acheteur et le fournisseur.",
+    "syn": "aggraver, aviver, attiser, intensifier"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Pedro Páramo",
+   "by": "Juan Rulfo · 1955",
+   "tagline": "Le village où parlent les morts",
+   "min": 10,
+   "exMin": 4,
+   "src": "Juan Rulfo, Pedro Páramo (Fondo de Cultura Económica, Mexico, 1955) ; trad. fr. Gabriel Iaculli (Gallimard, Folio bilingue n° 242, 2023). Biographie et titres de travail : notices Juan Rulfo et Pedro Páramo de Wikipédia (en), Biblioteca Nacional de España (« Juan Rulfo. Semblanza »). Film de Rodrigo Prieto (Netflix, 2024) : Hola!, 23 août 2024. Rulfo est mort en 1986 : l’œuvre n’est pas dans le domaine public, d’où l’absence de citation.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Pour tenir une promesse faite à sa mère mourante, Juan Preciado part chercher son père à Comala. Il y trouve un village mort, peuplé de voix. Ces murmures racontent la vie de Pedro Páramo, propriétaire tout-puissant qui a tout possédé, sauf la femme qu’il aimait, et qui a laissé mourir le village par dépit."
+      ],
+      [
+       "Le pouvoir absolu fait le vide",
+       "Pedro Páramo achète, vole ou tue pour posséder la terre. Il gagne tout, et il ne reste rien : ni héritier, ni village, ni habitants. Le roman montre un système où tout un monde est [[tributaire|tributaire]] de la volonté d’un seul homme."
+      ],
+      [
+       "L’amour ne s’achète pas",
+       "Le seul être qu’il n’a pas pu soumettre est Susana San Juan, son amour d’enfance. Il l’attend trente ans et la fait revenir à Comala, mais elle lui échappe dans la folie. L’homme le plus puissant du pays échoue là où l’argent ne sert à rien."
+      ],
+      [
+       "La mort n’interrompt pas la parole",
+       "À Comala, les morts continuent de parler, de se plaindre et de regretter. La frontière entre les vivants et eux n’existe plus. C’est l’invention majeure du livre : le lecteur découvre peu à peu que presque tous ceux qu’il écoute sont morts."
+      ],
+      [
+       "Un Mexique rural sans salut",
+       "Révolution, guerre des Cristeros, grands domaines : l’histoire passe sur Comala sans rien changer pour les pauvres. L’Église elle-même se vend. Le prêtre absout contre de l’or, et il le sait."
+      ],
+      [
+       "Un livre bref qui a changé le roman",
+       "Environ 120 pages en édition courante, un récit éclaté, et une influence immense. García Márquez dit y avoir trouvé la voie qui l’a conduit à <em>Cent ans de solitude</em>. Pour parler de réalisme magique, c’est le point de départ."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "La promesse"
+    },
+    {
+     "p": "Le roman s’ouvre sur une phrase simple : un homme arrive à Comala parce qu’on lui a dit que son père y vivait. Juan Preciado a promis à sa mère Dolores, sur son lit de mort, d’aller trouver Pedro Páramo, ce père qu’il ne connaît pas, et de lui réclamer ce qu’il leur doit. Elle lui a décrit une terre verte et généreuse. Il découvre une plaine brûlante, un village vide, des rues où l’on n’entend que ses propres pas.",
+     "lead": 1
+    },
+    {
+     "p": "Sur la route, un muletier, Abundio, lui apprend deux choses : Pedro Páramo est mort depuis longtemps, et lui aussi est son fils. Le père a engendré des enfants partout, sans en reconnaître presque aucun. À Comala, Juan est accueilli par Eduviges Dyada, une vieille amie de sa mère, qui l’attendait. Il comprendra plus tard qu’elle est morte, et qu’elle s’est donné la mort. Puis c’est Damiana Cisneros, ancienne servante du domaine de la Media Luna, qui le guide. Elle aussi est morte."
+    },
+    {
+     "h5": "Les murmures"
+    },
+    {
+     "p": "Juan croise encore un frère et une sœur qui vivent en couple dans une maison sans toit, seuls survivants apparents. La chaleur l’étouffe, les voix l’assaillent de partout, et il s’effondre sur la place. Au milieu du livre, le lecteur apprend ce qui s’est passé : Juan est mort, tué par la peur et par les murmures. Il est enterré dans la même tombe que Dorotea, une vieille mendiante. Depuis leur fosse, tous deux écoutent les morts du cimetière se parler à travers la terre. Le récit continue donc sous le sol."
+    },
+    {
+     "h5": "L’ascension du cacique"
+    },
+    {
+     "p": "Les voix reconstituent la vie de Pedro Páramo. Enfant, il rêve de Susana San Juan au bord du canal. Jeune homme, il hérite d’un domaine criblé de dettes après l’assassinat de son père Lucas, tué lors d’une noce. Il se venge en faisant tuer les invités. Avec son régisseur Fulgor Sedano, il redresse l’affaire sans scrupule : il épouse Dolores Preciado, sa principale créancière, pour effacer ce qu’il lui doit, déplace les clôtures de ses voisins et fait pendre celui qui proteste. Dolores, délaissée, part avec son enfant. En quelques années, tout ce qu’on voit depuis Comala lui appartient."
+    },
+    {
+     "p": "Son fils Miguel, le seul qu’il ait reconnu, lui ressemble. Il tue le frère du père Rentería et viole la nièce du prêtre, puis meurt jeune, jeté à bas de son cheval. Rentería refuse d’abord de bénir le corps. Pedro pose des pièces d’or sur l’autel, et le prêtre donne l’absolution, avant d’aller pleurer sa lâcheté."
+    },
+    {
+     "h5": "Susana San Juan"
+    },
+    {
+     "p": "Pendant trente ans, Pedro n’a pensé qu’à elle. Il retrouve sa trace, la fait revenir avec son père Bartolomé, qu’il fait éliminer, et l’épouse enfin. Mais Susana, veuve de Florencio, a sombré. Elle vit enfermée dans ses souvenirs de la mer et d’un corps aimé, parle seule, ne le voit pas. Il a conquis une maison, pas une femme. Quand la Révolution atteint la région, il finance les rebelles pour les tenir à distance et leur envoie ses hommes. Fulgor Sedano est tué. Rien de cela ne l’occupe vraiment : il reste assis près d’une chambre où une femme s’éteint."
+    },
+    {
+     "h5": "La mort du village"
+    },
+    {
+     "p": "Susana meurt. Les cloches sonnent pendant des jours, et le deuil tourne au malentendu : des gens accourent des environs, un cirque s’installe, on danse et on boit à Comala. Pedro Páramo, ivre de rage, jure de se croiser les bras et de laisser le village mourir de faim. Il tient parole. Les champs sont abandonnés, les familles partent, les maisons tombent. La Cristiade éclate ; Rentería rejoint les insurgés. Son dépit a [[exacerber|exacerbé]] ce que la violence avait commencé : il ne reste bientôt que des ombres."
+    },
+    {
+     "p": "La fin revient à Abundio, le fils muletier, sourd et misérable. Sa femme vient de mourir, il n’a pas de quoi l’enterrer, il a trop bu. Il va demander l’aumône à son père, assis sur sa chaise. Il le frappe d’un couteau et tue Damiana, qui tente de s’interposer. Le vieil homme s’écroule un peu plus tard, comme un tas de pierres. Le roman se ferme sur ce corps qui se défait, seul, sur la terre qu’il a tant voulu posséder."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un livre né d’une enfance orpheline"
+    },
+    {
+     "p": "Juan Rulfo naît en mai 1917 dans le Jalisco, région ravagée par la guerre des Cristeros. Son père est assassiné en 1923, sa mère meurt en 1927, et il grandit entre sa grand-mère et un internat de Guadalajara. Il travaille ensuite comme employé de l’immigration, puis comme représentant de pneus pour Goodrich, ce qui lui fait parcourir le pays. Il photographie aussi beaucoup : plus de 6 000 négatifs sont conservés. Une bourse du Centro Mexicano de Escritores, à partir de 1952, lui donne enfin le temps d’écrire. Il publie les nouvelles du <em>Llano en llamas</em> en 1953, puis ce roman en 1955. Hormis le court <em>Gallo de oro</em>, paru en 1980, il ne publiera presque plus rien jusqu’à sa mort, en janvier 1986."
+    },
+    {
+     "h5": "Un roman en éclats"
+    },
+    {
+     "p": "Rulfo a d’abord pensé l’intituler <em>Una estrella junto a la luna</em>, puis <em>Los murmullos</em>. Ce dernier titre dit tout du procédé. Le livre n’a ni chapitres ni chronologie : il se compose de fragments séparés par des blancs, où les voix se relaient sans annonce. Le lecteur doit reconnaître qui parle, et à quelle époque. On entre dans Comala comme Juan, perdu, et on reconstruit l’histoire à partir de bribes."
+    },
+    {
+     "h5": "Une langue de terre sèche"
+    },
+    {
+     "p": "Le style tranche avec le lyrisme de la littérature latino-américaine de l’époque. Phrases courtes, dialogues nus, vocabulaire paysan, silences. Les noms parlent d’eux-mêmes : <em>páramo</em> désigne une lande désolée, Dolores la douleur. La tradition rapproche ce dépouillement de Faulkner, pour le récit à voix multiples. Mais la croyance populaire mexicaine en la proximité des morts, avec ses âmes en peine, donne au livre une couleur que Faulkner n’a pas."
+    },
+    {
+     "h5": "Le cacique et le Mexique"
+    },
+    {
+     "p": "Pedro Páramo est un type historique : le cacique, ce grand propriétaire qui fait la loi, à qui les villages restent [[tributaire|tributaires]] pour la terre, l’eau et le travail. La Révolution de 1910 promettait de le faire disparaître. Le roman montre qu’il l’a achetée. Rulfo ne fait aucun discours : il laisse parler les victimes, et ce sont elles qui, de leur tombe, écrivent l’histoire que le pouvoir n’a pas écrite."
+    },
+    {
+     "h5": "Une réception tardive"
+    },
+    {
+     "p": "Le livre sort dans une relative indifférence et se vend à environ 2 000 exemplaires en quatre ans. Tout change dans les années 1960. García Márquez raconte qu’il était bloqué comme romancier lorsqu’il le découvre, en 1961, et qu’il a fini par pouvoir le réciter. Borges le tient pour l’un des plus grands textes de toute littérature. Le roman est aujourd’hui traduit dans plus de 30 langues, et il a été adapté plusieurs fois au cinéma, en dernier lieu par Rodrigo Prieto pour Netflix, en 2024."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’on est le 2 novembre, jour du Día de Muertos, où le Mexique invite ses morts à table : Comala est l’envers noir de cette fête. Et parce que le livre pose une question toujours vive : que reste-t-il d’une communauté quand tout dépend de la colère ou du caprice d’un seul ? Le roman se lit en un soir, et il gagne à être relu."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Pour tenir une promesse faite à sa mère mourante, Juan Preciado part chercher son père à Comala. Il y trouve un village mort, peuplé de voix, qui racontent la vie de Pedro Páramo, propriétaire tout-puissant qui a tout possédé, sauf la femme qu’il aimait, et qui a laissé mourir le village par dépit.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le pouvoir absolu fait le vide</b> : tout un monde [[tributaire|tributaire]] d’un seul homme finit sans héritier ni habitants.",
+      "<b>L’amour ne s’achète pas</b> : il attend Susana San Juan trente ans ; elle lui échappe dans la folie.",
+      "<b>Les morts parlent</b> : le lecteur découvre que presque tous ceux qu’il écoute sont morts.",
+      "<b>Un Mexique sans salut</b> : Révolution et Cristiade changent peu de chose pour les pauvres ; le prêtre absout contre de l’or.",
+      "<b>Un livre décisif</b> : environ 120 pages, et le point de départ du réalisme magique ; García Márquez y trouve la voie de <em>Cent ans de solitude</em>."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>La promesse</b> : Juan arrive dans un village brûlant et vide. Abundio, un muletier, lui apprend que Pedro est mort, et qu’il est lui aussi son fils.",
+      "<b>Les murmures</b> : Eduviges, Damiana et d’autres le guident avant qu’il comprenne qu’ils sont morts. Il meurt à son tour, de peur. Depuis sa tombe, partagée avec la mendiante Dorotea, il écoute les voix du cimetière.",
+      "<b>L’ascension</b> : après l’assassinat de son père Lucas, Pedro fait tuer les invités de la noce, épouse sa créancière Dolores, déplace les clôtures et fait pendre celui qui proteste.",
+      "<b>Miguel</b> : son fils, aussi violent que lui, meurt jeune. Le père Rentería l’absout contre de l’or.",
+      "<b>Susana</b> : il la fait revenir et fait éliminer son père, mais elle ne le voit plus. La Révolution passe, il achète les rebelles.",
+      "<b>La mort du village</b> : à la mort de Susana, on fait la fête à Comala. Son dépit [[exacerber|exacerbe]] tout : il jure de laisser le village mourir de faim. Abundio, sans argent pour enterrer sa femme, le poignarde."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Une enfance orpheline</b> : né en 1917 dans le Jalisco, père assassiné en 1923, mère morte en 1927. Représentant chez Goodrich, photographe (plus de 6 000 négatifs), mort en 1986.",
+      "<b>Un roman en éclats</b> : pas de chapitres ni de chronologie, des fragments et des voix. Titres envisagés : <em>Una estrella junto a la luna</em>, <em>Los murmullos</em>.",
+      "<b>Une langue nue</b> : phrases courtes, silences, noms parlants (<em>páramo</em>, la lande).",
+      "<b>Le cacique</b> : le maître dont les villages restent [[tributaire|tributaires]] et qui a survécu à la Révolution de 1910.",
+      "<b>Une gloire tardive</b> : environ 2 000 exemplaires en quatre ans, puis plus de 30 langues. Borges et García Márquez l’admirent ; Netflix l’adapte en 2024.",
+      "<b>À lire le 2 novembre</b>, jour du Día de Muertos : Comala en est l’envers noir."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Vers la guerre",
+   "by": "Graham Allison · 2017",
+   "min": 9,
+   "exMin": 3,
+   "src": "Graham Allison, Destined for War: Can America and China Escape Thucydides’s Trap? (Houghton Mifflin Harcourt, 2017) ; trad. fr. Vers la guerre. La Chine et l’Amérique dans le Piège de Thucydide ? (Odile Jacob, 2019, trad. Patrick Hersant et Sylvie Kleiman-Lafon). Harvard Kennedy School, notice de Graham Allison. Liste des cas et critiques (Nye, Freedman, Waldron, Brands et Beckley, Buruma, Rachman) : notice « Thucydides Trap » de Wikipédia (en) ; synthèses SuperSummary et Blinkist. FMI, Perspectives de l’économie mondiale, octobre 2026, via Worldometer (PIB nominal 2026 et PIB en parité de pouvoir d’achat 2025). Données arrêtées à octobre 2026.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Depuis cinq siècles, quand une puissance montante a défié une puissance dominante, la guerre a suivi 12 fois sur 16. Graham Allison applique ce constat à la Chine et aux États-Unis. Son message n’est pas que la guerre est fatale, mais qu’elle devient probable si personne ne change de méthode."
+      ],
+      [
+       "Le piège vient de la peur",
+       "Thucydide attribue la guerre du Péloponnèse à la montée d’Athènes et à la crainte qu’elle inspire à Sparte. Allison en tire trois moteurs : l’intérêt, la peur et l’honneur. La rivalité structurelle [[exacerber|exacerbe]] chaque incident."
+      ],
+      [
+       "Une montée sans précédent",
+       "Le PIB chinois passe de moins de 300 milliards de dollars en 1980 à environ 11 000 milliards en 2015, soit de 7 % à 61 % du PIB américain en 2017. En parité de pouvoir d’achat, la Chine dépasse les États-Unis dès 2014."
+      ],
+      [
+       "La guerre peut partir d’un détail",
+       "Personne ne voulait la guerre de 1914 sous cette forme. Allison décrit cinq scénarios d’accident, d’une collision en mer à une crise à Taïwan. La rivalité anglo-allemande reste son parallèle préféré."
+      ],
+      [
+       "Quatre fois, la guerre a été évitée",
+       "Espagne-Portugal, Royaume-Uni-États-Unis, Guerre froide, Allemagne réunifiée en Europe. Ces cas livrent 12 pistes pour la paix, et Allison propose quatre stratégies de rechange à l’« engager mais se couvrir » américain."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "L’auteur et le contexte"
+    },
+    {
+     "p": "Graham Allison n’est pas un essayiste de plateau. Doyen fondateur de la Kennedy School de Harvard, de 1977 à 1989, il est secrétaire adjoint à la Défense dans la première administration Clinton, où il travaille à la réduction de l’arsenal nucléaire de l’ex-URSS. Son premier livre, <em>Essence of Decision</em> (1971), sur la crise des missiles de Cuba, reste une référence, avec plus de 500 000 exemplaires vendus. Il popularise l’expression « piège de Thucydide » en 2015, au moment de la visite d’État de Xi Jinping aux États-Unis. Le livre paraît en 2017, au début du premier mandat de Donald Trump."
+    },
+    {
+     "h5": "La thèse"
+    },
+    {
+     "p": "Thucydide, stratège athénien, écrit que la guerre qui détruit la Grèce au Ve siècle avant notre ère a une cause profonde : la montée en puissance d’Athènes et la peur qu’elle provoque à Sparte. Les incidents de Corcyre ou de Potidée ne sont que des étincelles. Allison en fait une loi de tendance. La puissance qui monte estime qu’on lui doit plus de place ; celle qui domine y voit une menace pour l’ordre qu’elle a bâti. Chacune interprète les gestes de l’autre au pire, et les alliés peuvent entraîner leurs protecteurs. C’est l’engrenage qu’il appelle un piège."
+    },
+    {
+     "h5": "Seize cas en cinq siècles"
+    },
+    {
+     "p": "Avec son équipe du Belfer Center, Allison recense 16 situations de ce type depuis la fin du XVe siècle. Douze se terminent par la guerre : Provinces-Unies contre Angleterre, France contre Grande-Bretagne, Royaume-Uni contre Allemagne, États-Unis contre Japon. Il en détaille plusieurs. En 1941, l’embargo américain sur le pétrole pousse Tokyo vers Pearl Harbor : une sanction censée dissuader précipite le conflit. Avant 1914, la course navale anglo-allemande et les alliances font d’un attentat à Sarajevo une guerre mondiale. Le chiffre de 12 sur 16 n’est pas une probabilité scientifique, mais il impose une charge de la preuve : c’est à ceux qui jugent la guerre impensable de dire pourquoi cette fois serait différente."
+    },
+    {
+     "stats": [
+      [
+       "12 sur 16",
+       "rivalités ayant fini en guerre en 500 ans"
+      ],
+      [
+       "7 % → 61 %",
+       "PIB chinois rapporté à l’américain, 1980-2017"
+      ],
+      [
+       "≈ 10 %",
+       "croissance annuelle chinoise, 1980-2017"
+      ],
+      [
+       "4",
+       "options stratégiques proposées à Washington"
+      ]
+     ]
+    },
+    {
+     "h5": "Le réveil de la Chine"
+    },
+    {
+     "p": "La première partie donne la mesure du phénomène. De 1980 à 2017, la croissance chinoise avoisine 10 % par an. Le pays construit l’équivalent de tout le parc de logements européen en 15 ans, et plus de lignes à grande vitesse que le reste du monde réuni. Plus d’un demi-milliard de personnes sortent de l’extrême pauvreté. Depuis 2008, la Chine ajoute tous les deux ans l’équivalent de l’économie indienne. Son budget militaire devient le deuxième du monde. Une étude de la RAND de 2015 la juge proche de la parité avec les États-Unis, en armement conventionnel, dans sa région. Pékin crée aussi ses propres institutions, comme la Banque asiatique d’investissement pour les infrastructures, et finance les Nouvelles routes de la soie."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "En dollars courants, l’écart reste net",
+      "sub": "PIB nominal de la Chine, en % de celui des États-Unis",
+      "labels": [
+       "1980",
+       "2017",
+       "2026"
+      ],
+      "series": [
+       {
+        "name": "Chine / États-Unis",
+        "values": [
+         7,
+         61,
+         66
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Sources : G. Allison, Destined for War (1980, 2017) ; FMI, Perspectives de l’économie mondiale, octobre 2026, via Worldometer (21,55 et 32,64 billions de dollars, soit 66 %, calcul Culto)."
+     }
+    },
+    {
+     "p": "Le rapport de force a continué d’évoluer depuis : selon le FMI, le PIB chinois atteint en 2026 environ 66 % du PIB américain en dollars courants, et il le dépassait d’environ un tiers en parité de pouvoir d’achat en 2025. Le rattrapage en dollars a ralenti, ce qui compte pour le débat, comme on le verra."
+    },
+    {
+     "h5": "Ce que veut Xi Jinping"
+    },
+    {
+     "p": "Allison décrit un dirigeant qui veut rendre à la Chine sa prééminence en Asie, reprendre la main sur la « grande Chine », Hong Kong et Taïwan compris, retrouver sa sphère d’influence historique et obtenir le respect des grandes puissances. La mémoire du « siècle d’humiliation » nourrit ce nationalisme. Il oppose deux complexes de supériorité : les Américains se voient comme les premiers d’entre les nations, les Chinois comme le centre du monde civilisé. Il rappelle aussi une leçon gênante. L’Amérique de Theodore Roosevelt, avec Panama et la doctrine Monroe, a été une puissance montante très brutale."
+    },
+    {
+     "h5": "Comment la guerre pourrait commencer"
+    },
+    {
+     "p": "Cinq scénarios montrent qu’aucun des deux camps n’a besoin de vouloir le conflit : une collision en mer, une crise à Taïwan, un incident aux îles Senkaku, l’effondrement de la Corée du Nord, ou une guerre commerciale qui dégénère en cyberattaques puis en frappes. Ce dernier scénario parle aux professionnels de la supply chain : les économies sont si imbriquées que les chaînes industrielles américaines restent [[tributaire|tributaires]] d’usines chinoises, ce qui freine la guerre, sans l’interdire. L’Europe de 1914 aussi commerçait beaucoup."
+    },
+    {
+     "h5": "Pourquoi la guerre n’est pas fatale"
+    },
+    {
+     "p": "Quatre cas font exception. Au XVe siècle, Portugal et Espagne s’en remettent au pape et partagent le monde au traité de Tordesillas. Au début du XXe siècle, Londres choisit de céder aux États-Unis dans les Amériques. La Guerre froide reste froide, grâce à la destruction mutuelle assurée. Enfin, l’Allemagne réunifiée se fond dans l’Union européenne et l’OTAN. Allison en tire 12 pistes. Il juge incohérente la formule américaine « engager mais se couvrir » et propose quatre voies, de l’accommodement à une redéfinition de la relation autour de menaces communes comme la prolifération, le terrorisme ou le climat. Il conclut sur Kennedy en 1962 : le choix humain compte plus que la structure."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre a été très discuté. Joseph Nye conteste la lecture de 1914, où l’Allemagne craignait aussi la Russie, et rappelle qu’Athènes stagnait au moment de la guerre. Arthur Waldron signale que dans la guerre russo-japonaise, c’est la puissance montante qui attaque par surprise, à l’inverse du schéma. Gideon Rachman estime qu’Allison a retenu les exemples qui l’arrangent. Plusieurs auteurs doutent qu’une logique préatomique s’applique entre puissances nucléaires. Ian Buruma lui reproche d’ignorer les faiblesses démographiques et écologiques de la Chine. Hal Brands et Michael Beckley proposent même le raisonnement inverse : le danger viendrait d’une puissance dont l’ascension s’essouffle, ce que suggère le ralentissement chinois, à environ 4,5 % de croissance en 2026 selon le FMI."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Peu d’essais de relations internationales ont autant circulé : la formule a été reprise par Xi Jinping comme par Barack Obama, et le livre a été lu à la Maison-Blanche. Même ses adversaires la citent. Sa force tient à un renversement de la charge de la preuve, plus qu’à sa rigueur historique. Il oblige à se demander ce qui, concrètement, retiendrait les deux pays lors de la prochaine crise."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Depuis cinq siècles, quand une puissance montante a défié une puissance dominante, la guerre a suivi 12 fois sur 16. Graham Allison applique ce constat à la Chine et aux États-Unis : la guerre n’est pas fatale, mais elle devient probable si personne ne change de méthode.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La peur, moteur du piège</b> : selon Thucydide, la montée d’Athènes et la crainte de Sparte font la guerre. Allison retient l’intérêt, la peur et l’honneur. La rivalité [[exacerber|exacerbe]] chaque incident.",
+      "<b>Une montée inédite</b> : PIB chinois de moins de 300 Md$ en 1980 à environ 11 000 Md$ en 2015 ; dépassement américain en parité de pouvoir d’achat dès 2014.",
+      "<b>Le détail fatal</b> : cinq scénarios d’accident, de la collision en mer à Taïwan ou à une guerre commerciale. Les usines américaines restent [[tributaire|tributaires]] de la Chine, ce qui freine sans interdire.",
+      "<b>Quatre exceptions</b> : Tordesillas, Londres cédant à Washington, la Guerre froide, l’Allemagne réunifiée. D’où 12 pistes pour la paix et quatre stratégies, de l’accommodement à une redéfinition autour de menaces communes.",
+      "<b>Les précédents</b> : en 1941, l’embargo pétrolier pousse le Japon vers Pearl Harbor ; avant 1914, la course navale et les alliances transforment un attentat en guerre mondiale. La rivalité anglo-allemande est le parallèle préféré d’Allison.",
+      "<b>Le réveil chinois</b> : croissance d’environ 10 % par an de 1980 à 2017, plus d’un demi-milliard de personnes sorties de l’extrême pauvreté, deuxième budget militaire du monde. En 2026, le PIB chinois vaut environ 66 % de l’américain en dollars, mais le dépasse d’un tiers en parité de pouvoir d’achat (2025).",
+      "<b>Les ambitions de Xi Jinping</b> : prééminence en Asie, reprise de la « grande Chine », Taïwan compris, respect des grandes puissances. Allison rappelle que l’Amérique de Roosevelt fut elle aussi une puissance montante brutale."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "12 sur 16",
+       "rivalités ayant fini en guerre en 500 ans"
+      ],
+      [
+       "7 % → 61 %",
+       "PIB chinois rapporté à l’américain, 1980-2017"
+      ],
+      [
+       "≈ 10 %",
+       "croissance annuelle chinoise, 1980-2017"
+      ],
+      [
+       "4",
+       "options stratégiques proposées à Washington"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "En dollars courants, l’écart reste net",
+      "sub": "PIB nominal de la Chine, en % de celui des États-Unis",
+      "labels": [
+       "1980",
+       "2017",
+       "2026"
+      ],
+      "series": [
+       {
+        "name": "Chine / États-Unis",
+        "values": [
+         7,
+         61,
+         66
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Sources : G. Allison, Destined for War (1980, 2017) ; FMI, Perspectives de l’économie mondiale, octobre 2026, via Worldometer (21,55 et 32,64 billions de dollars, soit 66 %, calcul Culto)."
+     }
+    },
+    {
+     "h": "Limites"
+    },
+    {
+     "ul": [
+      "<b>Nye</b> conteste la lecture de 1914 et d’Athènes ; <b>Waldron</b> rappelle que le Japon, puissance montante, a attaqué la Russie.",
+      "<b>Rachman</b> dénonce une sélection d’exemples ; d’autres doutent que la logique vaille entre puissances nucléaires.",
+      "<b>Brands et Beckley</b> : le danger vient d’une puissance qui s’essouffle, alors que la Chine vise environ 4,5 % en 2026.",
+      "<b>Postérité</b> : formule reprise par Xi Jinping et Obama. Allison, doyen fondateur de la Kennedy School, renverse la charge de la preuve."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "France : le PIB recule, la cible de 0,5 % s’éloigne",
+   "by": "Analyse",
+   "fig": "− 0,1 %",
+   "figl": "PIB français au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Insee, première estimation des comptes du 3e trimestre 2026, 30 octobre 2026 (via Économie Matin et France Épargne : PIB, contributions, production, investissement, acquis, confiance des ménages, projet de budget, prévisions Insee et Banque de France). Eurostat, estimation rapide du PIB, 30 octobre 2026 (comparaisons européennes). BEA, 29 octobre 2026 (États-Unis). Insee, estimation provisoire de l’inflation d’octobre, via ie24.fr. Données arrêtées au 30 octobre 2026 ; résultats détaillés attendus le 27 novembre.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Vendredi 30 octobre, l’Insee a annoncé un recul de 0,1 % du PIB français au troisième trimestre, alors que les économistes attendaient + 0,1 %. Après − 0,2 % au premier trimestre et une stagnation au deuxième, c’est le deuxième repli de l’année. La récession technique, soit deux baisses de suite, est évitée de justesse. Mais la richesse produite est désormais inférieure à son niveau d’il y a un an, une première depuis fin 2020.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "− 0,1 %",
+       "PIB français au 3e trimestre"
+      ],
+      [
+       "0,2 %",
+       "acquis de croissance pour 2026"
+      ],
+      [
+       "− 1,7 %",
+       "exportations sur le trimestre"
+      ],
+      [
+       "80",
+       "confiance des ménages, au plus bas depuis 2013"
+      ]
+     ]
+    },
+    {
+     "h": "Une panne venue de l’industrie"
+    },
+    {
+     "p": "Le choc vient de l’extérieur. Les exportations chutent de 1,7 %, dont − 9,1 % pour les matériels de transport, après un bond de 20,8 % au trimestre précédent. Le commerce extérieur retire 0,6 point à la croissance. Les stocks en rendent 0,4. La production manufacturière recule de 1,4 %, avec − 4,5 % pour l’aéronautique et les autres matériels de transport, et l’automobile baisse pour le quatrième trimestre consécutif. Ces chiffres rappellent à quel point la croissance française reste [[tributaire|tributaire]] de quelques grandes filières et de leur calendrier de livraisons. La sécheresse de septembre et les canicules ont pesé aussi sur les récoltes et sur la production électrique."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "La France décroche de ses voisins",
+      "sub": "PIB, variation sur un trimestre, 3e trimestre 2026, en %",
+      "labels": [
+       "Espagne",
+       "Pays-Bas",
+       "Zone euro",
+       "Allem.",
+       "Italie",
+       "France"
+      ],
+      "series": [
+       {
+        "name": "PIB",
+        "values": [
+         0.6,
+         0.6,
+         0.4,
+         0.2,
+         0.0,
+         -0.1
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : Eurostat, estimation rapide du 30 octobre 2026."
+     }
+    },
+    {
+     "p": "Le contraste est net. L’Espagne progresse de 0,6 %, la zone euro de 0,4 %, et les États-Unis de 0,8 % sur le trimestre. La demande intérieure française ne compense pas : la consommation gagne 0,4 %, en partie parce que l’énergie coûte plus cher, et l’investissement baisse de 0,6 %, son troisième recul d’affilée. Avec une inflation à 3,4 % en octobre, tirée par l’énergie (+ 24,1 %), le pétrole [[exacerber|exacerbe]] la faiblesse de la demande."
+    },
+    {
+     "h": "Un budget construit sur une hypothèse fragile"
+    },
+    {
+     "p": "L’acquis de croissance pour 2026 n’est que de 0,2 %. Le gouvernement table sur 0,5 % dans son projet de budget 2027 ; l’Insee et la Banque de France sur 0,4 %. Pour y parvenir, il faudrait respectivement environ + 1,1 % et + 0,7 % au quatrième trimestre. Or le meilleur trimestre depuis 2022 a atteint + 0,9 %. Moins de croissance, c’est moins de recettes, alors que Paris vise un déficit de 5,4 % du PIB. Du côté des ménages, l’épargne atteignait 17,4 % de leur revenu au deuxième trimestre et leur confiance est tombée à 80 en octobre, au plus bas depuis juin 2013."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une première estimation peut être révisée, et le rebond de l’aéronautique peut venir vite. Mais le signal de fond est clair : investissement en baisse, industrie à la peine, confiance au plancher. Avec une BCE à 2,5 %, peu encline à baisser ses taux, la France ne peut compter ni sur la politique monétaire ni sur le budget pour relancer son activité."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : PIB − 0,1 % au 3e trimestre (Insee, 30 octobre), contre + 0,1 % attendu. Premier recul sur un an depuis fin 2020 ; récession technique évitée de justesse.",
+      "<b>La cause</b> : exportations − 1,7 %, dont transports − 9,1 %. Le commerce extérieur retire 0,6 point. Une croissance [[tributaire|tributaire]] de quelques filières.",
+      "<b>L’industrie</b> : − 1,4 %, aéronautique − 4,5 %, automobile en baisse pour le 4e trimestre.",
+      "<b>La demande</b> : consommation + 0,4 %, investissement − 0,6 %. L’inflation à 3,4 % en octobre (énergie + 24,1 %) [[exacerber|exacerbe]] la faiblesse.",
+      "<b>Le budget</b> : acquis de 0,2 %, cible de 0,5 % ; il faudrait + 1,1 % au 4e trimestre, contre + 0,9 % au mieux depuis 2022. Déficit visé : 5,4 % du PIB.",
+      "<b>Les voisins</b> : Espagne + 0,6 %, zone euro + 0,4 %, États-Unis + 0,8 % sur le trimestre.",
+      "<b>À retenir</b> : confiance des ménages à 80, au plus bas depuis 2013 ; chiffres révisables, résultats détaillés le 27 novembre. Avec une BCE à 2,5 %, ni la politique monétaire ni le budget ne peuvent relancer l’activité."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "− 0,1 %",
+       "PIB français au 3e trimestre"
+      ],
+      [
+       "0,2 %",
+       "acquis de croissance pour 2026"
+      ],
+      [
+       "− 1,7 %",
+       "exportations sur le trimestre"
+      ],
+      [
+       "80",
+       "confiance des ménages, au plus bas depuis 2013"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "La France décroche de ses voisins",
+      "sub": "PIB, variation sur un trimestre, 3e trimestre 2026, en %",
+      "labels": [
+       "Espagne",
+       "Pays-Bas",
+       "Zone euro",
+       "Allem.",
+       "Italie",
+       "France"
+      ],
+      "series": [
+       {
+        "name": "PIB",
+        "values": [
+         0.6,
+         0.6,
+         0.4,
+         0.2,
+         0.0,
+         -0.1
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : Eurostat, estimation rapide du 30 octobre 2026."
+     }
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Midterms : Washington vote demain, le monde regarde",
+   "by": "Analyse",
+   "fig": "≈ 8 pts",
+   "figl": "avance démocrate dans les sondages",
+   "min": 3,
+   "exMin": 2,
+   "src": "Newsweek, 1er novembre 2026 (moyennes RealClearPolling et Nate Silver, marchés de prédiction, erreurs de sondage, projection Fox News, Brésil). Kalshi News, 28 octobre 2026 (classements Cook et Center for Politics, Sénat 53-47). Forbes, 27 octobre 2026 (approbation, sondage Marist). Reuters/Ipsos via GV Wire, 19 octobre 2026. Wikipédia (en), « 2026 United States elections » et « 2026 United States House of Representatives elections » (composition de la Chambre, redécoupage, départs, enjeux). The American Presidency Project, UC Santa Barbara, 2022 (moyennes historiques 1934-2018). NBC News, novembre 2018. Données arrêtées au 1er novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Mardi 3 novembre, les Américains renouvellent les 435 sièges de la Chambre des représentants, 35 sièges sur 100 au Sénat et 36 postes de gouverneurs. Ces élections de mi-mandat servent traditionnellement de référendum sur le président. Elles décideront si Donald Trump gouverne encore deux ans avec un Congrès acquis, ou face à une opposition capable de bloquer ses lois et d’enquêter sur son administration. Les sondages donnent aux démocrates environ 8 points d’avance au niveau national.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "≈ 8 pts",
+       "avance démocrate dans les intentions de vote"
+      ],
+      [
+       "218",
+       "sièges pour la majorité à la Chambre"
+      ],
+      [
+       "53-47",
+       "Sénat sortant, majorité républicaine"
+      ],
+      [
+       "35",
+       "sièges de sénateurs en jeu"
+      ]
+     ]
+    },
+    {
+     "h": "Un climat hostile au président"
+    },
+    {
+     "p": "L’histoire joue contre le parti au pouvoir : de 1934 à 2018, il a perdu en moyenne 28 sièges à la Chambre et 4 au Sénat. En 2018, les démocrates en avaient gagné près de 40. Cette fois, la guerre avec l’Iran, commencée le 28 février, a [[exacerber|exacerbé]] le sujet du coût de la vie, avec le gazole à 6,35 dollars le gallon fin octobre et des droits de douane accusés de nourrir l’inflation. Dans le sondage Marist, 44 % des personnes interrogées disent voter d’abord contre Trump, et 21 % pour lui. Sa popularité varie selon les instituts, mais plusieurs enregistrent des records de faiblesse."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Approbation de Donald Trump selon les instituts",
+      "sub": "sondages nationaux, octobre 2026, en %",
+      "rows": [
+       [
+        "NPR/PBS/Marist (27 oct.)",
+        40
+       ],
+       [
+        "CNBC (22 oct.)",
+        40
+       ],
+       [
+        "UMass Lowell (22 oct.)",
+        39
+       ],
+       [
+        "NYT/Siena (21 oct.)",
+        36
+       ],
+       [
+        "CNN/SSRS (21 oct.)",
+        32
+       ],
+       [
+        "Reuters/Ipsos (19 oct.)",
+        31
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Forbes, relevé du 27 octobre 2026."
+     }
+    },
+    {
+     "h": "Une carte qui amortit la vague"
+    },
+    {
+     "p": "La Chambre paraît acquise aux démocrates : il leur faut 218 sièges, et Cook leur en attribue déjà 220 avec un avantage, le Center for Politics 225. Pourtant, le redécoupage engagé en cours de décennie, surtout au Texas, en Floride et dans l’Ohio, a retiré 13 circonscriptions disputées, pour un gain net théorique de 12 sièges républicains. Le Sénat est plus incertain. Les démocrates doivent gagner quatre sièges nets, en Caroline du Nord, dans le Maine, l’Ohio, l’Alaska, l’Iowa ou le Texas, sur une carte très [[tributaire|tributaire]] de la couleur politique des États. Une erreur de sondage de 2 à 3 points, déjà vue en 2016, 2020 et 2024, laisserait le Sénat aux républicains. Les marchés de prédiction donnent aux démocrates 92 à 94 % de chances à la Chambre, 69 à 72 % au Sénat. Ils se sont pourtant trompés au Brésil le 25 octobre, en favorisant Flávio Bolsonaro face à Lula."
+    },
+    {
+     "h": "Pourquoi l’Europe doit suivre"
+    },
+    {
+     "p": "Le président garde une large main sur la diplomatie. Mais le Sénat ratifie les traités et confirme les nominations, et le Congrès vote les budgets, y compris l’aide militaire, et peut encadrer l’usage de la force. Une Chambre démocrate pèserait donc sur l’Iran, l’Ukraine et le commerce, sans renverser la politique étrangère."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Un Congrès divisé limiterait la marge législative du président pour les deux dernières années de son mandat. Le verdict de mardi pourrait aussi tarder : plusieurs scrutins serrés peuvent prendre des jours à être tranchés."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le scrutin</b> : le 3 novembre, 435 sièges à la Chambre, 35 au Sénat, 36 gouverneurs. Un référendum sur Trump.",
+      "<b>Les sondages</b> : démocrates à environ + 8 points. Popularité de Trump entre 31 % et 40 % selon les instituts en octobre.",
+      "<b>Le climat</b> : le parti au pouvoir perd en moyenne 28 sièges à la Chambre et 4 au Sénat (1934-2018). La guerre avec l’Iran [[exacerber|exacerbe]] le coût de la vie (gazole à 6,35 $ le gallon).",
+      "<b>La Chambre</b> : Cook donne 220 sièges aux démocrates (majorité : 218), malgré un redécoupage qui offre en théorie 12 sièges aux républicains.",
+      "<b>Le Sénat</b> : 53-47 ; il faut quatre gains démocrates. Le vote reste [[tributaire|tributaire]] de la couleur des États ; une erreur de 2 à 3 points laisserait le Sénat aux républicains.",
+      "<b>Les marchés</b> : 92-94 % pour une Chambre démocrate, 69-72 % au Sénat. Ils se sont trompés au Brésil le 25 octobre.",
+      "<b>Pour l’Europe</b> : le Congrès pèse sur budgets, traités et usage de la force, donc sur l’Iran, l’Ukraine et le commerce. Le verdict peut tarder de plusieurs jours."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 8 pts",
+       "avance démocrate dans les intentions de vote"
+      ],
+      [
+       "218",
+       "sièges pour la majorité à la Chambre"
+      ],
+      [
+       "53-47",
+       "Sénat sortant, majorité républicaine"
+      ],
+      [
+       "35",
+       "sièges de sénateurs en jeu"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Approbation de Donald Trump selon les instituts",
+      "sub": "sondages nationaux, octobre 2026, en %",
+      "rows": [
+       [
+        "NPR/PBS/Marist (27 oct.)",
+        40
+       ],
+       [
+        "CNBC (22 oct.)",
+        40
+       ],
+       [
+        "UMass Lowell (22 oct.)",
+        39
+       ],
+       [
+        "NYT/Siena (21 oct.)",
+        36
+       ],
+       [
+        "CNN/SSRS (21 oct.)",
+        32
+       ],
+       [
+        "Reuters/Ipsos (19 oct.)",
+        31
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Forbes, relevé du 27 octobre 2026."
+     }
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Boluda-Samskip : le cabotage européen se regroupe",
+   "by": "Analyse",
+   "fig": "750 000 EVP",
+   "figl": "trafic annuel du futur ensemble",
+   "min": 3,
+   "exMin": 2,
+   "src": "Trans.info, octobre 2026 ; Baird Maritime, octobre 2026 ; The Maritime Executive, octobre 2026 (accord du 28 octobre, réseau, finalisation, profil de Boluda, de Samskip). Samskip, communiqué du 25 février 2026 (cession des activités Royaume-Uni et Irlande à CLdN). Eurostat via EU News, 26 mars 2026 (répartition modale 2024). Finnlines, octobre 2025 (couverture du SEQE-UE). BCE, 29 octobre 2026 (prix du gazole en zone euro). Données arrêtées au 29 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 28 octobre, l’espagnol Boluda Shipping a signé le rachat de la totalité des actifs et activités de Samskip, spécialiste du transport maritime de courte distance. La transaction, dont le prix n’est pas communiqué, doit se conclure le 1er janvier 2027, sous réserve de l’accord des autorités. Elle crée ce que Boluda présente comme le réseau indépendant le plus complet d’Europe, reliant l’Europe du Nord, la péninsule Ibérique, les Canaries et l’Afrique de l’Ouest. C’est une opération discrète, mais elle dit beaucoup de la bataille entre la mer et la route.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "750 000 EVP",
+       "trafic annuel du futur ensemble"
+      ],
+      [
+       "32 navires",
+       "sur 18 lignes et 28 pays"
+      ],
+      [
+       "26",
+       "terminaux : 21 maritimes et 5 ferroviaires"
+      ],
+      [
+       "500+",
+       "camions en propre"
+      ]
+     ]
+    },
+    {
+     "h": "Deux familles, deux logiques"
+    },
+    {
+     "p": "Boluda est un groupe familial de Valence, qui fête ses 200 ans et que le grand public ne connaît guère : c’est pourtant le premier remorqueur portuaire mondial, avec 850 unités dans plus de 230 ports, dont Les Abeilles en France. Samskip, né en Islande en 1990, installé à Rotterdam, compte environ 1 500 salariés et plus de 30 pays. Les deux partenaires exploitent déjà une ligne commune entre Santander, Dublin et Liverpool depuis septembre 2023. En février, Samskip avait cédé ses lignes vers le Royaume-Uni et l’Irlande à CLdN pour se concentrer sur les longs corridors multimodaux. Cette opération-là annonçait celle-ci : les acteurs de taille moyenne se spécialisent, puis se regroupent."
+    },
+    {
+     "h": "Vendre une chaîne, pas un navire"
+    },
+    {
+     "p": "L’intérêt de l’ensemble tient moins aux 32 navires qu’à tout ce qui les entoure : terminaux, trains, camions et environ 35 000 conteneurs. Le client achète un porte-à-porte. Il peut éviter la route sur l’essentiel du trajet entre Rotterdam et l’Espagne, et ne garder le camion que pour les derniers kilomètres. Or le fret européen reste très [[tributaire|tributaire]] de la route, dont la part a gagné environ 3 points en dix ans, alors que le rail stagne."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le fret européen reste maritime et routier",
+      "sub": "part en tonnes-kilomètres, Union européenne, 2024, en %",
+      "rows": [
+       [
+        "Mer",
+        67
+       ],
+       [
+        "Route",
+        25.7
+       ],
+       [
+        "Rail",
+        5.4
+       ],
+       [
+        "Voies navigables",
+        1.7
+       ],
+       [
+        "Aérien",
+        0.2
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Eurostat, via EU News, 26 mars 2026."
+     }
+    },
+    {
+     "p": "Le contexte aide, sans tout résoudre. Le renchérissement du gazole, porté par le choc iranien, [[exacerber|exacerbe]] le coût du camion sur les longues distances. Mais la mer paie aussi le carbone : depuis 2026, 100 % des émissions du transport maritime sont soumises au système européen d’échange de quotas (SEQE-UE), contre 40 % en 2024."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le cabotage gagne sur les trajets longs et réguliers, pas sur les délais serrés : un navire impose des horaires, et un train de marchandises dépend de ses sillons. Pour un responsable supply chain, l’équation reste la même : arbitrer entre stock en transit, fiabilité, CO2 et coût au kilomètre. Si la concentration se poursuit, le pouvoir de négociation se déplacera vers ces réseaux intégrés. Les transporteurs routiers pourraient y perdre des flux nord-sud, mais gagner les pré- et post-acheminements autour des ports."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>L’accord</b> : Boluda Shipping rachète Samskip (28 octobre), finalisation le 1er janvier 2027, prix non communiqué.",
+      "<b>Le réseau</b> : 32 navires, 18 lignes, 28 pays, 21 terminaux maritimes, 5 ferroviaires, plus de 500 camions, plus de 750 000 EVP par an, de l’Europe du Nord à l’Afrique de l’Ouest.",
+      "<b>Les acteurs</b> : Boluda, familial, premier remorqueur mondial (850 unités) ; Samskip, né en Islande en 1990, 1 500 salariés, a cédé ses lignes Royaume-Uni et Irlande à CLdN en février.",
+      "<b>Le pari</b> : vendre du porte-à-porte. Le fret reste [[tributaire|tributaire]] de la route, 25,7 % des tonnes-kilomètres contre 5,4 % au rail.",
+      "<b>Le contexte</b> : le gazole [[exacerber|exacerbe]] le coût du camion, mais la mer paie 100 % de ses quotas carbone depuis 2026.",
+      "<b>Le précédent</b> : une ligne commune Santander-Dublin-Liverpool depuis septembre 2023 ; les acteurs moyens se spécialisent, puis se regroupent.",
+      "<b>À retenir</b> : le cabotage gagne sur les trajets longs et réguliers, pas sur les délais serrés. Le responsable supply chain arbitre entre stock en transit, fiabilité, CO2 et coût au kilomètre. Les routiers perdent du nord-sud mais gagnent les acheminements aux ports."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "750 000 EVP",
+       "trafic annuel du futur ensemble"
+      ],
+      [
+       "32 navires",
+       "sur 18 lignes et 28 pays"
+      ],
+      [
+       "26",
+       "terminaux : 21 maritimes et 5 ferroviaires"
+      ],
+      [
+       "500+",
+       "camions en propre"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le fret européen reste maritime et routier",
+      "sub": "part en tonnes-kilomètres, Union européenne, 2024, en %",
+      "rows": [
+       [
+        "Mer",
+        67
+       ],
+       [
+        "Route",
+        25.7
+       ],
+       [
+        "Rail",
+        5.4
+       ],
+       [
+        "Voies navigables",
+        1.7
+       ],
+       [
+        "Aérien",
+        0.2
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Eurostat, via EU News, 26 mars 2026."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "BYD : l’export sauve le trimestre, les stocks gonflent",
+   "by": "Analyse",
+   "fig": "+ 60 %",
+   "figl": "stocks de BYD en neuf mois",
+   "min": 3,
+   "exMin": 2,
+   "src": "BYD, résultats du 3e trimestre 2026 via Electrek, 29 octobre 2026 (chiffre d’affaires, résultat, ventes, bilan, consensus Reuters). CnEVPost, 1er novembre 2026 (ventes d’octobre). Techleap, mars 2026 (objectif d’export, marges par véhicule selon Citigroup). Börse Express et Simply Wall St, 2026 (usine de Hongrie). Données arrêtées au 30 septembre 2026, et au 31 octobre pour les ventes.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "BYD, qui a vendu au troisième trimestre 2,7 fois plus de véhicules que Tesla, hybrides compris, a publié le 29 octobre un bénéfice net en hausse de 28,1 % au troisième trimestre, à 10,02 milliards de yuans, pour un chiffre d’affaires de 221,5 milliards (+ 13,6 %). La performance reste inférieure aux attentes, de 11,4 à 12,95 milliards. Et le bilan raconte une histoire moins simple : la croissance vient désormais presque uniquement de l’étranger, et l’argent reste immobilisé dans les stocks.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "10,02 Md¥",
+       "bénéfice net du trimestre, + 28,1 %"
+      ],
+      [
+       "42 %",
+       "part de l’export dans les ventes"
+      ],
+      [
+       "+ 60 %",
+       "stocks en neuf mois, à 221,6 Md¥"
+      ],
+      [
+       "− 45 %",
+       "trésorerie et titres, à 71,7 Md¥"
+      ]
+     ]
+    },
+    {
+     "h": "La Chine recule, le monde prend le relais"
+    },
+    {
+     "p": "Le groupe a vendu 1,32 million de véhicules, en hausse de 18,7 %. Les exportations ont plus que doublé, à 550 704 unités, soit 42 % du total, tandis que les ventes en Chine baissaient d’environ 12 %. BYD est devenu [[tributaire|tributaire]] de l’étranger, et octobre confirme la tendance : 170 194 ventes hors de Chine, + 103 % sur un an, malgré un léger repli sur le mois. L’enjeu est aussi financier : en mars, Citigroup estimait la marge à environ 5 000 yuans par véhicule en Chine et 20 000 à l’étranger. L’objectif d’export pour 2026 a été relevé de 1,3 à 1,5 million d’unités."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "BYD : l’étranger compense la Chine",
+      "sub": "ventes du 3e trimestre, en milliers de véhicules",
+      "labels": [
+       "Chine",
+       "Export",
+       "Total"
+      ],
+      "series": [
+       {
+        "name": "T3 2025",
+        "values": [
+         881,
+         233,
+         1114
+        ]
+       },
+       {
+        "name": "T3 2026",
+        "values": [
+         772,
+         551,
+         1323
+        ]
+       }
+      ],
+      "note": "Source : BYD, résultats du 3e trimestre 2026, via Electrek ; ventes en Chine = total moins exportations."
+     }
+    },
+    {
+     "h": "Ce que dit le bilan"
+    },
+    {
+     "p": "En neuf mois, les stocks ont bondi de 60 %, à 221,6 milliards de yuans, et les créances clients de 53 %. Une voiture exportée passe des semaines sur un navire et dans un parc avant d’être vendue : l’internationalisation allonge mécaniquement le cycle de trésorerie, même si BYD ne détaille pas cette hausse. Mais les dépréciations d’actifs ont progressé de 68 %, à 2,71 milliards, surtout sur les stocks, signe que tous ne se vendront pas au prix prévu. La trésorerie a reculé de 45 %, les effets à payer ont plus que triplé, et la marge brute s’établit à environ 18 %. La faiblesse du marché chinois a [[exacerber|exacerbé]] cette tension. Le groupe a aussi réduit ses dépenses de R&D (− 17 %) et ses investissements (− 24 %). À l’inverse, le flux de trésorerie d’exploitation progresse de 33 %, et les avances clients de 81 %."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Sur neuf mois, chiffre d’affaires stable, bénéfice − 4,2 %. BYD réussit son virage mondial, mais il change de nature : plus de distance, plus de stocks, plus de risque de change (7,37 milliards de charges financières, dues aux pertes de change selon le groupe) et de droits de douane. D’où l’importance de son usine hongroise, première en Europe, dont le démarrage est repoussé au quatrième trimestre 2026 et sur laquelle le nouveau gouvernement enquête pour les subventions reçues. L’internationalisation se paie d’abord en fonds de roulement."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le trimestre</b> : bénéfice + 28,1 % à 10,02 Md¥, chiffre d’affaires + 13,6 % à 221,5 Md¥ ; attentes de 11,4 à 12,95 Md¥ manquées.",
+      "<b>Les ventes</b> : 1,32 million de véhicules, + 18,7 %. Export + 137 % à 550 704, 42 % du total ; Chine ≈ − 12 %. Un groupe [[tributaire|tributaire]] de l’étranger : 170 194 ventes hors de Chine en octobre, + 103 %.",
+      "<b>La marge</b> : ≈ 5 000 ¥ par véhicule en Chine, 20 000 ¥ à l’étranger (Citigroup, mars). Objectif export 2026 : 1,5 million.",
+      "<b>Le bilan</b> : stocks + 60 % à 221,6 Md¥, créances + 53 %, dépréciations + 68 %, trésorerie − 45 %. La faiblesse du marché chinois [[exacerber|exacerbe]] la tension ; flux d’exploitation pourtant + 33 %, avances clients + 81 %.",
+      "<b>À retenir</b> : sur neuf mois, chiffre d’affaires stable, bénéfice − 4,2 %, R&D − 17 %, investissements − 24 %. L’usine hongroise, première en Europe, repoussée au 4e trimestre, est visée par une enquête sur ses subventions. L’export se paie d’abord en fonds de roulement."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "10,02 Md¥",
+       "bénéfice net du trimestre, + 28,1 %"
+      ],
+      [
+       "42 %",
+       "part de l’export dans les ventes"
+      ],
+      [
+       "+ 60 %",
+       "stocks en neuf mois, à 221,6 Md¥"
+      ],
+      [
+       "− 45 %",
+       "trésorerie et titres, à 71,7 Md¥"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "BYD : l’étranger compense la Chine",
+      "sub": "ventes du 3e trimestre, en milliers de véhicules",
+      "labels": [
+       "Chine",
+       "Export",
+       "Total"
+      ],
+      "series": [
+       {
+        "name": "T3 2025",
+        "values": [
+         881,
+         233,
+         1114
+        ]
+       },
+       {
+        "name": "T3 2026",
+        "values": [
+         772,
+         551,
+         1323
+        ]
+       }
+      ],
+      "note": "Source : BYD, résultats du 3e trimestre 2026, via Electrek ; ventes en Chine = total moins exportations."
+     }
+    }
+   ]
+  }
+ ]
+}
