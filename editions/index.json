@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-02",
+ "latest": "2026-11-03",
  "editions": [
+  {
+   "date": "2026-11-03",
+   "label": "Mardi 3 novembre",
+   "words": [
+    "Tributaire",
+    "Exacerber"
+   ],
+   "items": [
+    [
+     "lit",
+     "Le Joueur d’échecs"
+    ],
+    [
+     "essai",
+     "The Box"
+    ],
+    [
+     "eco",
+     "Le 10 ans américain : le prix mondial de l’argent"
+    ],
+    [
+     "geo",
+     "Serbie : les étudiants ont gagné, Bruxelles attend"
+    ],
+    [
+     "log",
+     "San Pedro : 250 gardiens et le premier port américain"
+    ],
+    [
+     "ent",
+     "AstraZeneca : le cancer paie, la suite se joue en 2027"
+    ]
+   ]
+  },
   {
    "date": "2026-11-02",
    "label": "Lundi 2 novembre",

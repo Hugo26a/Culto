@@ -1,0 +1,1083 @@
+{
+ "date": "2026-11-03",
+ "label": "Mardi 3 novembre 2026",
+ "n": 17,
+ "example": false,
+ "week": {
+  "start": "2026-11-02",
+  "label": "Semaine du 2 novembre",
+  "day": 2,
+  "words": [
+   {
+    "key": "tributaire",
+    "w": "Tributaire",
+    "ph": "[tʁi.by.tɛʁ] · adjectif",
+    "short": "Qui dépend étroitement d’une chose ou d’une personne.",
+    "def": "Qui dépend de quelque chose pour fonctionner ou exister, sans pouvoir s’en affranchir facilement. On dit « être tributaire de ». Le mot est plus précis que « dépendant » : il souligne une contrainte subie, souvent extérieure, comme un fournisseur, un climat ou une décision.",
+    "ety": "Du latin tributarius, « soumis à l’impôt », de tributum, « tribut ». Le tributaire payait une redevance à un pouvoir plus fort. En géographie, un cours d’eau tributaire se jette dans un autre.",
+    "ex": "Notre planning reste tributaire de la livraison des composants par notre fournisseur taïwanais.",
+    "syn": "dépendant, assujetti, subordonné, lié à"
+   },
+   {
+    "key": "exacerber",
+    "w": "Exacerber",
+    "ph": "[ɛɡ.za.sɛʁ.be] · verbe",
+    "short": "Rendre plus vif, plus aigu, plus intense.",
+    "def": "Rendre plus forte une tension, une douleur ou un sentiment déjà présents. On l’emploie pour ce qui existait avant et que l’on aggrave : on exacerbe une rivalité, une colère, un déséquilibre. Il ne s’emploie pas pour ce qui naît de rien.",
+    "ety": "Du latin exacerbare, « irriter », formé sur acerbus, « aigre, âpre », qui a aussi donné « acerbe ».",
+    "ex": "Le retard de livraison a exacerbé les tensions entre l’acheteur et le fournisseur.",
+    "syn": "aggraver, aviver, attiser, intensifier"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Le Joueur d’échecs",
+   "by": "Stefan Zweig · 1942",
+   "tagline": "Une cellule de 64 cases",
+   "min": 10,
+   "exMin": 4,
+   "src": "Stefan Zweig, Schachnovelle (Verlag Pigmalión, Buenos Aires, 1942) : texte allemand publié par stefanzweig.de (récit de l’isolement, cent cinquante parties, date du 27 juillet). Zweig est mort en 1942 : l’œuvre est dans le domaine public ; la citation est traduite de l’allemand par Culto. Notice « The Royal Game » de Wikipédia (en) : intrigue, publication, adaptations. stefanzweig.de : écriture dans l’exil brésilien, 1941.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Sur un paquebot entre New York et Buenos Aires, le champion du monde d’échecs, un homme fruste et presque illettré, affronte un passager inconnu, Monsieur B. Cet avocat viennois a appris le jeu seul, dans une chambre d’hôtel où la Gestapo l’isolait du monde. Il bat le champion, puis retombe au bord de la folie qui avait failli le détruire."
+      ],
+      [
+       "La torture sans un coup",
+       "M. B. n’est pas battu. On le prive seulement de tout : livres, papier, montre, visages. Zweig décrit ce qu’on appellera plus tard la torture blanche : le vide suffit à briser un esprit. Le bourreau n’a pas besoin de lever la main."
+      ],
+      [
+       "Ce qui sauve peut aussi détruire",
+       "Le livre d’échecs volé rend à M. B. sa raison, puis la lui reprend. Le remède devient poison dès qu’il n’y a plus que lui. Son esprit, [[tributaire|tributaire]] d’un seul objet, finit par se retourner contre lui-même."
+      ],
+      [
+       "Deux monomanies face à face",
+       "Czentovic ne sait rien faire d’autre que jouer. M. B. a joué pour ne pas sombrer. Le premier est une machine sans culture, le second une culture sans défense. Leur duel oppose deux formes de spécialisation extrême."
+      ],
+      [
+       "L’Europe humaniste perd contre la force patiente",
+       "Le champion ne gagne pas par le génie, mais en exploitant les nerfs de son adversaire. On lit souvent cette fin comme une image de 1942 : la Vienne des lettrés vaincue par une brutalité méthodique."
+      ],
+      [
+       "Un testament",
+       "Zweig écrit ce récit dans son exil brésilien, et il se donne la mort peu après. C’est son dernier texte de fiction achevé. Il tient en une centaine de pages."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le champion sans culture"
+    },
+    {
+     "p": "Un paquebot quitte New York pour Buenos Aires. Le narrateur, un voyageur autrichien, apprend qu’un célèbre passager se trouve à bord : Mirko Czentovic, champion du monde d’échecs. Son histoire est étrange. Fils d’un batelier slave du Danube très pauvre, il perd son père quand un vapeur céréalier éperonne sa barque. Un curé de village recueille l’enfant, qui a une douzaine d’années. Le garçon est lent, buté, rebelle à toute instruction.",
+     "lead": 1
+    },
+    {
+     "p": "Un soir, il remporte pourtant une partie que le curé a laissée en suspens. À dix-sept ans, il collectionne déjà les prix. À vingt ans, il est champion du monde. Il reste grossier, cupide, à peine capable d’écrire une phrase correcte. Il ne joue plus que contre de l’argent."
+    },
+    {
+     "p": "Le narrateur, qui s’intéresse aux esprits enfermés dans une seule idée, veut l’approcher. Il joue contre sa femme au fumoir pour l’attirer. Le stratagème échoue, mais il retient McConnor, un ingénieur écossais enrichi dans le pétrole en Californie, qui déteste perdre. McConnor paie le tarif du champion pour une partie en consultation : tous les passagers présents contre Czentovic. Ils sont écrasés. McConnor exige une revanche."
+    },
+    {
+     "p": "Pendant cette seconde partie, alors que le groupe s’apprête à pousser un pion à dame, un inconnu surgit, livide, et leur souffle de ne pas jouer ce coup. Il leur dicte la suite, en évoquant une partie d’Alekhine contre Bogoljubov, à Pistyan, en 1922. La partie finit nulle."
+    },
+    {
+     "h5": "La chambre de l’hôtel Métropole"
+    },
+    {
+     "p": "L’inconnu raconte son histoire au narrateur. M. B. dirigeait à Vienne un petit cabinet d’avocats qui gérait les biens de grands monastères et de membres de la famille impériale. La Gestapo l’arrête le soir même où le chancelier Schuschnigg annonce son abdication. Elle veut savoir où se trouvent ces fortunes. Pour le faire parler, elle ne le frappe pas : elle l’enferme dans une chambre de l’hôtel Métropole, son quartier général."
+    },
+    {
+     "quote": "On ne nous faisait rien : on nous plaçait seulement dans le néant absolu, car rien sur terre, on le sait, ne pèse sur l’âme humaine comme le néant.",
+     "cite": "Récit de M. B. (traduction de Culto)"
+    },
+    {
+     "p": "Une table, un lit, une chaise, une cuvette, une fenêtre sur un mur aveugle. Ni livre, ni crayon, ni montre. Le gardien ne dit pas un mot. Seuls les interrogatoires interrompent le silence. M. B. sent son esprit se défaire. Cet état dure quatre mois."
+    },
+    {
+     "h5": "Le livre volé"
+    },
+    {
+     "p": "Le 27 juillet, dans une antichambre, il aperçoit un livre qui gonfle la poche d’un manteau suspendu. Il l’attrape, le cache sous sa ceinture et le rapporte dans sa chambre, tremblant de joie à l’idée de lire Goethe ou Homère. C’est un recueil de cent cinquante parties de maîtres. Accablé d’abord, il s’y plonge faute de mieux. Il dessine un échiquier avec les carreaux de son drap et fabrique des pièces en mie de pain."
+    },
+    {
+     "p": "Il rejoue chaque partie, les apprend toutes par cœur, puis se passe de l’échiquier. Son esprit reprend vie. Mais quand il connaît le livre entier, il ne reste plus rien de neuf. Il décide alors de jouer contre lui-même."
+    },
+    {
+     "h5": "L’empoisonnement"
+    },
+    {
+     "p": "L’entreprise est logiquement absurde : comment surprendre celui qui connaît votre plan ? M. B. se partage en deux, un moi Blanc et un moi Noir, qui se haïssent et s’épient. Il arpente sa chambre, joue partie sur partie, attend avec fureur la réplique de son double, oublie de manger. La folie que l’isolement n’avait pas obtenue, le jeu la lui apporte. Un jour, en plein délire, il frappe la fenêtre et se blesse à la main."
+    },
+    {
+     "p": "Il se réveille à l’hôpital. Un médecin compatissant le certifie aliéné, ce qui lui évite de retourner en détention. On le libère à condition de quitter le pays. Le médecin le met en garde : qu’il ne touche plus jamais à un échiquier. Une seule question le hante : ce qu’il a fait dans sa cellule, était-ce vraiment jouer aux échecs ?"
+    },
+    {
+     "h5": "La revanche"
+    },
+    {
+     "p": "Il accepte une unique partie contre Czentovic, et elle sera la dernière. Il gagne, sous les yeux stupéfaits des passagers. Le champion, vexé, réclame aussitôt une revanche. Il a remarqué l’impatience de son adversaire et s’en sert : il prend plusieurs minutes pour chaque coup, même évident. L’attente [[exacerber|exacerbe]] les nerfs de M. B. Il marche de long en large, et le narrateur reconnaît avec effroi que ses pas ne couvrent que la longueur de sa cellule."
+    },
+    {
+     "p": "Soudain, il annonce un échec au roi donné par un fou qui n’est pas sur l’échiquier. Il joue depuis un moment une autre partie, dans sa tête. Le narrateur lui touche la main blessée et lui rappelle l’avertissement du médecin. M. B. revient à lui, s’excuse, abandonne, promet de ne plus jamais jouer. Il sort. Czentovic range ses pièces et remarque, avec condescendance, que son attaque n’était pas si mal conçue."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Le dernier texte d’un exilé"
+    },
+    {
+     "p": "Stefan Zweig, écrivain autrichien parmi les plus lus de l’entre-deux-guerres, écrit ce récit au Brésil, dans les derniers mois de sa vie. Juif, chassé d’Europe par le nazisme, il a perdu son pays, sa langue d’usage, ses lecteurs allemands. Il se suicide avec sa femme Lotte à Petrópolis en février 1942. Le texte paraît la même année à Buenos Aires, en allemand, chez l’éditeur Pigmalión. Le récit se lit comme une lettre d’adieu."
+    },
+    {
+     "h5": "Un récit dans le récit"
+    },
+    {
+     "p": "Zweig emboîte plusieurs voix. Le narrateur raconte Czentovic par ouï-dire, puis écoute M. B., dont le récit à la première personne occupe le centre. Le paquebot, espace clos, répond à la chambre de l’hôtel. Les deux enfermements se font écho. Le lecteur sait ce que les passagers ignorent quand M. B. s’assoit devant l’échiquier. Le suspense de la dernière partie ne porte pas sur le résultat, mais sur l’esprit de cet homme."
+    },
+    {
+     "h5": "Le vide comme instrument de pouvoir"
+    },
+    {
+     "p": "Le récit vaut surtout par sa description de la privation sensorielle, avant que le mot n’existe. Zweig comprend que le totalitarisme n’a pas seulement besoin de bourreaux. Il peut se contenter de priver un homme de temps, de mots et de visages. Sa victime n’est pas un héros, mais un homme de dossiers qui détient une information."
+    },
+    {
+     "h5": "La monomanie, thème de toute une œuvre"
+    },
+    {
+     "p": "Zweig a toujours été fasciné par les êtres possédés par une seule passion : le médecin d’<em>Amok</em>, le bouquiniste de <em>Mendel</em>. Ici, il en met deux face à face. L’intelligence de M. B., privée d’objets, se dévore elle-même. Celle de Czentovic, sans culture, reste une pure mécanique. La culture générale, chère à Zweig, est dans ce sens une forme d’hygiène mentale."
+    },
+    {
+     "h5": "Une allégorie à ne pas forcer"
+    },
+    {
+     "p": "On a souvent vu dans ce duel la défaite de la vieille Europe devant une barbarie froide. Le texte l’autorise sans la dicter. Czentovic n’est pas nazi : il est seulement indifférent. Mais sa victoire vient de la méthode qu’emploient les geôliers, l’attente et la pression sur les nerfs."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Le récit a été adapté à l’écran dès 1960, puis à nouveau en 2021 par Philipp Stölzl. Il touche à deux questions de notre temps : l’isolement carcéral et l’obsession. On y voit comment l’esprit, [[tributaire|tributaire]] de ce qu’on lui donne à penser, peut se fermer sur une seule activité. C’est aussi un portrait de la dignité humaine sous la contrainte."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Sur un paquebot entre New York et Buenos Aires, le champion du monde d’échecs, homme fruste et presque illettré, affronte un passager inconnu, Monsieur B. Cet avocat viennois a appris le jeu seul, dans la chambre d’hôtel où la Gestapo l’isolait. Il bat le champion, puis retombe au bord de la folie.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La torture sans un coup</b> : M. B. n’est pas battu, on le prive de tout. Le vide suffit à briser un esprit.",
+      "<b>Le remède devient poison</b> : le livre le sauve, puis le détruit. Son esprit, [[tributaire|tributaire]] d’un seul objet, se retourne contre lui.",
+      "<b>Deux monomanies</b> : une machine sans culture contre une culture sans défense.",
+      "<b>La force patiente l’emporte</b> : Czentovic gagne en exploitant les nerfs de son adversaire. On y lit souvent une image de l’Europe de 1942.",
+      "<b>Un testament</b> : écrit dans l’exil brésilien, peu avant le suicide de Zweig, ce récit d’une centaine de pages est son dernier texte de fiction achevé."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Czentovic</b> : orphelin d’un batelier du Danube, recueilli par un curé vers douze ans, champion du monde à vingt, grossier et cupide.",
+      "<b>La consultation</b> : McConnor, ingénieur écossais enrichi dans le pétrole, paie pour jouer. Lors de la revanche, un inconnu, M. B., dicte les coups et arrache la nulle.",
+      "<b>L’hôtel Métropole</b> : l’avocat qui gérait les biens de monastères et de la famille impériale est arrêté le soir de l’abdication de Schuschnigg. Quatre mois d’isolement total.",
+      "<b>Le livre volé</b> : le 27 juillet, il dérobe un recueil de 150 parties. Il les apprend par cœur, sur un drap à carreaux, avec des pièces de mie de pain.",
+      "<b>L’empoisonnement</b> : il joue contre lui-même, moi Blanc contre moi Noir, sombre dans le délire et se blesse. Un médecin le fait libérer et lui interdit les échecs.",
+      "<b>La revanche</b> : il bat le champion. Celui-ci ralentit alors à dessein, et l’attente [[exacerber|exacerbe]] ses nerfs. M. B. annonce un échec avec un fou absent de l’échiquier, se reprend, abandonne et part."
+     ]
+    },
+    {
+     "quote": "On ne nous faisait rien : on nous plaçait seulement dans le néant absolu, car rien sur terre, on le sait, ne pèse sur l’âme humaine comme le néant.",
+     "cite": "Récit de M. B. (traduction de Culto)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Dernier texte d’exil</b> : écrit au Brésil, publié en 1942 à Buenos Aires, en allemand. Zweig meurt à Petrópolis en février 1942.",
+      "<b>Récit emboîté</b> : le paquebot répond à la chambre d’hôtel ; le lecteur devient témoin, et le suspense porte sur l’esprit de M. B.",
+      "<b>Le vide, instrument de pouvoir</b> : une description de la privation sensorielle avant l’invention du terme.",
+      "<b>La monomanie</b>, thème d’<em>Amok</em> et de <em>Mendel</em> : la culture apparaît comme une hygiène mentale.",
+      "<b>Aujourd’hui</b> : adapté en 1960 et en 2021, le texte parle d’isolement et d’obsession."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "The Box",
+   "by": "Marc Levinson · 2006",
+   "min": 9,
+   "exMin": 3,
+   "src": "Marc Levinson, The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger (Princeton University Press, 2006 ; 2e éd. 2016) ; édition française Max Milo, The Box. Comment le conteneur a changé le monde. Synthèse SuperSummary (chiffres de l’ouvrage). Jean-Paul Rodrigue, The Geography of Transport Systems, 6e éd., 2024 (Ideal-X). Notice « Malcom McLean » de Wikipédia (en). Investing by the Books, 2017 (critique). Bernhofen, El-Sahli et Kneller (2013), cités par Levinson.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Une boîte en acier a fait la mondialisation. Marc Levinson raconte comment un transporteur routier américain, Malcom McLean, a lancé en 1956 un système qui a écrasé le coût du fret, vidé les vieux ports et permis de fabriquer un produit à l’autre bout du monde."
+      ],
+      [
+       "Le vrai coût était à quai",
+       "Avant le conteneur, la manutention pouvait absorber la moitié du prix d’un voyage. Charger un navire à la main coûtait 5,83 dollars la tonne ; sur l’Ideal-X, 15,8 cents. La division par 37 ne vient pas du navire, mais du port."
+      ],
+      [
+       "L’innovation est un système",
+       "McLean ne vend pas une boîte. Il repense le navire, la grue, le camion, le contrat de travail et le terminal. Le gain n’apparaît que lorsque tous les maillons changent ensemble."
+      ],
+      [
+       "La norme a été une guerre",
+       "Il faut douze ans, de 1958 à 1970, pour qu’une boîte circule librement de Kansas City à Kuala Lumpur. Sans standard, le conteneur serait resté une affaire privée."
+      ],
+      [
+       "La technique a fait des perdants",
+       "Manhattan perd 91 % de ses emplois de dockers entre 1963 et 1976. New York, qui traitait un tiers du commerce maritime américain de produits manufacturés, voit fuir ses usines."
+      ],
+      [
+       "Presque personne n’a prévu la suite",
+       "Les pionniers font faillite, et ce sont les nouveaux venus, Maersk et Evergreen, qui dominent. Selon Levinson, à peu près toutes les prévisions sur le conteneur se sont révélées fausses."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Le contexte"
+    },
+    {
+     "p": "Marc Levinson, économiste et historien, publie <em>The Box</em> en 2006 chez Princeton University Press, avant une seconde édition augmentée en 2016. Sa thèse tient en une phrase : une technologie banale a transformé l’économie plus que bien des inventions célèbres.",
+     "lead": 1
+    },
+    {
+     "h5": "Le monde d’avant"
+    },
+    {
+     "p": "Au début des années 1950, le transport maritime est lent, cher et artisanal. Chaque sac, chaque caisse, chaque baril est porté à la main par des équipes de dockers, recrutées chaque matin lors du <em>shape-up</em>. Un navire passe plus de temps à quai qu’en mer, et la casse et les vols sont fréquents. La manutention peut représenter la moitié du coût d’un voyage. Le commerce lointain reste [[tributaire|tributaire]] de ce goulet : pour beaucoup de produits, traverser l’océan coûte trop cher."
+    },
+    {
+     "h5": "Le pari de McLean"
+    },
+    {
+     "p": "Malcom McLean, né en 1913 en Caroline du Nord, a bâti une grande entreprise de camionnage. Il raisonne en transporteur, pas en armateur. Il quitte son entreprise en 1955 et rachète deux compagnies maritimes, avec 10 000 dollars de sa poche et beaucoup d’emprunts, dont 22 millions pour transformer les navires. L’ingénieur Keith Tantlinger conçoit le système. L’idée clé est de séparer la caisse du châssis, pour pouvoir l’empiler."
+    },
+    {
+     "p": "Le 26 avril 1956, l’Ideal-X, un ancien pétrolier T2 reconverti, quitte Port Newark pour Houston avec 58 boîtes de 35 pieds. Le chargement prend moins de huit heures. Il revient à 15,8 cents la tonne, contre 5,83 dollars pour le fret classique."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le coût de chargement divisé par 37",
+      "sub": "dollars par tonne, 1956",
+      "rows": [
+       [
+        "Fret classique, à la main",
+        5.83
+       ],
+       [
+        "Conteneur, sur l’Ideal-X",
+        0.158
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : Marc Levinson, The Box ; Jean-Paul Rodrigue, The Geography of Transport Systems."
+     }
+    },
+    {
+     "p": "Sur la côte ouest, Matson avance en parallèle, avec une méthode plus scientifique : simulations d’abord, puis, à partir de janvier 1959, une grue qui charge une caisse de 40 000 livres toutes les trois minutes, soit plus de 40 fois la productivité d’une équipe classique."
+    },
+    {
+     "h5": "La guerre des normes"
+    },
+    {
+     "p": "Chacun a ses dimensions, ses coins, ses verrous. Des comités américains puis internationaux se disputent à partir de 1958. McLean finit par céder ses brevets de pièces de coin en 1963, geste décisif. Une pièce révisée s’impose en 1967. Vers 1970, un conteneur peut passer du camion au train et au navire sans être ouvert. La norme crée un marché où la boîte devient une marchandise."
+    },
+    {
+     "h5": "Dockers et Vietnam"
+    },
+    {
+     "p": "Le conteneur supprime le travail des dockers, et ils le savent. Sur la côte ouest, Harry Bridges, patron de l’ILWU, signe en octobre 1960 un accord qui accepte l’automatisation contre des retraites et des revenus garantis. Sur la côte est, Thomas Gleason et l’ILA n’y arrivent qu’en 1965, après plusieurs grèves. Ces accords ont acheté la paix sociale, et ils expliquent encore le poids des syndicats portuaires américains."
+    },
+    {
+     "p": "Le vrai tournant est militaire. La guerre du Vietnam submerge un pays qui ne compte qu’un seul port en eau profonde. McLean décroche en 1967 un contrat de 70 millions de dollars et bâtit un terminal à Cam Ranh Bay. Sept de ses navires transportent autant que vingt navires classiques. Comme l’aller est payé par le Pentagone, le retour par Yokohama devient presque entièrement bénéficiaire : le Japon découvre le conteneur."
+    },
+    {
+     "h5": "Les ports gagnants et perdants"
+    },
+    {
+     "stats": [
+      [
+       "× 37",
+       "coût de chargement divisé en 1956"
+      ],
+      [
+       "58",
+       "conteneurs à bord de l’Ideal-X, contre 20 000 EVP sur les géants de 2015"
+      ],
+      [
+       "− 91 %",
+       "emplois de dockers à Manhattan, 1963-1976"
+      ],
+      [
+       "1,2 Md$",
+       "dettes de McLean Industries en 1986, record américain d’alors"
+      ]
+     ]
+    },
+    {
+     "p": "Le conteneur exige de la place, des routes et des grues. Les quais de Manhattan n’en ont pas. New York, qui faisait vivre peut-être un demi-million de personnes autour de son port, s’effondre au profit de Port Elizabeth, dans le New Jersey, ouvert en 1965. Entre 1967 et 1976, la ville perd un quart de ses usines et un tiers de ses emplois industriels. Londres cède devant Felixstowe, à la faveur d’un boycott syndical de 27 mois à Tilbury, et Rotterdam capte le trafic perdu. Le tonnage d’Oakland quadruple entre 1965 et 1968. Singapour ouvre son terminal en 1972."
+    },
+    {
+     "h5": "Le cycle et la faillite"
+    },
+    {
+     "p": "Le secteur apprend vite les excès. McLean vend Sea-Land à R.J. Reynolds pour 530 millions de dollars en 1969. De 1968 à 1975, 406 porte-conteneurs entrent en service, d’où la surcapacité et les guerres de prix. Le choc pétrolier de 1973 [[exacerber|exacerbe]] la crise : chaque navire rapide SL-7 brûle 500 tonnes de fuel par jour. McLean rachète United States Lines et commande de grands navires lents et sobres, juste avant l’effondrement du pétrole. En novembre 1986, McLean Industries dépose le bilan avec 1,2 milliard de dollars de dettes, le record américain d’alors."
+    },
+    {
+     "h5": "Une nouvelle géographie de l’usine"
+    },
+    {
+     "p": "Le coût du fret devient négligeable pour la plupart des produits. Avec la déréglementation américaine de 1980, le premier train à double niveau en 1983 et le Shipping Act de 1984, les chargeurs prennent le pouvoir. Le juste-à-temps, né chez Toyota, s’étend aux chaînes mondiales : en 2014, la baisse des stocks fait économiser environ 100 milliards de dollars par an aux entreprises américaines. Sur les 20 plus grands ports à conteneurs de 2014, 11 ne voyaient presque aucune boîte en 1990, et sept des dix premiers sont chinois."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre est long, et certains lecteurs lui reprochent des répétitions. Son regard reste centré sur les États-Unis, alors que l’Asie est le grand gagnant. Mesurer l’effet propre du conteneur reste difficile, car il arrive en même temps que la baisse des droits de douane. Une étude de Bernhofen, El-Sahli et Kneller (2013) estime toutefois qu’il a compté plus de deux fois plus que les efforts des gouvernements pour lever les barrières entre pays riches."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "<em>The Box</em> est devenu un classique sur la supply chain. Sa leçon est d’actualité : la chaîne mondiale, efficace parce qu’elle est standardisée, reste [[tributaire|tributaire]] de quelques points de passage. Quand 250 gardiens peuvent menacer le premier port américain, on retrouve le rapport de force que Levinson décrit. Maersk, qui a racheté Sea-Land en 1999, et la vague actuelle de commandes de navires rejouent aussi son cycle : capacité excédentaire, guerre des prix, concentration."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Une boîte en acier a fait la mondialisation. Marc Levinson raconte comment le transporteur routier Malcom McLean a lancé en 1956 un système qui a écrasé le coût du fret, vidé les vieux ports et permis de produire à l’autre bout du monde.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le coût était à quai</b> : la manutention pouvait absorber la moitié du prix d’un voyage. Le commerce lointain en était [[tributaire|tributaire]]. De 5,83 $ à 15,8 cents la tonne.",
+      "<b>Un système, pas une boîte</b> : McLean repense navire, grue, camion, contrat de travail et terminal.",
+      "<b>L’Ideal-X</b> : 26 avril 1956, de Newark à Houston, 58 boîtes de 35 pieds. Prêt de 22 M$ pour reconvertir les navires. McLean, transporteur routier, raisonne en flux, pas en armateur.",
+      "<b>Matson</b> : dès janvier 1959, une grue charge une caisse de 40 000 livres toutes les trois minutes, plus de 40 fois la productivité d’une équipe classique.",
+      "<b>La norme</b> : douze ans de bataille (1958-1970) ; McLean cède ses brevets de pièces de coin en 1963.",
+      "<b>Les dockers</b> : accords ILWU (1960) et ILA (1965), automatisation contre revenus garantis.",
+      "<b>Le Vietnam</b> : contrat de 70 M$ en 1967, sept navires valent vingt navires classiques, et le Japon découvre le conteneur au retour.",
+      "<b>Le cycle</b> : Sea-Land vendue 530 M$ en 1969, puis 406 navires de 1968 à 1975. Le choc de 1973 [[exacerber|exacerbe]] la surcapacité.",
+      "<b>La faillite</b> : McLean rachète United States Lines et parie sur des navires lents et sobres, juste avant l’effondrement du pétrole. Dépôt de bilan en novembre 1986.",
+      "<b>La suite imprévue</b> : Maersk et Evergreen, nouveaux venus, dominent. Déréglementation de 1980, train à double niveau en 1983 : les chargeurs prennent le pouvoir. En 2014, 11 des 20 premiers ports voyaient très peu de boîtes en 1990, et sept des dix premiers sont chinois.",
+      "<b>Les limites</b> : livre long, centré sur les États-Unis. Bernhofen et al. (2013) jugent le conteneur plus de deux fois plus important que la baisse des barrières entre pays riches."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "× 37",
+       "coût de chargement divisé en 1956"
+      ],
+      [
+       "58",
+       "conteneurs à bord de l’Ideal-X, contre 20 000 EVP sur les géants de 2015"
+      ],
+      [
+       "− 91 %",
+       "emplois de dockers à Manhattan, 1963-1976"
+      ],
+      [
+       "1,2 Md$",
+       "dettes de McLean Industries en 1986, record américain d’alors"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le coût de chargement divisé par 37",
+      "sub": "dollars par tonne, 1956",
+      "rows": [
+       [
+        "Fret classique, à la main",
+        5.83
+       ],
+       [
+        "Conteneur, sur l’Ideal-X",
+        0.158
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : Marc Levinson, The Box ; Jean-Paul Rodrigue, The Geography of Transport Systems."
+     }
+    },
+    {
+     "ul": [
+      "<b>Port perdu, port gagné</b> : New York perd un quart de ses usines en 1967-1976 ; Port Elizabeth, Felixstowe, Rotterdam, Oakland et Singapour montent.",
+      "<b>Le stock</b> : environ 100 Md$ par an économisés par les entreprises américaines en 2014.",
+      "<b>La postérité</b> : une chaîne standardisée reste [[tributaire|tributaire]] de quelques points de passage. Maersk, qui rachète Sea-Land en 1999, et la vague actuelle de commandes rejouent le même cycle."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Le 10 ans américain : le prix mondial de l’argent",
+   "by": "Analyse",
+   "fig": "5,35 %",
+   "figl": "pic du taux américain à 10 ans",
+   "min": 3,
+   "exMin": 2,
+   "src": "Forbes, 7 octobre 2026 (pic à plus de 5,35 %, 30 ans à 5,70 %, rendement réel, CBO, Goldman Sachs, Japon). 24/7 Wall St, 29 octobre 2026 (clôtures et crédit immobilier). Trésor américain via Reuters/Kitco, 2 novembre 2026 (besoins d’emprunt). Stock Preachers via PR Newswire, novembre 2026 (taux du 30 octobre, adjudications, rachats). Saxo, 2 novembre 2026 (taux français). Culto, 29 octobre 2026 (Fed). Données arrêtées au 2 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le taux de l’emprunt d’État américain à 10 ans sert de référence à presque toutes les dettes du monde. Le 7 octobre, il a dépassé 5,35 %, son plus haut niveau depuis 2002, avant de revenir à 4,94 % le 30 octobre. Pourtant, la Fed n’a relevé son taux qu’une seule fois cette année, à 3,75-4 %. Mercredi 4 novembre, le Trésor américain détaille ses prochains emprunts. Pourquoi les taux longs vivent-ils leur propre vie ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "5,35 %",
+       "pic du taux à 10 ans, le 7 octobre, plus haut depuis 2002"
+      ],
+      [
+       "7,35 %",
+       "crédit immobilier américain à 30 ans, fin octobre"
+      ],
+      [
+       "1 900 Md$",
+       "déficit fédéral 2026, soit 5,8 % du PIB"
+      ],
+      [
+       "> 1 000 Md$",
+       "intérêts nets de la dette sur l’année"
+      ]
+     ]
+    },
+    {
+     "h": "Un taux long, deux ingrédients"
+    },
+    {
+     "p": "Un taux à 10 ans additionne deux choses : les taux courts que l’on anticipe sur dix ans, et la prime de terme, le supplément réclamé pour immobiliser son argent aussi longtemps. Cette prime rémunère l’incertitude sur l’inflation et sur l’offre de dette. Les deux éléments ont monté en 2026. Le taux réel, net d’inflation, est passé de 1,90 % en janvier à 2,94 % début octobre, puis à 2,67 % fin octobre. Les investisseurs demandent donc plus qu’une simple protection contre la hausse des prix."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le 10 ans américain a reflué sans se calmer",
+      "sub": "taux de l’emprunt d’État à 10 ans, octobre 2026, en %",
+      "labels": [
+       "1er oct.",
+       "7 oct.",
+       "21 oct.",
+       "28 oct.",
+       "30 oct."
+      ],
+      "series": [
+       {
+        "name": "10 ans",
+        "values": [
+         5.24,
+         5.35,
+         5.13,
+         5.05,
+         4.94
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Pic du 7 octobre : un peu plus de 5,35 %. Le taux directeur de la Fed plafonne à 4 %. Sources : Trésor américain (1er et 30 oct.), Forbes (7 oct.), 24/7 Wall St (21 et 28 oct.)."
+     }
+    },
+    {
+     "h": "Trois forces à l’œuvre"
+    },
+    {
+     "p": "La première est l’inflation : le pétrole cher, lié à la guerre avec l’Iran, a porté les anticipations des ménages à 4,6 % à un an en septembre. La deuxième est l’offre. Le déficit atteint 5,8 % du PIB, et le Trésor prévoit d’emprunter 618 milliards de dollars ce trimestre, puis 800 milliards au suivant. L’intelligence artificielle [[exacerber|exacerbe]] la pression : selon Goldman Sachs, elle avait déjà suscité 489 milliards d’émissions obligataires début octobre, souvent à long terme. La troisième vient de l’étranger : avec un 10 ans japonais à 3,11 % début octobre et un français à 4,97 % lundi, le Trésor américain n’est plus le seul placement rémunérateur."
+    },
+    {
+     "h": "Ce qu’il faut regarder mercredi"
+    },
+    {
+     "p": "En août, le Trésor promettait de garder ses adjudications stables « pendant au moins plusieurs trimestres » : 39 milliards de dollars pour le 10 ans en octobre, 22 milliards pour le 30 ans. Il a aussi doublé ses rachats de titres longs, à 4 milliards au moins par opération, sans empêcher la hausse d’octobre. Un changement de ton pèserait sur tout le marché."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "L’État américain reste [[tributaire|tributaire]] d’investisseurs qui fixent eux-mêmes leur prix, et cela déborde largement Washington. Le crédit immobilier américain est à 7,35 %, et la dette française subit le même mouvement. Pour une entreprise, c’est le coût de tout ce qui dure, usines, entrepôts et stocks. Une banque centrale tient le début de la courbe ; le reste appartient aux marchés."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : le 10 ans américain dépasse 5,35 % le 7 octobre, plus haut depuis 2002, puis revient à 4,94 % le 30 octobre, malgré une Fed à 3,75-4 %.",
+      "<b>Le mécanisme</b> : taux courts anticipés + prime de terme. Taux réel : 1,90 % en janvier, 2,94 % début octobre, 2,67 % fin octobre.",
+      "<b>L’inflation</b> : le pétrole, lié à la guerre avec l’Iran, porte les anticipations des ménages à 4,6 % à un an.",
+      "<b>L’offre</b> : déficit de 5,8 % du PIB, emprunts de 618 Md$ ce trimestre et 800 Md$ au suivant. L’IA [[exacerber|exacerbe]] la pression avec 489 Md$ d’émissions obligataires.",
+      "<b>L’étranger</b> : Japon à 3,11 % début octobre, France à 4,97 %. Le Trésor n’est plus le seul placement rémunérateur.",
+      "<b>Mercredi 4 novembre</b> : le Trésor détaille ses emprunts. Adjudications d’octobre : 39 Md$ à 10 ans, 22 Md$ à 30 ans ; rachats doublés à au moins 4 Md$.",
+      "<b>À retenir</b> : Washington reste [[tributaire|tributaire]] des investisseurs. Crédit immobilier à 7,35 %. C’est le coût des usines, des entrepôts et des stocks ; une banque centrale ne tient que le début de la courbe."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "5,35 %",
+       "pic du taux à 10 ans, le 7 octobre, plus haut depuis 2002"
+      ],
+      [
+       "7,35 %",
+       "crédit immobilier américain à 30 ans, fin octobre"
+      ],
+      [
+       "1 900 Md$",
+       "déficit fédéral 2026, soit 5,8 % du PIB"
+      ],
+      [
+       "> 1 000 Md$",
+       "intérêts nets de la dette sur l’année"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le 10 ans américain a reflué sans se calmer",
+      "sub": "taux de l’emprunt d’État à 10 ans, octobre 2026, en %",
+      "labels": [
+       "1er oct.",
+       "7 oct.",
+       "21 oct.",
+       "28 oct.",
+       "30 oct."
+      ],
+      "series": [
+       {
+        "name": "10 ans",
+        "values": [
+         5.24,
+         5.35,
+         5.13,
+         5.05,
+         4.94
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Pic du 7 octobre : un peu plus de 5,35 %. Le taux directeur de la Fed plafonne à 4 %. Sources : Trésor américain (1er et 30 oct.), Forbes (7 oct.), 24/7 Wall St (21 et 28 oct.)."
+     }
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Serbie : les étudiants ont gagné, Bruxelles attend",
+   "by": "Analyse",
+   "fig": "140/250",
+   "figl": "sièges pour la Liste étudiante",
+   "min": 3,
+   "exMin": 2,
+   "src": "Gouvernement de Serbie (RIK), 26 octobre 2026 (voix, participation). Notice « Student List » de Wikipédia (en), résultats préliminaires à 8 187 bureaux sur 8 392. RTÉ, 1er novembre 2026 (calendrier, candidats, Kosovo). Al Jazeera, 25 octobre 2026 (Novi Sad, participation, démission de Vučić). ISS, 2026 (sondage CRTA, adhésion, Chine). Euronews, 29 octobre 2026 (Marta Kos, Russie, présidentielle). Reuters via Serbian Monitor, 2026 (Gazprom, NIS, économie). Bytes Europe, 2026 (Orbán). Données arrêtées au 1er novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 25 octobre, une liste née d’un mouvement étudiant sans chef a battu Aleksandar Vučić, qui dominait la Serbie depuis plus de dix ans. Avec environ 52,7 % des voix et 140 sièges sur 250, elle dispose de la majorité absolue. Vučić a reconnu sa défaite le soir même. L’Union européenne s’est réjouie. Mais changer de pouvoir à Belgrade n’est pas changer de diplomatie.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "140 / 250",
+       "sièges de la Liste étudiante, résultats préliminaires"
+      ],
+      [
+       "52,7 %",
+       "des voix, contre 39,2 % à la liste Vučić"
+      ],
+      [
+       "≈ 69 %",
+       "participation, proche du niveau de septembre 2000"
+      ],
+      [
+       "2,2 Md m³",
+       "gaz russe livré chaque année, sous le prix du marché"
+      ]
+     ]
+    },
+    {
+     "h": "D’un auvent à une défaite"
+    },
+    {
+     "p": "Tout part du 1er novembre 2024 : l’auvent de la gare de Novi Sad s’effondre et tue seize personnes. Les étudiants exigent les documents du chantier, puis dénoncent la corruption et le contrôle des médias. Vučić dissout le Parlement en septembre et quitte la présidence pour briguer le poste de Premier ministre. Le pari échoue, avec une participation proche de celle de 2000, quand Slobodan Milošević est tombé. Le parti de Vučić, au pouvoir depuis 2012, garde 104 sièges et un solide réseau dans l’administration."
+    },
+    {
+     "h": "Un programme d’abord intérieur"
+    },
+    {
+     "p": "Les nouveaux élus ont 30 jours, extensibles à 90, pour former un gouvernement après la proclamation officielle des résultats. Il n’y a pas de chef désigné. Le cardiologue Ilija Srdanović, l’ancien gouverneur de la banque centrale Dejan Šoškić et l’ex-basketteur Dejan Bodiroga sont cités. Les priorités sont la justice, la police et les médias publics. Une présidentielle est attendue avant la fin de l’année."
+    },
+    {
+     "h": "Continuité à l’extérieur"
+    },
+    {
+     "p": "L’adhésion est en panne : aucun groupe de chapitres n’a été ouvert depuis décembre 2021, et Belgrade ne suit qu’environ 60 % des déclarations de politique étrangère de l’UE. Or la Liste refuse les sanctions contre Moscou, garde la neutralité militaire et tient le Kosovo pour une partie de la Serbie. La commissaire Marta Kos prévient que, sans alignement, l’avancée sera très difficile. Le pays reste [[tributaire|tributaire]] de Gazprom et de NIS, qui exploite la seule raffinerie et importe son brut grâce à des dérogations américaines tant que la part russe n’est pas vendue au hongrois MOL. La Chine, elle, a fourni 61 % des grandes armes importées en 2021-2025."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Électeurs de la Liste étudiante : d’abord neutres",
+      "sub": "meilleure voie pour défendre l’intérêt national, sondage CRTA, juillet 2026, en %",
+      "rows": [
+       [
+        "Neutralité",
+        49
+       ],
+       [
+        "Alignement sur l’UE",
+        42
+       ],
+       [
+        "Alliance Russie-Chine",
+        9
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : CRTA, cité par l’Institut d’études de sécurité de l’UE (ISS), 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Après la défaite de Viktor Orbán en Hongrie, c’est un autre pilier de l’Europe illibérale qui tombe. Mais ce vote sanctionnait la corruption, pas la Russie. L’attente européenne peut même [[exacerber|exacerber]] les déceptions. Le vrai test sera l’état de droit, où étudiants et Bruxelles sont d’accord. Les candidats ont aussi évoqué l’arrêt des ventes d’armes vers les zones de conflit, un point à suivre pour l’Ukraine."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le séisme</b> : le 25 octobre, la Liste étudiante obtient 52,7 % et 140 sièges sur 250 (résultats préliminaires), contre 39,2 % et 104 sièges à Vučić.",
+      "<b>L’origine</b> : l’auvent de Novi Sad, seize morts le 1er novembre 2024, puis deux ans de protestations contre la corruption. Participation d’environ 69 %, proche de celle de 2000.",
+      "<b>La suite</b> : 30 jours, extensibles à 90, pour former un gouvernement ; Srdanović, Šoškić et Bodiroga sont cités. Présidentielle attendue d’ici fin 2026.",
+      "<b>L’UE</b> : aucun groupe de chapitres ouvert depuis 2021, alignement d’environ 60 %. Marta Kos prévient que ce sera très difficile.",
+      "<b>La continuité</b> : pas de sanctions contre Moscou, neutralité militaire, Kosovo vu comme une partie de la Serbie.",
+      "<b>L’énergie</b> : Belgrade reste [[tributaire|tributaire]] de Gazprom (2,2 Md m³) et de NIS, en attente de sa vente à MOL. La Chine a fourni 61 % des grandes armes importées.",
+      "<b>À retenir</b> : on a voté contre la corruption, pas contre la Russie. Trop d’attente européenne peut [[exacerber|exacerber]] les déceptions. L’arrêt annoncé des ventes d’armes aux zones de conflit reste à suivre."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "140 / 250",
+       "sièges de la Liste étudiante, résultats préliminaires"
+      ],
+      [
+       "52,7 %",
+       "des voix, contre 39,2 % à la liste Vučić"
+      ],
+      [
+       "≈ 69 %",
+       "participation, proche du niveau de septembre 2000"
+      ],
+      [
+       "2,2 Md m³",
+       "gaz russe livré chaque année, sous le prix du marché"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Électeurs de la Liste étudiante : d’abord neutres",
+      "sub": "meilleure voie pour défendre l’intérêt national, sondage CRTA, juillet 2026, en %",
+      "rows": [
+       [
+        "Neutralité",
+        49
+       ],
+       [
+        "Alignement sur l’UE",
+        42
+       ],
+       [
+        "Alliance Russie-Chine",
+        9
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : CRTA, cité par l’Institut d’études de sécurité de l’UE (ISS), 2026."
+     }
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "San Pedro : 250 gardiens et le premier port américain",
+   "by": "Analyse",
+   "fig": "85 %",
+   "figl": "du fret de Long Beach exposé",
+   "min": 3,
+   "exMin": 2,
+   "src": "gCaptain, 27 octobre 2026 ; FreightWaves, 2 novembre 2026 ; Bloomberg via SupplyChainBrain, 2 novembre 2026 ; Reuters via WMBD, 30 octobre 2026 ; The Maritime Executive, octobre 2026 (échéance, effectifs, rôle des gardiens, parts de fret). Freightos via AJOT, 28 octobre 2026 (taux de fret). Intelligent Audit, 2 novembre 2026 (séjour ferroviaire). Notice « 2012 Ports of Los Angeles and Long Beach strike » de Wikipédia (en). Données arrêtées au 2 novembre 2026 ; aucune grève n’était engagée à cette date.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Mercredi 4 novembre à 17 heures, heure du Pacifique, soit jeudi 2 heures à Paris, expire le dernier délai de négociation entre l’employeur des ports de Los Angeles et de Long Beach et 250 gardiens syndiqués. Ils ne représentent que 2 % de la main-d’œuvre ILWU sur place. Mais les terminaux où ils travaillent traitent environ 85 % du fret de Long Beach et 33 % de celui de Los Angeles. Une grève n’est pas certaine : elle a déjà été repoussée une fois.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "≈ 250",
+       "gardiens du syndicat ILWU Local 26"
+      ],
+      [
+       "≈ 2 %",
+       "de la main-d’œuvre ILWU des deux ports"
+      ],
+      [
+       "2,04 M EVP",
+       "record mensuel combiné, en septembre"
+      ],
+      [
+       "≈ 1/3",
+       "des conteneurs maritimes américains"
+      ]
+     ]
+    },
+    {
+     "h": "Le levier du piquet de grève"
+    },
+    {
+     "p": "Les gardiens contrôlent les entrées de camions et d’employés, surveillent les terminaux et suivent le fret à quai. Leur force ne vient pas de leur nombre. Leur contrat, expiré en juillet 2025, est distinct de l’accord des dockers, valable jusqu’en 2028, qui couvre environ 22 000 personnes dans 29 ports. Mais les autres membres de l’ILWU pourraient refuser de franchir leurs piquets, ce qui paralyserait navires, parcs et portes. Le précédent existe. Fin 2012, environ 70 employés de bureau en grève, soutenus par quelque 10 000 dockers, ont fermé plus de la moitié des terminaux pendant huit jours. Dix-sept navires ont été déroutés."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Peu de grévistes, beaucoup de fret",
+      "sub": "en %, ports de Los Angeles et de Long Beach",
+      "rows": [
+       [
+        "Fret de Long Beach exposé",
+        85
+       ],
+       [
+        "Fret de Los Angeles exposé",
+        33
+       ],
+       [
+        "Part des gardiens dans la main-d’œuvre ILWU",
+        2
+       ]
+      ],
+      "suffix": " %",
+      "note": "Fret traité par les terminaux où travaillent les gardiens. Source : Pacific Maritime Association, via gCaptain et FreightWaves."
+     }
+    },
+    {
+     "h": "Un dialogue opaque"
+    },
+    {
+     "p": "L’employeur, la Pacific Maritime Association, affirme que les gardiens à temps plein gagnent en moyenne plus de 170 000 dollars par an, sans détailler ce chiffre, et dit proposer des hausses de salaires et de pensions. Le syndicat Local 26 n’a pas rendu publiques ses demandes. Le service fédéral de médiation assiste les discussions. Le périmètre lui-même est discuté : six terminaux à conteneurs pour l’employeur, huit sites pour le syndicat."
+    },
+    {
+     "h": "Le pire moment pour le réseau"
+    },
+    {
+     "p": "L’échéance tombe mal. Les deux ports ont traité un record de 2,04 millions d’EVP en septembre, et le complexe voit passer environ un tiers des conteneurs maritimes américains. Le rail est déjà saturé : les conteneurs ont attendu leur train 7,19 jours en moyenne en septembre. Cette congestion [[exacerber|exacerbe]] tout arrêt, même bref. Les taux de fret montent : 8 368 dollars le conteneur de 40 pieds d’Asie vers la côte ouest, 10 565 vers la côte est, au plus haut de l’année."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une chaîne logistique est [[tributaire|tributaire]] de son maillon le moins visible. Le risque ne se mesure pas au nombre de personnes, mais à leur place dans le flux. Pour un chargeur, il faut distinguer les importateurs de fin d’année, dont les marchandises sont en mer, et ceux qui peuvent encore basculer sur d’autres ports. Le pic recule d’ailleurs : la NRF attend 2 millions d’EVP en novembre sur les grands ports américains, contre 2,25 millions en octobre."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>L’échéance</b> : mercredi 4 novembre, 17 heures à Los Angeles (jeudi 2 heures à Paris). Grève possible, mais pas certaine.",
+      "<b>Le paradoxe</b> : environ 250 gardiens, 2 % de la main-d’œuvre ILWU, mais des terminaux qui traitent 85 % du fret de Long Beach et 33 % de celui de Los Angeles.",
+      "<b>Le levier</b> : contrat expiré en juillet 2025. Les dockers, dont l’accord court jusqu’en 2028, pourraient refuser de franchir les piquets.",
+      "<b>Le précédent</b> : en 2012, environ 70 employés et 10 000 dockers solidaires ferment plus de la moitié des terminaux pendant huit jours ; 17 navires déroutés.",
+      "<b>Le désaccord</b> : l’employeur parle de plus de 170 000 $ par an ; le syndicat ne détaille pas ses demandes.",
+      "<b>Le contexte</b> : record de 2,04 M EVP en septembre, train attendu 7,19 jours. La congestion [[exacerber|exacerbe]] tout arrêt. Fret à 8 368 $ vers la côte ouest, 10 565 $ vers la côte est.",
+      "<b>À retenir</b> : une chaîne est [[tributaire|tributaire]] de son maillon le moins visible. Le pic recule : 2 M EVP attendus en novembre, contre 2,25 M en octobre."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 250",
+       "gardiens du syndicat ILWU Local 26"
+      ],
+      [
+       "≈ 2 %",
+       "de la main-d’œuvre ILWU des deux ports"
+      ],
+      [
+       "2,04 M EVP",
+       "record mensuel combiné, en septembre"
+      ],
+      [
+       "≈ 1/3",
+       "des conteneurs maritimes américains"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Peu de grévistes, beaucoup de fret",
+      "sub": "en %, ports de Los Angeles et de Long Beach",
+      "rows": [
+       [
+        "Fret de Long Beach exposé",
+        85
+       ],
+       [
+        "Fret de Los Angeles exposé",
+        33
+       ],
+       [
+        "Part des gardiens dans la main-d’œuvre ILWU",
+        2
+       ]
+      ],
+      "suffix": " %",
+      "note": "Fret traité par les terminaux où travaillent les gardiens. Source : Pacific Maritime Association, via gCaptain et FreightWaves."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "AstraZeneca : le cancer paie, la suite se joue en 2027",
+   "by": "Analyse",
+   "fig": "80 Md$",
+   "figl": "objectif de ventes en 2030",
+   "min": 3,
+   "exMin": 2,
+   "src": "AstraZeneca, communiqué 9M et T3 2026, 30 octobre 2026 (chiffres, portefeuille, prévisions). TradingKey, 30 octobre 2026 (Enhertu, Imfinzi, Farxiga, plan d’économies, dividende). Investing.com, transcription de la conférence, 30 octobre 2026 (consensus, 80 Md$, Chine, prix américains, marge). Saxo, 2 novembre 2026 (cours du 30 octobre). Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 30 octobre, alors que le Nasdaq 100 vivait sa pire séance depuis juin, l’action AstraZeneca a gagné 7 %. Le laboratoire anglo-suédois a publié un chiffre d’affaires trimestriel de 16,2 milliards de dollars, en hausse de 7 % à taux constants, et un bénéfice par action ajusté de 2,79 dollars, au-dessus des 2,59 attendus. Il a confirmé ses prévisions pour 2026. Mais le vrai sujet est ailleurs : le groupe peut-il tenir son objectif de 80 milliards de dollars de ventes en 2030 ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "16,2 Md$",
+       "chiffre d’affaires du trimestre, + 7 % à taux constants"
+      ],
+      [
+       "2,79 $",
+       "bénéfice par action ajusté, + 19 %, 2,59 $ attendus"
+      ],
+      [
+       "47 %",
+       "part de l’oncologie dans les ventes sur neuf mois"
+      ],
+      [
+       "+ 7 %",
+       "action le jour des résultats, le 30 octobre"
+      ]
+     ]
+    },
+    {
+     "h": "Une croissance qui repose sur le cancer"
+    },
+    {
+     "p": "Sur neuf mois, l’oncologie pèse 21,9 milliards de dollars, 47 % du total, en hausse de 16 %. Enhertu progresse de 35 % sur le trimestre, à 969 millions, et Imfinzi de 26 %, à environ 2 milliards. Les maladies rares gagnent 11 %, le respiratoire 10 %. À l’inverse, le pôle cardio-métabolique recule de 14 % et Farxiga, ancien pilier, chute de 25 % au trimestre. Le groupe devient donc plus [[tributaire|tributaire]] d’une seule famille de médicaments. La recette des partenariats aide : les revenus d’alliance bondissent de 36 %, à 1,1 milliard, alors que les ventes de produits ne montent que de 5 %."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’oncologie porte le groupe",
+      "sub": "chiffre d’affaires sur neuf mois 2026, en milliards de dollars",
+      "rows": [
+       [
+        "Oncologie",
+        21.9
+       ],
+       [
+        "Cardio, rein, métabolisme",
+        8.7
+       ],
+       [
+        "Maladies rares",
+        7.5
+       ],
+       [
+        "Respiratoire et immunologie",
+        7.3
+       ],
+       [
+        "Maladies infectieuses",
+        0.7
+       ],
+       [
+        "Autres médicaments",
+        0.7
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : AstraZeneca, résultats à neuf mois 2026."
+     }
+    },
+    {
+     "h": "L’usine à médicaments"
+    },
+    {
+     "p": "Dans la pharmacie, un médicament rentable finit par perdre sa protection. Il faut donc remplir sans cesse le portefeuille. AstraZeneca compte 180 projets, dont 20 nouvelles molécules en phase avancée, et 14 nouveaux médicaments livrés sur les 20 promis d’ici 2030. Ses résultats d’essais attendus en 2027 représenteraient plus de 20 milliards de dollars de ventes annuelles potentielles au pic. Pascal Soriot, le directeur général, n’a pourtant pas fixé d’objectif au-delà de 2030 : il attend ces résultats."
+    },
+    {
+     "h": "Payer la recherche, rassurer sur les prix"
+    },
+    {
+     "p": "Le groupe lance un plan d’économies, « Reshaping for Sustainable Growth », qui doit dégager environ 1,5 milliard de dollars par an d’ici fin 2029, pour un coût ponctuel de 2 milliards au plus. L’essentiel sera réinvesti dans la recherche. Les prix sont l’autre front. Aux États-Unis, la clause de la nation la plus favorisée, qui aligne certains prix sur ceux de pays moins chers, est intégrée aux prévisions. En Chine, les achats groupés pèsent sur Farxiga, et la concurrence locale, surtout en cancérologie, [[exacerber|exacerbe]] la pression, même si le pays progresse de 13 % hors de cet effet."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "AstraZeneca a montré qu’une valeur défensive peut monter quand la tech chute. Ses prochains paris sont connus : la marge brute du second semestre, annoncée plus faible, puis les essais de 2027. La pharmacie est une industrie de portefeuille : la valeur d’aujourd’hui se juge à ce qui sortira dans cinq ans. Le dividende annuel prévu à 3,30 dollars par action récompense cette patience."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le trimestre</b> : 16,2 Md$, + 7 % à taux constants ; 2,79 $ par action ajustés contre 2,59 $ attendus. Action + 7 % le 30 octobre, jour de chute du Nasdaq.",
+      "<b>L’objectif</b> : 80 Md$ de ventes en 2030, confirmé. Prévisions 2026 maintenues.",
+      "<b>Le moteur</b> : oncologie à 21,9 Md$ sur neuf mois, 47 % du total, + 16 %. Enhertu + 35 %, Imfinzi + 26 %. Un groupe plus [[tributaire|tributaire]] d’une seule famille.",
+      "<b>Les faiblesses</b> : cardio-métabolique − 14 % sur neuf mois, Farxiga − 25 % au trimestre.",
+      "<b>Le portefeuille</b> : 180 projets, 14 médicaments sur 20 promis, plus de 20 Md$ de potentiel au pic pour les résultats de 2027.",
+      "<b>Les économies</b> : 1,5 Md$ par an d’ici fin 2029, pour un coût de 2 Md$ au plus, surtout réinvestis.",
+      "<b>Les prix</b> : pression américaine (nation la plus favorisée) ; en Chine, la concurrence [[exacerber|exacerbe]] la pression, malgré + 13 % hors achats groupés.",
+      "<b>À retenir</b> : marge brute plus faible au second semestre, dividende annuel de 3,30 $. En pharmacie, la valeur se juge à ce qui sortira dans cinq ans."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "16,2 Md$",
+       "chiffre d’affaires du trimestre, + 7 % à taux constants"
+      ],
+      [
+       "2,79 $",
+       "bénéfice par action ajusté, + 19 %, 2,59 $ attendus"
+      ],
+      [
+       "47 %",
+       "part de l’oncologie dans les ventes sur neuf mois"
+      ],
+      [
+       "+ 7 %",
+       "action le jour des résultats, le 30 octobre"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’oncologie porte le groupe",
+      "sub": "chiffre d’affaires sur neuf mois 2026, en milliards de dollars",
+      "rows": [
+       [
+        "Oncologie",
+        21.9
+       ],
+       [
+        "Cardio, rein, métabolisme",
+        8.7
+       ],
+       [
+        "Maladies rares",
+        7.5
+       ],
+       [
+        "Respiratoire et immunologie",
+        7.3
+       ],
+       [
+        "Maladies infectieuses",
+        0.7
+       ],
+       [
+        "Autres médicaments",
+        0.7
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : AstraZeneca, résultats à neuf mois 2026."
+     }
+    }
+   ]
+  }
+ ]
+}
