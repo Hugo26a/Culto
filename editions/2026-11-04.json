@@ -1,0 +1,1032 @@
+{
+ "date": "2026-11-04",
+ "label": "Mercredi 4 novembre 2026",
+ "n": 18,
+ "example": false,
+ "week": {
+  "start": "2026-11-02",
+  "label": "Semaine du 2 novembre",
+  "day": 3,
+  "words": [
+   {
+    "key": "tributaire",
+    "w": "Tributaire",
+    "ph": "[tʁi.by.tɛʁ] · adjectif",
+    "short": "Qui dépend étroitement d’une chose ou d’une personne.",
+    "def": "Qui dépend de quelque chose pour fonctionner ou exister, sans pouvoir s’en affranchir facilement. On dit « être tributaire de ». Le mot est plus précis que « dépendant » : il souligne une contrainte subie, souvent extérieure, comme un fournisseur, un climat ou une décision.",
+    "ety": "Du latin tributarius, « soumis à l’impôt », de tributum, « tribut ». Le tributaire payait une redevance à un pouvoir plus fort. En géographie, un cours d’eau tributaire se jette dans un autre.",
+    "ex": "Notre planning reste tributaire de la livraison des composants par notre fournisseur taïwanais.",
+    "syn": "dépendant, assujetti, subordonné, lié à"
+   },
+   {
+    "key": "exacerber",
+    "w": "Exacerber",
+    "ph": "[ɛɡ.za.sɛʁ.be] · verbe",
+    "short": "Rendre plus vif, plus aigu, plus intense.",
+    "def": "Rendre plus forte une tension, une douleur ou un sentiment déjà présents. On l’emploie pour ce qui existait avant et que l’on aggrave : on exacerbe une rivalité, une colère, un déséquilibre. Il ne s’emploie pas pour ce qui naît de rien.",
+    "ety": "Du latin exacerbare, « irriter », formé sur acerbus, « aigre, âpre », qui a aussi donné « acerbe ».",
+    "ex": "Le retard de livraison a exacerbé les tensions entre l’acheteur et le fournisseur.",
+    "syn": "aggraver, aviver, attiser, intensifier"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Frankenstein ou le Prométhée moderne",
+   "by": "Mary Shelley · 1818",
+   "tagline": "Le créateur qui s’enfuit",
+   "min": 10,
+   "exMin": 4,
+   "src": "Mary Shelley, Frankenstein; or, The Modern Prometheus (Londres, 1818, anonyme ; édition révisée, 1831). Mary Shelley est morte en 1851 : l’œuvre est dans le domaine public ; la citation est traduite de l’anglais par Culto. Interesting Literature, 2021 (texte de la citation, lecture de Milton). Notice « Frankenstein » de Wikipédia (en), version de mars 2026 (publication, Villa Diodati, âge de l’autrice, intrigue, film de 1931).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un jeune savant genevois, Victor Frankenstein, assemble un être vivant à partir de matière morte, puis s’enfuit, horrifié par son œuvre. Abandonnée, la créature apprend seule à parler et à penser, cherche l’amour, ne trouve que la haine et détruit un à un tous les proches de son créateur. Les deux finissent dans les glaces de l’Arctique, enchaînés l’un à l’autre."
+      ],
+      [
+       "Le vrai crime est l’abandon",
+       "Le péché de Victor n’est pas d’avoir créé, mais d’avoir refusé d’assumer. Il ne donne ni nom, ni soin, ni parole à ce qu’il a fait naître. Tout le malheur du roman découle de cette fuite, le soir même de la création."
+      ],
+      [
+       "Le monstre n’est pas né monstre",
+       "La créature est d’abord douce, curieuse, généreuse. Elle aide des paysans en secret et sauve une enfant de la noyade. C’est le rejet qui la transforme, et la solitude [[exacerber|exacerbe]] sa rage. Shelley pose une question très moderne : devient-on ce que les autres voient en nous ?"
+      ],
+      [
+       "Deux noms à ne pas confondre",
+       "Frankenstein est le savant, pas la créature, qui n’a aucun nom. Cette confusion populaire dit quelque chose de juste : à la fin, on ne sait plus lequel des deux est le monstre."
+      ],
+      [
+       "La science sans conscience",
+       "Victor poursuit la gloire sans jamais se demander ce qui suivra. Le sous-titre le dit : Prométhée a volé le feu aux dieux et l’a payé très cher. Le roman reste la référence dès qu’on parle de responsabilité des créateurs, de la bombe à l’intelligence artificielle."
+      ],
+      [
+       "Un chef-d’œuvre de jeunesse",
+       "Mary Shelley a 18 ans quand elle commence à écrire, 20 ans à la publication. Elle signe, sans le savoir, l’un des textes fondateurs de la science-fiction."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "L’homme sur la glace"
+    },
+    {
+     "p": "Le roman s’ouvre sur des lettres. Robert Walton, un explorateur anglais, écrit à sa sœur depuis les mers du Nord. Il rêve d’atteindre le pôle et de se couvrir de gloire. Son navire est pris dans les glaces. Un matin, l’équipage aperçoit au loin une silhouette gigantesque sur un traîneau. Le lendemain, il recueille un homme mourant, à bout de forces. Cet homme a vu dans les yeux de Walton la même ambition qui l’a perdu. Il décide de lui raconter son histoire pour l’en guérir.",
+     "lead": 1
+    },
+    {
+     "h5": "La création"
+    },
+    {
+     "p": "Victor Frankenstein grandit heureux à Genève, entouré de ses parents, de son jeune frère William, de son ami Henry Clerval et d’Elizabeth Lavenza, élevée avec lui et promise à devenir sa femme. Adolescent, il se passionne pour les vieux alchimistes. Sa mère meurt juste avant son départ pour l’université d’Ingolstadt, en Bavière. Là, un professeur, Waldman, l’oriente vers la chimie moderne."
+    },
+    {
+     "p": "Victor s’obsède pour le secret de la vie. Il fréquente les charniers et les salles de dissection, s’enferme, oublie sa famille, s’épuise. Après près de deux ans de travail, par une sinistre nuit de novembre, il voit s’ouvrir l’œil jaune de l’être qu’il a assemblé. Le rêve se change en dégoût. Il s’enfuit de son laboratoire, erre dans la ville, tombe malade et passe des mois à délirer, soigné par Clerval. Quand il revient, la créature a disparu. Il s’en réjouit lâchement."
+    },
+    {
+     "h5": "Les premiers morts"
+    },
+    {
+     "p": "Une lettre de son père lui apprend que le petit William a été étranglé. De retour près de Genève, Victor aperçoit dans un orage la silhouette géante et comprend. Mais la justice accuse Justine Moritz, une jeune servante de la famille, chez qui l’on a trouvé un médaillon de l’enfant. Victor sait qu’elle est innocente. Il se tait, de peur de passer pour fou. Justine est exécutée. Sa culpabilité commence à le ronger."
+    },
+    {
+     "h5": "La parole de la créature"
+    },
+    {
+     "p": "Réfugié dans les Alpes, sur la mer de Glace, Victor voit venir à lui la créature, qui lui impose de l’écouter. C’est le cœur du roman, et le monstre y parle mieux que personne. Rejeté par tous dès son premier regard, il s’est caché près d’une chaumière et a observé une famille d’exilés, les De Lacey. En les regardant, il a appris à parler, puis à lire. Il a dévoré trois livres trouvés dans une sacoche : <em>Le Paradis perdu</em> de Milton, les <em>Vies</em> de Plutarque et <em>Werther</em> de Goethe. Il a compris ce qu’il était : un être seul au monde."
+    },
+    {
+     "quote": "Je devrais être ton Adam ; mais je suis plutôt l’ange déchu, que tu chasses de la joie sans qu’il ait commis de faute.",
+     "cite": "La créature à Victor Frankenstein (traduction de Culto)"
+    },
+    {
+     "p": "Un jour, il ose parler au vieux père, qui est aveugle et l’accueille sans peur. Les enfants rentrent, le voient et le chassent à coups de bâton. Il brûle la chaumière. Plus tard, il sauve une fillette de la noyade et reçoit une balle pour remerciement. Près de Genève, il croise William, tente d’en faire un ami, apprend son nom de famille et le tue. Puis il glisse le médaillon sur Justine endormie."
+    },
+    {
+     "p": "Il pose alors son exigence : que Victor lui fabrique une compagne. En échange, il promet de disparaître loin des hommes. Victor, ébranlé, accepte."
+    },
+    {
+     "h5": "La vengeance"
+    },
+    {
+     "p": "Victor part pour la Grande-Bretagne avec Clerval, puis s’installe seul sur une île des Orcades pour y travailler. Une nuit, il imagine une race de monstres née de ce couple. Sous les yeux de la créature qui l’observe par la fenêtre, il détruit l’ébauche. Le monstre jure de l’atteindre : il sera présent le soir de ses noces."
+    },
+    {
+     "p": "Clerval est retrouvé étranglé sur une côte irlandaise, et Victor est jeté en prison, puis libéré. Il épouse Elizabeth, persuadé que c’est lui qui sera visé. Le soir des noces, il sort faire le guet, et c’est elle que la créature tue. Le père de Victor meurt de chagrin. Il ne lui reste plus que la vengeance."
+    },
+    {
+     "h5": "Le pôle"
+    },
+    {
+     "p": "Victor traque sa créature à travers la Russie jusqu’à l’Arctique, guidé par les indices qu’elle lui laisse pour le maintenir en vie. C’est ainsi que Walton l’a trouvé. Victor meurt à bord. Walton, cédant à son équipage, renonce au pôle. Une dernière nuit, il découvre la créature penchée sur le corps de son créateur, en larmes. Elle ne ressent aucun triomphe. Elle annonce qu’elle va s’immoler dans le Grand Nord, saute sur un radeau de glace et se perd dans l’obscurité."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Une nuit au bord du lac"
+    },
+    {
+     "p": "Pendant l’été 1816, Mary Godwin, Percy Shelley et Lord Byron sont réunis à la villa Diodati, sur le Léman. Le mauvais temps les enferme. Byron propose que chacun écrive un récit de fantômes. L’idée de Mary deviendra un roman, publié anonymement à Londres le 1er janvier 1818. Elle le révise en 1831, avec son nom, une nouvelle préface et un ton plus moralisateur. Fille de Mary Wollstonecraft, pionnière du féminisme morte après l’avoir mise au monde, elle connaît de près les liens entre naissance et mort."
+    },
+    {
+     "h5": "Une construction en poupées russes"
+    },
+    {
+     "p": "Le roman emboîte trois voix : Walton, qui écrit ; Victor, qui raconte ; la créature, au centre. Le lecteur reste [[tributaire|tributaire]] de narrateurs qui plaident chacun leur cause. Ce dispositif donne la parole au monstre, ce qu’aucun des personnages ne fait. Walton sert de double : il peut encore reculer, et il recule."
+    },
+    {
+     "h5": "Ce que le cinéma a inventé"
+    },
+    {
+     "p": "Le film de James Whale, en 1931, avec Boris Karloff, a imposé un monstre muet, cousu, électrifié. Rien de cela n’est dans le livre. Le roman ne décrit presque pas l’opération, et sa créature est éloquente et cultivée. La vraie horreur de Shelley est morale. Elle tient à ce regard détourné, le premier soir."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que ce livre écrit par une très jeune femme pose la question de notre temps : que doit-on à ce que l’on crée ? Toute invention naît avec une responsabilité que son auteur ne peut pas fuir. Et parce qu’il rappelle une vérité plus simple : un être privé de toute attention finit par devenir ce qu’on redoutait de lui."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Un jeune savant, Victor Frankenstein, donne la vie à un être assemblé, puis s’enfuit. Abandonnée, la créature apprend seule à penser, ne rencontre que la haine et détruit tous ses proches. Créateur et créature finissent dans l’Arctique."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le crime</b> : Victor n’a pas fauté en créant, mais en abandonnant. Tout découle de sa fuite, le premier soir.",
+      "<b>Le monstre</b> : il naît doux et généreux. Le rejet le transforme, et la solitude [[exacerber|exacerbe]] sa rage.",
+      "<b>Les noms</b> : Frankenstein est le savant. La créature n’a pas de nom. À la fin, on ne sait plus lequel des deux est le monstre.",
+      "<b>La science</b> : Victor cherche la gloire sans penser à la suite. Le roman reste la référence sur la responsabilité des créateurs, jusqu’à l’IA.",
+      "<b>L’âge</b> : Mary Shelley a 18 ans au début de l’écriture, 20 ans à la publication. Elle signe l’un des textes fondateurs de la science-fiction."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le cadre</b> : l’explorateur Walton, pris dans les glaces arctiques, recueille un homme mourant, Victor, qui lui raconte sa vie pour le guérir de l’ambition.",
+      "<b>La création</b> : à Ingolstadt, après près de deux ans d’obsession, Victor anime son être par une nuit de novembre. Dégoûté, il s’enfuit et tombe malade.",
+      "<b>Les premiers morts</b> : son petit frère William est étranglé. La servante Justine est accusée. Victor sait la vérité, se tait, et elle est exécutée.",
+      "<b>La parole du monstre</b> : sur la mer de Glace, la créature raconte. Cachée près des De Lacey, elle a appris à parler et à lire Milton, Plutarque et Goethe. Rejetée par tous, elle a tué William.",
+      "<b>L’exigence</b> : elle veut une compagne et promet de disparaître. Victor accepte, puis détruit l’ébauche dans les Orcades.",
+      "<b>La vengeance</b> : elle tue l’ami Clerval, puis Elizabeth le soir des noces. Le père meurt de chagrin.",
+      "<b>La fin</b> : Victor la traque jusqu’à l’Arctique et meurt sur le navire de Walton, qui renonce au pôle. La créature le pleure, puis part mourir dans le Grand Nord."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>L’origine</b> : été 1816, villa Diodati, sur le Léman. Enfermés par le mauvais temps, Byron et ses amis lancent un concours de récits de fantômes. Roman publié anonymement le 1er janvier 1818, révisé en 1831 avec le nom de l’autrice.",
+      "<b>L’autrice</b> : fille de Mary Wollstonecraft, pionnière du féminisme morte après l’avoir mise au monde, elle connaît de près les liens entre naissance et mort.",
+      "<b>La forme</b> : trois récits emboîtés. Le lecteur reste [[tributaire|tributaire]] de narrateurs qui plaident leur cause, et le monstre obtient enfin la parole.",
+      "<b>Walton</b> : double de Victor, il peut encore reculer, et il recule.",
+      "<b>Le cinéma</b> : le film de 1931 impose un monstre muet et électrifié, absent du livre, où la créature est éloquente.",
+      "<b>Aujourd’hui</b> : que doit-on à ce que l’on crée ? Toute invention engage la responsabilité de son auteur."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Cette fois, c’est différent",
+   "by": "Carmen Reinhart et Kenneth Rogoff · 2009",
+   "min": 9,
+   "exMin": 3,
+   "src": "Carmen Reinhart et Kenneth Rogoff, This Time Is Different: Eight Centuries of Financial Folly (Princeton University Press, 2009) ; édition française Pearson, 2010. Présentation de l’ouvrage, Weatherhead Center, Harvard. Réserve fédérale de Minneapolis, recension, The Region, septembre 2010 (66 pays, seuil de 60 %, inflation, croissance et dette). Reinhart et Rogoff, The Aftermath of Financial Crises, document de travail NBER 14656, 2009. Herndon, Ash et Pollin, PERI, université du Massachusetts, 2013 (critique de Growth in a Time of Debt).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Deux économistes passent au crible huit siècles de crises financières, dans 66 pays. Leur conclusion : les crises reviennent avec une régularité troublante, et chaque génération se persuade qu’elle y échappera. La phrase la plus coûteuse de la finance tient en quatre mots : cette fois, c’est différent."
+      ],
+      [
+       "La mémoire courte est le vrai risque",
+       "Avant chaque krach, des experts expliquent pourquoi les vieilles règles ne s’appliquent plus : la technologie, les nouveaux produits financiers, la sagesse des banquiers centraux. L’euphorie [[exacerber|exacerbe]] le risque au moment même où on le croit disparu."
+      ],
+      [
+       "Une crise bancaire coûte des années",
+       "En moyenne, les prix réels de l’immobilier baissent de 35 % sur six ans, les actions de 55 % sur trois ans et demi. Le chômage gagne 7 points, et le PIB perd plus de 9 %."
+      ],
+      [
+       "L’addition finale est publique",
+       "La dette de l’État augmente de 86 % en termes réels en trois ans après une crise bancaire majeure. Le coût ne vient pas surtout du sauvetage des banques, mais de l’effondrement des recettes et de la relance."
+      ],
+      [
+       "La richesse ne protège pas",
+       "Un pays peut sortir du cycle des défauts de paiement. Aucun, selon les auteurs, n’a échappé pour de bon aux crises bancaires. Les États-Unis n’ont jamais fait exception."
+      ],
+      [
+       "La dette domestique a été oubliée",
+       "Beaucoup pensent qu’un État fait défaut seulement envers l’étranger. Les auteurs exhument une histoire négligée de défauts sur la dette intérieure, et de l’inflation qui les accompagne."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Le contexte"
+    },
+    {
+     "p": "Le livre paraît en 2009, en pleine crise des <em>subprimes</em>, ce qui lui donne un écho immense. Il était pourtant le fruit de longues années de collecte. Carmen Reinhart, qui deviendra économiste en chef de la Banque mondiale, et Kenneth Rogoff, ancien économiste en chef du FMI et professeur à Harvard, ont bâti une base de données inédite : 66 pays sur cinq continents, soit environ 90 % du PIB mondial de 1990. Certaines séries remontent au Moyen Âge, mais l’analyse porte surtout sur la période postérieure à 1800.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "66",
+       "pays étudiés, soit ≈ 90 % du PIB mondial de 1990"
+      ],
+      [
+       "8",
+       "siècles de crises passés en revue"
+      ],
+      [
+       "− 35 %",
+       "prix réels de l’immobilier après une crise bancaire, en moyenne"
+      ],
+      [
+       "+ 86 %",
+       "dette publique réelle en trois ans après une telle crise"
+      ]
+     ]
+    },
+    {
+     "h5": "La thèse"
+    },
+    {
+     "p": "Les auteurs posent un diagnostic simple, qu’ils appellent le syndrome du « cette fois, c’est différent ». Les crises surviennent par grappes, avec une fréquence, une durée et une intensité étonnamment stables. Ce ne sont pas des accidents. Ce sont les conséquences répétées d’un même excès : trop de dette, accumulée en période calme, par des gens convaincus que les anciennes leçons sont dépassées. Quand la confiance se retourne, tout s’arrête d’un coup."
+    },
+    {
+     "h5": "Quatre familles de crises"
+    },
+    {
+     "p": "Le livre distingue quatre mécanismes. Le premier est le défaut sur la dette extérieure, le plus connu. Le deuxième est le défaut sur la dette intérieure, longtemps ignoré des chercheurs. Le troisième est la crise bancaire. Le quatrième est l’effondrement monétaire, avec l’inflation qui peut aller jusqu’à l’hyperinflation. L’inflation n’a rien de moderne : les rois médiévaux réduisaient déjà la teneur en métal de leurs pièces pour alléger leurs dettes. Le procédé a seulement changé d’outil."
+    },
+    {
+     "p": "Les chiffres montrent le lien entre ces crises. Sur 1800-2008, l’inflation moyenne des trois ans qui suivent un défaut intérieur approche 120 %, contre 32 % après un défaut extérieur. Un État qui ne peut plus payer ses propres citoyens finit souvent par faire tourner la planche à billets."
+    },
+    {
+     "h5": "L’intolérance à la dette"
+    },
+    {
+     "p": "Quel niveau de dette est dangereux ? Il n’existe pas de seuil unique, répondent les auteurs. Entre 1970 et 2008, plus de la moitié des défauts des pays à revenu intermédiaire sont survenus avec une dette inférieure à 60 % du PIB, le fameux plafond de Maastricht. La solidité dépend de l’histoire du pays : un passé de défauts réduit la confiance et abaisse le niveau supportable. Ainsi, la Grèce reste en défaut une grande partie du temps entre 1800 et la Seconde Guerre mondiale. Les pays sont [[tributaire|tributaires]] de leur réputation, et elle se reconstruit très lentement."
+    },
+    {
+     "h5": "Le coût d’une crise bancaire"
+    },
+    {
+     "p": "C’est le passage le plus cité. Les auteurs comparent les grandes crises d’après-guerre : les « cinq grandes » des pays riches (Espagne 1977, Norvège 1987, Finlande et Suède 1991, Japon 1992), la crise asiatique de 1997-1998, la Colombie, l’Argentine. Le bilan se ressemble d’un pays à l’autre."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’addition moyenne d’une crise bancaire",
+      "sub": "ampleur du choc en %, crises d’après-guerre",
+      "rows": [
+       [
+        "Dette publique réelle (hausse)",
+        86
+       ],
+       [
+        "Actions (baisse)",
+        55
+       ],
+       [
+        "Immobilier réel (baisse)",
+        35
+       ],
+       [
+        "PIB réel (baisse)",
+        9
+       ]
+      ],
+      "suffix": " %",
+      "note": "Durée moyenne de la baisse : ≈ 3,5 ans pour les actions, ≈ 6 ans pour l’immobilier, ≈ 2 ans pour le PIB. Le chômage gagne en outre 7 points en un peu plus de 4 ans. Source : Reinhart et Rogoff, The Aftermath of Financial Crises (NBER, 2009)."
+     }
+    },
+    {
+     "p": "Deux leçons en sortent. D’abord, ces crises sont longues : pour l’immobilier, la chute dure en moyenne six ans. Ensuite, leur facture retombe sur l’État. La dette bondit de 86 % en termes réels en trois ans, et comme le PIB recule d’environ 9 %, le ratio de dette presque double. Les banques ne sont qu’une partie du coût. L’essentiel vient des recettes fiscales qui s’effondrent."
+    },
+    {
+     "p": "La crise américaine de 2007 suit la même trame. Le livre rappelle que la dette fédérale, à environ 36 % du PIB en 2007, était alors projetée vers 67 % en 2012. Le pays le plus riche du monde n’a pas échappé à l’arithmétique commune."
+    },
+    {
+     "h5": "Dette et croissance"
+    },
+    {
+     "p": "Les auteurs vont plus loin. Sur 20 économies avancées, de 1790 à 2009, la croissance atteint environ 3,9 % par an quand la dette reste sous 30 % du PIB, et environ 1,9 % quand elle atteint ou dépasse 90 %. Ce constat, simple à retenir, a pesé lourd dans le débat public. Il a aussi attiré les critiques les plus vives."
+    },
+    {
+     "h5": "Que faire ?"
+    },
+    {
+     "p": "Reinhart et Rogoff ne promettent pas la fin des crises. Ils plaident pour de meilleures données et pour un regard extérieur, jusqu’à l’idée d’un régulateur financier supranational. Une recension de la Réserve fédérale de Minneapolis se montre sceptique : les rapports de stabilité financière de quatre banques centrales n’ont que modestement réussi à anticiper les crises. Voir venir le danger reste difficile. Mais le livre donne au moins un réflexe : se méfier du consensus rassurant."
+    },
+    {
+     "h5": "Les limites et les critiques"
+    },
+    {
+     "p": "Le livre a été critiqué pour sa focalisation sur la dette publique, alors que la crise de 2007-2009 est née de la dette privée, notamment hypothécaire. Mais la vraie polémique vient d’un article voisin de 2010, <em>Growth in a Time of Debt</em>. Il suggérait qu’au-delà de 90 % de dette, la croissance moyenne tombait à −0,1 %. En 2013, Thomas Herndon, Michael Ash et Robert Pollin, de l’université du Massachusetts, reprennent le calcul. Ils trouvent une erreur de tableur, des années omises et une pondération discutable. Corrigée, la croissance ressort à 2,2 %. Les auteurs ont reconnu l’erreur de calcul, tout en défendant leur conclusion générale. L’épisode a marqué le débat sur l’austérité en Europe. Il ne remet pas en cause la base historique du livre, mais il rappelle qu’une corrélation ne dit pas qui, de la dette ou de la faible croissance, cause l’autre."
+    },
+    {
+     "h5": "La postérité"
+    },
+    {
+     "p": "Plus de quinze ans après, le livre reste une référence pour banquiers centraux et investisseurs. Son message se lit dans chaque cycle d’euphorie. Il ne dit pas quand viendra la prochaine crise. Il donne une méthode : lorsqu’un argument commence par expliquer pourquoi l’histoire ne s’applique plus, il faut regarder la dette."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Huit siècles de crises dans 66 pays le montrent : elles reviennent avec une régularité troublante, et chaque génération se croit à l’abri. La phrase la plus coûteuse de la finance : cette fois, c’est différent."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La mémoire courte</b> : avant chaque krach, on explique pourquoi les règles ne s’appliquent plus. L’euphorie [[exacerber|exacerbe]] le risque.",
+      "<b>La base</b> : 66 pays sur cinq continents, ≈ 90 % du PIB mondial de 1990, analyse surtout après 1800.",
+      "<b>Quatre familles</b> : défaut extérieur, défaut intérieur, crise bancaire, effondrement monétaire et inflation.",
+      "<b>L’inflation</b> : 1800-2008, près de 120 % en moyenne sur trois ans après un défaut intérieur, 32 % après un défaut extérieur.",
+      "<b>Pas de seuil unique</b> : 1970-2008, plus de la moitié des défauts des pays à revenu intermédiaire arrivent sous 60 % de dette. Les pays sont [[tributaire|tributaires]] de leur réputation.",
+      "<b>Pas d’immunité</b> : on peut sortir des défauts, pas des crises bancaires.",
+      "<b>Le cas américain</b> : la dette fédérale, ≈ 36 % du PIB en 2007, était projetée vers 67 % en 2012.",
+      "<b>Dette et croissance</b> : sur 20 pays avancés, de 1790 à 2009, ≈ 3,9 % par an sous 30 % de dette, ≈ 1,9 % à 90 % ou plus.",
+      "<b>Que faire</b> : de meilleures données et un regard extérieur, jusqu’à un régulateur supranational. La Fed de Minneapolis en doute : anticiper reste difficile."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "66",
+       "pays étudiés, soit ≈ 90 % du PIB mondial de 1990"
+      ],
+      [
+       "8",
+       "siècles de crises passés en revue"
+      ],
+      [
+       "− 35 %",
+       "prix réels de l’immobilier après une crise bancaire, en moyenne"
+      ],
+      [
+       "+ 86 %",
+       "dette publique réelle en trois ans après une telle crise"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’addition moyenne d’une crise bancaire",
+      "sub": "ampleur du choc en %, crises d’après-guerre",
+      "rows": [
+       [
+        "Dette publique réelle (hausse)",
+        86
+       ],
+       [
+        "Actions (baisse)",
+        55
+       ],
+       [
+        "Immobilier réel (baisse)",
+        35
+       ],
+       [
+        "PIB réel (baisse)",
+        9
+       ]
+      ],
+      "suffix": " %",
+      "note": "Durée moyenne de la baisse : ≈ 3,5 ans pour les actions, ≈ 6 ans pour l’immobilier, ≈ 2 ans pour le PIB. Le chômage gagne en outre 7 points en un peu plus de 4 ans. Source : Reinhart et Rogoff, The Aftermath of Financial Crises (NBER, 2009)."
+     }
+    },
+    {
+     "ul": [
+      "<b>L’addition</b> : immobilier −35 % sur six ans, actions −55 % sur trois ans et demi, PIB −9 % sur deux ans. Le chômage gagne 7 points, et le ratio de dette presque double. L’essentiel vient de l’effondrement des recettes, pas du sauvetage des banques.",
+      "<b>Les cas</b> : Espagne 1977, Norvège 1987, Finlande et Suède 1991, Japon 1992, Asie 1997-1998.",
+      "<b>La critique</b> : le livre néglige la dette privée, à l’origine de 2007-2009.",
+      "<b>La polémique</b> : un article voisin de 2010 donnait −0,1 % de croissance au-delà de 90 % de dette. En 2013, Herndon, Ash et Pollin corrigent une erreur de tableur et d’autres choix : 2,2 %.",
+      "<b>La leçon</b> : quand on explique que l’histoire ne s’applique plus, il faut regarder la dette."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Espagne : la croissance que l’Europe envie, l’inflation en plus",
+   "by": "Analyse",
+   "fig": "+ 2,7 %",
+   "figl": "croissance espagnole sur un an",
+   "min": 3,
+   "exMin": 2,
+   "src": "Eurostat, estimation rapide du PIB, 30 octobre 2026, et inflation de septembre, 16 octobre 2026. INE (Espagne), indicateur avancé de l’IPC d’octobre 2026, et enquête EGATUR de juillet 2026. INE via Infobae et Moncloa.com, 30 octobre 2026 (PIB détaillé). EPA du T3 2026 via Qué! et FashionUnited, octobre 2026 (emploi, régularisation). FMI, octobre 2026, via Infobae (prévisions). Ember, 16 juin 2026 (prix et heures du gaz). Trading Economics, novembre 2026 (inflation sous-jacente et consensus d’octobre). Données arrêtées au 3 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Sur un an, le PIB de la zone euro progresse de 1,3 %. Celui de l’Espagne gagne 2,7 %, quand la France recule de 0,1 %. Le FMI attend 2,5 % de croissance espagnole en 2026, plus du double de la zone euro. Pourquoi Madrid résiste-t-elle mieux au choc pétrolier ? Et pourquoi son inflation reste-t-elle à 4,9 % ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "+ 2,7 %",
+       "PIB espagnol sur un an, T3 2026"
+      ],
+      [
+       "22,85 M",
+       "personnes en emploi, un record"
+      ],
+      [
+       "10,18 %",
+       "taux de chômage, T3 2026"
+      ],
+      [
+       "4,9 %",
+       "inflation harmonisée, octobre"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "L’Espagne creuse l’écart",
+      "sub": "PIB en volume sur un an, T3 2026, en %",
+      "labels": [
+       "Espagne",
+       "Pays-Bas",
+       "Zone euro",
+       "Allemagne",
+       "Italie",
+       "France"
+      ],
+      "series": [
+       {
+        "name": "Sur un an",
+        "values": [
+         2.7,
+         2.1,
+         1.3,
+         1.2,
+         0.8,
+         -0.1
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Estimation rapide, révisable le 13 novembre. Source : Eurostat, 30 octobre 2026."
+     }
+    },
+    {
+     "h": "Trois moteurs"
+    },
+    {
+     "p": "Le premier est le travail. L’Espagne compte 465 500 emplois de plus qu’il y a un an. L’emploi des étrangers augmente de 8,77 %, celui des Espagnols de 0,83 %. Au dernier trimestre, toute la hausse vient des étrangers, après une régularisation extraordinaire : 75 400 postes de plus pour eux, 1 800 de moins pour les nationaux."
+    },
+    {
+     "p": "Le deuxième est le tourisme. De janvier à juillet, les visiteurs étrangers ont dépensé 82 milliards d’euros, soit 7,8 % de plus qu’en 2025."
+    },
+    {
+     "p": "Le troisième est l’électricité. En mars, le mégawattheure valait 42 euros sur le marché de gros espagnol, contre 143 en Italie. Grâce au solaire et à l’éolien, le gaz ne fixe plus le prix que 9 % des heures, contre 52 % en 2021. En Italie, c’est environ 75 %."
+    },
+    {
+     "h": "Les fragilités"
+    },
+    {
+     "p": "Cette croissance a un prix. L’inflation harmonisée atteint 4,9 % en octobre, et 3,1 % hors énergie et produits frais. En septembre, la zone euro affichait 3,8 % et 2,5 %. Eurostat publie ce mercredi son estimation d’octobre, attendue autour de 4 %. L’électricité bon marché ne protège pas de tout : le gaz et les carburants pèsent toujours, et une demande intérieure vive [[exacerber|exacerbe]] les hausses de prix."
+    },
+    {
+     "p": "Le moteur perd aussi du régime. La consommation des ménages ralentit à +0,6 % sur le trimestre, contre +1,1 % au précédent. L’investissement en machines tombe à +0,2 %, après +1,6 %. Et le chômage, à 10,18 %, reste bien supérieur au niveau européen."
+    },
+    {
+     "p": "Le point le plus sensible est la productivité horaire : +0,1 % sur le trimestre, après −0,4 %. L’Espagne produit davantage surtout parce qu’elle travaille plus d’heures, avec plus de monde. Le FMI prévoit d’ailleurs un net ralentissement, à 1,8 % en 2027."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le succès espagnol repose sur des atouts réels, dont un système électrique moins [[tributaire|tributaire]] du gaz. Mais une croissance fondée sur l’afflux de travailleurs et de touristes finit par atteindre ses limites, en logement comme en services publics. La leçon pour l’Europe tient à l’énergie : investir tôt dans une production locale, c’est s’acheter une assurance contre le prochain choc."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : PIB espagnol +2,7 % sur un an, contre +1,3 % en zone euro et −0,1 % en France. FMI : 2,5 % en 2026.",
+      "<b>Le travail</b> : 465 500 emplois en un an. Étrangers +8,77 %, Espagnols +0,83 %. Au T3, toute la hausse vient des étrangers, après une régularisation.",
+      "<b>Le tourisme</b> : 82 Md€ dépensés de janvier à juillet, +7,8 %.",
+      "<b>L’électricité</b> : 42 €/MWh en mars, 143 € en Italie. Le gaz fixe le prix 9 % des heures, contre 52 % en 2021. Le pays est moins [[tributaire|tributaire]] du gaz.",
+      "<b>L’inflation</b> : 4,9 % en octobre, 3,1 % hors énergie et produits frais. Une demande vive [[exacerber|exacerbe]] les hausses. Zone euro en septembre : 3,8 % et 2,5 %. Estimation d’octobre attendue ce mercredi, autour de 4 %.",
+      "<b>Le ralentissement</b> : consommation +0,6 % au lieu de +1,1 %, machines +0,2 % au lieu de +1,6 %. Chômage à 10,18 %. Productivité horaire : +0,1 %, après −0,4 %. FMI 2027 : 1,8 %.",
+      "<b>À retenir</b> : investir tôt dans une énergie locale est une assurance. Mais l’afflux de travailleurs et de touristes a ses limites."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "+ 2,7 %",
+       "PIB espagnol sur un an, T3 2026"
+      ],
+      [
+       "22,85 M",
+       "personnes en emploi, un record"
+      ],
+      [
+       "10,18 %",
+       "taux de chômage, T3 2026"
+      ],
+      [
+       "4,9 %",
+       "inflation harmonisée, octobre"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "L’Espagne creuse l’écart",
+      "sub": "PIB en volume sur un an, T3 2026, en %",
+      "labels": [
+       "Espagne",
+       "Pays-Bas",
+       "Zone euro",
+       "Allemagne",
+       "Italie",
+       "France"
+      ],
+      "series": [
+       {
+        "name": "Sur un an",
+        "values": [
+         2.7,
+         2.1,
+         1.3,
+         1.2,
+         0.8,
+         -0.1
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Estimation rapide, révisable le 13 novembre. Source : Eurostat, 30 octobre 2026."
+     }
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Congrès démocrate : le frein est là, le volant reste à Trump",
+   "by": "Analyse",
+   "fig": "2/3",
+   "figl": "des voix pour briser un veto",
+   "min": 3,
+   "exMin": 2,
+   "src": "Time via Yahoo News, 4 novembre 2026 (Sénat, sièges gagnés, Chambre, projections de l’AP). Titres de NBC, CBS, CNN, ABC, CNBC et MS NOW, 3-4 novembre 2026 (contrôle du Congrès). AP via OPB, 3-4 novembre 2026 (premiers résultats, vote anticipé, sondage AP VoterPoll). CBS News, 3 novembre 2026 (sondages de sortie des urnes). Kyiv Independent, 2 novembre 2026 (veto, filibuster, projets de loi obligatoires). ECFR via PubAffairs Bruxelles, 2026 (rescisions, tarifs, privilège de l’exécutif). Foreign Affairs Forum, 27 octobre 2026 (Iran, tarifs, Ukraine). Reuters via ThePrint, 17 octobre 2026 (loi Graham). Investing Live, août 2026 (Canada). Résultats provisoires, décompte final inconnu à la rédaction.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Les démocrates ont repris le Sénat dans la nuit de mardi à mercredi, en gagnant notamment le Texas, l’Ohio, la Caroline du Nord et l’Iowa. Ils remportent aussi la Chambre des représentants, selon NBC, CBS et CNN. Le Maine et le Michigan restaient indécis, et le décompte final n’est pas connu. C’est la première fois depuis les deux dernières années d’Obama qu’un président affronte un Congrès entièrement hostile. Que change ce vote pour le reste du monde ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "4",
+       "sièges nets qu’il fallait gagner au Sénat"
+      ],
+      [
+       "2/3",
+       "des voix dans chaque chambre pour briser un veto"
+      ],
+      [
+       "59 M",
+       "bulletins déposés avant le jour du vote"
+      ],
+      [
+       "38 %",
+       "approbation de Trump, premiers sondages de sortie des urnes"
+      ]
+     ]
+    },
+    {
+     "h": "Ce que le Congrès récupère"
+    },
+    {
+     "p": "Dès janvier, les démocrates tiendront les commissions, donc les enquêtes et les citations à comparaître. Hakeem Jeffries devrait présider la Chambre, Chuck Schumer diriger le Sénat, qui confirme les nominations et ratifie les traités. Leur programme est clair : mettre fin à la guerre en Iran, annuler les droits de douane, enquêter sur l’administration."
+    },
+    {
+     "p": "Trois dossiers intéressent directement l’étranger. Sur l’Iran, les élus peuvent forcer des votes sur les pouvoirs de guerre et conditionner les crédits. Sur le commerce, ils peuvent exiger une approbation des tarifs, alors que Trump menace le Canada de 50 % sur les véhicules au 1er janvier. Sur la Russie, ils demanderont des comptes sur la dérogation du 16 octobre, qui a gelé de nombreuses sanctions et des droits de douane prévus jusqu’à 100 % par la loi Graham, signée en septembre."
+    },
+    {
+     "h": "Ce qu’il ne récupère pas"
+    },
+    {
+     "p": "Trump garde son veto, et il faut deux tiers des voix dans chaque chambre pour le briser. La majorité démocrate en est loin. Au Sénat, il faudra aussi des voix républicaines pour franchir l’obstruction parlementaire. Reste l’arme des textes indispensables, comme la loi annuelle de défense, auxquels on peut greffer des clauses."
+    },
+    {
+     "p": "Même l’argent voté n’est plus garanti. Fin septembre, la Maison-Blanche a annulé 810 millions de dollars en les laissant expirer, une manœuvre jugée illégale par le GAO, l’organe de contrôle du Congrès. Ce bras de fer [[exacerber|exacerbe]] le conflit entre les pouvoirs, mais les juges tranchent souvent après l’expiration des fonds. Des analystes de l’ECFR résument : le ton changera à Washington, moins la politique."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "L’Europe aurait tort de crier victoire. Elle reste [[tributaire|tributaire]] d’un exécutif américain qui conserve la main sur la diplomatie, les troupes et une bonne part des tarifs. La loi Graham peut encore viser des acheteurs d’énergie russe. Un Congrès hostile apporte surtout de l’information, des auditions et un frein. Il ne donne pas un nouveau conducteur avant janvier 2029."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le résultat</b> : les démocrates prennent le Sénat (Texas, Ohio, Caroline du Nord, Iowa) et la Chambre, selon NBC, CBS et CNN. Maine et Michigan restaient indécis. Décompte final inconnu.",
+      "<b>L’inédit</b> : premier Congrès entièrement hostile à un président depuis la fin de l’ère Obama. Approbation de Trump à 38 % dans les premiers sondages de sortie des urnes.",
+      "<b>Ce qu’il gagne</b> : commissions, enquêtes, confirmations, ratification des traités. Jeffries et Schumer devraient prendre les commandes en janvier.",
+      "<b>Les dossiers</b> : votes sur l’Iran, approbation des tarifs (Canada menacé de 50 % au 1er janvier), dérogation du 16 octobre à la loi Graham.",
+      "<b>Le verrou</b> : briser un veto exige deux tiers des voix dans chaque chambre. Il faut aussi franchir l’obstruction au Sénat.",
+      "<b>L’argent</b> : 810 M$ annulés fin septembre, jugés illégaux par le GAO. Ce bras de fer [[exacerber|exacerbe]] le conflit entre les pouvoirs, mais les juges arrivent souvent trop tard.",
+      "<b>Les textes obligés</b> : la loi annuelle de défense peut porter des clauses sur l’Ukraine.",
+      "<b>À retenir</b> : l’Europe reste [[tributaire|tributaire]] d’un exécutif qui garde la main sur la diplomatie, les troupes et une bonne part des tarifs. Le Congrès offre un frein, pas un nouveau conducteur."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "4",
+       "sièges nets qu’il fallait gagner au Sénat"
+      ],
+      [
+       "2/3",
+       "des voix dans chaque chambre pour briser un veto"
+      ],
+      [
+       "59 M",
+       "bulletins déposés avant le jour du vote"
+      ],
+      [
+       "38 %",
+       "approbation de Trump, premiers sondages de sortie des urnes"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Fret aérien : l’IA remplit les soutes, les transitaires encaissent",
+   "by": "Analyse",
+   "fig": "+ 17 %",
+   "figl": "fret aérien Asie-Amérique du Nord",
+   "min": 3,
+   "exMin": 2,
+   "src": "IATA, communiqué sur le fret aérien de septembre, 29 octobre 2026. Kuehne+Nagel, résultats du T3 via STAT Times, Bluewin et FreshPlaza, 22 octobre 2026. DSV, résultats du T3 via STAT Times, octobre 2026. Xeneta via Cargo Newswire, 20 juillet 2026, et Global Trade Magazine, 4 août 2026 (part de l’IA, gros-porteurs, contrats, capacité). Données arrêtées à septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le fret aérien mondial a progressé de 7,7 % en septembre, presque trois fois plus vite que la capacité. Entre l’Asie et l’Amérique du Nord, il bondit de 17 %. Serveurs d’intelligence artificielle et semi-conducteurs voyagent par avion, et l’avion manque. Résultat : Kuehne+Nagel voit l’EBIT de sa division aérienne gagner 84 % au troisième trimestre. Comment un marché sous tension devient-il une rente pour les transitaires ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "+ 7,7 %",
+       "demande mondiale, septembre, sur un an"
+      ],
+      [
+       "+ 2,7 %",
+       "capacité offerte, même période"
+      ],
+      [
+       "47,9 %",
+       "taux de chargement, +2,2 points"
+      ],
+      [
+       "+ 103 %",
+       "prix du kérosène sur un an"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "La carte du fret aérien s’est déplacée",
+      "sub": "demande par couloir, septembre 2026, sur un an, en %",
+      "labels": [
+       "Asie-Am. N.",
+       "Intra-Asie",
+       "Eur.-Am. N.",
+       "Eur.-Asie",
+       "M.-O.-Asie",
+       "Eur.-M.-O."
+      ],
+      "series": [
+       {
+        "name": "Demande",
+        "values": [
+         17.0,
+         10.2,
+         9.3,
+         6.0,
+         -10.2,
+         -18.0
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Am. N. : Amérique du Nord ; M.-O. : Moyen-Orient. Source : IATA, 29 octobre 2026."
+     }
+    },
+    {
+     "h": "Une demande étroite, une offre rare"
+    },
+    {
+     "p": "Les produits liés à l’IA pèsent moins de 10 % des volumes, selon Xeneta. Mais ils se concentrent sur quelques routes, surtout le Pacifique, et leur grande valeur justifie le prix de l’avion. En juin, ils ont compensé la baisse du e-commerce entre la Chine et les États-Unis."
+    },
+    {
+     "p": "L’offre, elle, ne suit pas. L’escalade du 28 février au Moyen-Orient a retiré environ 12 % de la capacité mondiale en une nuit, et les liaisons avec le Golfe restent sinistrées : −18 % entre l’Europe et le Moyen-Orient en septembre, septième mois de baisse. Les gros-porteurs neufs arrivent au compte-gouttes : environ 75 produits au premier semestre chez Boeing et Airbus, alors que ce type d’avion emporte près de 40 % du fret."
+    },
+    {
+     "h": "Deux façons de gagner"
+    },
+    {
+     "p": "Kuehne+Nagel joue les volumes : +10 % au troisième trimestre, contre +3 % au deuxième, avec des clients du cloud et des semi-conducteurs. Son chiffre d’affaires aérien gagne 38 %, à 2,4 milliards de francs suisses. Le groupe a relevé sa prévision pour la deuxième fois, à 1,5-1,6 milliard d’EBIT."
+    },
+    {
+     "p": "DSV joue le prix : ses volumes reculent de 3 %, à 561 000 tonnes, mais sa marge brute par tonne atteint 8 936 couronnes, contre 8 196 un an plus tôt. Le transitaire gère activement ses rendements, et certains clients sont passés au maritime."
+    },
+    {
+     "p": "La tension se lit dans les contrats : 58 % des nouveaux accords entre expéditeurs et transitaires duraient au plus trois mois mi-2026, contre 22 % un an plus tôt. Le kérosène, doublé en un an, [[exacerber|exacerbe]] encore la pression sur les prix."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Pour un acheteur de transport, le budget aérien devient [[tributaire|tributaire]] du cycle de l’IA, un secteur où il n’a aucune influence. Il faut réserver plus tôt, séparer ce qui doit voler de ce qui peut naviguer, et accepter des contrats courts. Mais une rente de pénurie n’est jamais éternelle : DSV attend déjà des rendements légèrement inférieurs au quatrième trimestre."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : demande +7,7 % en septembre, capacité +2,7 %. Asie-Amérique du Nord : +17 %, huitième mois de hausse.",
+      "<b>La demande</b> : l’IA pèse moins de 10 % des volumes, mais elle se concentre sur le Pacifique. Le budget aérien devient [[tributaire|tributaire]] de ce cycle.",
+      "<b>L’offre</b> : l’escalade du 28 février a retiré ≈ 12 % de la capacité mondiale. Europe-Moyen-Orient : −18 %. Gros-porteurs : ≈ 75 produits au premier semestre, alors qu’ils portent ≈ 40 % du fret.",
+      "<b>Kuehne+Nagel</b> : volumes aériens +10 %, chiffre d’affaires +38 %, EBIT +84 %. Prévision relevée à 1,5-1,6 Md CHF.",
+      "<b>DSV</b> : volumes −3 %, à 561 000 t, marge par tonne de 8 936 DKK contre 8 196. Un jeu sur le prix plutôt que sur les volumes.",
+      "<b>Les contrats</b> : 58 % durent au plus trois mois, contre 22 %. Le kérosène [[exacerber|exacerbe]] la pression sur les prix.",
+      "<b>À retenir</b> : réserver plus tôt, séparer ce qui doit voler de ce qui peut naviguer. Une rente de pénurie n’est pas éternelle : DSV attend des rendements légèrement inférieurs au T4."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "+ 7,7 %",
+       "demande mondiale, septembre, sur un an"
+      ],
+      [
+       "+ 2,7 %",
+       "capacité offerte, même période"
+      ],
+      [
+       "47,9 %",
+       "taux de chargement, +2,2 points"
+      ],
+      [
+       "+ 103 %",
+       "prix du kérosène sur un an"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "La carte du fret aérien s’est déplacée",
+      "sub": "demande par couloir, septembre 2026, sur un an, en %",
+      "labels": [
+       "Asie-Am. N.",
+       "Intra-Asie",
+       "Eur.-Am. N.",
+       "Eur.-Asie",
+       "M.-O.-Asie",
+       "Eur.-M.-O."
+      ],
+      "series": [
+       {
+        "name": "Demande",
+        "values": [
+         17.0,
+         10.2,
+         9.3,
+         6.0,
+         -10.2,
+         -18.0
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Am. N. : Amérique du Nord ; M.-O. : Moyen-Orient. Source : IATA, 29 octobre 2026."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Samsung : des profits historiques, des téléphones dans le rouge",
+   "by": "Analyse",
+   "fig": "99 %",
+   "figl": "du bénéfice vient des puces",
+   "min": 3,
+   "exMin": 2,
+   "src": "Samsung Electronics, résultats du T3 2026, via Telangana Today, MoneyToday et Magica, 29 octobre 2026. Korea Times, 8 octobre 2026 (équivalent en dollars). Korea Herald, 8 octobre 2026 (parts de marché, coûts des composants selon Counterpoint, hausses de prix). MoneyToday, 29 octobre 2026 (division appareils, IDC, Omdia, TrendForce). Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Samsung Electronics a gagné 107 400 milliards de wons d’exploitation au troisième trimestre, soit environ 80 milliards de dollars. Le groupe se présente comme la première entreprise technologique à franchir les 100 000 milliards en un trimestre. Pourtant, sa division appareils, qui regroupe téléphones, téléviseurs et électroménager, perd de l’argent, et l’action a nettement baissé le jour des résultats, légèrement inférieurs aux attentes. Comment la même pénurie peut-elle enrichir une division et affaiblir l’autre ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "107 400 Md₩",
+       "résultat opérationnel du T3, ≈ 80 Md$"
+      ],
+      [
+       "+ 783 %",
+       "hausse de ce résultat sur un an"
+      ],
+      [
+       "99 %",
+       "part venue des semi-conducteurs"
+      ],
+      [
+       "− 800 Md₩",
+       "perte de la division appareils"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les puces ont changé d’échelle",
+      "sub": "résultat opérationnel des semi-conducteurs, en milliers de milliards de wons",
+      "labels": [
+       "T3 2025",
+       "T2 2026",
+       "T3 2026"
+      ],
+      "series": [
+       {
+        "name": "Semi-conducteurs",
+        "values": [
+         7.0,
+         89.2,
+         106.5
+        ]
+       }
+      ],
+      "note": "Sources : Samsung Electronics via MoneyToday et Magica, 29 octobre 2026."
+     }
+    },
+    {
+     "h": "La rareté comme modèle"
+    },
+    {
+     "p": "Le chiffre d’affaires a plus que doublé sur un an, à 195 250 milliards de wons, et la marge opérationnelle dépasse 55 %. La division semi-conducteurs apporte 106 500 milliards, avec une marge de 72,4 %. Les centres de données d’IA absorbent la mémoire, et les usines ne suivent pas. Les prix des contrats de DRAM ont grimpé de 13 à 18 % en un seul trimestre, selon TrendForce. Les ventes de HBM4, la mémoire des puces d’IA, ont plus que triplé en un trimestre."
+    },
+    {
+     "p": "Samsung prévoit 84 400 milliards de wons d’investissement en 2026 et annonce une offre encore contrainte en 2027."
+    },
+    {
+     "h": "Le fabricant contre son propre fournisseur"
+    },
+    {
+     "p": "La hausse de la mémoire [[exacerber|exacerbe]] les difficultés du reste du groupe. La division appareils a perdu 800 milliards de wons, pour le deuxième trimestre d’affilée, une première dans son histoire. Les smartphones et réseaux perdent 600 milliards, malgré le lancement du Galaxy Z Fold8."
+    },
+    {
+     "p": "Selon Counterpoint, la mémoire représente 43 % du coût des composants d’un téléphone haut de gamme, contre 14 % un an plus tôt. IDC estime que la facture mémoire des fabricants a bondi d’environ 350 % sur un an. La carte mère d’un grand téléviseur pèse 20 % de son coût, contre 8 % un an plus tôt, selon Omdia."
+    },
+    {
+     "p": "En octobre, Samsung a augmenté ses Galaxy S26 de 100 à 200 dollars aux États-Unis, mais son pouvoir de fixer les prix est limité. Au deuxième trimestre, il a vendu 23 % des smartphones mondiaux pour 16 % du chiffre d’affaires du secteur, quand Apple en a vendu 21 % pour 49 %. L’entrée et le milieu de gamme, très concurrentiels, sont les plus touchés."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Samsung est devenu [[tributaire|tributaire]] d’une seule activité pour 99 % de son résultat, dans un métier réputé pour ses cycles violents. La baisse de l’action après un trimestre record dit la crainte des investisseurs : quand tout le monde prévoit une pénurie durable, tout le monde investit, et la pénurie finit par disparaître. Le vrai test sera la rentabilité de l’IA elle-même, dont dépendent ces commandes."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : 107 400 Md₩ de résultat opérationnel, ≈ 80 Md$, +783 % sur un an. Chiffre d’affaires : 195 250 Md₩, plus que doublé.",
+      "<b>Les puces</b> : 106 500 Md₩, 99 % du total, marge de 72,4 %. DRAM : +13 à 18 % en un trimestre. HBM4 : ventes plus que triplées.",
+      "<b>L’investissement</b> : 84 400 Md₩ en 2026, offre encore contrainte en 2027.",
+      "<b>Le paradoxe</b> : la mémoire chère [[exacerber|exacerbe]] les difficultés du reste. Appareils : −800 Md₩, deuxième perte d’affilée. Smartphones et réseaux : −600 Md₩.",
+      "<b>Les coûts</b> : mémoire à 43 % des composants d’un téléphone haut de gamme, contre 14 %. Facture mémoire +350 % selon IDC. Carte mère d’un grand téléviseur : 20 % du coût, contre 8 %.",
+      "<b>Les prix</b> : Galaxy S26 relevé de 100 à 200 $. Samsung vend 23 % des téléphones pour 16 % des revenus, Apple 21 % pour 49 %.",
+      "<b>À retenir</b> : un résultat [[tributaire|tributaire]] d’un métier cyclique. L’action a baissé, car une pénurie attire l’investissement, puis disparaît. Le vrai test sera la rentabilité de l’IA."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "107 400 Md₩",
+       "résultat opérationnel du T3, ≈ 80 Md$"
+      ],
+      [
+       "+ 783 %",
+       "hausse de ce résultat sur un an"
+      ],
+      [
+       "99 %",
+       "part venue des semi-conducteurs"
+      ],
+      [
+       "− 800 Md₩",
+       "perte de la division appareils"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les puces ont changé d’échelle",
+      "sub": "résultat opérationnel des semi-conducteurs, en milliers de milliards de wons",
+      "labels": [
+       "T3 2025",
+       "T2 2026",
+       "T3 2026"
+      ],
+      "series": [
+       {
+        "name": "Semi-conducteurs",
+        "values": [
+         7.0,
+         89.2,
+         106.5
+        ]
+       }
+      ],
+      "note": "Sources : Samsung Electronics via MoneyToday et Magica, 29 octobre 2026."
+     }
+    }
+   ]
+  }
+ ]
+}

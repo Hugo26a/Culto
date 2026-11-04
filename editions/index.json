@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-03",
+ "latest": "2026-11-04",
  "editions": [
+  {
+   "date": "2026-11-04",
+   "label": "Mercredi 4 novembre",
+   "words": [
+    "Tributaire",
+    "Exacerber"
+   ],
+   "items": [
+    [
+     "lit",
+     "Frankenstein ou le Prométhée moderne"
+    ],
+    [
+     "essai",
+     "Cette fois, c’est différent"
+    ],
+    [
+     "eco",
+     "Espagne : la croissance que l’Europe envie, l’inflation en plus"
+    ],
+    [
+     "geo",
+     "Congrès démocrate : le frein est là, le volant reste à Trump"
+    ],
+    [
+     "log",
+     "Fret aérien : l’IA remplit les soutes, les transitaires encaissent"
+    ],
+    [
+     "ent",
+     "Samsung : des profits historiques, des téléphones dans le rouge"
+    ]
+   ]
+  },
   {
    "date": "2026-11-03",
    "label": "Mardi 3 novembre",
