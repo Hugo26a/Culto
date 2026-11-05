@@ -1,0 +1,33 @@
+name: Échantillons de voix
+on:
+  push:
+    branches: [voix-tests]
+    paths: ["tools/voix/**", ".github/workflows/voix-echantillons.yml"]
+permissions:
+  contents: write
+jobs:
+  voix:
+    strategy:
+      fail-fast: false
+      matrix:
+        moteur: [xtts, chatterbox]
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+      - name: Installer le moteur
+        run: |
+          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          if [ "${{ matrix.moteur }}" = xtts ]; then pip install -q coqui-tts; else pip install -q chatterbox-tts; fi
+      - name: Générer
+        env: { COQUI_TOS_AGREED: "1" }
+        run: python tools/voix/samples.py ${{ matrix.moteur }}
+      - uses: actions/upload-artifact@v4
+        with: { name: "voix-${{ matrix.moteur }}", path: voix-echantillons }
+      - name: Publier les échantillons sur la branche
+        run: |
+          git config user.name "Culto bot"; git config user.email "culto@users.noreply.github.com"
+          for i in 1 2 3; do git pull -q --rebase origin voix-tests && git add voix-echantillons && git commit -qm "Échantillons ${{ matrix.moteur }}" && git push -q origin HEAD:voix-tests && break; sleep 5; done
