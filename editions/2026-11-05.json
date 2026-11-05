@@ -1,0 +1,1147 @@
+{
+ "date": "2026-11-05",
+ "label": "Jeudi 5 novembre 2026",
+ "n": 19,
+ "example": false,
+ "week": {
+  "start": "2026-11-02",
+  "label": "Semaine du 2 novembre",
+  "day": 4,
+  "words": [
+   {
+    "key": "tributaire",
+    "w": "Tributaire",
+    "ph": "[tʁi.by.tɛʁ] · adjectif",
+    "short": "Qui dépend étroitement d’une chose ou d’une personne.",
+    "def": "Qui dépend de quelque chose pour fonctionner ou exister, sans pouvoir s’en affranchir facilement. On dit « être tributaire de ». Le mot est plus précis que « dépendant » : il souligne une contrainte subie, souvent extérieure, comme un fournisseur, un climat ou une décision.",
+    "ety": "Du latin tributarius, « soumis à l’impôt », de tributum, « tribut ». Le tributaire payait une redevance à un pouvoir plus fort. En géographie, un cours d’eau tributaire se jette dans un autre.",
+    "ex": "Notre planning reste tributaire de la livraison des composants par notre fournisseur taïwanais.",
+    "syn": "dépendant, assujetti, subordonné, lié à"
+   },
+   {
+    "key": "exacerber",
+    "w": "Exacerber",
+    "ph": "[ɛɡ.za.sɛʁ.be] · verbe",
+    "short": "Rendre plus vif, plus aigu, plus intense.",
+    "def": "Rendre plus forte une tension, une douleur ou un sentiment déjà présents. On l’emploie pour ce qui existait avant et que l’on aggrave : on exacerbe une rivalité, une colère, un déséquilibre. Il ne s’emploie pas pour ce qui naît de rien.",
+    "ety": "Du latin exacerbare, « irriter », formé sur acerbus, « aigre, âpre », qui a aussi donné « acerbe ».",
+    "ex": "Le retard de livraison a exacerbé les tensions entre l’acheteur et le fournisseur.",
+    "syn": "aggraver, aviver, attiser, intensifier"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Hamlet",
+   "by": "William Shakespeare · vers 1601",
+   "tagline": "Le prince qui tarde à frapper",
+   "min": 10,
+   "exMin": 4,
+   "src": "William Shakespeare, Hamlet, prince de Danemark (vers 1599-1601 ; in-quarto de 1603 et de 1604-1605, Folio de 1623). Shakespeare est mort en 1616 : l’œuvre est dans le domaine public ; la citation est traduite de l’anglais par Culto. New World Encyclopedia, « Hamlet » (éditions, longueur, première mention de 1602). Wikipédia (en), « Sources of Hamlet » (Saxo, Belleforest, Ur-Hamlet). Shortlist, 2026 (datation, 4 042 vers).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Le roi du Danemark vient de mourir, et son frère Claudius a pris à la fois son trône et sa veuve. Un spectre révèle au jeune prince Hamlet que son père a été assassiné et exige vengeance. Hamlet feint la folie, doute, tue par erreur, et la cour entière s’effondre dans un duel final où presque tous périssent."
+      ],
+      [
+       "Le drame de la pensée",
+       "Hamlet n’est pas un lâche. Il veut être sûr, comprendre, agir juste. Plus il réfléchit, moins il agit. La pièce pose une question qui reste la nôtre : à partir de quand le doute cesse-t-il d’être une vertu pour devenir une fuite ?"
+      ],
+      [
+       "Une vengeance qui détruit tout",
+       "Le spectre réclame une mort. La pièce en compte huit : Polonius, Ophélie, Rosencrantz, Guildenstern, Gertrude, Laërte, Claudius et Hamlet. Shakespeare reprend le genre populaire de la tragédie de vengeance pour en montrer le coût."
+      ],
+      [
+       "Folie jouée, folie réelle",
+       "Hamlet simule la démence pour se protéger, mais on ne sait jamais où finit le jeu. Ophélie, elle, sombre pour de bon. Le théâtre tout entier repose ici sur le masque : chacun espionne, chacun joue un rôle."
+      ],
+      [
+       "Un pays malade",
+       "« Il y a quelque chose de pourri au royaume de Danemark », dit un officier dès le premier acte. Le crime d’un seul homme contamine l’État. La guerre menace, les conseillers mentent, et les amis deviennent des espions."
+      ],
+      [
+       "La phrase à ne pas mal placer",
+       "« Être ou ne pas être » n’est pas dit un crâne à la main. Le monologue est à l’acte III, et le crâne de Yorick, le bouffon, à l’acte V. L’image populaire a fondu deux scènes en une."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le spectre"
+    },
+    {
+     "p": "Une nuit glacée, sur les remparts d’Elseneur. Des sentinelles voient passer un fantôme en armure, sous les traits du roi défunt. Horatio, l’ami d’Hamlet, en est témoin. Le pays vit dans la peur : le jeune Fortinbras, prince de Norvège, veut reprendre par les armes des terres perdues par son père.",
+     "lead": 1
+    },
+    {
+     "p": "À la cour, le nouveau roi Claudius gouverne avec aisance. Il a épousé Gertrude, la veuve de son frère, moins de deux mois après les funérailles. Seul Hamlet porte encore le deuil. Étudiant à Wittenberg, il demande à y retourner, et on le lui refuse. Il se rend sur les remparts, suit le spectre et apprend tout : son père ne s’est pas fait piquer par un serpent, comme on l’a dit. Claudius lui a versé du poison dans l’oreille pendant son sommeil. Le spectre exige la vengeance, mais demande d’épargner Gertrude. Hamlet jure, et annonce à ses amis qu’il jouera désormais les fous."
+    },
+    {
+     "h5": "Les espions"
+    },
+    {
+     "p": "Polonius, le vieux conseiller du roi, surveille tout le monde. Il a envoyé son fils Laërte à Paris et interdit à sa fille Ophélie de recevoir Hamlet, qui lui faisait la cour. Lorsque le prince paraît devant elle, hagard, Polonius conclut que l’amour l’a rendu fou. Claudius, plus méfiant, fait venir deux camarades d’Hamlet, Rosencrantz et Guildenstern, pour le sonder. Hamlet les perce à jour immédiatement."
+    },
+    {
+     "p": "Une troupe de comédiens arrive au château. Hamlet a une idée : un spectre peut mentir, et il lui faut une preuve. Il fera jouer devant le roi une pièce qui reproduit le meurtre, et il observera son visage."
+    },
+    {
+     "h5": "La souricière"
+    },
+    {
+     "p": "Avant la représentation, Hamlet médite seul sur la mort et sur ce qui retient les hommes d’en finir."
+    },
+    {
+     "quote": "Être ou ne pas être, telle est la question.",
+     "cite": "Hamlet, acte III, scène 1 (traduction de Culto)"
+    },
+    {
+     "p": "Il croise ensuite Ophélie, tandis que Polonius et le roi écoutent, cachés, et il la rejette avec une cruauté qui la brise. Puis vient la pièce. Quand l’acteur verse le poison dans l’oreille du roi de théâtre, Claudius se lève, livide, et quitte la salle. Hamlet tient sa preuve."
+    },
+    {
+     "p": "Il trouve aussitôt le roi seul, à genoux, en prière. L’occasion est parfaite, et il y renonce : tué en priant, Claudius irait au ciel. L’ironie est cruelle, car celui-ci vient d’avouer qu’il ne parvient pas à se repentir. Hamlet rejoint alors sa mère, qu’il accable de reproches. Un bruit derrière la tapisserie : il frappe, croyant tenir le roi. C’est Polonius. Le spectre revient pour lui rappeler sa mission, et Gertrude, qui ne voit rien, croit son fils perdu."
+    },
+    {
+     "h5": "L’exil et le naufrage"
+    },
+    {
+     "p": "Claudius expédie Hamlet en Angleterre avec Rosencrantz et Guildenstern, porteurs d’une lettre scellée ordonnant sa mort. En route, le prince croise l’armée de Fortinbras, partie mourir pour un bout de terre polonaise, et la comparaison lui fait honte. Il découvre la lettre, la remplace par une autre qui condamne ses deux gardiens, et s’échappe à la faveur d’une attaque de pirates."
+    },
+    {
+     "p": "À Elseneur, Ophélie a perdu la raison. Elle chante, distribue des fleurs imaginaires, et se noie dans un ruisseau. Laërte revient de France avec des hommes en armes, réclamant le sang du meurtrier de son père. Claudius retourne sa colère vers Hamlet et monte avec lui un piège : un duel d’escrime amical, une lame non mouchetée et empoisonnée, et une coupe de vin empoisonné en réserve."
+    },
+    {
+     "h5": "Le duel"
+    },
+    {
+     "p": "Revenu au Danemark, Hamlet s’arrête au cimetière, où deux fossoyeurs plaisantent en creusant. Il tient le crâne de Yorick, le bouffon de son enfance, et songe que tout finit en poussière. Survient le cortège d’Ophélie : c’est sa tombe. Hamlet et Laërte s’y battent."
+    },
+    {
+     "p": "Le duel a lieu devant la cour. Gertrude boit à la santé de son fils dans la coupe empoisonnée. Laërte blesse Hamlet, les lames s’échangent dans la mêlée, et Hamlet le blesse à son tour. La reine s’effondre. Mourant, Laërte avoue le complot. Hamlet frappe enfin Claudius et le force à boire. Il meurt à son tour dans les bras d’Horatio, à qui il demande de raconter son histoire. Fortinbras entre dans une salle jonchée de corps et prend la couronne : le Danemark passe à l’étranger qu’on redoutait au premier acte."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Une vieille histoire de vengeance"
+    },
+    {
+     "p": "Shakespeare n’invente pas l’intrigue. Le chroniqueur danois Saxo Grammaticus raconte vers 1200 l’histoire d’Amleth, qui feint la folie pour venger son père. François de Belleforest la reprend en français en 1570. Une pièce anglaise aujourd’hui perdue, jouée dès 1589, y ajoutait probablement le fantôme. Shakespeare resserre l’action en quelques semaines, ajoute Laërte, Fortinbras et le théâtre dans le théâtre, et surtout retire au héros tout plan clair."
+    },
+    {
+     "h5": "Trois textes pour une pièce"
+    },
+    {
+     "p": "La pièce est écrite vers 1599-1601, et sa première trace date de juillet 1602. Il en existe trois versions : un in-quarto court de 1603, sans doute reconstitué de mémoire, un long de 1604-1605, et celui du Folio de 1623. Les éditions modernes les combinent. Avec 4 042 vers, c’est la plus longue pièce de Shakespeare, et les mises en scène la coupent presque toujours."
+    },
+    {
+     "h5": "La vie intérieure sur scène"
+    },
+    {
+     "p": "Le vrai événement est le monologue. Avant Hamlet, le théâtre montrait surtout des gens qui agissent. Ici, le public entre dans une conscience. Sa grande force est que le spectateur reste [[tributaire|tributaire]] de ce que le héros veut bien penser à voix haute, sans narrateur pour trancher : est-il fou, lâche, lucide ? Le doute du public double celui du personnage. Chaque retard [[exacerber|exacerbe]] la tension et accroît le nombre des victimes."
+    },
+    {
+     "p": "La lecture a beaucoup varié. Freud y voit, en 1900, un fils paralysé par sa jalousie envers sa mère. T. S. Eliot juge la pièce en partie ratée, car l’émotion du héros dépasserait sa cause. <em>Le Roi lion</em> de Disney en reprend la trame pour les enfants. Certains relient aussi la pièce au fils de Shakespeare, Hamnet, mort à onze ans en 1596, mais c’est une hypothèse."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’Hamlet parle à quiconque a déjà dû décider sans disposer de toutes les preuves. Il rappelle qu’on n’obtient jamais la certitude parfaite, et que ne pas choisir reste un choix, souvent le plus coûteux. La pièce donne aussi la mesure d’un pouvoir pourri : quand le sommet ment, tout le monde finit par espionner tout le monde."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Claudius a tué son frère, le roi du Danemark, et épousé sa veuve. Le spectre du père révèle tout à Hamlet et réclame vengeance. Le prince feint la folie, doute, tue par erreur, et la cour entière périt dans un duel final."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La pensée</b> : Hamlet n’est pas lâche. Il veut être sûr. Plus il réfléchit, moins il agit. Quand le doute devient-il une fuite ?",
+      "<b>La vengeance</b> : huit morts, dont le héros. Shakespeare montre le coût d’un genre populaire.",
+      "<b>La folie</b> : jouée par Hamlet, réelle chez Ophélie. Chacun espionne, chacun porte un masque.",
+      "<b>Le pays</b> : « Il y a quelque chose de pourri au royaume de Danemark. » Le crime d’un seul contamine l’État.",
+      "<b>L’erreur courante</b> : « Être ou ne pas être » est à l’acte III. Le crâne de Yorick est à l’acte V."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le spectre</b> : sur les remparts d’Elseneur, le fantôme du roi apprend à Hamlet que Claudius l’a empoisonné pendant son sommeil. Il exige vengeance, mais demande d’épargner Gertrude. Hamlet décide de jouer les fous.",
+      "<b>Les espions</b> : le conseiller Polonius interdit Hamlet à sa fille Ophélie. Claudius fait venir Rosencrantz et Guildenstern pour le sonder.",
+      "<b>La souricière</b> : Hamlet fait jouer le meurtre devant le roi. Claudius quitte la salle, livide. Hamlet tient sa preuve, le trouve en prière et n’ose pas frapper.",
+      "<b>L’erreur</b> : chez sa mère, il tue Polonius caché derrière une tapisserie.",
+      "<b>L’exil</b> : envoyé en Angleterre avec une lettre ordonnant sa mort, il la remplace et condamne ses deux gardiens. Il revient grâce à des pirates.",
+      "<b>Ophélie</b> : elle perd la raison et se noie. Laërte revient pour venger son père, et Claudius monte avec lui un duel truqué.",
+      "<b>Le cimetière</b> : Hamlet tient le crâne de Yorick, puis découvre que la tombe est celle d’Ophélie.",
+      "<b>La fin</b> : Gertrude boit le poison. Hamlet et Laërte sont blessés par la lame empoisonnée. Laërte avoue, Hamlet tue Claudius et meurt. Fortinbras, le Norvégien, prend la couronne."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Les sources</b> : Saxo Grammaticus vers 1200, Belleforest en 1570, une pièce perdue jouée dès 1589. Shakespeare resserre l’action et retire au héros tout plan clair.",
+      "<b>Les textes</b> : écrite vers 1599-1601, en trois versions (1603, 1604-1605, 1623). Avec 4 042 vers, c’est sa plus longue pièce.",
+      "<b>Le monologue</b> : le public entre dans une conscience. Il reste [[tributaire|tributaire]] de ce que le héros pense à voix haute, sans narrateur pour trancher. Chaque retard [[exacerber|exacerbe]] la tension.",
+      "<b>Les lectures</b> : Freud y voit, en 1900, une jalousie envers la mère. Eliot juge la pièce en partie ratée. <em>Le Roi lion</em> en reprend la trame.",
+      "<b>Aujourd’hui</b> : on ne décide jamais avec toutes les preuves, et ne pas choisir reste un choix."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Un long chemin vers la liberté",
+   "by": "Nelson Mandela · 1994",
+   "min": 9,
+   "exMin": 3,
+   "src": "Nelson Mandela, Long Walk to Freedom (Little, Brown, 1994) ; édition française Fayard, 1995. Nelson Mandela Foundation, chronologie des procès et des détentions (dates, numéros de prisonnier). Mental Floss, « How Nelson Mandela Wrote Long Walk to Freedom in Prison » (manuscrit clandestin). Wikipédia (en), « Long Walk to Freedom » (éditeur, prix Alan Paton, film de 2013). SAPeople, 2024, d’après la Commission électorale (résultats 1994-2019). BusinessTech et The Namibian, juin 2024 (résultats 2024).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Nelson Mandela raconte sa vie, du village du Transkei à la présidence de l’Afrique du Sud. Avocat, militant, chef clandestin, puis prisonnier pendant 27 ans, il sort de cellule pour négocier avec ceux qui l’ont enfermé. Le livre s’arrête à son investiture, le 10 mai 1994, et montre comment un homme transforme la haine en stratégie."
+      ],
+      [
+       "La prison comme école",
+       "Mandela entre à Robben Island à 45 ans et quitte Victor Verster à 71 ans. Sur l’île, ≈ 18 ans, il étudie le droit, apprend l’afrikaans et forme les plus jeunes. Il en ressort avec une autorité que ses geôliers n’ont pas pu lui retirer."
+      ],
+      [
+       "Comprendre l’adversaire",
+       "Il apprend la langue et l’histoire des Afrikaners pour leur parler. Selon lui, on ne négocie bien qu’avec un ennemi qu’on connaît. Cette méthode explique en partie la transition de 1990-1994."
+      ],
+      [
+       "La violence, un moyen",
+       "Mandela n’est pas Gandhi. Après le massacre de Sharpeville, 69 morts en 1960, il fonde une branche armée. Il décrit la non-violence comme une tactique, abandonnée quand elle cesse de produire des résultats."
+      ],
+      [
+       "Le prix personnel",
+       "La politique lui coûte sa famille. On lui refuse d’assister aux obsèques de sa mère, en 1968, et de son fils aîné, en 1969. Ses enfants grandissent sans lui, et son mariage avec Winnie ne survit pas à sa libération."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un manuscrit caché dans un potager"
+    },
+    {
+     "p": "Le livre a une histoire digne d’un roman. Mandela le commence en secret à Robben Island, en 1975. Il écrit la nuit, à raison de 10 à 15 pages, et ses camarades Walter Sisulu et Ahmed Kathrada annotent le texte le matin. Mac Maharaj le recopie en lettres minuscules. Mandela enterre l’original dans le potager de la prison, où il est découvert. Mais la copie sort en 1976 dans les affaires de Maharaj, puis gagne Londres. Il ne paraît qu’en 1994, retravaillé avec le journaliste américain Richard Stengel. Il reçoit le prix Alan Paton en 1995 et devient un film en 2013.",
+     "lead": 1
+    },
+    {
+     "h5": "L’enfant du Transkei"
+    },
+    {
+     "p": "Rolihlahla Mandela naît le 18 juillet 1918 dans une lignée de conseillers du roi des Thembus. Son prénom xhosa signifie à peu près « fauteur de troubles ». Une institutrice lui donne celui de Nelson. Orphelin de père, il est élevé par le régent à la cour royale, où il observe un art décisif : écouter chacun longuement, puis parler le dernier. Exclu de l’université de Fort Hare en 1940 après une protestation, il fuit un mariage arrangé et arrive à Johannesburg en 1941."
+    },
+    {
+     "h5": "L’avocat et le clandestin"
+    },
+    {
+     "p": "Avec Walter Sisulu et Oliver Tambo, il crée la Ligue de la jeunesse de l’ANC en 1944. En 1948, les nationalistes afrikaners arrivent au pouvoir et bâtissent l’apartheid : classement racial, quartiers séparés, passeports intérieurs. En 1952, Mandela et Tambo ouvrent à Johannesburg le premier cabinet d’avocats noirs du pays. Accusé de trahison en 1956, il est acquitté en 1961."
+    },
+    {
+     "p": "Le 21 mars 1960, la police tire sur la foule à Sharpeville et tue 69 personnes. L’ANC est interdit. La répression [[exacerber|exacerbe]] la radicalisation : Mandela fonde en 1961 Umkhonto we Sizwe, la « lance de la nation », chargée de saboter des installations sans tuer. Il passe dans la clandestinité, voyage en Afrique pour chercher des soutiens et est arrêté le 5 août 1962 à un barrage près de Howick."
+    },
+    {
+     "h5": "Rivonia"
+    },
+    {
+     "p": "Déjà condamné à cinq ans, il rejoint le banc des accusés quand la police découvre en 1963 le quartier général de la branche armée, à Rivonia. Au procès, il risque la peine de mort. Le 20 avril 1964, il lit pendant plus de trois heures une déclaration où il assume le sabotage et défend l’idéal d’une société démocratique et sans race. Le 12 juin 1964, il est condamné à la perpétuité, avec sept coaccusés."
+    },
+    {
+     "stats": [
+      [
+       "27 ans",
+       "de détention, d’août 1962 à février 1990"
+      ],
+      [
+       "≈ 18 ans",
+       "à Robben Island, de 1964 à 1982"
+      ],
+      [
+       "466/64",
+       "son numéro de prisonnier sur l’île"
+      ],
+      [
+       "62,65 %",
+       "des voix pour l’ANC en 1994"
+      ]
+     ]
+    },
+    {
+     "h5": "Robben Island"
+    },
+    {
+     "p": "C’est le cœur du livre. Une cellule de deux mètres de côté environ, une paillasse, un seau. Dehors, la carrière de chaux, dont l’éclat lui abîme les yeux. Les détenus noirs sont les moins bien traités : ils portent des shorts, et ils n’ont droit au début qu’à une lettre et une visite tous les six mois. Toute leur vie, ou presque, reste [[tributaire|tributaire]] du bon vouloir des gardiens."
+    },
+    {
+     "p": "Mandela découvre alors une forme de victoire dans la discipline. Il refuse de courir, négocie chaque droit, traite ses gardiens avec une politesse qui les déconcerte. Les prisonniers se donnent des cours, à tel point qu’on parle d’« université de Robben Island ». Mandela étudie le droit par correspondance. La cruauté vient aussi du dehors : sa femme Winnie est harcelée, sa mère meurt en 1968, et son fils Thembi se tue en voiture en 1969."
+    },
+    {
+     "p": "Les années 1970 changent le climat. En 1976, les émeutes de Soweto envoient sur l’île une nouvelle génération de militants, plus radicaux, que Mandela doit convaincre. En 1980, une campagne mondiale fait de lui le prisonnier le plus célèbre de la planète, alors que son portrait reste interdit de publication dans son propre pays."
+    },
+    {
+     "h5": "La négociation"
+    },
+    {
+     "p": "En 1982, il est transféré à Pollsmoor, puis en 1988 dans une maison à la prison de Victor Verster, après une tuberculose. En 1985, il rejette une libération assortie de la condition de renoncer à la violence, et il prend pourtant seul une décision capitale : entamer, sans mandat, des discussions avec le pouvoir. Il sait que ses compagnons pourraient l’accuser de trahison. Le 2 février 1990, le président De Klerk légalise l’ANC. Le 11 février, Mandela sort à pied."
+    },
+    {
+     "p": "Les quatre années suivantes sont les plus dangereuses. Des violences font des milliers de morts, et l’assassinat du dirigeant communiste Chris Hani, en avril 1993, manque de tout faire basculer. Mandela calme le pays à la télévision. Il partage le Nobel de la paix avec De Klerk la même année. Le 27 avril 1994, il vote pour la première fois de sa vie, à 75 ans."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "L’usure du parti de Mandela",
+      "sub": "part des voix de l’ANC aux élections générales, en %",
+      "labels": [
+       "1994",
+       "1999",
+       "2004",
+       "2009",
+       "2014",
+       "2019",
+       "2024"
+      ],
+      "series": [
+       {
+        "name": "ANC",
+        "values": [
+         62.65,
+         66.35,
+         69.69,
+         65.9,
+         62.15,
+         57.5,
+         40
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "2024 : ≈ 40 %, 159 sièges sur 400, première perte de la majorité. Sources : SAPeople (IEC) pour 1994-2019 ; BusinessTech et The Namibian pour 2024."
+     }
+    },
+    {
+     "h5": "Les limites et les critiques"
+    },
+    {
+     "p": "L’autobiographie est aussi un texte politique, écrit par un dirigeant en campagne. Elle reste discrète sur sa proximité avec le Parti communiste, que des historiens ont depuis documentée, et sur les dérives de Winnie. Elle lisse les désaccords internes à l’ANC. Le Times notait que les derniers chapitres portent la marque de leur coauteur. Enfin, la promesse sociale n’a pas été tenue : l’Afrique du Sud reste l’un des pays les plus inégalitaires du monde, et l’ANC a perdu sa majorité en 2024."
+    },
+    {
+     "h5": "La postérité"
+    },
+    {
+     "p": "Mandela meurt le 5 décembre 2013, à 95 ans, après avoir quitté la présidence au bout d’un seul mandat, en 1999. Son livre reste un manuel de leadership. Il enseigne trois choses : tenir sur la durée, parler la langue de son adversaire, et savoir à quel moment une victoire doit prendre la forme d’un compromis."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Avocat, chef clandestin, prisonnier pendant 27 ans, Mandela sort de cellule pour négocier avec ceux qui l’ont enfermé. Son autobiographie s’arrête à son investiture, le 10 mai 1994."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le manuscrit</b> : commencé en secret à Robben Island en 1975. L’original est enterré dans le potager, puis découvert. Une copie gagne Londres. Parution en 1994, avec Richard Stengel.",
+      "<b>L’enfance</b> : né en 1918 dans une lignée de conseillers thembus. Il apprend à la cour à écouter, puis à parler le dernier.",
+      "<b>La fuite</b> : exclu de Fort Hare en 1940, il refuse un mariage arrangé et rejoint Johannesburg en 1941.",
+      "<b>L’avocat</b> : Ligue de la jeunesse de l’ANC en 1944, premier cabinet d’avocats noirs en 1952, acquitté au procès pour trahison en 1961.",
+      "<b>La bascule</b> : Sharpeville, 69 morts en 1960. La répression [[exacerber|exacerbe]] la radicalisation : il fonde une branche armée en 1961. Pour lui, la non-violence est une tactique.",
+      "<b>Rivonia</b> : arrêté en 1962, il risque la mort et assume le sabotage. Perpétuité le 12 juin 1964.",
+      "<b>L’île</b> : cellule minuscule, carrière de chaux, une lettre et une visite tous les six mois au début. Sa vie reste [[tributaire|tributaire]] des gardiens. Il étudie le droit et apprend l’afrikaans.",
+      "<b>L’adversaire</b> : on ne négocie bien qu’avec un ennemi qu’on connaît. Il apprend la langue et l’histoire des Afrikaners.",
+      "<b>Le coût</b> : interdit d’obsèques pour sa mère en 1968 et son fils en 1969.",
+      "<b>La célébrité</b> : Soweto en 1976 envoie sur l’île une génération plus radicale. La campagne mondiale de 1980 fait de lui le prisonnier le plus célèbre.",
+      "<b>Les transferts</b> : Pollsmoor en 1982, Victor Verster en 1988, après une tuberculose.",
+      "<b>La négociation</b> : en 1985, il refuse une libération sous condition, mais ouvre seul le dialogue. L’ANC est légalisé le 2 février 1990, et il sort le 11."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "27 ans",
+       "de détention, d’août 1962 à février 1990"
+      ],
+      [
+       "≈ 18 ans",
+       "à Robben Island, de 1964 à 1982"
+      ],
+      [
+       "466/64",
+       "son numéro de prisonnier sur l’île"
+      ],
+      [
+       "62,65 %",
+       "des voix pour l’ANC en 1994"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "L’usure du parti de Mandela",
+      "sub": "part des voix de l’ANC aux élections générales, en %",
+      "labels": [
+       "1994",
+       "1999",
+       "2004",
+       "2009",
+       "2014",
+       "2019",
+       "2024"
+      ],
+      "series": [
+       {
+        "name": "ANC",
+        "values": [
+         62.65,
+         66.35,
+         69.69,
+         65.9,
+         62.15,
+         57.5,
+         40
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "2024 : ≈ 40 %, 159 sièges sur 400, première perte de la majorité. Sources : SAPeople (IEC) pour 1994-2019 ; BusinessTech et The Namibian pour 2024."
+     }
+    },
+    {
+     "ul": [
+      "<b>La transition</b> : quatre ans de violences, l’assassinat de Chris Hani en 1993, le Nobel partagé avec De Klerk. Il vote pour la première fois à 75 ans.",
+      "<b>Les limites</b> : discret sur le Parti communiste et sur Winnie. Promesse sociale non tenue, ANC sans majorité en 2024.",
+      "<b>La fin</b> : il quitte la présidence après un seul mandat, en 1999, et meurt le 5 décembre 2013, à 95 ans.",
+      "<b>La leçon</b> : tenir sur la durée, parler la langue de l’adversaire, accepter le compromis au bon moment."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Choc pétrolier : pourquoi Londres monte ses taux quand même",
+   "by": "Analyse",
+   "fig": "4 %",
+   "figl": "taux attendu ce jeudi à Londres",
+   "min": 3,
+   "exMin": 2,
+   "src": "Eurostat, estimation rapide de l’inflation d’octobre, 4 novembre 2026, via ActionForex et FatTail. HomeOwners Alliance, 4 novembre 2026 (sondage Reuters, marchés, emprunts). investingLive, novembre 2026 (vote de septembre, services, projections, Goldman Sachs). The Today News et The Beaver, novembre 2026 (dernière hausse, Ofgem, chômage, Brent, gaz, Moneyfacts). ONS (pic de 11,1 % en octobre 2022). IA Insights, 2 novembre 2026 (Brent, Fed). Décision de la Banque d’Angleterre inconnue à la rédaction. Données arrêtées au 4 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La Banque d’Angleterre annonce sa décision ce jeudi à 13 h, heure de Paris. Une hausse de 3,75 % à 4 % est très largement attendue. Ce serait la première depuis août 2023. La veille, Eurostat a chiffré l’inflation de la zone euro à 4 %. Or une règle classique veut qu’une banque centrale regarde au-delà d’un choc pétrolier. Pourquoi ne le fait-elle plus ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "4 %",
+       "taux directeur attendu, contre 3,75 %"
+      ],
+      [
+       "3,5 %",
+       "inflation britannique, septembre"
+      ],
+      [
+       "4,0 %",
+       "inflation en zone euro, octobre"
+      ],
+      [
+       "54 sur 63",
+       "économistes attendant la hausse (Reuters)"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le choc d’énergie frappe inégalement",
+      "sub": "inflation sur un an, en % (octobre, Royaume-Uni : septembre)",
+      "rows": [
+       [
+        "Italie",
+        5.6
+       ],
+       [
+        "Belgique",
+        5.2
+       ],
+       [
+        "Espagne",
+        4.9
+       ],
+       [
+        "Zone euro",
+        4.0
+       ],
+       [
+        "France",
+        3.8
+       ],
+       [
+        "Royaume-Uni",
+        3.5
+       ],
+       [
+        "Pays-Bas",
+        3.3
+       ],
+       [
+        "Allemagne",
+        2.8
+       ]
+      ],
+      "suffix": " %",
+      "note": "Estimations rapides, chiffres définitifs le 18 novembre. Royaume-Uni : IPC, ONS. Sources : Eurostat, 4 novembre 2026, via ActionForex ; ONS via HomeOwners Alliance."
+     }
+    },
+    {
+     "h": "La règle et sa limite"
+    },
+    {
+     "p": "Monter les taux ne produit pas un baril de plus. La mesure freine la demande, avec retard, et pèse sur des ménages déjà touchés à la pompe. D’où le réflexe habituel : ne pas réagir à un choc d’offre, s’il reste passager. Mais cette règle a une condition. Le choc ne doit pas se diffuser aux salaires et aux autres prix. C’est ce qu’on appelle les effets de second tour."
+    },
+    {
+     "h": "Pourquoi Londres n’attend plus"
+    },
+    {
+     "p": "La durée a changé le calcul. La guerre du Golfe entre dans son neuvième mois. Le Brent reste au-dessus de 100 dollars, et le gaz européen a dépassé 100 euros le mégawattheure fin octobre. L’inflation de septembre a atteint 3,5 %, contre 3 % prévus par la Banque. Celle des services approche 4 %. Le plafond des factures d’énergie a gagné 3,6 % en octobre, et une hausse de 22 % est attendue en janvier. Goldman Sachs voit l’inflation dépasser 4 % au premier semestre 2027."
+    },
+    {
+     "p": "La mémoire compte aussi. En 2022, les banques centrales ont été accusées d’avoir tardé, et l’inflation britannique a culminé à 11,1 %. Attendre encore [[exacerber|exacerberait]] le risque que tout le monde s’habitue à des prix élevés. En septembre, trois membres sur neuf voulaient déjà monter."
+    },
+    {
+     "h": "Le continent diverge"
+    },
+    {
+     "p": "La zone euro présente un visage différent. L’énergie y gagne 20,8 % sur un an, mais l’inflation sous-jacente reste à 2,5 %. Les services sont à 3,3 %. La contagion paraît donc limitée, et les écarts sont forts : 5,6 % en Italie, 2,8 % en Allemagne. La BCE a relevé son taux de dépôt à 2,50 % cette année et se réunit les 16 et 17 décembre."
+    },
+    {
+     "p": "Le coût est réel. Le chômage britannique atteint 4,7 %, et les prêts immobiliers à taux fixe approchent 6 %. Les marchés parient sur un taux de 4,75 à 5 % en 2027, quand de nombreux économistes s’arrêtent à 4,25 %."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Regardez le vote et le discours plus que la hausse elle-même : un 7 voix contre 2 est attendu. Sur le fond, l’Europe reste [[tributaire|tributaire]] de l’énergie importée, et aucune décision de taux ne rouvrira Ormuz. Une banque centrale ne peut qu’empêcher un choc ponctuel de devenir une habitude."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le rendez-vous</b> : décision à 13 h, heure de Paris. Hausse attendue de 3,75 % à 4 %, la première depuis août 2023.",
+      "<b>La règle</b> : on ne réagit pas à un choc d’offre passager, sauf s’il touche salaires et autres prix. Ce sont les effets de second tour.",
+      "<b>La durée</b> : neuvième mois de guerre, Brent au-dessus de 100 $, gaz au-dessus de 100 €/MWh fin octobre.",
+      "<b>L’inflation</b> : 3,5 % en septembre contre 3 % prévus. Services près de 4 %. Plafond énergie : +3,6 % en octobre, +22 % attendus en janvier.",
+      "<b>La mémoire</b> : pic à 11,1 % en 2022, et des banques centrales accusées d’avoir tardé. Attendre [[exacerber|exacerberait]] le risque d’habitude.",
+      "<b>La zone euro</b> : énergie +20,8 %, sous-jacente 2,5 %, services 3,3 %. Dépôt à 2,50 %, réunion les 16 et 17 décembre.",
+      "<b>Le coût</b> : chômage 4,7 %, prêts fixes près de 6 %. Marchés : 4,75-5 % en 2027, contre 4,25 % pour nombre d’économistes.",
+      "<b>À retenir</b> : vote attendu à 7 contre 2. L’Europe reste [[tributaire|tributaire]] de l’énergie importée, et aucun taux ne rouvrira Ormuz."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "4 %",
+       "taux directeur attendu, contre 3,75 %"
+      ],
+      [
+       "3,5 %",
+       "inflation britannique, septembre"
+      ],
+      [
+       "4,0 %",
+       "inflation en zone euro, octobre"
+      ],
+      [
+       "54 sur 63",
+       "économistes attendant la hausse (Reuters)"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le choc d’énergie frappe inégalement",
+      "sub": "inflation sur un an, en % (octobre, Royaume-Uni : septembre)",
+      "rows": [
+       [
+        "Italie",
+        5.6
+       ],
+       [
+        "Belgique",
+        5.2
+       ],
+       [
+        "Espagne",
+        4.9
+       ],
+       [
+        "Zone euro",
+        4.0
+       ],
+       [
+        "France",
+        3.8
+       ],
+       [
+        "Royaume-Uni",
+        3.5
+       ],
+       [
+        "Pays-Bas",
+        3.3
+       ],
+       [
+        "Allemagne",
+        2.8
+       ]
+      ],
+      "suffix": " %",
+      "note": "Estimations rapides, chiffres définitifs le 18 novembre. Royaume-Uni : IPC, ONS. Sources : Eurostat, 4 novembre 2026, via ActionForex ; ONS via HomeOwners Alliance."
+     }
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "COP31 : l’Amérique absente, deux capitaines à la barre",
+   "by": "Analyse",
+   "fig": "2,8 °C",
+   "figl": "trajectoire des politiques actuelles",
+   "min": 3,
+   "exMin": 2,
+   "src": "PNUE, Emissions Gap Report 2026, via ONU Info et Time, 21 octobre 2026. Wikipédia (en), « 2026 United Nations Climate Change Conference » (dates, présidence, compromis). The Rio Times, 29 octobre 2026 (dirigeants, financement, retrait américain). Warbrief, 2026 (feuille de route de 1 300 milliards, cible d’électrification, UE, Chine). AP via Yahoo, novembre 2026 (feuille de route brésilienne). Données arrêtées au 4 novembre 2026, conférence non ouverte à la rédaction.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La COP31 s’ouvre lundi à Antalya, en Turquie, pour douze jours. Elle se tient sans les États-Unis comme partie à l’accord de Paris, dont le retrait est devenu effectif en janvier. Elle s’appuie sur un constat dur : selon le PNUE, le seuil de 1,5 °C sera dépassé, et les politiques actuelles mènent à 2,8 °C. À quoi sert encore une telle conférence ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "2,8 °C",
+       "réchauffement avec les politiques actuelles"
+      ],
+      [
+       "2,6 °C",
+       "si les engagements sont tenus"
+      ],
+      [
+       "85",
+       "dirigeants annoncés par la Turquie"
+      ],
+      [
+       "300 Md$",
+       "par an d’ici 2035, objectif financier"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "L’effort pour limiter le dépassement",
+      "sub": "baisse des émissions requise par rapport à 2025, en %",
+      "labels": [
+       "2030",
+       "2035",
+       "2040"
+      ],
+      "series": [
+       {
+        "name": "Baisse requise",
+        "values": [
+         18,
+         45,
+         69
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Scénario de dépassement le plus faible, avec un pic de 1,7 à 1,8 °C vers le milieu du siècle. Source : PNUE, Emissions Gap Report 2026, via ONU Info."
+     }
+    },
+    {
+     "h": "Un attelage inédit"
+    },
+    {
+     "p": "L’organisation est née d’un blocage. La Turquie et l’Australie voulaient toutes deux accueillir le sommet. Le compromis de novembre 2025 est inédit : Ankara reçoit et préside avec Murat Kurum, tandis que l’Australien Chris Bowen conduit les négociations formelles. Sans cet accord, la conférence aurait eu lieu à Bonn. Le risque est visible : deux pays, deux agendas. Tous deux sont d’ailleurs critiqués pour leurs projets dans le charbon et le gaz."
+    },
+    {
+     "p": "Une réunion préparatoire s’est tenue aux Fidji en octobre, pour donner la parole au Pacifique. Le sommet des dirigeants aura lieu les 11 et 12 novembre, et Kurum annonce 85 participants."
+    },
+    {
+     "h": "La chaise vide"
+    },
+    {
+     "p": "Washington a aussi annoncé en janvier son départ de la convention climat de l’ONU. Selon le PNUE, ce retrait aggrave les projections, et les États-Unis sont l’exception du G20 : leurs émissions progressent, portées par les centres de données et le charbon. Des États et des villes américains feront le déplacement, sans engager le pays. La Chine, premier émetteur, se retrouve en position centrale, mais soutient avec les pays du Golfe que les pays riches doivent payer en premier."
+    },
+    {
+     "h": "Deux fractures"
+    },
+    {
+     "p": "La première est l’argent. L’objectif de 300 milliards de dollars par an d’ici 2035, fixé à Bakou, reste à concrétiser, et l’UE exclut de nouvelles promesses. Les pays vulnérables restent [[tributaire|tributaires]] de budgets publics sous pression. La seconde touche les fossiles. La COP30 de Belém s’était achevée sans les nommer. Le Brésil a publié mardi une feuille de route volontaire, en trois phases de 2028 à 2033, discutée le 10 novembre. Ce n’est pas un texte à négocier, et un nouvel accord paraît peu probable."
+    },
+    {
+     "p": "La guerre du Golfe [[exacerber|exacerbe]] ce débat. Elle montre le danger de dépendre du pétrole importé, mais sa facture immédiate peut aussi inciter certains pays à se rabattre sur le charbon."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une COP ne fixe plus l’avenir du climat, qui se joue dans les usines et les réseaux : la capacité renouvelable mondiale a progressé trois fois plus vite que prévu depuis l’accord de Paris. Elle sert à garder ouverte une table, à compter les efforts et à faire circuler l’argent. Sans Washington, cette table se joue désormais entre Pékin, Bruxelles et le Sud."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le rendez-vous</b> : Antalya, du 9 au 20 novembre. Sommet des dirigeants les 11 et 12, avec 85 participants annoncés.",
+      "<b>Le constat</b> : le PNUE juge le dépassement de 1,5 °C acquis. Politiques actuelles : 2,8 °C. Engagements tenus : 2,6 °C.",
+      "<b>L’effort</b> : −18 % en 2030, −45 % en 2035, −69 % en 2040 pour limiter le pic à 1,7-1,8 °C.",
+      "<b>L’attelage</b> : la Turquie reçoit et préside, l’Australien Chris Bowen conduit les négociations. Deux pays critiqués pour le charbon et le gaz.",
+      "<b>La chaise vide</b> : retrait américain de Paris effectif, et départ annoncé de la convention. Les émissions américaines progressent.",
+      "<b>La Chine</b> : position centrale, mais avec le Golfe, elle veut que les pays riches paient d’abord.",
+      "<b>L’argent</b> : 300 Md$ par an d’ici 2035. L’UE exclut de nouvelles promesses. Les pays vulnérables restent [[tributaire|tributaires]] de budgets sous pression.",
+      "<b>Les fossiles</b> : feuille de route brésilienne volontaire, 2028-2033. La guerre du Golfe [[exacerber|exacerbe]] le débat.",
+      "<b>À retenir</b> : la COP compte les efforts et fait circuler l’argent, mais le climat se joue dans les usines et les réseaux."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "2,8 °C",
+       "réchauffement avec les politiques actuelles"
+      ],
+      [
+       "2,6 °C",
+       "si les engagements sont tenus"
+      ],
+      [
+       "85",
+       "dirigeants annoncés par la Turquie"
+      ],
+      [
+       "300 Md$",
+       "par an d’ici 2035, objectif financier"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "L’effort pour limiter le dépassement",
+      "sub": "baisse des émissions requise par rapport à 2025, en %",
+      "labels": [
+       "2030",
+       "2035",
+       "2040"
+      ],
+      "series": [
+       {
+        "name": "Baisse requise",
+        "values": [
+         18,
+         45,
+         69
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Scénario de dépassement le plus faible, avec un pic de 1,7 à 1,8 °C vers le milieu du siècle. Source : PNUE, Emissions Gap Report 2026, via ONU Info."
+     }
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Conteneurs : les navires arrivent en grappe",
+   "by": "Analyse",
+   "fig": "50,6 %",
+   "figl": "navires à l’heure en septembre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Sea-Intelligence, Global Liner Performance n° 182, octobre 2026 (fiabilité, retards, transporteurs). Sea-Intelligence, commentaire « Unprecedented Capacity Levels in Oct/Nov », 29 octobre 2026, via Global Maritime Hub, 3 novembre 2026. The Loadstar, 2026, d’après Sea-Intelligence (capacité absorbée par les retards). Drewry, World Container Index, 29 octobre 2026, et 30 octobre 2025 via MTS Insights. Maersk, calendrier des résultats. Données arrêtées au 29 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Sea-Intelligence décrit des capacités sans précédent au départ de l’Asie en octobre et novembre. Pourtant, Drewry attend une baisse de 11 % sur un mois des importations maritimes américaines en novembre, et le conteneur vaut encore 2,4 fois son prix d’il y a un an. Comment l’abondance et la cherté cohabitent-elles ? L’explication tient en un mot du métier : le <em>bunching</em>, l’arrivée des navires en grappe.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "50,6 %",
+       "navires à l’heure en septembre"
+      ],
+      [
+       "6,65 jours",
+       "retard moyen des arrivées tardives"
+      ],
+      [
+       "4 429 $",
+       "conteneur de 40 pieds, indice mondial"
+      ],
+      [
+       "≈ 400 000",
+       "EVP par semaine vers la côte Ouest nord-américaine, novembre"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le Pacifique reste le plus cher",
+      "sub": "tarif spot au départ de Shanghai, 29 octobre 2026, en dollars par conteneur de 40 pieds",
+      "rows": [
+       [
+        "New York",
+        9631
+       ],
+       [
+        "Los Angeles",
+        7514
+       ],
+       [
+        "Gênes",
+        4151
+       ],
+       [
+        "Rotterdam",
+        3686
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : Drewry, World Container Index, 29 octobre 2026."
+     }
+    },
+    {
+     "h": "Le mécanisme de la grappe"
+    },
+    {
+     "p": "Une ligne régulière fonctionne comme un bus : un départ par semaine, à jour fixe. Quand un port asiatique sature, le navire repart en retard, et le suivant le rattrape. Deux départs prévus à sept jours d’écart tombent alors la même semaine. C’est ce qui s’est passé : la congestion et le manque de fiabilité du troisième trimestre ont reporté des départs sur octobre et novembre."
+    },
+    {
+     "p": "Résultat : plus de 350 000 EVP par semaine vers l’Europe du Nord, plus de 260 000 vers la Méditerranée, et près de 393 000 vers la côte Ouest nord-américaine en octobre, avant un record attendu à 400 000. Ces chiffres ne décrivent pas de nouveaux navires, mais les mêmes, mal répartis dans le temps. Et une grappe sature à son tour les quais d’arrivée, ce qui [[exacerber|exacerbe]] le désordre initial."
+    },
+    {
+     "h": "La capacité fantôme"
+    },
+    {
+     "p": "La fiabilité mondiale est passée de 64,5 % en mai à moins de 50 % en août, puis 50,6 % en septembre. Aucun des treize grands armateurs ne progresse sur un an. Maersk reste le plus ponctuel avec 64,8 %, Wan Hai ferme la marche à 26,7 %."
+    },
+    {
+     "p": "Le retard coûte de la capacité. Un navire en attente ne transporte rien. Sea-Intelligence estime que les délais immobilisent 4 à 6 % de la flotte mondiale, contre 2,2 % historiquement, soit jusqu’à 1,8 million d’EVP : l’équivalent de la flotte d’Evergreen. Ajoutez Ormuz, où deux navires seulement sont passés la semaine dernière selon Drewry, et les prix tiennent, à 4 429 dollars, contre 1 822 il y a un an."
+    },
+    {
+     "p": "Le signal se retourne toutefois. L’indice a perdu 3 % en une semaine, Drewry prévoit de nouvelles baisses sur le Pacifique et les armateurs annulent des départs. Suez a vu passer 62 navires en une semaine, un plus haut de l’année."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Pour un chargeur, le chiffre de capacité dit peu de choses. Seule compte la place réelle, à la bonne semaine. Le planning reste [[tributaire|tributaire]] d’un service à un sur deux : mieux vaut intégrer une marge de stock que parier sur l’horaire publié. Maersk publie ce jeudi ses résultats du troisième trimestre, à suivre pour ses prévisions de fin d’année."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le paradoxe</b> : capacités sans précédent, importations américaines attendues à −11 % sur un mois en novembre, mais un prix 2,4 fois supérieur à celui d’il y a un an.",
+      "<b>Le mécanisme</b> : un port sature, un navire repart en retard, le suivant le rattrape. Deux départs tombent la même semaine.",
+      "<b>Les volumes</b> : plus de 350 000 EVP par semaine vers l’Europe du Nord, plus de 260 000 vers la Méditerranée, ≈ 400 000 vers la côte Ouest nord-américaine.",
+      "<b>L’effet</b> : pas de nouveaux navires, les mêmes mal répartis. La grappe sature les quais et [[exacerber|exacerbe]] le désordre.",
+      "<b>La fiabilité</b> : 64,5 % en mai, 50,6 % en septembre. Maersk 64,8 %, Wan Hai 26,7 %. Aucun des treize grands ne progresse sur un an.",
+      "<b>La capacité fantôme</b> : 4 à 6 % de la flotte immobilisée, contre 2,2 %, soit jusqu’à 1,8 M d’EVP.",
+      "<b>Le signal</b> : indice −3 % en une semaine, à 4 429 $ contre 1 822 $. Suez : 62 navires, Ormuz : 2.",
+      "<b>À retenir</b> : le planning reste [[tributaire|tributaire]] d’un service à un sur deux. Prévoir une marge de stock. Maersk publie ce jeudi."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "50,6 %",
+       "navires à l’heure en septembre"
+      ],
+      [
+       "6,65 jours",
+       "retard moyen des arrivées tardives"
+      ],
+      [
+       "4 429 $",
+       "conteneur de 40 pieds, indice mondial"
+      ],
+      [
+       "≈ 400 000",
+       "EVP par semaine vers la côte Ouest nord-américaine, novembre"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le Pacifique reste le plus cher",
+      "sub": "tarif spot au départ de Shanghai, 29 octobre 2026, en dollars par conteneur de 40 pieds",
+      "rows": [
+       [
+        "New York",
+        9631
+       ],
+       [
+        "Los Angeles",
+        7514
+       ],
+       [
+        "Gênes",
+        4151
+       ],
+       [
+        "Rotterdam",
+        3686
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : Drewry, World Container Index, 29 octobre 2026."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "McDonald’s : moins de clients américains, plus de profit",
+   "by": "Analyse",
+   "fig": "− 0,2 %",
+   "figl": "ventes comparables aux États-Unis",
+   "min": 3,
+   "exMin": 2,
+   "src": "McDonald’s, communiqué du T3 2026, 4 novembre 2026, via StockTitan. Conférence de résultats du 4 novembre 2026, via Investing.com et TradingKey. AP via 1011 Now, 4 novembre 2026 (test à 1 900 restaurants, trafic du secteur, action, prix). Yahoo Finance, 4 novembre 2026 (Placer.ai, investissements). Données arrêtées au 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "McDonald’s a vu ses ventes comparables reculer de 0,2 % aux États-Unis au troisième trimestre, malgré une hausse mondiale de 1,5 %. Les visites y ont baissé. Le chiffre d’affaires ne gagne que 1 %, à 7,16 milliards de dollars. Le bénéfice net, lui, progresse de 9 %, et l’action a nettement monté. Comment une entreprise qui perd des clients peut-elle gagner plus ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "− 0,2 %",
+       "ventes comparables américaines, T3"
+      ],
+      [
+       "+ 9 %",
+       "bénéfice net, 2,49 Md$"
+      ],
+      [
+       "48,3 %",
+       "marge opérationnelle ajustée, sur neuf mois"
+      ],
+      [
+       "> 38 Md$",
+       "ventes du réseau, T3"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le ralentissement touche surtout les marchés riches",
+      "sub": "ventes comparables sur un an, en %",
+      "labels": [
+       "Monde",
+       "États-Unis",
+       "Intl opérés",
+       "Intl licenciés"
+      ],
+      "series": [
+       {
+        "name": "T3 2025",
+        "values": [
+         3.6,
+         2.4,
+         4.3,
+         4.7
+        ]
+       },
+       {
+        "name": "T3 2026",
+        "values": [
+         1.5,
+         -0.2,
+         1.4,
+         4.2
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Intl opérés : grands marchés gérés par le groupe (dont France, Allemagne, Australie). Source : McDonald’s, résultats du T3 2026, 4 novembre 2026."
+     }
+    },
+    {
+     "h": "Une entreprise de loyers"
+    },
+    {
+     "p": "La réponse tient au modèle. McDonald’s ne vit pas surtout du hamburger, mais des loyers et redevances de ses franchisés, assis sur leurs ventes. Le groupe vise 98 % de restaurants franchisés d’ici 2028. Le réseau vend plus de 38 milliards de dollars par trimestre, plus de cinq fois son propre chiffre d’affaires, et la marge opérationnelle ajustée atteint 48,3 % sur neuf mois. Le résultat d’exploitation gagne 7 %, à 3,6 milliards."
+    },
+    {
+     "p": "Les restaurateurs portent l’essentiel du choc : la nourriture, le personnel et les rénovations. McDonald’s attend une inflation de milieu de fourchette à un chiffre sur les matières et les emballages en 2027. Son programme de rénovation laisse d’ailleurs des franchisés sceptiques."
+    },
+    {
+     "h": "Le client modeste s’en va"
+    },
+    {
+     "p": "Le point faible est le bas de l’échelle. Le carburant et l’inflation [[exacerber|exacerbent]] la pression sur les petits budgets, et le trafic du fast-food américain recule de 2,6 % selon Revenue Management Solutions. En août, 60 % des restaurants américains seulement proposaient le menu McValue remanié. Le PDG Chris Kempczinski admet qu’il manquait une vraie offre d’entrée de gamme."
+    },
+    {
+     "p": "Un test est donc en cours dans 1 900 restaurants, avec par exemple un McChicken et de petites frites à 3,50 dollars. Des franchisés totalisant 4 000 restaurants l’ont déjà imité, si bien que plus de 40 % du réseau est concerné. Le lancement national est prévu début 2027. Les ventes de menus phares gagnent environ 7 %, et les ventes américaines sont redevenues positives en septembre."
+    },
+    {
+     "h": "Le pari des boissons"
+    },
+    {
+     "p": "Le deuxième levier est la boisson. Les additions qui en contiennent une dépassent la moyenne d’environ 50 %. La gamme équipe 18 000 restaurants et doit toucher 7 000 autres en Europe d’ici mi-2027. Le groupe a aussi 41 milliards de dollars de ventes aux membres fidélisés sur douze mois. Reste la France, en deçà des attentes et perturbée par des manifestations."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "McDonald’s montre la force d’un modèle d’actifs et de redevances, mais ce modèle reste [[tributaire|tributaire]] de la santé des franchisés. À force de monter les prix, on perd le client qui fait le volume. La vraie question pour 2027 est simple : baisser le prix d’entrée ramènera-t-il ce client sans abîmer les marges des restaurants ?"
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : comparables américains −0,2 %, monde +1,5 %. Visites en baisse. Chiffre d’affaires +1 %, à 7,16 Md$. Bénéfice net +9 %, à 2,49 Md$.",
+      "<b>Le modèle</b> : loyers et redevances. Objectif de 98 % de restaurants franchisés en 2028. Le réseau vend plus de 38 Md$ par trimestre. Marge ajustée de 48,3 %.",
+      "<b>Le partage</b> : les franchisés portent les coûts. Inflation attendue de milieu de fourchette à un chiffre en 2027.",
+      "<b>Le client modeste</b> : le carburant et l’inflation [[exacerber|exacerbent]] la pression. Trafic du fast-food américain −2,6 %.",
+      "<b>La riposte</b> : test dans 1 900 restaurants, McChicken et petites frites à 3,50 $, déjà imité par 4 000 autres. Lancement national début 2027. Ventes américaines redevenues positives en septembre, et menus phares à +7 %.",
+      "<b>Les boissons</b> : additions supérieures d’environ 50 %. 18 000 restaurants, 7 000 de plus en Europe d’ici mi-2027.",
+      "<b>La France</b> : en deçà des attentes, perturbée par des manifestations.",
+      "<b>À retenir</b> : un modèle solide, mais [[tributaire|tributaire]] de la santé des franchisés. Le prix d’entrée ramènera-t-il les clients sans abîmer les marges ?"
+     ]
+    },
+    {
+     "stats": [
+      [
+       "− 0,2 %",
+       "ventes comparables américaines, T3"
+      ],
+      [
+       "+ 9 %",
+       "bénéfice net, 2,49 Md$"
+      ],
+      [
+       "48,3 %",
+       "marge opérationnelle ajustée, sur neuf mois"
+      ],
+      [
+       "> 38 Md$",
+       "ventes du réseau, T3"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le ralentissement touche surtout les marchés riches",
+      "sub": "ventes comparables sur un an, en %",
+      "labels": [
+       "Monde",
+       "États-Unis",
+       "Intl opérés",
+       "Intl licenciés"
+      ],
+      "series": [
+       {
+        "name": "T3 2025",
+        "values": [
+         3.6,
+         2.4,
+         4.3,
+         4.7
+        ]
+       },
+       {
+        "name": "T3 2026",
+        "values": [
+         1.5,
+         -0.2,
+         1.4,
+         4.2
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Intl opérés : grands marchés gérés par le groupe (dont France, Allemagne, Australie). Source : McDonald’s, résultats du T3 2026, 4 novembre 2026."
+     }
+    }
+   ]
+  }
+ ]
+}
