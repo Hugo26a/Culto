@@ -1,0 +1,1113 @@
+{
+ "date": "2026-11-06",
+ "label": "Vendredi 6 novembre 2026",
+ "n": 20,
+ "example": false,
+ "week": {
+  "start": "2026-11-02",
+  "label": "Semaine du 2 novembre",
+  "day": 5,
+  "words": [
+   {
+    "key": "tributaire",
+    "w": "Tributaire",
+    "ph": "[tʁi.by.tɛʁ] · adjectif",
+    "short": "Qui dépend étroitement d’une chose ou d’une personne.",
+    "def": "Qui dépend de quelque chose pour fonctionner ou exister, sans pouvoir s’en affranchir facilement. On dit « être tributaire de ». Le mot est plus précis que « dépendant » : il souligne une contrainte subie, souvent extérieure, comme un fournisseur, un climat ou une décision.",
+    "ety": "Du latin tributarius, « soumis à l’impôt », de tributum, « tribut ». Le tributaire payait une redevance à un pouvoir plus fort. En géographie, un cours d’eau tributaire se jette dans un autre.",
+    "ex": "Notre planning reste tributaire de la livraison des composants par notre fournisseur taïwanais.",
+    "syn": "dépendant, assujetti, subordonné, lié à"
+   },
+   {
+    "key": "exacerber",
+    "w": "Exacerber",
+    "ph": "[ɛɡ.za.sɛʁ.be] · verbe",
+    "short": "Rendre plus vif, plus aigu, plus intense.",
+    "def": "Rendre plus forte une tension, une douleur ou un sentiment déjà présents. On l’emploie pour ce qui existait avant et que l’on aggrave : on exacerbe une rivalité, une colère, un déséquilibre. Il ne s’emploie pas pour ce qui naît de rien.",
+    "ety": "Du latin exacerbare, « irriter », formé sur acerbus, « aigre, âpre », qui a aussi donné « acerbe ».",
+    "ex": "Le retard de livraison a exacerbé les tensions entre l’acheteur et le fournisseur.",
+    "syn": "aggraver, aviver, attiser, intensifier"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Germinal",
+   "by": "Émile Zola · 1885",
+   "tagline": "La faim sous la terre",
+   "min": 10,
+   "exMin": 4,
+   "src": "Émile Zola, Germinal (1885), domaine public. Genèse et parution : Hérodote.net (« Germinal, Émile Zola ») ; Kartable (séjour de février-mars 1884). Réception et adaptations : Wikipédia, « Germinal (novel) ».",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Étienne Lantier, ouvrier sans travail, descend à la mine de Montsou, dans le Nord. Une baisse de salaire déguisée pousse les mineurs à la grève, dont il prend la tête. La faim, l’armée et un sabotage brisent le mouvement, mais le roman se ferme sur la promesse d’une révolte à venir."
+      ],
+      [
+       "La défaite est une semence",
+       "Les mineurs perdent tout : la grève, leurs morts, leur puits. Zola ne conclut pourtant pas sur l’échec. Le mois de germinal, au printemps du calendrier républicain, donne son titre au livre : ce qui est enfoui sous terre finira par pousser."
+      ],
+      [
+       "Le vrai pouvoir n’a pas de visage",
+       "Le directeur Hennebeau n’est qu’un salarié. La Compagnie obéit à des actionnaires lointains, comme la famille Grégoire, qui vit paisiblement de ses parts sans jamais descendre au fond. L’ennemi des mineurs n’est pas un homme, c’est un système qui ne se voit pas."
+      ],
+      [
+       "La faim décide de tout",
+       "Une grève se gagne d’abord par la trésorerie. Celle des mineurs tient quelques semaines, celle de la Compagnie tient des années. Le roman montre cette inégalité sans discours : le pain manque, les enfants maigrissent, la volonté s’use."
+      ],
+      [
+       "La foule échappe à ses chefs",
+       "Étienne croit conduire la colère, puis elle le déborde. Marche de puits en puits, machines cassées, épicier lynché : Zola ne flatte pas ses héros. Il décrit une force juste dans sa cause et aveugle dans ses actes."
+      ],
+      [
+       "La mine dévore ceux qu’elle nourrit",
+       "Le puits du Voreux est peint comme une bête qui avale ses hommes chaque matin. Trois générations d’une même famille y travaillent et y meurent. Zola a fait de ce décor technique un monstre, et c’est ce monstre qu’on retient."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "L’arrivée au Voreux"
+    },
+    {
+     "p": "Une nuit de mars, sous le Second Empire, Étienne Lantier marche sur la route de Montsou. Il a vingt et un ans, il était mécanicien aux chemins de fer et il a été renvoyé pour avoir giflé son chef. Au pied du terril, il croise un vieux charretier, Bonnemort, qui crache noir après cinquante ans de fosse. Le lendemain, une place se libère : une herscheuse vient de mourir. Étienne est embauché pour pousser les berlines dans l’équipe de Maheu.",
+     "lead": 1
+    },
+    {
+     "p": "Il découvre le fond : les galeries étroites, la chaleur, les hommes couchés sur le flanc pour abattre le charbon. Il découvre aussi les Maheu, sept enfants, une dette à l’épicerie et une paie dont tout dépend. Catherine, quinze ans, travaille à ses côtés. Une attirance naît entre eux, mais elle cède à Chaval, un ouvrier brutal. Le soir, Étienne fréquente l’estaminet de Rasseneur, ancien mineur devenu réformiste prudent, et Souvarine, un mécanicien russe anarchiste qui veut tout détruire. Il lit, s’instruit mal et vite, et prend goût aux idées socialistes."
+    },
+    {
+     "h5": "La grève"
+    },
+    {
+     "p": "La Compagnie, touchée par la crise industrielle, impose un nouveau tarif : la berline sera moins payée et le boisage des galeries réglé à part. Présentée comme une mesure de sécurité, c’est une baisse de salaire. Les mineurs, déjà [[tributaire|tributaires]] du moindre sou, arrêtent le travail en plein hiver. Étienne, qui a monté une caisse de prévoyance, devient leur chef. Mais la caisse se vide vite. L’Internationale n’envoie presque rien. Les semaines passent, et le froid [[exacerber|exacerbe]] la faim."
+    },
+    {
+     "p": "Une nuit, dans la forêt, au Plan-des-Dames, Étienne parle devant des milliers de grévistes rassemblés sous la lune. C’est son sommet. Il sent la foule lui appartenir. Le lendemain, elle ne lui appartient plus."
+    },
+    {
+     "h5": "L’émeute et les fusils"
+    },
+    {
+     "p": "Les grévistes marchent de fosse en fosse, coupent les câbles chez Deneulin, un petit exploitant indépendant que la grève ruine, éteignent les machines et réclament du pain sous les fenêtres du directeur. Hennebeau, trompé par sa femme, les écoute et envie leur simple faim. La troupe arrive. L’épicier Maigrat, qui exigeait des faveurs contre du crédit, meurt en fuyant sur un toit, et les femmes s’acharnent sur son corps."
+    },
+    {
+     "p": "Alzire, la petite infirme des Maheu, meurt de faim. Puis la Compagnie fait venir des ouvriers belges, et les soldats gardent le Voreux. Des mineurs lancent des briques, et les soldats tirent. Maheu tombe, avec d’autres, dont des enfants. Peu après, quand les Grégoire viennent faire la charité au coron, le vieux Bonnemort, muet et presque paralysé, étrangle leur fille Cécile. Vaincus, les mineurs redescendent. Ils accusent maintenant Étienne de les avoir menés au massacre."
+    },
+    {
+     "h5": "Le Voreux englouti"
+    },
+    {
+     "p": "Souvarine passe alors à l’acte. Dans la nuit, il sabote le cuvelage, le revêtement qui retient les eaux souterraines. Au matin, les mineurs reprennent le travail, Catherine et Étienne parmi eux. L’eau envahit les galeries, le puits s’effondre et les machines disparaissent dans le sol. La Compagnie elle-même mobilise tout pour secourir les emmurés, sous la direction de l’ingénieur Négrel. Zacharie, le fils aîné, meurt dans une explosion de grisou en creusant vers eux."
+    },
+    {
+     "p": "Au fond, Étienne, Catherine et Chaval sont enfermés dans le noir, l’eau jusqu’aux genoux. La rivalité reprend. Étienne tue Chaval d’un coup de pierre, et le corps revient flotter près d’eux. Les deux jeunes gens, après tant d’années, deviennent enfin amants, à bout de forces. Catherine meurt dans ses bras. Étienne est le seul à sortir vivant."
+    },
+    {
+     "h5": "Le printemps"
+    },
+    {
+     "p": "Remis sur pied, Étienne est renvoyé. Il part pour Paris, où l’appelle Pluchart, militant de l’Internationale. Un matin d’avril, il traverse la plaine. La Maheude, veuve, qui a perdu mari et enfants, retourne au fond pour nourrir ceux qui restent. Elle ne se révolte plus, mais elle ne pardonne rien. Sous ses pieds, Étienne croit entendre les coups de rivelaine des camarades. La terre est chaude, le blé lève, et la dernière page transforme ces coups en germination."
+    },
+    {
+     "quote": "Des hommes poussaient, une armée noire, vengeresse, qui germait lentement dans les sillons, grandissant pour les récoltes du siècle futur, et dont la germination allait faire bientôt éclater la terre.",
+     "cite": "Dernière phrase du roman, septième partie"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "L’enquête avant le roman"
+    },
+    {
+     "p": "<em>Germinal</em> est le treizième volume des <em>Rougon-Macquart</em>, cycle de vingt romans. Zola, sur une idée liée à sa rencontre avec le député Alfred Giard, part dans le Nord du 23 février au 2 mars 1884. La grande grève d’Anzin vient d’éclater. Il rencontre dirigeants et ouvriers, entre dans les maisons, et descend dans la fosse Renard, à plus de 600 mètres, pendant deux heures. De là viennent le vocabulaire, les gestes, les odeurs : le roman est [[tributaire|tributaire]] de ce carnet de notes."
+    },
+    {
+     "h5": "Un livre écrit à chaud"
+    },
+    {
+     "p": "Zola écrit d’avril 1884 à janvier 1885. Le texte paraît en feuilleton dans le <em>Gil Blas</em> du 26 novembre 1884 au 25 février 1885, puis en volume en mars. Le contexte est brûlant : la grève n’est plus un délit depuis 1864, les syndicats viennent d’être autorisés en 1884. Zola situe l’action sous le Second Empire, mais il parle à ses contemporains de la Troisième République."
+    },
+    {
+     "h5": "Du document au mythe"
+    },
+    {
+     "p": "Le naturalisme veut observer comme un savant : hérédité, milieu, instinct. Zola s’inspire de Darwin et de Marx, sans être marxiste. Mais son écriture déborde le procès-verbal. Le Voreux respire et digère, la foule devient un seul corps, le grisou une vengeance. C’est une épopée dont les héros sont anonymes. Le roman doit sa force à ce mélange de statistique et de mythologie."
+    },
+    {
+     "h5": "Une critique qui gêne les deux camps"
+    },
+    {
+     "p": "Zola n’idéalise personne. Les bourgeois sont aveugles plus que cruels, les ouvriers sont capables de sublime et d’horreur. Rasseneur, le modéré, a raison trop tôt ; Souvarine, le nihiliste, tue sans haine. Étienne lui-même prend goût au pouvoir. Le livre a choqué à droite par sa crudité et à gauche par sa foule sans noblesse. Sa postérité a pourtant tranché : aux obsèques de Zola, en 1902, des ouvriers ont salué le cortège aux cris de « Germinal ! »."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que ce livre raconte un conflit social comme une affaire de trésorerie, de chaîne de décision et de rapport de force. Parce qu’il montre comment une consigne venue d’en haut, juste en apparence, peut [[exacerber|exacerber]] des années de tension dans l’atelier. Et parce qu’il pose une question encore ouverte : qui paie, et qui décide, quand les marges reculent ? Claude Berri en a tiré un film en 1993, et la France une série en 2021. Le roman reste la meilleure porte d’entrée dans Zola."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Étienne Lantier arrive à la mine de Montsou, y travaille, prend la tête d’une grève contre une baisse de salaire déguisée. La faim, l’armée et un sabotage écrasent le mouvement. Le roman s’achève pourtant sur l’image d’une révolte qui germe sous la terre."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La défaite est une semence</b> : germinal est un mois de printemps du calendrier républicain. Ce qui est enfoui finira par pousser.",
+      "<b>Le pouvoir sans visage</b> : le directeur n’est qu’un salarié. Les vrais maîtres sont des actionnaires lointains, comme les Grégoire.",
+      "<b>La faim décide</b> : une grève se gagne par la trésorerie. La Compagnie tient des années, les mineurs quelques semaines.",
+      "<b>La foule échappe à ses chefs</b> : cause juste, actes aveugles. Zola ne flatte personne.",
+      "<b>La mine dévore</b> : le Voreux est une bête qui avale ses hommes. Trois générations de Maheu y travaillent et y meurent."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>L’arrivée</b> : mars, Second Empire. Étienne, 21 ans, renvoyé pour avoir giflé son chef, est embauché au Voreux dans l’équipe de Maheu. Il rencontre Bonnemort, cinquante ans de fosse, et Catherine, 15 ans, qui cède au brutal Chaval.",
+      "<b>Les idées</b> : Rasseneur, le modéré, et Souvarine, l’anarchiste russe, l’initient. Il prend goût au socialisme.",
+      "<b>La grève</b> : un nouveau tarif baisse le prix de la berline et paie le boisage à part. Les mineurs, [[tributaire|tributaires]] du moindre sou, cessent le travail en plein hiver. Étienne devient leur chef, mais la caisse se vide.",
+      "<b>Le sommet</b> : discours nocturne dans la forêt, au Plan-des-Dames, devant des milliers de grévistes.",
+      "<b>L’émeute</b> : marche de fosse en fosse, machines arrêtées, cris pour du pain sous les fenêtres du directeur. L’épicier Maigrat meurt, son corps est profané.",
+      "<b>Les fusils</b> : Alzire meurt de faim. La Compagnie fait venir des Belges, les soldats tirent au Voreux. Maheu est tué. Bonnemort étrangle Cécile Grégoire. Le froid [[exacerber|exacerbe]] la faim, et les mineurs cèdent.",
+      "<b>L’engloutissement</b> : Souvarine sabote le cuvelage. L’eau noie le puits. Zacharie meurt en cherchant les emmurés.",
+      "<b>Au fond</b> : Étienne tue Chaval, devient l’amant de Catherine, qui meurt dans ses bras. Il sort seul.",
+      "<b>Le printemps</b> : Étienne part pour Paris en avril. La Maheude redescend pour nourrir les siens. Sous ses pas, il entend germer la révolte."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>L’enquête</b> : 13e des 20 <em>Rougon-Macquart</em>. Zola va dans le Nord du 23 février au 2 mars 1884, pendant la grève d’Anzin, et descend à plus de 600 mètres.",
+      "<b>L’écriture</b> : d’avril 1884 à janvier 1885. Feuilleton dans le <em>Gil Blas</em> du 26 novembre 1884 au 25 février 1885, volume en mars.",
+      "<b>Le contexte</b> : grève légale depuis 1864, syndicats autorisés en 1884. L’action se situe sous le Second Empire, le message vise la Troisième République.",
+      "<b>Le style</b> : naturalisme de savant, mais souffle d’épopée. La mine respire, la foule devient un seul corps.",
+      "<b>La réception</b> : le livre gêne à droite et à gauche. Aux obsèques de Zola, en 1902, des ouvriers crient « Germinal ! ».",
+      "<b>Aujourd’hui</b> : un conflit social vu comme une affaire de trésorerie et de décision. Film de Claude Berri en 1993, série en 2021."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Repenser la pauvreté",
+   "by": "Abhijit Banerjee et Esther Duflo · 2011",
+   "min": 9,
+   "exMin": 3,
+   "src": "A. Banerjee, E. Duflo, Poor Economics (PublicAffairs, 2011) ; trad. fr. Repenser la pauvreté (Seuil, 2012). MIT Economics, page du livre (865 millions, 99 cents, 16 roupies, sucre). MIT News, avril 2011 (calories, faim en Inde, 267 évaluations). J-PAL (Udaipur ; Kenya, Cohen et Dupas, 2010). Banerjee, Duflo, Glennerster, Kinnan, NBER w18950, 2013 (Hyderabad). Banerjee et Duflo, Ideas for India, 2019 (Pratham). D. McKenzie, Development Impact, Banque mondiale, 2011 (critiques). Le Matin, 7 mai 2011.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Deux économistes du MIT partent de décisions concrètes de gens très pauvres et les testent par des expériences contrôlées. Leur conclusion : on lutte contre la pauvreté non par de grandes théories, mais par une suite de petites mesures vérifiées, conçues pour la vie réelle des pauvres."
+      ],
+      [
+       "Les pauvres ne sont pas irrationnels",
+       "Ils font des arbitrages. Quand ils gagnent un peu plus, ils n’achètent pas forcément plus de calories, mais une nourriture meilleure au goût, une fête, une télévision. Dans le Maharashtra, les plus pauvres consacrent 7 % de leur budget alimentaire au sucre."
+      ],
+      [
+       "Un prix minuscule peut tout bloquer",
+       "Au Kenya, passer de zéro à 0,60 dollar fait chuter de 60 points la prise de moustiquaires. À 0,75 dollar, la demande est inférieure de 75 % à la gratuité. Et payer ne rend pas plus assidu à s’en servir."
+      ],
+      [
+       "Le petit coup de pouce bat le grand discours",
+       "Dans le Rajasthan, la vaccination complète passe de 6,2 % à 38,3 % avec des camps réguliers et un kilo de lentilles par dose. Le coût par enfant vacciné est même divisé par deux, car les infirmières ne restent plus à attendre."
+      ],
+      [
+       "Le microcrédit n’est pas un miracle",
+       "À Hyderabad, 104 quartiers tirés au sort montrent un outil utile mais modeste : pas de hausse de la consommation moyenne, pas d’effet sur l’autonomie des femmes, des profits en hausse pour les seules entreprises déjà rentables."
+      ],
+      [
+       "Tester, se tromper, recommencer",
+       "Le livre n’offre aucune solution unique. Son apport est une méthode : l’essai randomisé, emprunté à la médecine, qui a valu à ses auteurs le prix Nobel d’économie 2019, avec Michael Kremer."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Sortir de la guerre des slogans"
+    },
+    {
+     "p": "En 2011, le débat sur l’aide oppose deux camps : ceux qui veulent plus d’argent et d’équipements, et ceux qui pensent que l’aide [[exacerber|exacerbe]] la dépendance et la corruption. Banerjee et Duflo refusent de choisir. Ils remarquent que ces querelles portent sur de grands principes, alors que personne n’a vérifié ce qui marche, à quel endroit et pour quel prix. Ils ont cofondé en 2003 le J-PAL au MIT, avec Sendhil Mullainathan. Le laboratoire compte alors 267 évaluations dans 42 pays. Le livre en tire une synthèse lisible."
+    },
+    {
+     "p": "Le point de départ est une mesure. En 2005, 865 millions de personnes, 13 % de l’humanité, vivent avec l’équivalent de 99 cents américains par jour. En Inde, cela achète environ quinze petites bananes ou 1,4 kilo de riz médiocre. Dans les 50 pays qui concentrent les pauvres, le seuil moyen est de 16 roupies, soit 36 cents au change courant. Ce sont des vies où chaque décision pèse, et où l’on n’a droit à aucune erreur."
+    },
+    {
+     "stats": [
+      [
+       "865 M",
+       "personnes sous 99 cents par jour en 2005, soit 13 % de l’humanité"
+      ],
+      [
+       "16 roupies",
+       "seuil moyen de pauvreté par jour, soit 36 cents au change courant"
+      ],
+      [
+       "− 75 %",
+       "demande de moustiquaires au Kenya à 0,75 $ par rapport à la gratuité"
+      ],
+      [
+       "55,83 → 27,94 $",
+       "coût d’un enfant vacciné, sans puis avec lentilles"
+      ]
+     ]
+    },
+    {
+     "h5": "Les pauvres ne vivent pas comme on l’imagine"
+    },
+    {
+     "p": "La première surprise porte sur la nourriture. On imagine des gens affamés qui mangeraient tout supplément de revenu. Or aux Philippines, un régime de 2 400 calories, à base d’œufs et de bananes, coûte 21 cents. En Inde, la part de personnes déclarant manquer de nourriture tombe de 17 % en 1983 à 2 % en 2004, et les ménages mangent moins à mesure que le pays s’enrichit. Quand ils gagnent plus, ils cherchent le goût et la variété. Ils dépensent aussi pour un mariage ou un enterrement. Le livre raconte un villageois marocain qui dit manquer parfois de quoi manger, mais possède une télévision, une parabole et un lecteur DVD : la vie est dure, et distraire les siens n’est pas absurde."
+    },
+    {
+     "p": "La thèse centrale suit : les pauvres raisonnent, mais ils portent seuls des décisions que d’autres n’ont pas à prendre. Un cadre a l’eau potable, la vaccination automatique et l’épargne prélevée sur son salaire. Un paysan doit penser à tout, chaque jour, et rester [[tributaire|tributaire]] d’une pluie ou d’une maladie. Les options par défaut, les rappels et les petites incitations ont donc pour lui un effet considérable."
+    },
+    {
+     "h5": "Les expériences qui ont fait le livre"
+    },
+    {
+     "p": "L’exemple le plus célèbre vient d’Udaipur. Le service de santé y est gratuit, mais seuls 6,2 % des enfants sont entièrement vaccinés. Les infirmières sont absentes à peu près une fois sur deux, selon l’ONG Seva Mandir. L’équipe organise des camps à date fixe : le taux monte à 16,6 %. Elle ajoute alors un kilo de lentilles, environ 40 roupies, à chaque dose : il atteint 38,3 %."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le kilo de lentilles qui change tout",
+      "sub": "enfants de 1 à 3 ans entièrement vaccinés, Udaipur (Inde), 2004-2007, en %",
+      "rows": [
+       [
+        "Rien de nouveau (villages témoins)",
+        6.2
+       ],
+       [
+        "Camps de vaccination réguliers",
+        16.6
+       ],
+       [
+        "Camps + 1 kg de lentilles à chaque dose",
+        38.3
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Source : J-PAL, évaluation dans 134 villages, environ 2 000 enfants."
+     }
+    },
+    {
+     "p": "Une raison de ce résultat tient au calendrier. La vaccination coûte un petit effort aujourd’hui et rapporte un bienfait invisible plus tard. Les lentilles rendent le gain immédiat. Le même raisonnement éclaire l’école. Les programmes de Pratham, ONG indienne, regroupent les élèves par niveau réel et non par classe. À Mumbai et Vadodara, les élèves suivis par des assistantes locales gagnent 0,6 écart-type. Dans l’Uttar Pradesh, en quelques semaines de camps, la part d’enfants capables de lire un paragraphe passe de 15 % à 49 %, contre 24 % dans les écoles témoins."
+    },
+    {
+     "h5": "Les pièges et les croyances"
+    },
+    {
+     "p": "Les auteurs examinent ensuite l’idée de piège à pauvreté. Existe-t-il un seuil sous lequel on reste bloqué ? Ils répondent au cas par cas : pas pour la faim en général, mais parfois pour la santé, le risque ou l’école. Un parent qui croit que l’éducation ne paie qu’à un niveau très élevé n’investira pas dans le primaire. Corriger une croyance fausse peut donc coûter très peu et rapporter beaucoup. Quant au petit entrepreneur, il est souvent salarié contrarié : il voudrait surtout un emploi stable."
+    },
+    {
+     "p": "Sur le crédit, les faits refroidissent les enthousiasmes. À Hyderabad, à partir de 2005, 52 quartiers sur 104 reçoivent une agence de Spandana, grand prêteur local. La part de ménages emprunteurs atteint 27,1 %, contre 18,3 % ailleurs. Ceux-ci dépensent plus en biens durables et moins en plaisirs immédiats. Mais la consommation moyenne ne bouge pas, ni la santé, ni l’éducation, ni le pouvoir des femmes dans le ménage."
+    },
+    {
+     "h5": "Limites et postérité"
+    },
+    {
+     "p": "Le livre a ses critiques. Angus Deaton et d’autres reprochent aux essais randomisés de répondre à de petites questions, sur un lieu, sans dire si le résultat se transpose ailleurs. Une recension en ligne de la Banque mondiale, signée David McKenzie, regrette aussi la place modeste des migrations et le poids d’ONG exceptionnelles, dont le succès est difficile à reproduire. Le risque est de négliger la politique, les institutions et la croissance, qui ont fait reculer la pauvreté en Chine ou en Inde bien plus qu’aucun programme testé."
+    },
+    {
+     "p": "La méthode a pourtant gagné. En 2019, le Nobel consacre Banerjee, Duflo et Kremer. Duflo, alors 46 ans, devient la plus jeune lauréate. Pour un lecteur de la supply chain, la leçon est familière : avant de changer un process, on l’essaie sur un site pilote. On compare, on mesure, puis on déploie."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Deux économistes du MIT testent par des expériences contrôlées les décisions des gens très pauvres. Leur message : la pauvreté recule par une suite de petites mesures vérifiées, pas par une grande théorie."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le contexte</b> : deux camps s’affrontent sur l’aide. L’un veut plus d’argent, l’autre juge qu’elle [[exacerber|exacerbe]] la dépendance. Les auteurs veulent mesurer. J-PAL, cofondé en 2003, compte alors 267 évaluations dans 42 pays.",
+      "<b>La nourriture</b> : 2 400 calories coûtent 21 cents aux Philippines. En Inde, le manque de nourriture déclaré passe de 17 % en 1983 à 2 % en 2004. Avec plus d’argent, on cherche le goût et la variété : 7 % du budget alimentaire va au sucre dans le Maharashtra.",
+      "<b>Le fardeau de décider</b> : un cadre a l’eau potable et l’épargne automatique. Un paysan pense à tout et reste [[tributaire|tributaire]] d’une pluie. Les petites incitations pèsent donc lourd.",
+      "<b>Udaipur</b> : soins gratuits mais 6,2 % d’enfants vaccinés, infirmières absentes une fois sur deux. Camps réguliers : 16,6 %. Avec un kilo de lentilles par dose : 38,3 %, pour un coût par enfant divisé par deux.",
+      "<b>Le prix</b> : au Kenya, de 0 à 0,60 $, la prise de moustiquaires perd 60 points. Payer ne rend pas plus assidu.",
+      "<b>L’école</b> : avec Pratham, on groupe par niveau. Gain de 0,6 écart-type à Mumbai et Vadodara. Dans l’Uttar Pradesh, lecture d’un paragraphe de 15 % à 49 %, contre 24 %.",
+      "<b>Les pièges</b> : à juger au cas par cas. Une croyance fausse sur l’école peut suffire à bloquer l’investissement.",
+      "<b>Le microcrédit</b> : à Hyderabad, dans 104 quartiers, 27,1 % d’emprunteurs contre 18,3 %. Consommation moyenne, santé et pouvoir des femmes ne bougent pas.",
+      "<b>Les limites</b> : résultats difficiles à transposer, ONG exceptionnelles, peu sur la politique et les migrations.",
+      "<b>La postérité</b> : Nobel 2019 pour Banerjee, Duflo et Kremer."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "865 M",
+       "personnes sous 99 cents par jour en 2005, soit 13 % de l’humanité"
+      ],
+      [
+       "16 roupies",
+       "seuil moyen de pauvreté par jour, soit 36 cents au change courant"
+      ],
+      [
+       "− 75 %",
+       "demande de moustiquaires au Kenya à 0,75 $ par rapport à la gratuité"
+      ],
+      [
+       "55,83 → 27,94 $",
+       "coût d’un enfant vacciné, sans puis avec lentilles"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le kilo de lentilles qui change tout",
+      "sub": "enfants de 1 à 3 ans entièrement vaccinés, Udaipur (Inde), 2004-2007, en %",
+      "rows": [
+       [
+        "Rien de nouveau (villages témoins)",
+        6.2
+       ],
+       [
+        "Camps de vaccination réguliers",
+        16.6
+       ],
+       [
+        "Camps + 1 kg de lentilles à chaque dose",
+        38.3
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Source : J-PAL, évaluation dans 134 villages, environ 2 000 enfants."
+     }
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Droits de douane : le remboursement s’arrête souvent aux entreprises",
+   "by": "Analyse",
+   "fig": "166 Md$",
+   "figl": "droits américains jugés illégaux",
+   "min": 3,
+   "exMin": 2,
+   "src": "Cour suprême, Learning Resources v. Trump, 20 février 2026, et Cour du commerce international, Freestyle World v. CBP, 8 octobre 2026, via Davis Wright Tremaine (14 oct.), Supply Chain Dive et MoneyPilot. Fed de New York, Liberty Street Economics, février 2026. Calcbench, 29 août 2026. Fortune, 19 août 2026. Newsweek, 3 août 2026. Morgan Lewis, juillet 2026 (Section 301). Données arrêtées au 2 octobre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 20 février 2026, la Cour suprême américaine a jugé que la loi d’urgence IEEPA n’autorisait pas le président à créer des droits de douane. Il faut donc rendre 166 milliards de dollars, payés par près de 330 000 importateurs sur plus de 53 millions d’expéditions. Au 2 octobre, 126 milliards étaient déjà remboursés. Un détail compte : l’argent retourne à celui qui a payé la douane, pas à celui qui a payé le prix.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "166 Md$",
+       "droits IEEPA perçus par les douanes"
+      ],
+      [
+       "126 Md$",
+       "remboursés au 2 octobre"
+      ],
+      [
+       "≈ 330 000",
+       "importateurs concernés"
+      ],
+      [
+       "≈ 30 Md$",
+       "pourraient rester à l’État sans action collective"
+      ]
+     ]
+    },
+    {
+     "h": "Qui a vraiment payé"
+    },
+    {
+     "p": "Une taxe à l’importation peut être absorbée par l’exportateur étranger, par l’importateur ou par le client final. La Fed de New York a mesuré le partage en 2025 : les importateurs américains ont supporté 94 % de la charge de janvier à août, puis 86 % en novembre. Les exportateurs n’ont presque pas baissé leurs prix. La facture est donc restée aux États-Unis, entre les marges des entreprises et les prix en rayon. L’étude ne tranche pas ce dernier partage. C’est tout le nœud du dossier."
+    },
+    {
+     "h": "Une aubaine inégale"
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les plus gros remboursements déclarés",
+      "sub": "milliards de dollars, sociétés cotées, au 28 août 2026",
+      "rows": [
+       [
+        "Walmart",
+        2.9
+       ],
+       [
+        "Apple (estimation)",
+        2.19
+       ],
+       [
+        "Ford",
+        1.3
+       ],
+       [
+        "Target",
+        0.99
+       ],
+       [
+        "Nike",
+        0.99
+       ],
+       [
+        "FedEx",
+        0.8
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md$",
+      "note": "Source : Calcbench, 29 août 2026. Montants bruts : remboursements, demandes approuvées et créances. Classement évolutif."
+     }
+    },
+    {
+     "p": "Fin août, 101 sociétés cotées avaient déclaré 18,7 milliards de dollars, dont 45 % pour les cinq premières. Chez Target, le remboursement ajoute 752 millions au résultat net. Les réactions diffèrent : Costco, FedEx et UPS annoncent un retour aux clients ; Target et Walmart parlent de baisses de prix ; Apple promet d’investir aux États-Unis."
+    },
+    {
+     "p": "Les prix baissent rarement aussi vite qu’ils ont monté, d’autant que la douane n’a pas disparu. Une surtaxe de 10 % a pris le relais en février, puis des droits de 10 à 12,5 % au titre de la Section 301 depuis le 24 juillet, sur 60 partenaires et 99,4 % des importations. Le ménage américain ne voit donc aucun repli. Pour lui, le remboursement [[exacerber|exacerbe]] le sentiment d’injustice : 25 plaintes visent déjà des distributeurs, sans aucune condamnation à ce stade."
+    },
+    {
+     "h": "Le dernier quart"
+    },
+    {
+     "p": "La fin du dossier se joue pour les petits. Les grands groupes ont été remboursés d’abord. Le 8 octobre, la Cour du commerce international a créé une action collective pour les importateurs qui n’ont pas porté plainte. Sans elle, estime-t-elle, environ 30 milliards resteraient à l’État. Le gouvernement fait appel d’une décision liée, et ces entreprises restent [[tributaire|tributaires]] du calendrier judiciaire."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Un droit de douane est un impôt dont le payeur légal n’est pas le payeur réel. Le remboursement suit le premier. Pour une entreprise, c’est une rentrée exceptionnelle à sortir des comparaisons de marge. Pour un acheteur, c’est une raison de relire les clauses de révision de prix de ses contrats."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>La décision</b> : le 20 février 2026, la Cour suprême juge que la loi IEEPA ne permet pas de créer des droits de douane.",
+      "<b>Le montant</b> : 166 Md$ à rendre, près de 330 000 importateurs, plus de 53 millions d’expéditions. 126 Md$ rendus au 2 octobre.",
+      "<b>Le détail clé</b> : l’argent revient à qui a payé la douane, pas à qui a payé le prix."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "166 Md$",
+       "droits IEEPA perçus par les douanes"
+      ],
+      [
+       "126 Md$",
+       "remboursés au 2 octobre"
+      ],
+      [
+       "≈ 330 000",
+       "importateurs concernés"
+      ],
+      [
+       "≈ 30 Md$",
+       "pourraient rester à l’État sans action collective"
+      ]
+     ]
+    },
+    {
+     "h": "Qui paie, qui encaisse"
+    },
+    {
+     "ul": [
+      "<b>Le partage</b> : selon la Fed de New York, les importateurs américains ont porté 94 % de la charge de janvier à août 2025, 86 % en novembre.",
+      "<b>Les gagnants</b> : 101 sociétés cotées déclarent 18,7 Md$, dont 45 % pour cinq d’entre elles. Target : 752 M$ de résultat net en plus.",
+      "<b>Les clients</b> : Costco, FedEx et UPS promettent un retour. Target et Walmart parlent de prix plus bas. Apple, d’investissement.",
+      "<b>Les prix</b> : la Section 301 applique 10 à 12,5 % depuis le 24 juillet. Aucune baisse en vue, ce qui [[exacerber|exacerbe]] le sentiment d’injustice : 25 plaintes visent des distributeurs.",
+      "<b>Les petits</b> : action collective créée le 8 octobre. Sans elle, ≈ 30 Md$ resteraient à l’État. Ils restent [[tributaire|tributaires]] du juge."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les plus gros remboursements déclarés",
+      "sub": "milliards de dollars, sociétés cotées, au 28 août 2026",
+      "rows": [
+       [
+        "Walmart",
+        2.9
+       ],
+       [
+        "Apple (estimation)",
+        2.19
+       ],
+       [
+        "Ford",
+        1.3
+       ],
+       [
+        "Target",
+        0.99
+       ],
+       [
+        "Nike",
+        0.99
+       ],
+       [
+        "FedEx",
+        0.8
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md$",
+      "note": "Source : Calcbench, 29 août 2026. Montants bruts : remboursements, demandes approuvées et créances. Classement évolutif."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "Le payeur légal n’est pas le payeur réel. Pour un acheteur, c’est le moment de relire ses clauses de révision de prix."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Pacte de La Mecque : Ankara ratifie, Damas frappe à la porte",
+   "by": "Analyse",
+   "fig": "279 voix",
+   "figl": "pour le pacte au Parlement turc",
+   "min": 3,
+   "exMin": 2,
+   "src": "Al Jazeera, 7 août, 5 et 6 octobre, 31 octobre et 6 novembre 2026. Just Security, Early Edition, 5 novembre 2026, citant Reuters et SPA. INSS, Insight n° 2187, 20 août 2026. Arab Center Washington DC, 2026. Données arrêtées au 6 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le Parlement turc a ratifié jeudi le pacte de défense signé avec l’Arabie saoudite et le Pakistan, par 279 voix contre 119. Dans le même temps, Riyad et Damas ont signé un accord de défense lors d’une visite d’Ahmed al-Charaa. Une alliance musulmane à clause de défense collective prend forme, avec un membre de l’Otan et une puissance nucléaire. Reste à savoir si elle engage vraiment ses membres.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "279-119",
+       "vote du Parlement turc, le 5 novembre"
+      ],
+      [
+       "10 ans",
+       "engagement avant toute sortie"
+      ],
+      [
+       "16 articles",
+       "dont l’article 2, défense collective"
+      ],
+      [
+       "≈ 1,4 M",
+       "soldats d’active cumulés (Global Firepower 2026)"
+      ]
+     ]
+    },
+    {
+     "h": "Comment on en est arrivé là"
+    },
+    {
+     "p": "Tout part d’un doute sur le parapluie américain. Le 9 septembre 2025, Israël frappe Doha, dans le Golfe. Moins de deux semaines plus tard, Riyad signe un accord de défense mutuelle avec Islamabad. La guerre américano-israélienne contre l’Iran, ouverte le 28 février 2026, accélère le mouvement : l’Arabie saoudite prend des coups sans que sa sécurité soit garantie. Le 7 août, à La Mecque, Erdogan, Mohammed ben Salmane et Shehbaz Sharif élargissent l’accord à la Turquie."
+    },
+    {
+     "p": "Le texte reprend la logique de l’article 5 de l’Otan : une attaque contre l’un vaut attaque contre tous. Il couvre aussi l’industrie de défense, le renseignement et la logistique. Riyad y gagne des technologies pour produire chez lui, Islamabad des capitaux, Ankara des clients."
+    },
+    {
+     "h": "La première épreuve : les Houthis"
+    },
+    {
+     "p": "Le pacte a été activé le 5 octobre, face aux attaques houthies revendiquées contre des aéroports et une raffinerie, et visant l’oléoduc Est-Ouest, devenu vital depuis les restrictions à Ormuz. Mais le contenu reste prudent. Le ministre pakistanais parle d’un rôle de soutien, surtout de reconnaissance. Son homologue turc ne prévoit aucun conflit avec les Houthis. Et la ratification ne garantit aucun envoi de troupes : selon des experts, il faudra d’autres étapes au Parlement."
+    },
+    {
+     "h": "Trois limites"
+    },
+    {
+     "ul": [
+      "<b>Pas de structure</b> : selon l’Arab Center de Washington, ni commandement commun, ni forces permanentes, ni mécanisme de déclenchement défini.",
+      "<b>Des menaces différentes</b> : la Russie et la Syrie pour Ankara, l’Inde pour Islamabad, le Golfe et l’Iran pour Riyad. Le Pakistan a aussi 900 km de frontière avec l’Iran.",
+      "<b>Pas de parapluie automatique</b> : pour l’institut israélien INSS, l’arsenal pakistanais reste tourné vers l’Inde."
+     ]
+    },
+    {
+     "p": "Riyad, surtout, reste [[tributaire|tributaire]] des armes, du renseignement et de la défense aérienne américains. Le pacte complète cette relation, il ne la remplace pas."
+    },
+    {
+     "h": "Pourquoi la Syrie compte"
+    },
+    {
+     "p": "Le 31 octobre, le chef de la diplomatie syrienne a dit que l’adhésion à l’alliance était à l’étude. Il accuse Israël de plus de 1 000 attaques en moins de deux ans. Pour Damas, le pacte serait une garantie. Pour les membres, c’est un risque : importer un face-à-face avec Israël pourrait [[exacerber|exacerber]] les divergences. L’INSS note que chaque nouvel entrant affaiblit la cohésion."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La valeur du pacte tient moins aux soldats qu’au signal : les puissances régionales achètent une assurance de plus. Elle aura un sens le jour où un membre paiera un coût pour un autre."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le vote</b> : le Parlement turc ratifie le pacte de La Mecque par 279 voix contre 119. Riyad et Damas viennent de signer un accord de défense.",
+      "<b>Le pacte</b> : signé le 7 août par la Turquie, l’Arabie saoudite et le Pakistan. 16 articles, 10 ans d’engagement, ouvert à d’autres membres.",
+      "<b>L’origine</b> : la frappe israélienne sur Doha du 9 septembre 2025, puis la guerre contre l’Iran, ouverte le 28 février 2026."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "279-119",
+       "vote du Parlement turc, le 5 novembre"
+      ],
+      [
+       "10 ans",
+       "engagement avant toute sortie"
+      ],
+      [
+       "16 articles",
+       "dont l’article 2, défense collective"
+      ],
+      [
+       "≈ 1,4 M",
+       "soldats d’active cumulés (Global Firepower 2026)"
+      ]
+     ]
+    },
+    {
+     "h": "L’épreuve et les limites"
+    },
+    {
+     "ul": [
+      "<b>Les Houthis</b> : pacte activé le 5 octobre. Le Pakistan parle d’un rôle de reconnaissance, la Turquie ne prévoit aucun conflit, et l’envoi de troupes demandera d’autres étapes au Parlement.",
+      "<b>La structure</b> : ni commandement commun ni forces permanentes.",
+      "<b>Les menaces</b> : Russie et Syrie pour Ankara, Inde pour Islamabad, Iran pour Riyad.",
+      "<b>Le nucléaire</b> : aucun parapluie automatique, selon l’INSS.",
+      "<b>L’Amérique</b> : Riyad reste [[tributaire|tributaire]] des armes américaines.",
+      "<b>La Syrie</b> : adhésion à l’étude. Importer le face-à-face avec Israël pourrait [[exacerber|exacerber]] les divergences."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "Plus un signal qu’une armée. Le test : le jour où un membre paiera un coût pour un autre."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Conteneurs : l’Inde s’attaque au monopole chinois de la boîte",
+   "by": "Analyse",
+   "fig": "> 90 %",
+   "figl": "des conteneurs sortent de Chine",
+   "min": 3,
+   "exMin": 2,
+   "src": "Conseil des ministres indien, 28 octobre 2026, via Nation Path India et Shipping Telegraph. Swarajya (« Breaking the Box »), 2026. Outlook Business, 2026. IA Insights / JOC, 2 novembre 2026. Calcul de la prime par EVP : Culto. Données arrêtées au 2 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 28 octobre, l’Inde a validé un programme de 10 000 crores de roupies, environ 1,05 milliard de dollars, pour fabriquer ses propres conteneurs. Objectif : décupler la capacité, de 70 000 à 750 000 EVP par an, avec un programme qui court jusqu’en 2040. Derrière ce plan, un fait méconnu : l’objet qui a fait la mondialisation vient presque entièrement d’un seul pays.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "90-97 %",
+       "production mondiale de conteneurs en Chine, selon les estimations"
+      ],
+      [
+       "70 000 → 750 000",
+       "capacité indienne annuelle visée, en EVP"
+      ],
+      [
+       "1,05 Md$",
+       "budget sur 13 ans"
+      ],
+      [
+       "30-40 %",
+       "surcoût d’un conteneur indien"
+      ]
+     ]
+    },
+    {
+     "h": "Un monopole né de l’efficacité"
+    },
+    {
+     "p": "Le conteneur est une boîte simple, mais sa fabrication est une affaire d’échelle. La Chine concentre 90 à 97 % de la production selon les sources, avec trois grands groupes : CIMC, Dong Fang et CXIC. CIMC sortirait une boîte toutes les trois ou quatre minutes. La Chine a les usines, les ports et surtout l’acier Corten, cet acier résistant à la corrosion qu’exige la mer. Le commerce mondial, même celui des rivaux de Pékin, reste ainsi [[tributaire|tributaire]] d’un petit nombre d’usines chinoises."
+    },
+    {
+     "p": "Le risque est apparu pendant le Covid. Les boîtes vides étaient au mauvais endroit, et Shanghai-Los Angeles est passé d’environ 2 000 dollars à près de 20 000 au pic. En Inde, où environ 99 % des conteneurs en circulation sont chinois, les exportateurs de riz ont vu leurs lots attendre en entrepôt. La pénurie a [[exacerber|exacerbé]] une dépendance que personne ne regardait."
+    },
+    {
+     "h": "Ce que paie le plan"
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Où vont les 10 000 crores",
+      "sub": "Container Manufacturing Promotion Scheme, en crores de roupies",
+      "rows": [
+       [
+        "Aide à l’exploitation",
+        8891
+       ],
+       [
+        "Bonification d’intérêts (3 %)",
+        859
+       ],
+       [
+        "Essais et certification",
+        150
+       ],
+       [
+        "Gestion du programme",
+        100
+       ]
+      ],
+      "prefix": "",
+      "suffix": "",
+      "note": "Source : Conseil des ministres indien, 28 octobre 2026, via Nation Path India. 1 crore = 10 millions de roupies."
+     }
+    },
+    {
+     "p": "Le gros de l’argent sert à combler l’écart de coût. Celui-ci atteint 30 à 40 %, soit 700 à 1 000 dollars par conteneur selon la presse indienne. Faisons le calcul. Si l’aide de 8 891 crores s’étale sur 13 ans à pleine capacité, elle vaut environ 100 dollars par EVP, soit 200 pour un 40 pieds. À mi-capacité, le double. Elle ne suffit donc pas seule : il faudra aussi des gains d’échelle et des clients acceptant de payer la souveraineté."
+    },
+    {
+     "h": "Les vrais obstacles"
+    },
+    {
+     "ul": [
+      "<b>L’acier</b> : l’Inde produit peu d’acier Corten de qualité A et en importe, parfois de Chine.",
+      "<b>L’intégration locale</b> : 70 % de contenu local exigé jusqu’en 2031-2032, puis 90 %. Une règle qui peut protéger, ou renchérir encore.",
+      "<b>La demande</b> : Maersk a validé des prototypes avec DCM Shriram et commandé 1 000 boîtes. CONCOR, qui prévoit un besoin de 50 000 conteneurs, se fournit traditionnellement en Chine.",
+      "<b>Les rivaux</b> : le Vietnam bâtit aussi des usines."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le plan ne menace pas la Chine à court terme : 750 000 EVP restent une niche. Son intérêt est ailleurs. Il montre qu’après les puces et les terres rares, même l’objet le plus banal de la logistique devient un sujet de souveraineté. Pour un acheteur, la leçon vaut pour tout composant : un produit simple peut cacher une source unique."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>La décision</b> : le 28 octobre, l’Inde valide 10 000 crores de roupies (≈ 1,05 Md$) sur 13 ans.",
+      "<b>La cible</b> : de 70 000 à 750 000 EVP par an, programme jusqu’en 2040.",
+      "<b>Le monopole</b> : 90 à 97 % de la production mondiale en Chine, avec CIMC, Dong Fang et CXIC. Le commerce mondial reste [[tributaire|tributaire]] de ces usines."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "90-97 %",
+       "production mondiale de conteneurs en Chine, selon les estimations"
+      ],
+      [
+       "70 000 → 750 000",
+       "capacité indienne annuelle visée, en EVP"
+      ],
+      [
+       "1,05 Md$",
+       "budget sur 13 ans"
+      ],
+      [
+       "30-40 %",
+       "surcoût d’un conteneur indien"
+      ]
+     ]
+    },
+    {
+     "h": "Le plan et ses limites"
+    },
+    {
+     "ul": [
+      "<b>Le choc du Covid</b> : Shanghai-Los Angeles de ≈ 2 000 $ à près de 20 000 $. La pénurie a [[exacerber|exacerbé]] la dépendance. 99 % des boîtes en Inde sont chinoises.",
+      "<b>L’écart</b> : 700 à 1 000 $ par conteneur. L’aide vaut ≈ 100 $ par EVP à pleine capacité (calcul Culto) : elle ne suffit pas seule.",
+      "<b>L’acier</b> : peu de Corten de qualité A produit en Inde.",
+      "<b>Le local</b> : 70 % de contenu indien, puis 90 % dès 2032-2033.",
+      "<b>La demande</b> : 1 000 boîtes commandées par Maersk, 50 000 attendues par CONCOR."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Où vont les 10 000 crores",
+      "sub": "Container Manufacturing Promotion Scheme, en crores de roupies",
+      "rows": [
+       [
+        "Aide à l’exploitation",
+        8891
+       ],
+       [
+        "Bonification d’intérêts (3 %)",
+        859
+       ],
+       [
+        "Essais et certification",
+        150
+       ],
+       [
+        "Gestion du programme",
+        100
+       ]
+      ],
+      "prefix": "",
+      "suffix": "",
+      "note": "Source : Conseil des ministres indien, 28 octobre 2026, via Nation Path India. 1 crore = 10 millions de roupies."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "La Chine n’est pas menacée à court terme, mais l’objet le plus banal de la logistique devient un sujet de souveraineté."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Rheinmetall : 78 milliards de commandes, et pourtant la chute",
+   "by": "Analyse",
+   "fig": "78 Md€",
+   "figl": "carnet de commandes à fin septembre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Rheinmetall, communiqué et rapport des neuf mois, 5 novembre 2026. Investing.com, 5 novembre 2026 (cours, consensus, objectifs par métier, F126). Börse Global et MarketScreener, 2026 (Arminius, Berenberg, repli de l’action sur l’année au 16 octobre). XTB, 26 juin 2026 (résultats 2025). Calcul du quatrième trimestre : Culto. Données arrêtées au 5 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Jeudi, le numéro un allemand de l’armement a annoncé un carnet de commandes de 78 milliards d’euros et une marge en hausse. Son action a perdu jusqu’à 16,3 % dans la journée. Le paradoxe a une explication : en pleine envolée des budgets européens, Rheinmetall bute moins sur la demande que sur le calendrier des États et sur sa trésorerie.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "78 Md€",
+       "carnet de commandes, contre 56,7 Md€ un an plus tôt"
+      ],
+      [
+       "+ 38 %",
+       "ventes sur neuf mois, à 8,4 Md€"
+      ],
+      [
+       "− 1,7 Md€",
+       "flux de trésorerie opérationnel sur neuf mois"
+      ],
+      [
+       "− 16 %",
+       "action en séance, le 5 novembre"
+      ]
+     ]
+    },
+    {
+     "h": "Les chiffres du trimestre"
+    },
+    {
+     "p": "Sur neuf mois, les ventes montent de 38 %, à 8,4 milliards, et le résultat opérationnel de 68 %, à 1,34 milliard. La marge passe de 13,1 % à 16 %. Au troisième trimestre, le bénéfice opérationnel dépasse même les attentes : 553 millions contre 531. Mais les ventes, à 3,15 milliards, restent sous le consensus de 3,25 milliards."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Un carnet de commandes par métier",
+      "sub": "au 30 septembre 2026, en milliards d’euros",
+      "rows": [
+       [
+        "Véhicules",
+        28.7
+       ],
+       [
+        "Armes et munitions",
+        25.6
+       ],
+       [
+        "Systèmes numériques",
+        20.4
+       ],
+       [
+        "Défense aérienne",
+        4.1
+       ],
+       [
+        "Naval",
+        3.9
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md€",
+      "note": "Source : Rheinmetall, 5 novembre 2026. La somme dépasse le total du groupe (78 Md€), les chiffres par métier ne s’additionnent pas."
+     }
+    },
+    {
+     "h": "Pourquoi le marché punit"
+    },
+    {
+     "p": "Le groupe réduit ses objectifs 2026 : ≈ 13,2 milliards de ventes, contre 13,7 à 14,2, et une marge de 18,5 % au lieu de 19 %. C’est sa deuxième baisse de l’année. Le chiffre qui fâche est ailleurs : la conversion du bénéfice en trésorerie tombe de plus de 40 % à un peu plus de zéro. Et la dette nette atteint 2,9 milliards, après 369 millions de trésorerie nette fin 2025."
+    },
+    {
+     "p": "Deux dossiers expliquent ce retard. Arminius d’abord, le contrat de milliers de blindés Boxer pour la Bundeswehr, que Berenberg évalue à 23 milliards pour 3 000 véhicules. Il glisse à 2027, et avec lui des acomptes attendus cette année. Les munitions ensuite : la réception de lots d’obus d’artillerie a pris du retard. Le groupe a déjà gonflé ses stocks pour produire."
+    },
+    {
+     "p": "Voilà le risque d’une industrie à un seul grand client. Rheinmetall a beau avoir bâti des usines, il reste [[tributaire|tributaire]] du rythme administratif de Berlin, alors que l’Allemagne pèse 41,3 % des ventes. L’abandon de la frégate F126, qui a retiré 2,15 milliards du carnet en juillet, l’avait déjà rappelé."
+    },
+    {
+     "h": "Le pari du dernier trimestre"
+    },
+    {
+     "p": "Reste une marche haute. Pour atteindre 13,2 milliards, il faut 4,8 milliards de ventes d’octobre à décembre, plus d’un tiers de l’année et plus de 50 % au-dessus du trimestre écoulé. La révision [[exacerber|exacerbe]] donc un doute plus large, sur le passage de la commande à la facture. L’action, qui reculait déjà d’environ 30 % sur l’année à la mi-octobre, paie ce doute."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Un carnet de commandes n’est pas du chiffre d’affaires, et un chiffre d’affaires n’est pas de la trésorerie. Le cas Rheinmetall rappelle ce que tout logisticien sait : ce qui compte, c’est le débit. Une demande massive ne vaut que si l’on sait produire, faire réceptionner et livrer au rythme promis."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le paradoxe</b> : carnet de 78 Md€, mais action en baisse de 16,3 % au plus bas, jeudi.",
+      "<b>Le trimestre</b> : bénéfice opérationnel de 553 M€, au-dessus des attentes. Ventes de 3,15 Md€, sous le consensus de 3,25 Md€.",
+      "<b>Neuf mois</b> : ventes + 38 %, marge de 13,1 % à 16 %."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "78 Md€",
+       "carnet de commandes, contre 56,7 Md€ un an plus tôt"
+      ],
+      [
+       "+ 38 %",
+       "ventes sur neuf mois, à 8,4 Md€"
+      ],
+      [
+       "− 1,7 Md€",
+       "flux de trésorerie opérationnel sur neuf mois"
+      ],
+      [
+       "− 16 %",
+       "action en séance, le 5 novembre"
+      ]
+     ]
+    },
+    {
+     "h": "Ce qui inquiète"
+    },
+    {
+     "ul": [
+      "<b>L’objectif</b> : ventes 2026 à ≈ 13,2 Md€, contre 13,7 à 14,2. Marge de 18,5 % au lieu de 19 %.",
+      "<b>La trésorerie</b> : conversion tombée de plus de 40 % à un peu plus de zéro. Dette nette de 2,9 Md€.",
+      "<b>Arminius</b> : les Boxer de la Bundeswehr, ≈ 23 Md€ selon Berenberg, glissent à 2027 avec leurs acomptes.",
+      "<b>Les munitions</b> : réception de lots d’obus en retard.",
+      "<b>La dépendance</b> : le groupe reste [[tributaire|tributaire]] de Berlin : l’Allemagne fait 41,3 % des ventes. La F126 a retiré 2,15 Md€ du carnet.",
+      "<b>La marche</b> : il faut 4,8 Md€ au quatrième trimestre. Cela [[exacerber|exacerbe]] le doute sur le passage de la commande à la facture."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Un carnet de commandes par métier",
+      "sub": "au 30 septembre 2026, en milliards d’euros",
+      "rows": [
+       [
+        "Véhicules",
+        28.7
+       ],
+       [
+        "Armes et munitions",
+        25.6
+       ],
+       [
+        "Systèmes numériques",
+        20.4
+       ],
+       [
+        "Défense aérienne",
+        4.1
+       ],
+       [
+        "Naval",
+        3.9
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md€",
+      "note": "Source : Rheinmetall, 5 novembre 2026. La somme dépasse le total du groupe (78 Md€), les chiffres par métier ne s’additionnent pas."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "Un carnet n’est pas du chiffre d’affaires, ni une trésorerie. Ce qui compte, c’est le débit."
+     ]
+    }
+   ]
+  }
+ ]
+}

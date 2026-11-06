@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-05",
+ "latest": "2026-11-06",
  "editions": [
+  {
+   "date": "2026-11-06",
+   "label": "Vendredi 6 novembre",
+   "words": [
+    "Tributaire",
+    "Exacerber"
+   ],
+   "items": [
+    [
+     "lit",
+     "Germinal"
+    ],
+    [
+     "essai",
+     "Repenser la pauvreté"
+    ],
+    [
+     "eco",
+     "Droits de douane : le remboursement s’arrête souvent aux entreprises"
+    ],
+    [
+     "geo",
+     "Pacte de La Mecque : Ankara ratifie, Damas frappe à la porte"
+    ],
+    [
+     "log",
+     "Conteneurs : l’Inde s’attaque au monopole chinois de la boîte"
+    ],
+    [
+     "ent",
+     "Rheinmetall : 78 milliards de commandes, et pourtant la chute"
+    ]
+   ]
+  },
   {
    "date": "2026-11-05",
    "label": "Jeudi 5 novembre",
