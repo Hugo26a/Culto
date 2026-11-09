@@ -1,0 +1,1120 @@
+{
+ "date": "2026-11-09",
+ "label": "Lundi 9 novembre 2026",
+ "n": 21,
+ "example": false,
+ "week": {
+  "start": "2026-11-09",
+  "label": "Semaine du 9 novembre",
+  "day": 1,
+  "words": [
+   {
+    "key": "idoine",
+    "w": "Idoine",
+    "ph": "[i.dwan] · adjectif",
+    "short": "Qui convient exactement à l’usage ou à la situation.",
+    "def": "Se dit de ce qui est parfaitement adapté à un besoin, à une personne ou à un moment. Le mot est plus précis que « bon » ou « adapté » : il suggère qu’on a trouvé la solution juste, ni trop ni trop peu. Il s’emploie souvent dans « la personne idoine », « le moment idoine », « l’outil idoine ». Il garde une légère touche soutenue, parfois avec une pointe d’ironie.",
+    "ety": "Du latin idoneus, « propre à, apte à, convenable ». Le mot est attesté en français dès le Moyen Âge, d’abord dans la langue du droit et de l’administration.",
+    "ex": "Pour ce lancement, il nous faut un prestataire idoine : capable de stocker sous température dirigée et de livrer en 24 heures.",
+    "syn": "approprié, adéquat, ad hoc, convenable, pertinent"
+   },
+   {
+    "key": "pregnant",
+    "w": "Prégnant",
+    "ph": "[pʁe.ɲɑ̃] · adjectif",
+    "short": "Qui s’impose fortement à l’esprit et pèse sur la situation.",
+    "def": "Se dit d’une idée, d’une impression ou d’un problème qui occupe fortement les esprits, dont on ne peut faire abstraction. On parle d’une question prégnante, d’une inquiétude prégnante, d’un souvenir prégnant. Le mot dit plus que « important » : il souligne une présence insistante, qui marque et oriente les décisions.",
+    "ety": "Du latin praegnans, « enceinte », au figuré « gonflé, plein de ». Le sens moderne doit beaucoup à la psychologie de la forme, qui a parlé au XXe siècle, d’après l’allemand Prägnanz, des formes qui s’imposent à la perception.",
+    "ex": "La question des délais reste prégnante chez nos clients : c’est le premier point soulevé à chaque revue de contrat.",
+    "syn": "marquant, saillant, insistant, omniprésent, déterminant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Orgueil et Préjugés",
+   "by": "Jane Austen · 1813",
+   "tagline": "Le danger des premières impressions",
+   "min": 10,
+   "exMin": 4,
+   "src": "Jane Austen, Pride and Prejudice (T. Egerton, 1813), domaine public ; traduction de la citation : Culto. Genèse (First Impressions, 1796-1797), refus de Cadell (1797), cession des droits pour 110 livres et parution du 28 janvier 1813 : British Library, « Pride and Prejudice » ; Jane Austen’s House (Chawton). Revenus des personnages : texte du roman (chapitres 1, 3 et 7).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Dans l’Angleterre rurale du début du XIXe siècle, Elizabeth Bennet, deuxième de cinq sœurs sans dot, rencontre le riche et hautain Mr Darcy. Chacun juge l’autre trop vite : lui par orgueil de rang, elle par préjugé blessé. Une lettre, une visite et un scandale familial les obligent à réviser leur jugement, jusqu’au mariage."
+      ],
+      [
+       "La première impression trompe",
+       "Le roman s’appelait d’abord <em>First Impressions</em>. Tout part d’un jugement rapide : Darcy trouve Elizabeth « passable », elle le trouve odieux. Toute l’intrigue consiste à défaire ces deux verdicts. Austen montre qu’on se trompe d’autant plus qu’on se croit fin observateur."
+      ],
+      [
+       "Le mariage est une affaire d’argent",
+       "Le domaine des Bennet ira à un cousin, faute de fils. Pour les cinq filles, un bon mariage est la seule assurance-vie. Austen ne s’en indigne pas, elle le compte : Darcy a 10 000 livres de rente par an, Mr Bennet 2 000. Le poids de l’argent reste [[pregnant|prégnant]] à chaque page."
+      ],
+      [
+       "Savoir changer d’avis",
+       "Le cœur du livre est un aveu. Après la lettre de Darcy, Elizabeth reconnaît qu’elle a été aveugle et vaniteuse. Ce retournement, rare chez une héroïne de l’époque, fait d’elle un personnage moderne : elle grandit parce qu’elle accepte d’avoir eu tort."
+      ],
+      [
+       "Les actes contre les paroles",
+       "Wickham est charmant et ment. Darcy est maladroit et agit. Quand la famille Bennet est menacée de déshonneur, c’est lui qui répare, en silence. Le livre apprend à juger les gens sur ce qu’ils font, pas sur ce qu’ils disent d’eux-mêmes."
+      ],
+      [
+       "L’ironie comme méthode",
+       "Austen ne fait jamais la morale. Elle laisse parler Mrs Bennet, Mr Collins ou Lady Catherine, et leurs propres mots les condamnent. Cette ironie légère est la vraie signature du livre, et la raison pour laquelle il se lit encore avec plaisir."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Un célibataire à Netherfield"
+    },
+    {
+     "p": "Dans le Hertfordshire, Mrs Bennet n’a qu’une obsession : marier ses cinq filles. La nouvelle tombe : un jeune homme riche, Mr Bingley, vient de louer Netherfield, le domaine voisin. Au bal de Meryton, Bingley danse deux fois avec Jane, l’aînée, douce et belle. Son ami Darcy, plus riche encore, refuse de danser et juge Elizabeth tout juste passable. Elle l’entend, en rit, et décide qu’il est le plus désagréable des hommes.",
+     "lead": 1
+    },
+    {
+     "p": "Jane tombe malade lors d’une visite à Netherfield. Elizabeth la rejoint à pied, à travers champs, la robe crottée. Darcy, malgré lui, est frappé par la vivacité de son regard. Miss Bingley, qui le convoite, se moque d’Elizabeth en vain. Entre Darcy et Elizabeth s’installe une joute verbale où chacun croit avoir le dessus."
+    },
+    {
+     "h5": "Le séducteur et le pasteur"
+    },
+    {
+     "p": "Deux hommes arrivent. Mr Collins, le cousin pasteur qui héritera de Longbourn, vient choisir une épouse parmi les sœurs. Pompeux, servile envers sa protectrice Lady Catherine de Bourgh, il demande Elizabeth, qui refuse. Quelques jours plus tard, il se fiance à son amie Charlotte Lucas, vingt-sept ans, qui veut avant tout un foyer. Pour elle, c’est le parti [[idoine|idoine]], et Elizabeth est consternée."
+    },
+    {
+     "p": "Le second est Wickham, un officier séduisant. Il raconte à Elizabeth que Darcy, dont le père l’avait pris sous sa protection, l’a privé de l’héritage promis. Elle le croit d’autant plus volontiers qu’il confirme son aversion. Puis Bingley quitte Netherfield pour Londres sans un mot. Jane a le cœur brisé, et Elizabeth soupçonne Darcy d’y être pour quelque chose."
+    },
+    {
+     "h5": "La demande de Hunsford"
+    },
+    {
+     "p": "Au printemps, Elizabeth rend visite à Charlotte dans le Kent, près de Rosings, le domaine de Lady Catherine, la tante de Darcy. Darcy y séjourne. Un soir, il fait irruption et lui déclare son amour, en insistant sur tout ce que cette union a d’humiliant pour lui : la famille d’Elizabeth est vulgaire et sans rang. Elle le refuse sèchement. Elle l’accuse d’avoir séparé Jane et Bingley et ruiné Wickham."
+    },
+    {
+     "p": "Le lendemain, Darcy lui remet une lettre. Il admet avoir éloigné Bingley, parce qu’il croyait Jane indifférente. Mais il révèle la vérité sur Wickham : celui-ci a dilapidé l’argent reçu en compensation, puis tenté d’enlever Georgiana, la sœur de Darcy, quinze ans, pour sa dot de 30 000 livres. Elizabeth relit la lettre, vérifie les faits dans sa mémoire, et s’effondre intérieurement."
+    },
+    {
+     "quote": "C’est une vérité universellement reconnue qu’un célibataire pourvu d’une belle fortune doit avoir besoin d’une épouse.",
+     "cite": "Première phrase du roman, chapitre 1 (traduction Culto)"
+    },
+    {
+     "h5": "Pemberley"
+    },
+    {
+     "p": "L’été suivant, Elizabeth voyage dans le Derbyshire avec son oncle et sa tante Gardiner, des commerçants de Londres. Ils visitent Pemberley, le domaine de Darcy, qu’ils croient vide. La gouvernante fait de son maître un éloge sans réserve. Darcy surgit, change de ton, se montre courtois avec les Gardiner, que Miss Bingley méprise, et présente sa sœur à Elizabeth. Elle commence à comprendre ce qu’elle a refusé."
+    },
+    {
+     "h5": "La fugue de Lydia"
+    },
+    {
+     "p": "Une lettre de Jane brise tout. Lydia, la cadette, frivole et à peine sortie de l’enfance, s’est enfuie avec Wickham, sans mariage en vue. C’est la ruine de la réputation de toutes les sœurs. Elizabeth, en larmes, avoue tout à Darcy, persuadée de le perdre pour toujours. Quelques jours plus tard, on apprend que Wickham accepte d’épouser Lydia. Mr Bennet croit que son beau-frère a payé. Elizabeth découvre par hasard que c’est Darcy qui a retrouvé le couple, réglé les dettes de Wickham et organisé le mariage."
+    },
+    {
+     "h5": "Les deux mariages"
+    },
+    {
+     "p": "Bingley revient et demande enfin Jane. Lady Catherine, alertée par une rumeur, débarque à Longbourn pour exiger qu’Elizabeth renonce à son neveu. Elizabeth refuse de promettre quoi que ce soit. Cette visite rend espoir à Darcy. Il renouvelle sa demande, cette fois sans condescendance, et Elizabeth accepte. Le roman se clôt sur deux mariages et sur les Gardiner, accueillis à Pemberley comme des amis."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un manuscrit refusé sans être lu"
+    },
+    {
+     "p": "Austen écrit une première version, <em>First Impressions</em>, en 1796 et 1797. Elle a une vingtaine d’années. Son père propose le manuscrit à l’éditeur Cadell, qui le refuse par retour de courrier, sans l’avoir lu. Elle le reprend en 1811 et 1812, le resserre, et cède les droits à Thomas Egerton pour 110 livres. Le roman paraît le 28 janvier 1813, sans nom d’auteur : la page de titre indique seulement « par l’auteur de <em>Raison et Sentiments</em> »."
+    },
+    {
+     "h5": "Une comptabilité sentimentale"
+    },
+    {
+     "p": "Peu de romans donnent autant de chiffres. On connaît la rente de chaque prétendant, la dot de chaque jeune fille, la règle qui fait passer Longbourn au cousin Collins. Austen écrit dans un monde où une femme bien née ne peut ni travailler ni hériter d’un domaine. Le choix de Charlotte Lucas n’est pas ridiculisé, il est expliqué. La question de l’argent reste [[pregnant|prégnante]], mais l’héroïne refuse d’en faire la seule boussole : elle dit non à deux demandes avantageuses."
+    },
+    {
+     "h5": "Le style indirect libre"
+    },
+    {
+     "p": "Austen est l’une des premières à manier avec finesse le style indirect libre : la voix du narrateur se glisse dans les pensées d’un personnage sans guillemets. On voit le monde avec les yeux d’Elizabeth, et donc avec ses erreurs. Le lecteur partage son préjugé contre Darcy, puis sa honte. C’est un procédé idéal pour un livre qui parle de jugement. Les dialogues, vifs et souvent drôles, font le reste."
+    },
+    {
+     "h5": "Une postérité immense"
+    },
+    {
+     "p": "Le livre est devenu l’un des romans anglais les plus lus au monde. La série de la BBC de 1995, avec Colin Firth, et le film de Joe Wright en 2005 ont relancé son succès. Le <em>Journal de Bridget Jones</em> en reprend la trame, et d’innombrables comédies romantiques en copient le duo : deux personnes qui se détestent, puis se découvrent."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que nous jugeons toujours trop vite, en réunion comme dans la vie. Parce que le livre montre qu’un premier avis, même brillant, mérite d’être vérifié avant d’être défendu. Et parce qu’il rappelle qu’on mesure quelqu’un à la façon dont il agit quand personne ne le regarde. Deux siècles plus tard, la leçon d’Elizabeth reste [[idoine|idoine]] : savoir dire « je me suis trompée » est une forme d’intelligence."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Dans l’Angleterre rurale des années 1800, Elizabeth Bennet, sans dot, et le riche Mr Darcy se jugent trop vite : lui par orgueil, elle par préjugé. Une lettre et une crise familiale les forcent à réviser leur verdict, jusqu’au mariage."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La première impression trompe</b> : le titre initial était <em>First Impressions</em>. L’intrigue défait deux jugements hâtifs.",
+      "<b>L’argent</b> : faute de fils, le domaine des Bennet ira à un cousin. Darcy a 10 000 livres de rente, Mr Bennet 2 000. Le poids de l’argent reste [[pregnant|prégnant]].",
+      "<b>Changer d’avis</b> : après la lettre de Darcy, Elizabeth admet sa vanité. Elle grandit parce qu’elle reconnaît son erreur.",
+      "<b>Les actes</b> : Wickham charme et ment, Darcy agit en silence.",
+      "<b>L’ironie</b> : Austen ne juge pas, elle laisse Mrs Bennet, Mr Collins ou Lady Catherine se ridiculiser seuls.",
+      "<b>Le contraste des couples</b> : Jane et Bingley, l’amour facile ; Charlotte et Collins, le mariage de raison ; Lydia et Wickham, la passion irréfléchie. Elizabeth et Darcy sont les seuls à se connaître vraiment avant de s’unir."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Netherfield</b> : Bingley, riche, s’installe près des Bennet et s’éprend de Jane. Son ami Darcy juge Elizabeth « passable ». Elle le déteste.",
+      "<b>Collins et Wickham</b> : le cousin Collins, héritier du domaine, demande Elizabeth, qui refuse. Il se rabat sur Charlotte Lucas, pour qui c’est le parti [[idoine|idoine]]. L’officier Wickham accuse Darcy de l’avoir ruiné. Bingley part sans un mot.",
+      "<b>Hunsford</b> : Darcy demande Elizabeth en soulignant l’infériorité de sa famille. Refus. Sa lettre révèle que Wickham a voulu enlever sa sœur de quinze ans pour une dot de 30 000 livres.",
+      "<b>Pemberley</b> : Elizabeth visite le domaine de Darcy avec son oncle et sa tante Gardiner, des commerçants. La gouvernante fait l’éloge de son maître. Darcy, transformé, se montre courtois avec eux et présente sa sœur à Elizabeth.",
+      "<b>Lydia</b> : la cadette s’enfuit avec Wickham, sans mariage en vue : toute la famille risque le déshonneur. Darcy retrouve le couple à Londres, paie les dettes de Wickham et impose le mariage, en secret. Elizabeth l’apprend par hasard.",
+      "<b>Le dénouement</b> : Bingley épouse Jane. Lady Catherine tente d’empêcher l’union, ce qui rend espoir à Darcy. Seconde demande, acceptée."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Genèse</b> : écrit en 1796-1797, refusé sans lecture par l’éditeur Cadell, révisé en 1811-1812, droits cédés pour 110 livres. Paru anonymement le 28 janvier 1813.",
+      "<b>Une comptabilité</b> : rentes, dots, héritage : le monde d’Austen est chiffré. L’héroïne refuse pourtant deux demandes avantageuses.",
+      "<b>Le style indirect libre</b> : on voit avec les yeux d’Elizabeth, donc avec ses erreurs. Le lecteur partage son préjugé, puis sa honte.",
+      "<b>Postérité</b> : série BBC de 1995, film de Joe Wright en 2005, <em>Bridget Jones</em>, et tout le genre de la comédie romantique.",
+      "<b>Pourquoi le lire</b> : vérifier un premier avis avant de le défendre reste une leçon [[idoine|idoine]], au travail comme ailleurs."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "La Fin de l’histoire et le Dernier Homme",
+   "by": "Francis Fukuyama · 1992",
+   "min": 9,
+   "exMin": 3,
+   "src": "F. Fukuyama, « The End of History? », The National Interest, n° 16, été 1989 ; The End of History and the Last Man (Free Press, 1992) ; trad. fr. La Fin de l’histoire et le Dernier Homme (Flammarion, 1992). Tableau des démocraties libérales : chapitre 4 du livre. M. Plattner, « The End of History Revisited », Journal of Democracy. Freedom House, Freedom in the World 2026 (données 2025), communiqué de mars 2026. S. Huntington, The Clash of Civilizations, 1996 ; J. Derrida, Spectres de Marx, 1993.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Au moment où l’URSS s’effondre, un politologue américain soutient que l’histoire, comprise comme la lutte entre grands systèmes politiques, touche à sa fin. La démocratie libérale et l’économie de marché n’ont plus de rival sérieux. Reste une inquiétude : que devient l’homme quand il n’a plus rien pour quoi se battre ?"
+      ],
+      [
+       "La fin de l’histoire n’est pas la fin des événements",
+       "Guerres, crises et élections continueront. Fukuyama parle de l’Histoire au sens de Hegel : l’évolution des idées sur la meilleure façon de gouverner. Sur ce terrain, il ne voit plus d’alternative crédible au modèle libéral."
+      ],
+      [
+       "Une marée de démocraties",
+       "Selon son propre décompte, le monde passe de 3 démocraties libérales en 1790 à 61 en 1990. Le mouvement a ses reculs, comme en 1940, mais la direction reste la même."
+      ],
+      [
+       "Deux moteurs",
+       "La science moderne pousse toutes les sociétés vers l’industrie et le marché. Le désir de reconnaissance, que Platon appelait <em>thymos</em>, pousse les individus à exiger d’être traités en égaux, donc vers la démocratie."
+      ],
+      [
+       "Le danger du dernier homme",
+       "Une société repue risque de produire des êtres sans ambition, préoccupés de confort. Fukuyama emprunte à Nietzsche cette figure et se demande si l’ennui ne relancera pas l’histoire."
+      ],
+      [
+       "Un titre plus célèbre que le livre",
+       "Souvent caricaturé en prophétie triomphaliste, le livre est en réalité plus nuancé et plus inquiet. Trente ans de recul démocratique ont pourtant mis sa thèse à rude épreuve."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un article écrit avant la chute du Mur"
+    },
+    {
+     "p": "À l’été 1989, Francis Fukuyama, alors fonctionnaire au département d’État, publie dans la revue <em>The National Interest</em> un article intitulé « La fin de l’histoire ? », avec un point d’interrogation. Le mur de Berlin tombe quelques mois plus tard. Le texte devient un phénomène mondial, commenté par des chefs d’État et moqué par des intellectuels. En 1992, l’auteur en tire un livre de plus de 400 pages, qui retire le point d’interrogation et ajoute un « dernier homme » au titre."
+    },
+    {
+     "p": "Le contexte rend la thèse [[pregnant|prégnante]]. En quinze ans, les dictatures du Portugal, d’Espagne et de Grèce sont tombées, puis celles d’Argentine, du Brésil, des Philippines, de Corée du Sud. L’Europe de l’Est suit. Le communisme, principal rival idéologique du libéralisme depuis 1917, s’effondre de l’intérieur. Fukuyama pose alors une question simple : existe-t-il encore une idée capable de remplacer la démocratie libérale ?"
+    },
+    {
+     "stats": [
+      [
+       "3 → 61",
+       "démocraties libérales entre 1790 et 1990, selon le livre"
+      ],
+      [
+       "20 ans",
+       "de recul consécutif des libertés dans le monde (Freedom House, 2025)"
+      ],
+      [
+       "88",
+       "pays classés « libres » par Freedom House en 2025"
+      ],
+      [
+       "21 %",
+       "de l’humanité vit dans un pays libre, contre 46 % vingt ans plus tôt"
+      ]
+     ]
+    },
+    {
+     "h5": "Hegel, Kojève et le sens de l’histoire"
+    },
+    {
+     "p": "L’auteur s’appuie sur Hegel, qui voyait dans la victoire de Napoléon à Iéna, en 1806, la fin d’un long processus : le triomphe des principes de liberté et d’égalité nés de la Révolution française. Il passe par la lecture qu’en a faite Alexandre Kojève dans ses cours parisiens des années 1930. Pour Kojève, l’histoire avance par la lutte des hommes pour être reconnus. Elle s’achève quand tous sont reconnus comme égaux, ce que promet l’État libéral."
+    },
+    {
+     "p": "Fukuyama ne prétend donc pas que tous les pays sont démocratiques, ni qu’ils le deviendront demain. Il soutient que la démocratie libérale est le seul horizon qui reste légitime. Les régimes autoritaires survivent, mais ils n’ont plus de projet universel à proposer. Même eux justifient leur pouvoir en invoquant le peuple, la croissance ou des élections."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "La marée libérale selon Fukuyama",
+      "sub": "nombre de démocraties libérales dans le monde",
+      "labels": [
+       "1790",
+       "1848",
+       "1900",
+       "1919",
+       "1940",
+       "1960",
+       "1975",
+       "1990"
+      ],
+      "series": [
+       {
+        "name": "Démocraties libérales",
+        "values": [
+         3,
+         5,
+         13,
+         25,
+         13,
+         36,
+         30,
+         61
+        ]
+       }
+      ],
+      "note": "Source : F. Fukuyama, La Fin de l’histoire et le Dernier Homme (1992), tableau du chapitre 4, d’après ses propres critères."
+     }
+    },
+    {
+     "h5": "La machine et le désir de reconnaissance"
+    },
+    {
+     "p": "Le premier moteur est économique. La science moderne donne un avantage militaire et industriel décisif. Pour ne pas être distancées, toutes les sociétés doivent s’industrialiser, urbaniser, éduquer, et finissent par adopter le marché, l’outil [[idoine|idoine]] pour coordonner une économie complexe. Mais cela n’explique pas la démocratie : un régime autoritaire peut gérer la croissance, comme l’a montré la Corée du Sud des années 1970."
+    },
+    {
+     "p": "Le second moteur est psychologique. Fukuyama reprend le <em>thymos</em> de Platon, cette part de l’âme qui veut être estimée. Il en distingue deux formes. La mégalothymie est le désir d’être reconnu supérieur aux autres, celui des conquérants. L’isothymie est le désir d’être reconnu comme l’égal des autres. La démocratie libérale satisfait la seconde : chaque citoyen a des droits et un bulletin de vote. C’est pourquoi, selon lui, les classes moyennes éduquées finissent par réclamer la liberté politique."
+    },
+    {
+     "h5": "L’inquiétude du dernier homme"
+    },
+    {
+     "p": "La dernière partie est la plus sombre. Nietzsche décrivait avec mépris le « dernier homme », satisfait de son petit confort et incapable de grandeur. Fukuyama se demande si la fin de l’histoire ne produit pas exactement cet être. Si l’on n’a plus de grande cause pour laquelle risquer sa vie, que faire de la mégalothymie ? Il redoute que des hommes s’ennuient de la paix et cherchent la lutte pour elle-même. Il évoque le sport, l’entreprise ou l’alpinisme comme exutoires, sans être sûr qu’ils suffisent."
+    },
+    {
+     "p": "Ce passage est souvent oublié par ceux qui résument le livre à un hymne au triomphe occidental. Il en est pourtant la conclusion. Fukuyama doute que le libéralisme, qui garantit la sécurité et le confort, satisfasse durablement le besoin humain de sens et de grandeur. Il anticipe ainsi, dès 1992, une part des colères qui secouent aujourd’hui les démocraties : le sentiment d’être méprisé, de ne pas compter, peut peser plus lourd dans un vote que le niveau de revenu."
+    },
+    {
+     "h5": "Critiques et démentis"
+    },
+    {
+     "p": "Les critiques sont venues vite. Jacques Derrida, dans <em>Spectres de Marx</em> en 1993, dénonce un discours de vainqueur. Samuel Huntington, ancien professeur de Fukuyama, répond par <em>Le Choc des civilisations</em> : les conflits futurs opposeront des cultures, pas des idéologies. Les attentats du 11 septembre 2001, puis l’essor de la Chine, prospère sans être démocratique, ont semblé lui donner raison."
+    },
+    {
+     "p": "Les chiffres récents sont rudes. Seuls 88 pays restent classés libres. Selon Freedom House, 2025 est la vingtième année consécutive de recul des libertés : 54 pays ont reculé, 35 ont progressé. Seuls 21 % des habitants de la planète vivent dans un pays classé libre, contre 46 % vingt ans plus tôt. La guerre en Ukraine, la montée des populismes et la tentation autoritaire dans de vieilles démocraties pèsent sur la thèse."
+    },
+    {
+     "h5": "Ce qui reste du livre"
+    },
+    {
+     "p": "Fukuyama a lui-même nuancé sa position. Il a rompu avec les néoconservateurs sur la guerre d’Irak, puis consacré des livres à la solidité des institutions et, en 2018, aux politiques de l’identité, où il voit une revanche du <em>thymos</em>. Il maintient l’essentiel : aucun modèle concurrent n’attire durablement les peuples. Le livre reste utile parce qu’il pose les bonnes questions. Pour un manager, l’intuition sur le besoin de reconnaissance est précieuse : on ne motive pas durablement une équipe avec le seul salaire."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "En 1989-1992, Fukuyama soutient que la démocratie libérale et le marché n’ont plus de rival idéologique : l’histoire des grands systèmes touche à sa fin. Il s’inquiète pourtant d’un homme sans cause pour laquelle se battre."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’article</b> : publié à l’été 1989 dans <em>The National Interest</em>, avec un point d’interrogation, quelques mois avant la chute du Mur. Le livre suit en 1992.",
+      "<b>Le contexte</b> : chute des dictatures d’Europe du Sud, d’Amérique latine et d’Asie, puis du communisme. La thèse paraît alors [[pregnant|prégnante]].",
+      "<b>Le sens du mot</b> : l’histoire au sens de Hegel et de Kojève, l’évolution des idées sur le meilleur régime. Les événements continuent.",
+      "<b>L’économie</b> : la science impose l’industrie, puis le marché, outil [[idoine|idoine]] pour coordonner une économie complexe. Mais elle n’impose pas la démocratie.",
+      "<b>La reconnaissance</b> : le <em>thymos</em> de Platon. La mégalothymie veut dominer, l’isothymie veut l’égalité. La démocratie satisfait la seconde.",
+      "<b>Le dernier homme</b> : figure de Nietzsche, un être repu et sans ambition. L’ennui pourrait relancer l’histoire.",
+      "<b>Une thèse nuancée</b> : la fin de l’histoire ne veut pas dire que tous les pays sont démocratiques. Elle veut dire qu’aucun modèle rival ne reste légitime : même les régimes autoritaires invoquent le peuple ou la croissance.",
+      "<b>Une intuition actuelle</b> : le sentiment de ne pas être reconnu peut peser plus lourd qu’un revenu. Fukuyama anticipe ainsi une part des colères populistes."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "3 → 61",
+       "démocraties libérales entre 1790 et 1990, selon le livre"
+      ],
+      [
+       "20 ans",
+       "de recul consécutif des libertés dans le monde (Freedom House, 2025)"
+      ],
+      [
+       "88",
+       "pays classés « libres » par Freedom House en 2025"
+      ],
+      [
+       "21 %",
+       "de l’humanité vit dans un pays libre, contre 46 % vingt ans plus tôt"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "La marée libérale selon Fukuyama",
+      "sub": "nombre de démocraties libérales dans le monde",
+      "labels": [
+       "1790",
+       "1848",
+       "1900",
+       "1919",
+       "1940",
+       "1960",
+       "1975",
+       "1990"
+      ],
+      "series": [
+       {
+        "name": "Démocraties libérales",
+        "values": [
+         3,
+         5,
+         13,
+         25,
+         13,
+         36,
+         30,
+         61
+        ]
+       }
+      ],
+      "note": "Source : F. Fukuyama, La Fin de l’histoire et le Dernier Homme (1992), tableau du chapitre 4, d’après ses propres critères."
+     }
+    },
+    {
+     "h": "Critiques et postérité"
+    },
+    {
+     "ul": [
+      "<b>Les critiques</b> : Derrida, en 1993, y voit un discours de vainqueur. Huntington, son ancien professeur, prédit un choc des civilisations : les conflits opposeront des cultures, pas des idéologies.",
+      "<b>Les démentis</b> : le 11 septembre, une Chine prospère sans démocratie, et vingt ans de recul des libertés selon Freedom House : 54 pays en baisse contre 35 en hausse en 2025. Seuls 21 % des humains vivent dans un pays libre, contre 46 % vingt ans plus tôt.",
+      "<b>L’auteur</b> : rupture avec les néoconservateurs sur l’Irak, puis un livre sur l’identité en 2018. Il maintient qu’aucun modèle rival n’attire durablement.",
+      "<b>La leçon</b> : le besoin de reconnaissance pèse autant que le salaire, en politique comme en entreprise."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Emploi américain : l’embauche repart, la part des salariés recule",
+   "by": "Analyse",
+   "fig": "165 000",
+   "figl": "emplois créés en octobre aux États-Unis",
+   "min": 3,
+   "exMin": 2,
+   "src": "Bureau of Labor Statistics, Employment Situation d’octobre 2026, 6 novembre 2026, via Fox Business et ABC News. BLS, Productivity and Costs, 3e trimestre 2026 (préliminaire), 5 novembre 2026. BLS, indice des prix à la consommation de septembre 2026, 14 octobre 2026. Université du Michigan, indice préliminaire de novembre, via Ed Lane, 7 novembre 2026. CME FedWatch, 6 novembre 2026. Données arrêtées au 7 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Les États-Unis ont créé 165 000 emplois en octobre, plus du double des prévisions, et le chômage est retombé à 4,1 %. Bonne nouvelle pour les salariés ? Pas tout à fait. Leurs salaires progressent moins vite que les prix, et la part de la richesse produite qui leur revient vient de toucher son plus bas depuis 1947. Et la Fed, elle, voit dans cette vigueur une raison de monter ses taux.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "165 000",
+       "emplois créés en octobre, contre 65 000 attendus"
+      ],
+      [
+       "4,1 %",
+       "taux de chômage, après 4,2 % en septembre"
+      ],
+      [
+       "3,1 %",
+       "hausse des salaires horaires sur un an, sous l’inflation de 3,7 %"
+      ],
+      [
+       "53 %",
+       "part du travail dans la production des entreprises, plus bas depuis 1947"
+      ]
+     ]
+    },
+    {
+     "h": "Un rapport meilleur que prévu"
+    },
+    {
+     "p": "Les économistes attendaient 65 000 postes. Les services aux entreprises en ajoutent 70 000, la santé 42 000, le transport et l’entreposage 25 000, porté par les coursiers, et l’industrie 19 000. Août et septembre sont révisés en hausse de 84 000 postes au total. Le taux d’activité remonte légèrement, à 61,9 %."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Une embauche qui repart",
+      "sub": "créations d’emplois non agricoles, en milliers, 2026",
+      "labels": [
+       "Août",
+       "Sept.",
+       "Oct."
+      ],
+      "series": [
+       {
+        "name": "Emplois créés",
+        "values": [
+         186,
+         60,
+         165
+        ]
+       }
+      ],
+      "note": "Source : Bureau of Labor Statistics, 6 novembre 2026 (août et septembre révisés)."
+     }
+    },
+    {
+     "p": "Le tableau a pourtant des zones d’ombre. Le nombre de personnes à temps partiel faute de mieux bondit de 339 000, à 4,8 millions. Plus d’un chômeur sur quatre cherche depuis au moins six mois. Le chômage au sens large passe de 7,6 % à 7,9 %."
+    },
+    {
+     "h": "Des salariés qui s’appauvrissent"
+    },
+    {
+     "p": "Le salaire horaire moyen gagne 3,1 % sur un an. L’inflation, elle, atteignait 3,7 % en septembre, poussée par l’essence depuis la guerre avec l’Iran. Le pouvoir d’achat recule donc. Dans l’enquête du Michigan, le moral remonte de 48 à 51, mais 57 % des ménages disent spontanément que les prix ont dégradé leur niveau de vie."
+    },
+    {
+     "p": "Le chiffre le plus frappant vient des statistiques de productivité. Au troisième trimestre, la production par heure travaillée progresse de 3,6 % en rythme annuel. Mais la rémunération ne suit pas : la part du travail dans la production des entreprises tombe à 53 %, son niveau le plus bas depuis le début de la série, en 1947. Les gains de l’automatisation et de l’IA vont aux marges plus qu’aux fiches de paie. Cette question du partage reste [[pregnant|prégnante]] au lendemain des élections de mi-mandat."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Pour la Fed, un emploi solide et une inflation à 3,7 % plaident pour une hausse en décembre : les marchés l’estiment probable à environ 77 %. Le paradoxe est cruel. L’économie tient, les entreprises gagnent en productivité, mais le salarié moyen perd du terrain. Un taux de chômage bas ne suffit pas à mesurer la santé d’un marché du travail : il faut regarder aussi le temps partiel subi, les salaires réels et le partage de la valeur."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>La surprise</b> : 165 000 emplois créés en octobre, contre 65 000 attendus. Chômage à 4,1 %.",
+      "<b>Le revers</b> : salaires en dessous des prix, et part du travail au plus bas depuis 1947."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "165 000",
+       "emplois créés en octobre, contre 65 000 attendus"
+      ],
+      [
+       "4,1 %",
+       "taux de chômage, après 4,2 % en septembre"
+      ],
+      [
+       "3,1 %",
+       "hausse des salaires horaires sur un an, sous l’inflation de 3,7 %"
+      ],
+      [
+       "53 %",
+       "part du travail dans la production des entreprises, plus bas depuis 1947"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les secteurs</b> : services aux entreprises + 70 000, santé + 42 000, transport et entreposage + 25 000, industrie + 19 000. Révisions : + 84 000 sur août et septembre.",
+      "<b>Les ombres</b> : temps partiel subi + 339 000, à 4,8 millions. Plus d’un chômeur sur quatre cherche depuis six mois ou plus. Chômage au sens large de 7,6 % à 7,9 %.",
+      "<b>Le pouvoir d’achat</b> : salaires + 3,1 % sur un an, inflation à 3,7 % en septembre. Moral des ménages de 48 à 51.",
+      "<b>Le partage</b> : productivité + 3,6 % en rythme annuel au 3e trimestre, mais part du travail à 53 %, record bas. Le sujet reste [[pregnant|prégnant]]."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Une embauche qui repart",
+      "sub": "créations d’emplois non agricoles, en milliers, 2026",
+      "labels": [
+       "Août",
+       "Sept.",
+       "Oct."
+      ],
+      "series": [
+       {
+        "name": "Emplois créés",
+        "values": [
+         186,
+         60,
+         165
+        ]
+       }
+      ],
+      "note": "Source : Bureau of Labor Statistics, 6 novembre 2026 (août et septembre révisés)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La Fed</b> : emploi solide et inflation à 3,7 % : hausse de taux jugée probable à ≈ 77 % en décembre.",
+      "<b>La leçon</b> : un chômage bas ne dit pas tout de la santé des salariés."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Paraguay : une faillite bancaire emporte le président",
+   "by": "Analyse",
+   "fig": "≈ 3 M",
+   "figl": "clients d’Ueno Bank, avoirs gelés",
+   "min": 3,
+   "exMin": 2,
+   "src": "MercoPress, 7 novembre 2026 (vote du Sénat, Alliana, Cartes, assignation à résidence, Carvallo). AP via NEPM, 7 novembre 2026 (clients, saisie par la Banque centrale). AP via KTTC, 5 novembre 2026 (vote des députés, 850 M$ et 380 M$ de fonds publics, alertes de juin 2026). Données arrêtées au 8 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "En quatre jours, le Paraguay est passé d’une faillite bancaire à un changement de président. Mardi, la Banque centrale saisit Ueno Bank, banque numérique dont le chef de l’État fut actionnaire. Vendredi, le Sénat destitue Santiago Peña, qui dort le soir même en résidence surveillée. L’affaire dit beaucoup de la fragilité des institutions quand l’État, la banque et le parti se confondent.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "78 à 0",
+       "vote des députés pour lancer la destitution, le 5 novembre"
+      ],
+      [
+       "44 sur 44",
+       "sénateurs présents favorables à la destitution, le 6 novembre"
+      ],
+      [
+       "≈ 3 M",
+       "clients d’Ueno Bank, avoirs gelés"
+      ],
+      [
+       "850 M$",
+       "fonds publics déposés à Ueno Bank"
+      ]
+     ]
+    },
+    {
+     "h": "Une banque trop proche du pouvoir"
+    },
+    {
+     "p": "Ueno Bank a grandi très vite, en séduisant les jeunes avec une application et du cashback sur les courses. Plus d’un million de Paraguayens y ont ouvert leur premier compte. Elle compte environ trois millions de clients, plus de la moitié des adultes du pays. Elle détenait aussi 850 millions de dollars de fonds publics, dont 380 millions de la caisse de retraite et de santé, l’IPS. Des inspecteurs avaient signalé des prêts risqués dès juin. Mardi, la Banque centrale la saisit pour insolvabilité et prêts irréguliers à des sociétés de ses propriétaires."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’argent public piégé chez Ueno",
+      "sub": "fonds publics déposés à la banque, en millions de dollars",
+      "rows": [
+       [
+        "Caisse de retraite et de santé (IPS)",
+        380
+       ],
+       [
+        "Autres organismes publics",
+        470
+       ]
+      ],
+      "prefix": "",
+      "suffix": " M$",
+      "note": "Source : AP via KTTC, 5 novembre 2026. « Autres organismes publics » : calcul Culto (850 − 380)."
+     }
+    },
+    {
+     "p": "Le lien avec le pouvoir est direct. Peña a été actionnaire de la holding jusqu’en avril 2025. Il avait nommé à la tête de la Banque centrale Carlos Carvallo, ancien dirigeant d’Ueno, lui aussi visé par la justice."
+    },
+    {
+     "h": "Une destitution éclair"
+    },
+    {
+     "p": "Jeudi, le Parti Colorado, au pouvoir presque sans interruption depuis 1947, lâche Peña sous l’impulsion de l’ancien président Horacio Cartes. Le président démissionne, mais les députés refusent sa démission : elle lui aurait offert un siège de sénateur à vie et l’immunité. Ils votent la mise en accusation par 78 voix contre 0. Vendredi, après dix heures de procès, les 44 sénateurs présents le destituent. Le vice-président Pedro Alliana prête serment et gouvernera jusqu’en août 2028."
+    },
+    {
+     "p": "La question du précédent est [[pregnant|prégnante]] : Fernando Lugo avait déjà été destitué en 2012 par une procédure express. La rue, elle, ne se contente pas du changement de tête. Des milliers d’épargnants ont fêté le vote devant le Congrès, puis de jeunes manifestants ont visé tout le parti au pouvoir."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Peña était l’un des alliés les plus proches de Washington en Amérique du Sud. Son successeur promet d’indemniser les victimes et de changer la Banque centrale. Il hérite d’un pays sous tension, où la confiance dans les banques et dans le parti au pouvoir s’est effondrée en une semaine. Le cas paraguayen rappelle une règle universelle : un régulateur dirigé par l’ancien patron de la banque qu’il surveille finit toujours par coûter cher."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le choc</b> : mardi, la Banque centrale saisit Ueno Bank. Vendredi, le Sénat destitue le président Santiago Peña, ancien actionnaire.",
+      "<b>La suite</b> : Peña est assigné à résidence. Pedro Alliana gouverne jusqu’en août 2028."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "78 à 0",
+       "vote des députés pour lancer la destitution, le 5 novembre"
+      ],
+      [
+       "44 sur 44",
+       "sénateurs présents favorables à la destitution, le 6 novembre"
+      ],
+      [
+       "≈ 3 M",
+       "clients d’Ueno Bank, avoirs gelés"
+      ],
+      [
+       "850 M$",
+       "fonds publics déposés à Ueno Bank"
+      ]
+     ]
+    },
+    {
+     "h": "Les faits"
+    },
+    {
+     "ul": [
+      "<b>La banque</b> : application et cashback, ≈ 3 millions de clients, plus de la moitié des adultes. 850 M$ de fonds publics, dont 380 M$ de la caisse de retraite IPS.",
+      "<b>Les alertes</b> : prêts risqués signalés dès juin, prêts irréguliers à des sociétés des propriétaires.",
+      "<b>Les liens</b> : Peña actionnaire jusqu’en avril 2025. Le patron de la Banque centrale venait d’Ueno.",
+      "<b>Le vote</b> : le Parti Colorado lâche Peña. Démission refusée, pour lui ôter immunité et siège à vie. Députés : 78 à 0. Sénat : 44 sur 44.",
+      "<b>Le précédent</b> : Fernando Lugo, destitué en 2012. La question reste [[pregnant|prégnante]], et la rue vise tout le parti."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’argent public piégé chez Ueno",
+      "sub": "fonds publics déposés à la banque, en millions de dollars",
+      "rows": [
+       [
+        "Caisse de retraite et de santé (IPS)",
+        380
+       ],
+       [
+        "Autres organismes publics",
+        470
+       ]
+      ],
+      "prefix": "",
+      "suffix": " M$",
+      "note": "Source : AP via KTTC, 5 novembre 2026. « Autres organismes publics » : calcul Culto (850 − 380)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le successeur</b> : Alliana promet d’indemniser les victimes et de changer la Banque centrale. Peña était un proche allié de Washington.",
+      "<b>La leçon</b> : quand le régulateur sort de la banque qu’il surveille, la facture finit par tomber."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Maersk : le fret flambe, mais le pic est peut-être passé",
+   "by": "Analyse",
+   "fig": "+ 46 %",
+   "figl": "taux de fret Maersk en un trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Maersk, résultats du 3e trimestre 2026, 5 novembre 2026, via Reuters (Baird Maritime) et Bloomberg (gCaptain). Drewry, World Container Index, 5 novembre 2026. Données arrêtées au 5 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Maersk vient de relever pour la troisième fois cette année son objectif de bénéfice. Ses taux de fret ont bondi de 46 % en un trimestre. Pourtant, l’action a perdu 11 % jeudi. Le marché ne doute pas du présent, il doute de la durée : les causes de la flambée, congestion et détours, commencent à s’effacer.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "+ 46 %",
+       "taux de fret de Maersk par rapport au trimestre précédent"
+      ],
+      [
+       "4,7 Md$",
+       "EBITDA du trimestre, + 75 % sur un an"
+      ],
+      [
+       "8 à 8,5 Md$",
+       "nouvel objectif d’EBIT 2026, contre 4,5 à 6,5"
+      ],
+      [
+       "− 11 %",
+       "action le jour des résultats"
+      ]
+     ]
+    },
+    {
+     "h": "Des profits portés par le désordre"
+    },
+    {
+     "p": "Au troisième trimestre, l’EBITDA du géant danois atteint 4,7 milliards de dollars, en hausse de 75 % sur un an. Le résultat opérationnel, l’EBIT, s’élève à 3,27 milliards, + 155 %. Pour 2026, Maersk vise désormais 8 à 8,5 milliards d’EBIT, contre 4,5 à 6,5 auparavant. Les volumes, eux, sont restés à peu près stables. Tout vient donc du prix."
+    },
+    {
+     "p": "Ce prix est nourri par le désordre. La guerre avec l’Iran perturbe le Golfe, les ports chinois ont été saturés, des typhons ont gêné les exportations asiatiques cet été. S’y ajoute une demande nouvelle : le directeur général Vincent Clerc cite l’électrification, l’énergie et les infrastructures de l’IA, qui remplissent les cales de transformateurs, de câbles et de serveurs."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce que coûte une boîte au départ de Shanghai",
+      "sub": "conteneur de 40 pieds, en dollars, 5 novembre 2026",
+      "rows": [
+       [
+        "Vers New York",
+        9303
+       ],
+       [
+        "Vers Los Angeles",
+        7539
+       ],
+       [
+        "Vers Gênes",
+        4166
+       ],
+       [
+        "Vers Rotterdam",
+        3615
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : Drewry, World Container Index, 5 novembre 2026. Indice composite : 4 389 $, + 124 % sur un an."
+     }
+    },
+    {
+     "h": "Pourquoi la Bourse doute"
+    },
+    {
+     "p": "Les résultats ont manqué les attentes : 3,27 milliards d’EBIT contre 3,61 espérés, avec des volumes plus faibles et des coûts plus élevés que prévu. Surtout, l’objectif annuel implique un quatrième trimestre légèrement inférieur au troisième. Le reflux a commencé : l’indice Drewry recule de 1 % sur la semaine, l’attente des navires à Shanghai tombe à 35 heures, et environ 60 % des capacités Asie-Europe repassent par Suez. Chaque navire qui évite le cap de Bonne-Espérance libère de la capacité. Et les chantiers livrent des porte-conteneurs neufs commandés pendant les années fastes : l’offre grossit plus vite que la demande, que Maersk voit croître d’environ 4 % cette année."
+    },
+    {
+     "p": "Le scénario rappelle 2022 : après la flambée du Covid, les taux s’étaient effondrés en quelques mois. Les armateurs ont depuis appris à retirer des navires du marché pour soutenir les prix, mais cette discipline a ses limites quand les capacités affluent."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le transport maritime gagne le plus quand tout va mal. Pour un chargeur, le moment [[idoine|idoine]] pour renégocier ses contrats annuels approche : l’indice composite reste à 4 389 dollars, 124 % au-dessus de l’an dernier, mais la pente s’inverse. Reste un risque : une nouvelle escalade à Ormuz ou une grève à Los Angeles relancerait la hausse."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le paradoxe</b> : troisième hausse d’objectif de l’année, taux de fret + 46 % sur un trimestre, mais action − 11 %.",
+      "<b>La raison</b> : le marché doute que la flambée dure."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "+ 46 %",
+       "taux de fret de Maersk par rapport au trimestre précédent"
+      ],
+      [
+       "4,7 Md$",
+       "EBITDA du trimestre, + 75 % sur un an"
+      ],
+      [
+       "8 à 8,5 Md$",
+       "nouvel objectif d’EBIT 2026, contre 4,5 à 6,5"
+      ],
+      [
+       "− 11 %",
+       "action le jour des résultats"
+      ]
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "ul": [
+      "<b>Le trimestre</b> : EBITDA de 4,7 Md$ (+ 75 %), EBIT de 3,27 Md$ (+ 155 %), contre 3,61 Md$ attendus. Volumes stables.",
+      "<b>Les moteurs</b> : guerre avec l’Iran, ports chinois saturés, typhons, et demande liée à l’électrification et à l’IA.",
+      "<b>Le reflux</b> : quatrième trimestre attendu un peu sous le troisième. Attente à Shanghai à 35 heures. ≈ 60 % des capacités Asie-Europe repassent par Suez.",
+      "<b>L’offre</b> : des navires neufs arrivent, alors que la demande mondiale croît d’≈ 4 % selon Maersk. En 2022, les taux s’étaient effondrés en quelques mois après la flambée."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce que coûte une boîte au départ de Shanghai",
+      "sub": "conteneur de 40 pieds, en dollars, 5 novembre 2026",
+      "rows": [
+       [
+        "Vers New York",
+        9303
+       ],
+       [
+        "Vers Los Angeles",
+        7539
+       ],
+       [
+        "Vers Gênes",
+        4166
+       ],
+       [
+        "Vers Rotterdam",
+        3615
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : Drewry, World Container Index, 5 novembre 2026. Indice composite : 4 389 $, + 124 % sur un an."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Pour un chargeur</b> : indice à 4 389 $, + 124 % sur un an, mais en baisse. Le moment [[idoine|idoine]] pour renégocier approche.",
+      "<b>Le risque</b> : Ormuz ou une grève à Los Angeles relanceraient la hausse."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Shopify : l’IA coûte avant de rapporter",
+   "by": "Analyse",
+   "fig": "+ 32 %",
+   "figl": "chiffre d’affaires au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Shopify, résultats du 3e trimestre 2026, 3 novembre 2026, via The Next Web et TIKR (consensus, marges, valorisation). Données arrêtées au 4 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le canadien Shopify, qui fournit leur boutique en ligne à des millions de marchands, a publié mardi une croissance de 32 %. Et pourtant, son action a perdu jusqu’à 17 % en séance. C’est la première fois depuis 2022 que ses ventes ratent, même de peu, les attentes. Derrière ce faux pas, une question que se pose toute la tech : combien coûte l’IA, et quand rapporte-t-elle ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "3,74 Md$",
+       "chiffre d’affaires du trimestre, + 32 %"
+      ],
+      [
+       "119,1 Md$",
+       "volume de ventes des marchands, + 29 %"
+      ],
+      [
+       "47,6 %",
+       "marge brute, contre 48,9 % un an plus tôt"
+      ],
+      [
+       "− 8,7 %",
+       "action à la clôture, le 3 novembre"
+      ]
+     ]
+    },
+    {
+     "h": "Un trimestre presque parfait"
+    },
+    {
+     "p": "Le chiffre d’affaires atteint 3,74 milliards de dollars, contre 3,75 attendus. Le volume de ventes réalisé par les marchands, cœur du modèle, monte de 29 %, à 119,1 milliards : c’est le treizième trimestre d’affilée au-dessus de 20 %. Le résultat d’exploitation bondit de 66 %, à 568 millions, et le flux de trésorerie disponible représente 22 % des ventes. Mais le volume reste sous les 120 milliards espérés, et les abonnements, à 836 millions, manquent aussi la cible."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Tout croît, mais pas au même rythme",
+      "sub": "croissance sur un an au 3e trimestre 2026, en %",
+      "rows": [
+       [
+        "Résultat d’exploitation",
+        66
+       ],
+       [
+        "Solutions marchands (paiement…)",
+        35
+       ],
+       [
+        "Chiffre d’affaires",
+        32
+       ],
+       [
+        "Volume de ventes des marchands",
+        29
+       ],
+       [
+        "Abonnements",
+        20
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Source : Shopify, résultats du 3 novembre 2026, via TIKR."
+     }
+    },
+    {
+     "h": "Le prix de l’assistant"
+    },
+    {
+     "p": "Le vrai sujet est la marge. Le coût des abonnements passe de 128 à 175 millions en un an. Le directeur financier l’attribue surtout aux dépenses d’IA de Sidekick, l’assistant qui aide les marchands à gérer leur boutique. La marge brute tombe à 47,6 %. Et pour le quatrième trimestre, Shopify annonce un bénéfice brut en hausse d’un peu moins de 30 %, plus lentement que des ventes attendues en hausse d’un peu plus de 30 %."
+    },
+    {
+     "p": "La direction parie sur le commerce « agentique » : des assistants qui achètent à la place du client. Shopify est partenaire de Muse, l’agent de Meta capable de commander dans ses boutiques. Pour ses dirigeants, c’est la plateforme [[idoine|idoine]] pour ce nouveau canal. Les investisseurs, eux, voient d’abord la facture. Fondée en 2006 à Ottawa, l’entreprise a construit sa réussite sur un abonnement bon marché et une commission sur chaque paiement. L’IA ajoute un coût variable à chaque marchand servi, ce qui change l’équation."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Valorisée environ 74 fois ses bénéfices attendus avant la publication, Shopify n’avait pas droit à l’erreur. Le cas illustre une règle simple : plus une action est chère, plus un écart minime coûte cher. Il pose aussi une question pour toute entreprise qui déploie l’IA : un service gratuit pour le client reste une charge pour celui qui le fournit."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le paradoxe</b> : ventes + 32 %, mais action jusqu’à − 17 % en séance. Première déception sur les ventes depuis 2022.",
+      "<b>La question</b> : combien coûte l’IA, et quand rapporte-t-elle ?"
+     ]
+    },
+    {
+     "stats": [
+      [
+       "3,74 Md$",
+       "chiffre d’affaires du trimestre, + 32 %"
+      ],
+      [
+       "119,1 Md$",
+       "volume de ventes des marchands, + 29 %"
+      ],
+      [
+       "47,6 %",
+       "marge brute, contre 48,9 % un an plus tôt"
+      ],
+      [
+       "− 8,7 %",
+       "action à la clôture, le 3 novembre"
+      ]
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "ul": [
+      "<b>Les ventes</b> : 3,74 Md$, contre 3,75 attendus. Volume des marchands 119,1 Md$, sous les 120 espérés. Abonnements 836 M$, sous la cible.",
+      "<b>La rentabilité</b> : résultat d’exploitation + 66 %, à 568 M$. Trésorerie disponible : 22 % des ventes.",
+      "<b>La marge</b> : coût des abonnements de 128 à 175 M$, à cause de l’assistant IA Sidekick. Marge brute à 47,6 %.",
+      "<b>Le pari</b> : le commerce par agents, avec Muse de Meta. La direction se voit comme la plateforme [[idoine|idoine]]."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Tout croît, mais pas au même rythme",
+      "sub": "croissance sur un an au 3e trimestre 2026, en %",
+      "rows": [
+       [
+        "Résultat d’exploitation",
+        66
+       ],
+       [
+        "Solutions marchands (paiement…)",
+        35
+       ],
+       [
+        "Chiffre d’affaires",
+        32
+       ],
+       [
+        "Volume de ventes des marchands",
+        29
+       ],
+       [
+        "Abonnements",
+        20
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Source : Shopify, résultats du 3 novembre 2026, via TIKR."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La valorisation</b> : ≈ 74 fois les bénéfices attendus avant la publication, ≈ 63 fois après. Aucune marge d’erreur.",
+      "<b>Le modèle</b> : abonnement et commission sur les paiements. L’IA ajoute un coût variable par marchand.",
+      "<b>La leçon</b> : un service d’IA gratuit pour le client reste une charge pour qui le fournit."
+     ]
+    }
+   ]
+  }
+ ]
+}

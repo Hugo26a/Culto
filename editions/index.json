@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-06",
+ "latest": "2026-11-09",
  "editions": [
+  {
+   "date": "2026-11-09",
+   "label": "Lundi 9 novembre",
+   "words": [
+    "Idoine",
+    "Prégnant"
+   ],
+   "items": [
+    [
+     "lit",
+     "Orgueil et Préjugés"
+    ],
+    [
+     "essai",
+     "La Fin de l’histoire et le Dernier Homme"
+    ],
+    [
+     "eco",
+     "Emploi américain : l’embauche repart, la part des salariés recule"
+    ],
+    [
+     "geo",
+     "Paraguay : une faillite bancaire emporte le président"
+    ],
+    [
+     "log",
+     "Maersk : le fret flambe, mais le pic est peut-être passé"
+    ],
+    [
+     "ent",
+     "Shopify : l’IA coûte avant de rapporter"
+    ]
+   ]
+  },
   {
    "date": "2026-11-06",
    "label": "Vendredi 6 novembre",
@@ -717,6 +751,16 @@
   }
  ],
  "review": [
+  {
+   "w": "Tributaire",
+   "short": "Qui dépend étroitement d’une chose ou d’une personne",
+   "week": "sem. du 2 nov."
+  },
+  {
+   "w": "Exacerber",
+   "short": "Rendre plus vif, plus aigu, plus intense",
+   "week": "sem. du 2 nov."
+  },
   {
    "w": "Inhérent",
    "short": "Qui fait partie de la nature même d’une chose",
