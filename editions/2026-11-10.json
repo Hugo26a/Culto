@@ -1,0 +1,1130 @@
+{
+ "date": "2026-11-10",
+ "label": "Mardi 10 novembre 2026",
+ "n": 22,
+ "example": false,
+ "week": {
+  "start": "2026-11-09",
+  "label": "Semaine du 9 novembre",
+  "day": 2,
+  "words": [
+   {
+    "key": "idoine",
+    "w": "Idoine",
+    "ph": "[i.dwan] · adjectif",
+    "short": "Qui convient exactement à l’usage ou à la situation.",
+    "def": "Se dit de ce qui est parfaitement adapté à un besoin, à une personne ou à un moment. Le mot est plus précis que « bon » ou « adapté » : il suggère qu’on a trouvé la solution juste, ni trop ni trop peu. Il s’emploie souvent dans « la personne idoine », « le moment idoine », « l’outil idoine ». Il garde une légère touche soutenue, parfois avec une pointe d’ironie.",
+    "ety": "Du latin idoneus, « propre à, apte à, convenable ». Le mot est attesté en français dès le Moyen Âge, d’abord dans la langue du droit et de l’administration.",
+    "ex": "Pour ce lancement, il nous faut un prestataire idoine : capable de stocker sous température dirigée et de livrer en 24 heures.",
+    "syn": "approprié, adéquat, ad hoc, convenable, pertinent"
+   },
+   {
+    "key": "pregnant",
+    "w": "Prégnant",
+    "ph": "[pʁe.ɲɑ̃] · adjectif",
+    "short": "Qui s’impose fortement à l’esprit et pèse sur la situation.",
+    "def": "Se dit d’une idée, d’une impression ou d’un problème qui occupe fortement les esprits, dont on ne peut faire abstraction. On parle d’une question prégnante, d’une inquiétude prégnante, d’un souvenir prégnant. Le mot dit plus que « important » : il souligne une présence insistante, qui marque et oriente les décisions.",
+    "ety": "Du latin praegnans, « enceinte », au figuré « gonflé, plein de ». Le sens moderne doit beaucoup à la psychologie de la forme, qui a parlé au XXe siècle, d’après l’allemand Prägnanz, des formes qui s’imposent à la perception.",
+    "ex": "La question des délais reste prégnante chez nos clients : c’est le premier point soulevé à chaque revue de contrat.",
+    "syn": "marquant, saillant, insistant, omniprésent, déterminant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Crime et Châtiment",
+   "by": "Fiodor Dostoïevski · 1866",
+   "tagline": "Le droit de tuer ?",
+   "min": 10,
+   "exMin": 4,
+   "src": "F. Dostoïevski, Prestouplénié i nakazanié, paru en feuilleton dans Le Messager russe (Rousski Vestnik) de janvier à décembre 1866, puis en volume en 1867, domaine public ; traduction de la citation (partie V, chapitre 4) : Culto. Repères biographiques (simulacre d’exécution de décembre 1849, bagne d’Omsk, contrat Stellovski et dictée du Joueur à Anna Snitkina en octobre 1866) : J. Frank, Dostoevsky. The Miraculous Years, 1865-1871 (Princeton University Press, 1995). M. Bakhtine, Problèmes de la poétique de Dostoïevski (1929, éd. revue 1963).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "À Saint-Pétersbourg, un étudiant pauvre, Raskolnikov, tue à coups de hache une vieille usurière, persuadé que certains hommes supérieurs ont le droit de franchir la loi. Il n’emporte presque rien et sombre dans la fièvre. Traqué par un juge d’instruction patient et soutenu par Sonia, une jeune prostituée croyante, il finit par avouer et part au bagne en Sibérie."
+      ],
+      [
+       "Un policier à l’envers",
+       "On connaît l’assassin dès la première partie. Tout le suspense porte sur une autre question : pourquoi a-t-il tué, et va-t-il avouer ? Le vrai châtiment n’est pas la Sibérie, c’est l’enfer intérieur qui commence dès le crime."
+      ],
+      [
+       "L’idée qui tue",
+       "Raskolnikov a écrit un article : les hommes « extraordinaires », comme Napoléon, auraient le droit de verser le sang pour une grande idée. Le roman met cette théorie à l’épreuve d’un vrai meurtre, et elle s’effondre. L’obsession de se prouver qu’il est de cette race reste [[pregnant|prégnante]] jusqu’au bout."
+      ],
+      [
+       "La raison ne suffit pas",
+       "Dostoïevski attaque les doctrines à la mode des années 1860, qui prétendaient fonder la morale sur le seul calcul de l’utilité. Un meurtre peut sembler logique sur le papier : la conscience, elle, ne se laisse pas convaincre."
+      ],
+      [
+       "Le salut par l’humilité",
+       "Ce n’est ni la police ni la peur qui sauvent Raskolnikov, mais Sonia. Elle ne le juge pas, elle souffre avec lui et le suit au bagne. Le roman se termine sur une renaissance encore fragile, par l’amour plus que par le raisonnement."
+      ],
+      [
+       "Un livre-carrefour",
+       "Premier grand roman de Dostoïevski, il a nourri Nietzsche, Camus, le roman policier psychologique et le cinéma. C’est la porte d’entrée [[idoine|idoine]] dans l’œuvre de l’auteur."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "La répétition"
+    },
+    {
+     "p": "Juillet, une chaleur écrasante sur Saint-Pétersbourg. Rodion Raskolnikov, 23 ans, a abandonné ses études de droit faute d’argent. Il vit dans une mansarde si étroite qu’elle ressemble à un placard et doit plusieurs mois de loyer. Depuis des semaines, une idée le ronge. Il se rend chez Aliona Ivanovna, une vieille usurière avare, pour lui mettre en gage la montre de son père. Il observe tout : l’escalier, la porte, le trousseau de clés. C’est une répétition.",
+     "lead": 1
+    },
+    {
+     "p": "Dans une taverne, il rencontre Marmeladov, un ancien fonctionnaire alcoolique. L’homme lui raconte sa déchéance : pour nourrir sa femme malade, Katerina Ivanovna, et ses trois jeunes enfants, sa fille aînée, Sonia, se prostitue. Le lendemain, une lettre de sa mère apprend à Raskolnikov que sa sœur Dounia va épouser Loujine, un homme d’affaires mesquin, pour aider la famille. Il y voit le même sacrifice que celui de Sonia et refuse de l’accepter."
+    },
+    {
+     "h5": "Le crime"
+    },
+    {
+     "p": "Il apprend par hasard que la sœur de l’usurière, Lizaveta, sera absente le lendemain à sept heures. Le hasard lui paraît un signe. Il cache une hache sous son manteau, monte chez la vieille et la tue. Mais Lizaveta rentre plus tôt que prévu. Il la tue aussi, alors qu’elle est douce et innocente. Affolé, il s’empare de quelques bijoux et d’une bourse, échappe de justesse à des visiteurs et rentre chez lui sans avoir été vu. Il cache le butin sous une pierre, dans une cour, sans même compter ce qu’il a pris."
+    },
+    {
+     "h5": "La fièvre"
+    },
+    {
+     "p": "Le lendemain, convoqué au commissariat pour une simple dette de loyer, il entend les policiers parler du meurtre et s’évanouit. Il tombe ensuite malade plusieurs jours. Son ami Razoumikhine, étudiant bavard et généreux, le soigne. Raskolnikov oscille entre l’envie de tout avouer et le mépris de lui-même. Il croise Marmeladov écrasé par une calèche et donne tout son argent à la veuve pour l’enterrement. Il fait alors la connaissance de Sonia."
+    },
+    {
+     "p": "Sa mère et Dounia arrivent à Pétersbourg. Raskolnikov chasse Loujine, dont l’arrogance l’écœure. Un autre homme rôde autour de sa sœur : Svidrigaïlov, son ancien employeur, riche, cynique et soupçonné d’avoir causé la mort de sa propre femme."
+    },
+    {
+     "h5": "Le chat et la souris"
+    },
+    {
+     "p": "Le juge d’instruction Porphyre Petrovitch a lu l’article de Raskolnikov sur les hommes extraordinaires. Lors de trois entretiens, il le pousse à bout, avec une politesse ironique, sans jamais présenter de preuve. Un peintre en bâtiment, Mikolka, s’accuse du crime par un étrange besoin d’expiation, ce qui offre un répit au coupable. Mais Porphyre finit par lui dire en face qu’il sait. Il lui conseille de se livrer : un aveu volontaire allégera sa peine."
+    },
+    {
+     "p": "Pendant ce temps, Loujine tente de faire accuser Sonia d’un vol de cent roubles pour se venger. Un voisin le confond. Katerina Ivanovna, à bout, meurt peu après. Raskolnikov se rend chez Sonia et lui avoue le meurtre. Elle lui lit la résurrection de Lazare et lui demande d’aller au carrefour, de baiser la terre et d’avouer devant tous."
+    },
+    {
+     "quote": "Suis-je une créature tremblante, ou ai-je le droit ?",
+     "cite": "Raskolnikov à Sonia, partie V, chapitre 4"
+    },
+    {
+     "h5": "Les deux issues"
+    },
+    {
+     "p": "Svidrigaïlov a surpris l’aveu à travers une cloison. Il attire Dounia chez lui et tente de la contraindre par ce secret. Elle tire sur lui avec un revolver, le manque, puis le supplie de la laisser partir. Il comprend qu’elle ne l’aimera jamais et la laisse aller. Après avoir distribué son argent, notamment à Sonia, il met fin à ses jours. Il incarne l’autre voie possible pour Raskolnikov : celle de l’homme qui s’est mis au-dessus de toute morale et n’y trouve que le vide."
+    },
+    {
+     "p": "Raskolnikov, lui, se rend sur la place aux Foins, s’agenouille et embrasse le sol sous les moqueries. Puis il entre au commissariat et déclare : c’est lui qui a tué la vieille et sa sœur. Grâce à son aveu, à sa maladie et à ses bonnes actions passées, il n’est condamné qu’à huit ans de bagne."
+    },
+    {
+     "h5": "L’épilogue sibérien"
+    },
+    {
+     "p": "Sonia le suit en Sibérie. Les forçats détestent Raskolnikov, resté froid et orgueilleux, mais adorent Sonia. Il ne regrette pas encore son crime : il regrette d’avoir échoué. Malade, il rêve d’une épidémie qui rend chacun certain de détenir seul la vérité, jusqu’à ce que l’humanité s’entretue. Un matin de printemps, au bord d’une rivière, il tombe en pleurs aux pieds de Sonia. Il lui reste sept ans à purger, mais une vie nouvelle commence."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un roman écrit sous la contrainte"
+    },
+    {
+     "p": "Dostoïevski a connu lui-même la condamnation. Arrêté en 1849 pour avoir fréquenté un cercle socialiste, il est conduit devant un peloton d’exécution, puis gracié au dernier moment. Il passe quatre ans au bagne d’Omsk. En 1865, criblé de dettes après la mort de son frère et la faillite de leur revue, il perd au jeu ce qui lui reste à Wiesbaden et commence là un récit sur un crime. Le roman paraît en feuilleton dans <em>Le Messager russe</em> tout au long de 1866. La même année, pour ne pas perdre ses droits face à un éditeur sans scrupules, il dicte <em>Le Joueur</em> en 26 jours à une jeune sténographe, Anna Snitkina, qu’il épousera."
+    },
+    {
+     "h5": "Un nom et une ville"
+    },
+    {
+     "p": "Le nom de Raskolnikov vient du russe <em>raskol</em>, le schisme : le héros est littéralement coupé en deux, entre un cœur généreux et une théorie glacée. Pétersbourg n’est pas un décor neutre. Chaleur, odeurs de taverne, escaliers sombres, chambres minuscules : la ville étouffe le personnage comme son idée l’étouffe. L’action principale tient en une quinzaine de jours, ce qui donne au roman son rythme fiévreux."
+    },
+    {
+     "h5": "Plusieurs voix, aucune vérité imposée"
+    },
+    {
+     "p": "Le critique Mikhaïl Bakhtine a parlé de roman polyphonique. Chaque personnage défend sa vision du monde avec une force égale : le cynisme de Svidrigaïlov, la foi de Sonia, la ruse de Porphyre, la logique de Raskolnikov. L’auteur ne tranche pas d’en haut, il laisse les idées s’affronter dans des dialogues interminables, presque théâtraux. Le style, haletant, fait de répétitions et de phrases inachevées, épouse le désordre d’un esprit en crise."
+    },
+    {
+     "h5": "Une réponse aux idées du temps"
+    },
+    {
+     "p": "Dans la Russie des années 1860, une jeunesse radicale croit que la science et l’intérêt bien compris suffisent à fonder une morale. Dostoïevski veut montrer jusqu’où mène ce raisonnement : si tout se calcule, pourquoi ne pas tuer une vieille femme nuisible pour sauver cent vies ? Son roman répond que la question est mal posée. La valeur d’une vie humaine ne se met pas en balance."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que la tentation de Raskolnikov n’a pas disparu : se croire au-dessus des règles parce qu’on a une bonne raison, ou une grande idée. Ce danger reste [[pregnant|prégnant]] en politique comme en entreprise. Le livre rappelle aussi qu’un raisonnement brillant peut mener au pire, et que reconnaître sa faute est le premier pas pour s’en relever. Et il se lit comme un thriller, avec l’un des meilleurs duels entre un enquêteur et un suspect de toute la littérature."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Un étudiant pauvre de Saint-Pétersbourg tue une vieille usurière au nom d’une théorie : les êtres supérieurs auraient le droit de franchir la loi. Rongé par la fièvre et la culpabilité, poussé par un juge rusé et sauvé par l’amour de Sonia, il finit par avouer et part au bagne."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un policier à l’envers</b> : on connaît le coupable dès le début. Le suspense porte sur le pourquoi et sur l’aveu.",
+      "<b>L’idée qui tue</b> : les hommes « extraordinaires » comme Napoléon auraient le droit de tuer. Cette obsession reste [[pregnant|prégnante]] et s’effondre au contact du réel.",
+      "<b>La raison ne suffit pas</b> : charge contre les doctrines qui fondent la morale sur le seul calcul. La conscience ne se laisse pas convaincre.",
+      "<b>Le salut</b> : il vient de Sonia, de l’humilité et de l’amour, pas de la police.",
+      "<b>Un livre-carrefour</b> : la porte d’entrée [[idoine|idoine]] dans l’œuvre de Dostoïevski, lue par Nietzsche, Camus et le cinéma."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>La répétition</b> : Raskolnikov, 23 ans, ruiné, repère les lieux chez l’usurière Aliona Ivanovna. Il rencontre Marmeladov, dont la fille Sonia se prostitue pour nourrir la famille. Sa sœur Dounia s’apprête à épouser Loujine par intérêt.",
+      "<b>Le crime</b> : il tue la vieille à la hache, puis sa sœur Lizaveta, innocente, rentrée trop tôt. Il cache le maigre butin sans le compter.",
+      "<b>La fièvre</b> : évanouissement au commissariat, maladie, soins de son ami Razoumikhine. Il donne tout son argent à la veuve de Marmeladov.",
+      "<b>Le chat et la souris</b> : le juge Porphyre le harcèle en trois entretiens sans preuve, puis lui dit qu’il sait et lui conseille d’avouer.",
+      "<b>L’aveu</b> : il se confie à Sonia, qui lui lit la résurrection de Lazare. Svidrigaïlov, l’homme sans morale, surprend le secret, échoue à contraindre Dounia et se donne la mort.",
+      "<b>Le bagne</b> : Raskolnikov embrasse la terre sur la place aux Foins, se livre et prend huit ans. En Sibérie, il finit par tomber aux pieds de Sonia : une vie nouvelle commence."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Le vécu</b> : simulacre d’exécution en 1849, quatre ans de bagne, dettes et jeu. Le roman paraît en feuilleton en 1866.",
+      "<b>Le nom</b> : <em>raskol</em> signifie schisme. Le héros est coupé en deux.",
+      "<b>La ville</b> : un Pétersbourg étouffant de chaleur, de tavernes et de chambres minuscules, une action d’une quinzaine de jours, un rythme fiévreux.",
+      "<b>Les idées du temps</b> : une réponse aux radicaux des années 1860, pour qui la morale se réduisait au calcul de l’utilité. Une vie humaine ne se met pas en balance.",
+      "<b>La polyphonie</b> : selon Bakhtine, chaque personnage défend sa vérité à égalité, sans que l’auteur tranche.",
+      "<b>Pourquoi le lire</b> : se croire au-dessus des règles au nom d’une bonne cause reste une tentation [[pregnant|prégnante]]. Et c’est un thriller de premier ordre."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "De la performance à l’excellence",
+   "by": "Jim Collins · 2001",
+   "min": 9,
+   "exMin": 3,
+   "src": "J. Collins, Good to Great. Why Some Companies Make the Leap… and Others Don’t (HarperBusiness, 2001) ; trad. fr. De la performance à l’excellence. Méthodologie, liste des 11 entreprises et rendements cumulés : chapitre 1 et annexes du livre. J. Collins, How the Mighty Fall (2009). P. Rosenzweig, The Halo Effect (Free Press, 2007). Faillite de Circuit City (novembre 2008), mise sous tutelle de Fannie Mae (septembre 2008), rachat de Gillette par Procter & Gamble (2005) : faits publics.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Pourquoi certaines entreprises ordinaires deviennent-elles soudain exceptionnelles, et durablement ? Jim Collins et son équipe ont comparé onze sociétés qui ont fait ce saut à des concurrentes restées moyennes. Leur conclusion : le secret n’est ni un patron charismatique ni une stratégie géniale, mais une discipline patiente et quelques principes simples."
+      ],
+      [
+       "Le leader de niveau 5",
+       "Les dirigeants des onze entreprises sont discrets, modestes, mais d’une volonté de fer pour l’entreprise. Ils attribuent le succès aux autres et assument les échecs. Le charisme, souvent, nuit plus qu’il n’aide."
+      ],
+      [
+       "Les gens d’abord, la stratégie ensuite",
+       "Il faut faire monter les bonnes personnes dans le bus, faire descendre les mauvaises, et seulement ensuite décider où aller. Avec les bonnes équipes, la stratégie s’ajuste ; sans elles, aucune ne tient."
+      ],
+      [
+       "Le concept du hérisson",
+       "Chaque entreprise a trouvé l’intersection de trois cercles : ce qui la passionne, ce en quoi elle peut être la meilleure du monde, et ce qui fait tourner son moteur économique. Walgreens a choisi un indicateur unique : le profit par visite de client."
+      ],
+      [
+       "Le volant d’inertie",
+       "Le saut ne vient jamais d’un coup d’éclat. Il résulte de petits efforts répétés dans la même direction, qui finissent par s’accumuler. Sur 15 ans, ces entreprises ont rapporté 6,9 fois plus que le marché."
+      ],
+      [
+       "Un livre à lire avec recul",
+       "Plusieurs des onze champions ont ensuite chuté, comme Circuit City ou Fannie Mae. Les critiques y voient un biais : on a cherché des points communs à des gagnants après coup."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Une question de consultant"
+    },
+    {
+     "p": "En 1994, Jim Collins, ancien professeur à Stanford, publie avec Jerry Porras <em>Built to Last</em>, sur les entreprises nées excellentes. Un dirigeant lui fait alors remarquer que cela n’aide guère la plupart des sociétés, qui sont simplement bonnes. Comment passer de bon à excellent ? Collins réunit une équipe d’une vingtaine de chercheurs et y consacre cinq ans. Le livre paraît en 2001 et devient l’un des best-sellers les plus durables du management."
+    },
+    {
+     "p": "La méthode se veut rigoureuse. L’équipe passe au crible 1 435 entreprises entrées dans le classement Fortune 500 entre 1965 et 1995. Elle cherche celles qui ont connu quinze ans de rendements boursiers proches de la moyenne, puis, après un point de bascule, quinze ans de rendements au moins trois fois supérieurs au marché. Onze seulement passent le filtre : Abbott, Circuit City, Fannie Mae, Gillette, Kimberly-Clark, Kroger, Nucor, Philip Morris, Pitney Bowes, Walgreens et Wells Fargo. Chacune est comparée à un concurrent du même secteur qui n’a pas fait le saut."
+    },
+    {
+     "stats": [
+      [
+       "1 435",
+       "entreprises du classement Fortune 500 passées au crible"
+      ],
+      [
+       "11",
+       "entreprises retenues comme passées de « bonnes » à « excellentes »"
+      ],
+      [
+       "6,9 ×",
+       "leur rendement boursier cumulé face au marché, sur 15 ans"
+      ],
+      [
+       "5 ans",
+       "de recherche, avec une équipe d’une vingtaine de personnes"
+      ]
+     ]
+    },
+    {
+     "h5": "Des patrons qui ne font pas la une"
+    },
+    {
+     "p": "Collins avait demandé à ses chercheurs d’ignorer les dirigeants. Les données l’ont contredit. Les onze entreprises ont toutes été conduites par un profil particulier, qu’il appelle le leader de niveau 5 : une humilité personnelle sincère alliée à une volonté professionnelle farouche. Darwin Smith, à la tête de Kimberly-Clark à partir de 1971, en est l’exemple type. Ce juriste effacé décide de vendre les papeteries historiques du groupe pour tout miser sur les produits de grande consommation face à Procter & Gamble. Le pari réussit."
+    },
+    {
+     "p": "À l’inverse, beaucoup d’entreprises de comparaison avaient des patrons flamboyants, soucieux de leur image, qui préparaient mal leur succession. Le message est [[pregnant|prégnant]] à une époque qui célèbre les dirigeants vedettes : la réussite durable repose rarement sur une seule personne."
+    },
+    {
+     "h5": "Le bus, le hérisson et la discipline"
+    },
+    {
+     "p": "Deuxième leçon : le « qui » avant le « quoi ». Les entreprises excellentes recrutent avec une rigueur extrême, se séparent vite des mauvais choix et placent leurs meilleurs éléments sur les plus grandes opportunités, pas sur les plus gros problèmes. Troisième leçon, le paradoxe de Stockdale, du nom d’un officier américain prisonnier au Vietnam : garder une foi absolue dans la victoire finale tout en regardant en face la réalité la plus brutale."
+    },
+    {
+     "p": "Vient ensuite le concept du hérisson, emprunté à la fable du renard qui sait beaucoup de choses et du hérisson qui en sait une seule, mais grande. Chaque entreprise du panel a trouvé le métier [[idoine|idoine]], à l’intersection de trois cercles : la passion, l’excellence possible et le moteur économique. Walgreens se concentre sur des pharmacies pratiques et pilote tout par le profit par visite. Nucor bâtit sa culture sur le profit par tonne d’acier. Une culture de la discipline permet ensuite de dire non à tout ce qui sort de ces trois cercles. La technologie, enfin, n’est qu’un accélérateur, jamais la cause du succès."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce que serait devenu 1 dollar placé en 1965",
+      "sub": "valeur au 1er janvier 2000, en dollars",
+      "rows": [
+       [
+        "Les 11 entreprises du livre",
+        471
+       ],
+       [
+        "Marché américain",
+        56
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : J. Collins, Good to Great (2001), d’après les rendements boursiers cumulés, dividendes réinvestis."
+     }
+    },
+    {
+     "h5": "Le volant plutôt que la révolution"
+    },
+    {
+     "p": "Vue de l’extérieur, la transformation ressemble à une révolution soudaine. Vue de l’intérieur, elle n’a rien de spectaculaire. Collins la compare à un énorme volant d’inertie qu’on pousse tour après tour : chaque petit progrès s’ajoute au précédent jusqu’à ce que l’élan devienne irrésistible. Les entreprises moyennes, elles, tombent dans la boucle infernale : grands programmes, fusions censées tout changer, revirements à chaque nouveau patron."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le temps a été cruel pour une partie du panel. Circuit City a fait faillite en 2008. Fannie Mae a été placée sous tutelle publique la même année. Wells Fargo a été frappée en 2016 par un scandale de faux comptes clients. Gillette a été rachetée par Procter & Gamble en 2005. Collins répond que son livre décrit une période, pas une garantie éternelle, et consacre en 2009 un autre ouvrage au déclin des grandes entreprises."
+    },
+    {
+     "p": "La critique la plus sérieuse vient de Phil Rosenzweig, dans <em>L’Effet de halo</em> en 2007. Quand une entreprise réussit, on décrit après coup sa culture comme forte et son patron comme visionnaire. Interroger des gagnants sur les raisons de leur succès ne prouve pas que ces raisons l’ont causé. On choisit les gagnants a posteriori, ce qui fausse l’analyse. D’autres soulignent un problème statistique : sur 1 435 entreprises, quelques-unes surperformeront toujours par chance pendant quinze ans, et leurs points communs peuvent être fortuits. Collins rétorque que ses comparaisons deux à deux, entreprise contre concurrent direct, limitent ce risque."
+    },
+    {
+     "p": "Une dernière limite tient au critère lui-même. Le livre mesure l’excellence par le seul cours de Bourse. Il ne dit rien de la qualité des produits, du sort des salariés ou des clients. Philip Morris figure parmi les onze champions : la performance financière d’un cigarettier ne dit pas tout de sa contribution à la société."
+    },
+    {
+     "h5": "Ce qu’il en reste"
+    },
+    {
+     "p": "Malgré ces limites, le livre reste une grille de lecture utile. Ses principes relèvent du bon sens, mais un bon sens rarement appliqué : choisir ses équipes avec soin, regarder les faits en face, se concentrer sur ce qu’on fait de mieux, et persévérer. Pour un responsable supply chain, l’image du volant d’inertie parle d’elle-même : les progrès durables viennent rarement d’un grand projet unique, et souvent de l’amélioration continue."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Jim Collins compare onze entreprises passées de bonnes à excellentes à des rivales restées moyennes. Le secret : des patrons modestes et tenaces, les bonnes équipes, un métier bien choisi et une discipline patiente."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La méthode</b> : 1 435 entreprises du Fortune 500 (1965-1995), onze retenues, chacune comparée à un concurrent. Cinq ans de recherche.",
+      "<b>Le leader de niveau 5</b> : humilité personnelle et volonté farouche. Exemple : Darwin Smith vend les papeteries de Kimberly-Clark pour affronter Procter & Gamble. Un message [[pregnant|prégnant]] face au culte du patron vedette.",
+      "<b>Le bus</b> : les bonnes personnes d’abord, la destination ensuite.",
+      "<b>Le paradoxe de Stockdale</b> : croire à la victoire finale tout en affrontant la réalité brutale.",
+      "<b>Le hérisson</b> : trouver le métier [[idoine|idoine]] entre passion, excellence possible et moteur économique. Walgreens pilote par le profit par visite, Nucor par le profit par tonne.",
+      "<b>La discipline</b> : savoir dire non à tout ce qui sort des trois cercles, même aux occasions séduisantes.",
+      "<b>La technologie</b> : un accélérateur, jamais la cause du succès. Les entreprises du panel adoptent un outil seulement s’il sert leur hérisson.",
+      "<b>Le volant d’inertie</b> : de petits efforts cumulés plutôt qu’une révolution. Vue de dehors, la bascule paraît soudaine ; vue de dedans, elle est lente et organique.",
+      "<b>La boucle infernale</b> : chez les concurrents restés moyens, grands programmes, fusions miracles et revirements à chaque nouveau patron."
+     ]
+    },
+    {
+     "h": "Le contexte"
+    },
+    {
+     "ul": [
+      "<b>L’origine</b> : après <em>Built to Last</em> (1994), sur les entreprises nées excellentes, un dirigeant objecte que la plupart des sociétés sont seulement bonnes. Collins cherche comment elles peuvent changer de catégorie.",
+      "<b>Le filtre</b> : quinze ans de rendements proches du marché, puis quinze ans au moins trois fois supérieurs après un point de bascule.",
+      "<b>Le panel</b> : Abbott, Circuit City, Fannie Mae, Gillette, Kimberly-Clark, Kroger, Nucor, Philip Morris, Pitney Bowes, Walgreens et Wells Fargo."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "1 435",
+       "entreprises du classement Fortune 500 passées au crible"
+      ],
+      [
+       "11",
+       "entreprises retenues comme passées de « bonnes » à « excellentes »"
+      ],
+      [
+       "6,9 ×",
+       "leur rendement boursier cumulé face au marché, sur 15 ans"
+      ],
+      [
+       "5 ans",
+       "de recherche, avec une équipe d’une vingtaine de personnes"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce que serait devenu 1 dollar placé en 1965",
+      "sub": "valeur au 1er janvier 2000, en dollars",
+      "rows": [
+       [
+        "Les 11 entreprises du livre",
+        471
+       ],
+       [
+        "Marché américain",
+        56
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Source : J. Collins, Good to Great (2001), d’après les rendements boursiers cumulés, dividendes réinvestis."
+     }
+    },
+    {
+     "h": "Limites"
+    },
+    {
+     "ul": [
+      "<b>Les chutes</b> : faillite de Circuit City et tutelle de Fannie Mae en 2008, scandale Wells Fargo en 2016, Gillette rachetée en 2005.",
+      "<b>L’effet de halo</b> : selon Rosenzweig (2007), on prête après coup des vertus aux gagnants. Corrélation n’est pas causalité.",
+      "<b>La leçon</b> : l’amélioration continue l’emporte sur le grand projet unique."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Chine : 1 000 milliards d’excédent, un mois plus tôt",
+   "by": "Analyse",
+   "fig": "1 040 Md$",
+   "figl": "excédent chinois sur dix mois",
+   "min": 3,
+   "exMin": 2,
+   "src": "Administration générale des douanes de Chine, commerce extérieur d’octobre 2026, publié le 10 novembre 2026, via Reuters (Investing.com) et AFP (Kuwait Times). Excédent mensuel d’octobre et de septembre (LSEG), commentaires de Moody’s Analytics, Natixis et du Council on Foreign Relations : CNBC et Financial Times, repris par Inquisitr. Données arrêtées au 10 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La Chine a franchi la barre des 1 000 milliards de dollars d’excédent commercial dès la fin octobre, un mois plus tôt qu’en 2025. Ses exportations ont bondi de 35,2 % sur un an, portées par la ruée mondiale sur le matériel d’intelligence artificielle. Ce succès cache pourtant une faiblesse : une économie qui exporte autant parce que ses ménages consomment trop peu.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "1 040 Md$",
+       "excédent commercial chinois de janvier à octobre 2026"
+      ],
+      [
+       "+ 35,2 %",
+       "exportations d’octobre sur un an, à 412 Md$"
+      ],
+      [
+       "+ 41,6 %",
+       "importations d’octobre sur un an, à 307 Md$"
+      ],
+      [
+       "311 Md$",
+       "excédent avec l’Union européenne sur dix mois, contre 242 Md$"
+      ]
+     ]
+    },
+    {
+     "h": "L’IA, nouveau moteur de l’usine du monde"
+    },
+    {
+     "p": "En octobre, la Chine a vendu pour 412 milliards de dollars de marchandises, une hausse supérieure aux 33,5 % attendus par les économistes. Les ventes vers les États-Unis progressent de 32,9 %, malgré la guerre commerciale. Serveurs pour centres de données, équipements de réseau et puces tirent l’ensemble : la Chine fabrique une grande partie du matériel des centres de données, à défaut des semi-conducteurs les plus puissants."
+    },
+    {
+     "p": "Les importations surprennent davantage : + 41,6 %, contre 32 % prévus. Le pétrole cher depuis la guerre avec l’Iran alourdit la facture. Résultat, l’excédent du mois recule à 105 milliards de dollars, contre 133,5 milliards en septembre, son plus bas niveau depuis avril. Un excédent qui se réduit parce que l’on achète plus cher à l’étranger n’a rien d’une bonne nouvelle pour une industrie déjà sous pression sur ses prix."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les importations dépassent les exportations",
+      "sub": "croissance sur un an, en %, 2026",
+      "labels": [
+       "Septembre",
+       "Octobre"
+      ],
+      "series": [
+       {
+        "name": "Exportations",
+        "values": [
+         36.3,
+         35.2
+        ]
+       },
+       {
+        "name": "Importations",
+        "values": [
+         31.0,
+         41.6
+        ]
+       }
+      ],
+      "note": "Source : Administration générale des douanes de Chine, via Reuters, 10 novembre 2026."
+     }
+    },
+    {
+     "h": "Un modèle qui inquiète ses partenaires"
+    },
+    {
+     "p": "L’Europe est la plus exposée. Sur dix mois, son déficit avec la Chine atteint 311 milliards de dollars, contre 242 milliards un an plus tôt. Bruxelles a obtenu en octobre un plafond de 350 000 voitures hybrides chinoises par an. Selon l’économiste Brad Setser, c’est plus que les livraisons de 2025, mais bien moins que le rythme récent, proche de 800 000 par an."
+    },
+    {
+     "p": "Pour Pékin, la dépendance aux exportations reste [[pregnant|prégnante]]. L’objectif de croissance, de 4,5 à 5 %, est le plus bas depuis des décennies. Le marché immobilier ne se relève pas et l’inflation reste loin de la cible d’environ 2 %. Pour Natixis, ce mélange de surcapacités, d’épargne élevée et de demande intérieure faible n’est pas tenable. Les entreprises chinoises, faute de clients chez elles, se livrent une guerre des prix à l’export."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les exportations chinoises dépendent désormais d’un seul cycle, celui de l’IA. Moody’s prévient qu’une correction ferait baisser à la fois le prix des puces et les volumes expédiés. Le sujet sera sur la table du sommet de l’APEC à Shenzhen, les 18 et 19 novembre, où Xi Jinping doit retrouver Donald Trump. Un excédent record n’est pas forcément un signe de santé : il mesure aussi ce qu’un pays ne parvient pas à consommer lui-même."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le record</b> : 1 040 milliards de dollars d’excédent sur dix mois, un mois plus tôt qu’en 2025 (1 200 milliards sur toute l’année).",
+      "<b>Le moteur</b> : le matériel d’IA, serveurs, réseaux et puces."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "1 040 Md$",
+       "excédent commercial chinois de janvier à octobre 2026"
+      ],
+      [
+       "+ 35,2 %",
+       "exportations d’octobre sur un an, à 412 Md$"
+      ],
+      [
+       "+ 41,6 %",
+       "importations d’octobre sur un an, à 307 Md$"
+      ],
+      [
+       "311 Md$",
+       "excédent avec l’Union européenne sur dix mois, contre 242 Md$"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les exportations</b> : 412 milliards en octobre, + 35,2 % contre + 33,5 % attendus. Vers les États-Unis : + 32,9 %.",
+      "<b>Les importations</b> : + 41,6 % contre + 32 % attendus, gonflées par le pétrole cher. Excédent du mois ramené à 105 milliards, contre 133,5 en septembre.",
+      "<b>L’Europe</b> : déficit de 311 milliards sur dix mois. Plafond de 350 000 hybrides chinoises par an, loin du rythme récent d’environ 800 000.",
+      "<b>La faiblesse</b> : immobilier en crise, inflation sous 2 %, croissance visée de 4,5 à 5 %. La dépendance aux exportations reste [[pregnant|prégnante]]."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les importations dépassent les exportations",
+      "sub": "croissance sur un an, en %, 2026",
+      "labels": [
+       "Septembre",
+       "Octobre"
+      ],
+      "series": [
+       {
+        "name": "Exportations",
+        "values": [
+         36.3,
+         35.2
+        ]
+       },
+       {
+        "name": "Importations",
+        "values": [
+         31.0,
+         41.6
+        ]
+       }
+      ],
+      "note": "Source : Administration générale des douanes de Chine, via Reuters, 10 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le risque</b> : une correction de l’IA toucherait prix et volumes. Rendez-vous à l’APEC de Shenzhen, les 18 et 19 novembre.",
+      "<b>La guerre des prix</b> : faute de clients chez elles, les entreprises chinoises cassent leurs prix à l’export, ce qui inquiète leurs partenaires.",
+      "<b>La leçon</b> : un excédent record mesure aussi ce qu’un pays ne consomme pas."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Iran : le Qatar propose une sortie en deux jours",
+   "by": "Analyse",
+   "fig": "4 navires/j",
+   "figl": "à Ormuz, contre 85 avant-guerre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Eurasia Review, 10 novembre 2026 (rencontre Trump-Al Thani, déclarations de Baghaei, Araghchi et Rubio). Israel Hayom, 9 novembre 2026, d’après deux sources diplomatiques (8 Md$ d’avoirs, mémorandum de mai, divisions à Washington). TBS News, 10 novembre 2026 (conditions iraniennes, déclarations de Trump). W. Usher, Iran War Executive Update du 9 novembre 2026, d’après ISW-CTP et UKMTO (trafic à Ormuz, Brent, médiateurs). Données arrêtées au 10 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Après plus de huit mois de guerre, une porte de sortie se dessine entre Washington et Téhéran. Le Premier ministre du Qatar a présenté lundi à Donald Trump un plan en deux jours : levée du blocus américain et dégel d’avoirs iraniens contre l’accès des inspecteurs nucléaires, puis réouverture du détroit d’Ormuz. Rien n’est signé, et le nucléaire reste le point de blocage.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "255 jours",
+       "de guerre depuis le 28 février 2026"
+      ],
+      [
+       "4 / jour",
+       "passages de navires à Ormuz fin octobre, contre 85 avant-guerre"
+      ],
+      [
+       "≈ 8 Md$",
+       "d’avoirs iraniens gelés au Qatar, en jeu dans le projet"
+      ],
+      [
+       "98 $",
+       "le baril de Brent le 6 novembre, contre 72 $ avant-guerre"
+      ]
+     ]
+    },
+    {
+     "h": "Le plan qatari"
+    },
+    {
+     "p": "Selon les informations de presse, le premier jour, les États-Unis lèveraient leur blocus naval des ports iraniens et libéreraient une partie des fonds gelés, environ 8 milliards de dollars détenus au Qatar. L’Iran inviterait en échange les inspecteurs de l’AIEA sur les sites bombardés. Le second jour, Téhéran rouvrirait Ormuz, ouvrant la voie à des négociations sur le nucléaire. Le porte-parole iranien y voit « le cadre le plus raisonnable »."
+    },
+    {
+     "p": "L’enjeu est mondial. Ormuz voyait passer 85 navires par jour avant la guerre, contre 4 en moyenne fin octobre. Des tirs visent encore des bateaux près du détroit. Le Brent cotait 98 dollars le 6 novembre, 36 % au-dessus de son niveau d’avant-guerre, même après une forte baisse dans la semaine des élections."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Deux détroits sous la menace",
+      "sub": "passages quotidiens de navires, moyenne sur 7 jours",
+      "rows": [
+       [
+        "Ormuz, avant-guerre",
+        85
+       ],
+       [
+        "Ormuz, fin octobre",
+        4
+       ],
+       [
+        "Bab el-Mandeb, avant-guerre",
+        34
+       ],
+       [
+        "Bab el-Mandeb, fin octobre",
+        27
+       ]
+      ],
+      "prefix": "",
+      "suffix": "",
+      "note": "Source : ISW-CTP, compilé par W. Usher, point du 9 novembre 2026 (moyenne au 1er novembre)."
+     }
+    },
+    {
+     "h": "Pourquoi maintenant"
+    },
+    {
+     "p": "Le contexte politique a changé. Le 3 novembre, les démocrates ont remporté les deux chambres du Congrès, sur fond de rejet de la guerre. Ils promettent de restreindre son financement dès janvier. Trump affirme que l’armée iranienne est « pratiquement finie » et qu’il n’est pas pressé de reprendre les frappes. L’Iran, étranglé par le blocus, réclame en plus la levée des sanctions et la fin des hostilités dans toute la région, Liban compris."
+    },
+    {
+     "p": "La méfiance reste [[pregnant|prégnante]]. Un mémorandum conclu en mai en Suisse s’était effondré après une attaque iranienne contre des pétroliers. À Washington, le vice-président Vance pousserait l’accord, tandis que Marco Rubio juge certaines exigences iraniennes « irréalistes ». Le Qatar, appuyé par l’Égypte, l’Arabie saoudite, le Pakistan et la Turquie, joue les intermédiaires. Doha a un atout : les fonds iraniens dont il est question dorment dans ses propres banques."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La séquence proposée est classique : des gestes rapides et vérifiables pour créer la confiance, puis les sujets durs. Mais l’Iran refuse de parler de son programme nucléaire avant d’avoir obtenu satisfaction, et Washington exige l’inverse. Pour l’économie mondiale, tout se jouera sur Ormuz : sa réouverture ferait baisser le pétrole, le fret et l’inflation. Son maintien sous menace prolongerait le choc. Les assureurs maritimes, eux, attendront plusieurs semaines sans incident avant de baisser leurs primes de risque de guerre."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le plan</b> : le Qatar propose à Trump une sortie de guerre en deux jours, présentée lundi à la Maison-Blanche.",
+      "<b>Le blocage</b> : le nucléaire. Rien n’est signé."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "255 jours",
+       "de guerre depuis le 28 février 2026"
+      ],
+      [
+       "4 / jour",
+       "passages de navires à Ormuz fin octobre, contre 85 avant-guerre"
+      ],
+      [
+       "≈ 8 Md$",
+       "d’avoirs iraniens gelés au Qatar, en jeu dans le projet"
+      ],
+      [
+       "98 $",
+       "le baril de Brent le 6 novembre, contre 72 $ avant-guerre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Jour 1</b> : levée du blocus américain et dégel d’une partie des ≈ 8 milliards de dollars iraniens gelés au Qatar, contre l’accès de l’AIEA aux sites bombardés.",
+      "<b>Jour 2</b> : réouverture d’Ormuz, puis négociations nucléaires. Téhéran parle du « cadre le plus raisonnable ».",
+      "<b>L’enjeu</b> : 4 navires par jour à Ormuz fin octobre, contre 85 avant-guerre. Brent à 98 dollars, + 36 %.",
+      "<b>Le contexte</b> : les démocrates ont gagné le Congrès le 3 novembre et veulent brider le financement de la guerre. La méfiance reste [[pregnant|prégnante]] : l’accord de mai avait échoué."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Deux détroits sous la menace",
+      "sub": "passages quotidiens de navires, moyenne sur 7 jours",
+      "rows": [
+       [
+        "Ormuz, avant-guerre",
+        85
+       ],
+       [
+        "Ormuz, fin octobre",
+        4
+       ],
+       [
+        "Bab el-Mandeb, avant-guerre",
+        34
+       ],
+       [
+        "Bab el-Mandeb, fin octobre",
+        27
+       ]
+      ],
+      "prefix": "",
+      "suffix": "",
+      "note": "Source : ISW-CTP, compilé par W. Usher, point du 9 novembre 2026 (moyenne au 1er novembre)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La méthode</b> : des gestes rapides et vérifiables d’abord, les sujets durs ensuite. Mais chacun exige que l’autre cède en premier.",
+      "<b>Les acteurs</b> : le Qatar, appuyé par l’Égypte, l’Arabie saoudite, le Pakistan et la Turquie, mène la médiation. À Washington, Vance pousserait l’accord, Rubio juge certaines exigences « irréalistes ».",
+      "<b>L’économie</b> : la réouverture d’Ormuz ferait baisser pétrole, fret et inflation."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Le Havre : une panne, trois grèves et des clients qui comptent",
+   "by": "Analyse",
+   "fig": "8 h",
+   "figl": "d’attente par conteneur au Havre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Cyberattaque.org, 16 octobre 2026 (incident des Terminaux de Normandie, alerte M-CERT). Kohen Avocats, 25 octobre 2026 (chronologie, règles de force majeure, art. 1218 du Code civil). QualitAir&Sea, point fret maritime du 29-30 octobre 2026 (TN MSC, files d’attente, préavis des 30 octobre, 5 et 6 novembre, courrier du STH). RFI via ACTE International, 5 novembre 2026 (journée du 30 octobre, 113 ports). Haropa Port, bilan 2025. JeChange, d’après la Cour des comptes (rapport du 24 novembre 2025) et les ports. Données arrêtées au 6 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Premier port à conteneurs de France, Le Havre traverse un mois noir. Une panne informatique a paralysé ses terminaux à partir du 13 octobre, puis trois journées d’arrêt se sont succédé entre le 30 octobre et le 6 novembre. Pour les chargeurs, la leçon est simple : dans un port, la fiabilité compte autant que les tarifs.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "13 oct.",
+       "début de la panne informatique des Terminaux de Normandie"
+      ],
+      [
+       "8 h",
+       "d’attente possible par conteneur pour les camions, fin octobre"
+      ],
+      [
+       "3",
+       "journées d’arrêt appelées entre le 30 octobre et le 6 novembre"
+      ],
+      [
+       "3,2 M EVP",
+       "traités par Haropa en 2025, un record"
+      ]
+     ]
+    },
+    {
+     "h": "Un système informatique, un point de rupture"
+    },
+    {
+     "p": "Le soir du 13 octobre, les systèmes des Terminaux de Normandie tombent. Plus d’entrées ni de sorties de conteneurs, manutention des navires perturbée. L’exploitant n’a pas confirmé d’origine malveillante, mais des dockers parlent de cyberattaque. Le terminal TN MSC rouvre le 20 octobre en mode dégradé, sans son système de prise de rendez-vous. Fin octobre, les camions peuvent attendre jusqu’à 8 heures pour un seul conteneur, des heures décomptées comme temps de travail des chauffeurs."
+    },
+    {
+     "p": "Les grèves aggravent la saturation. Le 30 octobre, une journée internationale des dockers touche, selon les syndicats, 113 ports dans 22 pays, contre le transit de matériel militaire par les ports civils. Le Havre et Marseille-Fos tournent au ralenti. Suivent un appel de la CGT ports et docks le 5 novembre, puis un préavis des équipages de remorquage le 6."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les ports français à conteneurs",
+      "sub": "trafic 2025, en millions d’EVP",
+      "rows": [
+       [
+        "Haropa (Le Havre, Rouen, Paris)",
+        3.2
+       ],
+       [
+        "Marseille-Fos",
+        1.45
+       ],
+       [
+        "Dunkerque",
+        0.75
+       ],
+       [
+        "Nantes Saint-Nazaire",
+        0.12
+       ]
+      ],
+      "prefix": "",
+      "suffix": "",
+      "note": "Sources : Haropa Port, bilan 2025 ; données des ports reprises par JeChange (Dunkerque, Marseille-Fos, Nantes Saint-Nazaire)."
+     }
+    },
+    {
+     "h": "Qui paie la facture ?"
+    },
+    {
+     "p": "Le terminal invoque la force majeure pour échapper aux pénalités. Le syndicat des transitaires du Havre la conteste et réclame la prolongation de la gratuité du stationnement, ainsi que la suspension des surestaries et des frais de détention des conteneurs. En droit français, la force majeure exige un événement à la fois extérieur, imprévisible et irrésistible. Une panne informatique interne remplit-elle ces conditions ? Le débat promet d’être long, et les transitaires refacturent déjà les surcoûts à leurs clients."
+    },
+    {
+     "p": "Le contraste avec Dunkerque est frappant. Selon la Cour des comptes, ses dockers n’ont pas fait grève depuis plus de vingt ans, et son terminal à conteneurs a continué de tourner le 30 octobre. Résultat : + 14 % de trafic en 2025. Pour un chargeur, choisir le port [[idoine|idoine]] devient une question de risque autant que de coût."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Haropa a pourtant battu son record en 2025, avec 3,2 millions d’EVP, et son trafic ferroviaire a bondi de 18 %. Mais un client perdu pendant une crise revient rarement vite. Trois réflexes s’imposent : prévoir un port de repli, vérifier les clauses de force majeure de ses contrats, et exiger des terminaux un vrai plan de continuité informatique. La crise rappelle aussi qu’un port moderne dépend autant de ses logiciels que de ses portiques : quand le système de rendez-vous tombe, les quais pleins ne servent plus à rien."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le choc</b> : panne des terminaux du Havre dès le 13 octobre, puis trois journées d’arrêt du 30 octobre au 6 novembre.",
+      "<b>La leçon</b> : dans un port, la fiabilité vaut autant que les tarifs."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "13 oct.",
+       "début de la panne informatique des Terminaux de Normandie"
+      ],
+      [
+       "8 h",
+       "d’attente possible par conteneur pour les camions, fin octobre"
+      ],
+      [
+       "3",
+       "journées d’arrêt appelées entre le 30 octobre et le 6 novembre"
+      ],
+      [
+       "3,2 M EVP",
+       "traités par Haropa en 2025, un record"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>La panne</b> : systèmes des Terminaux de Normandie hors service, origine non confirmée. TN MSC rouvre le 20 octobre en mode dégradé, jusqu’à 8 heures d’attente par conteneur.",
+      "<b>Les grèves</b> : 30 octobre, 113 ports dans 22 pays selon les syndicats ; 5 novembre, CGT ports et docks ; 6 novembre, remorquage.",
+      "<b>La facture</b> : le terminal invoque la force majeure, les transitaires la contestent et refacturent les surcoûts.",
+      "<b>Le contre-exemple</b> : Dunkerque, sans grève de dockers depuis vingt ans, + 14 % en 2025. Le port [[idoine|idoine]] se choisit aussi sur le risque."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les ports français à conteneurs",
+      "sub": "trafic 2025, en millions d’EVP",
+      "rows": [
+       [
+        "Haropa (Le Havre, Rouen, Paris)",
+        3.2
+       ],
+       [
+        "Marseille-Fos",
+        1.45
+       ],
+       [
+        "Dunkerque",
+        0.75
+       ],
+       [
+        "Nantes Saint-Nazaire",
+        0.12
+       ]
+      ],
+      "prefix": "",
+      "suffix": "",
+      "note": "Sources : Haropa Port, bilan 2025 ; données des ports reprises par JeChange (Dunkerque, Marseille-Fos, Nantes Saint-Nazaire)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le paradoxe</b> : Haropa a battu son record en 2025, 3,2 millions d’EVP, rail + 18 %.",
+      "<b>Le droit</b> : la force majeure suppose un événement extérieur, imprévisible et irrésistible. Une panne interne s’y prête mal.",
+      "<b>Les réflexes</b> : port de repli, clauses de force majeure, plan de continuité informatique."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "UniCredit : des profits records avant d’avaler Commerzbank",
+   "by": "Analyse",
+   "fig": "3,3 Md€",
+   "figl": "bénéfice net au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "UniCredit, résultats du 3e trimestre 2026 et présentation aux investisseurs, 9 novembre 2026, via Investing.com. Feu vert de la BCE, approbations restantes et position de Berlin : Reuters via Yahoo Finance, 15-16 octobre 2026. Données arrêtées au 9 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "UniCredit a gagné 3,3 milliards d’euros au troisième trimestre, 24 % de plus qu’un an plus tôt. La banque italienne relève encore ses objectifs, double son acompte sur dividende et s’apprête à prendre le contrôle de Commerzbank, la deuxième banque allemande. C’est l’histoire d’une banque autrefois fragile devenue l’une des plus rentables d’Europe.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "3,3 Md€",
+       "bénéfice net au 3e trimestre, + 24 % sur un an"
+      ],
+      [
+       "25,5 %",
+       "rentabilité des fonds propres tangibles au trimestre"
+      ],
+      [
+       "32,8 %",
+       "coefficient d’exploitation : 33 centimes de coûts par euro de revenu"
+      ],
+      [
+       "4,5 Md€",
+       "acompte sur dividende versé le 25 novembre"
+      ]
+     ]
+    },
+    {
+     "h": "Une machine à profits"
+    },
+    {
+     "p": "Les revenus progressent de 12 %. La marge d’intérêts, ce que la banque gagne entre les prêts qu’elle accorde et les dépôts qu’elle rémunère, monte de 8 % à 3,8 milliards. Les commissions et l’assurance gagnent 11 %, à 2,4 milliards. Surtout, les coûts reculent de 1 %, à 2,3 milliards. Avec 33 centimes de dépenses pour un euro de revenu, UniCredit affiche une efficacité rare dans le secteur. Son ratio de fonds propres durs atteint 15 %, un coussin confortable pour financer ses acquisitions."
+    },
+    {
+     "p": "Andrea Orcel, aux commandes depuis 2021, a fait de la discipline sur les coûts sa marque. La banque redistribue 80 % de son bénéfice à ses actionnaires : 4,5 milliards d’euros d’acompte, soit 3 euros par action, versés le 25 novembre. Elle vise désormais un bénéfice « bien au-dessus » de 11,5 milliards en 2026, puis plus de 13 milliards en 2028 et plus de 15 milliards en 2030."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’Italie reste le cœur du réacteur",
+      "sub": "revenus par zone, neuf premiers mois de 2026, en milliards d’euros",
+      "rows": [
+       [
+        "Italie",
+        9.0
+       ],
+       [
+        "Allemagne",
+        4.3
+       ],
+       [
+        "Europe centrale et orientale",
+        3.8
+       ],
+       [
+        "Autriche",
+        2.0
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md€",
+      "note": "Source : UniCredit, présentation des résultats du 3e trimestre 2026, 9 novembre 2026."
+     }
+    },
+    {
+     "h": "Commerzbank, le grand pari"
+    },
+    {
+     "p": "Mi-octobre, la BCE a autorisé UniCredit à dépasser 30 % du capital de Commerzbank. Une fois obtenus les derniers feux verts, de Bruxelles pour la concurrence, de la Fed et du régulateur polonais pour la filiale mBank, Orcel contrôlera près de la moitié des droits de vote. La prise de contrôle est attendue au premier trimestre 2027. La banque promet que l’opération augmentera le bénéfice par action."
+    },
+    {
+     "p": "Le cadre politique n’est pas encore [[idoine|idoine]]. Berlin, qui détient environ 13 % de Commerzbank, a longtemps combattu l’opération. Le gouvernement exige des garanties sur l’emploi, le maintien du siège à Francfort et le crédit aux PME. Pour l’Allemagne, voir sa deuxième banque passer sous pavillon italien reste un symbole difficile. Orcel prévoit de renouveler une grande partie du conseil de surveillance, puis la direction. L’ensemble pèserait parmi les plus grandes banques de la zone euro."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "UniCredit profite de taux encore élevés, qui gonflent les marges d’intérêts de toutes les banques européennes. Sa vraie différence tient aux coûts et à la gestion du capital. Le défi commence maintenant : intégrer une grande banque étrangère, sans braquer ses salariés ni ses clients, est l’exercice où échouent la plupart des fusions bancaires transfrontalières."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le record</b> : 3,3 milliards d’euros de bénéfice au 3e trimestre, + 24 %. Objectifs relevés.",
+      "<b>Le pari</b> : prise de contrôle de Commerzbank attendue au premier trimestre 2027."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "3,3 Md€",
+       "bénéfice net au 3e trimestre, + 24 % sur un an"
+      ],
+      [
+       "25,5 %",
+       "rentabilité des fonds propres tangibles au trimestre"
+      ],
+      [
+       "32,8 %",
+       "coefficient d’exploitation : 33 centimes de coûts par euro de revenu"
+      ],
+      [
+       "4,5 Md€",
+       "acompte sur dividende versé le 25 novembre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les revenus</b> : + 12 %. Marge d’intérêts + 8 % à 3,8 milliards, commissions et assurance + 11 % à 2,4 milliards.",
+      "<b>Les coûts</b> : − 1 %, à 2,3 milliards. 80 % du bénéfice redistribué, dont 4,5 milliards versés le 25 novembre.",
+      "<b>Les objectifs</b> : bien plus de 11,5 milliards en 2026, plus de 13 en 2028, plus de 15 en 2030.",
+      "<b>Commerzbank</b> : feu vert de la BCE mi-octobre, près de 50 % des droits de vote à terme. Berlin, ≈ 13 % du capital, réclame des garanties : le cadre n’est pas encore [[idoine|idoine]]."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’Italie reste le cœur du réacteur",
+      "sub": "revenus par zone, neuf premiers mois de 2026, en milliards d’euros",
+      "rows": [
+       [
+        "Italie",
+        9.0
+       ],
+       [
+        "Allemagne",
+        4.3
+       ],
+       [
+        "Europe centrale et orientale",
+        3.8
+       ],
+       [
+        "Autriche",
+        2.0
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md€",
+      "note": "Source : UniCredit, présentation des résultats du 3e trimestre 2026, 9 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La recette</b> : des taux élevés pour tous, mais des coûts et un capital mieux gérés que la moyenne.",
+      "<b>Le coussin</b> : 15 % de fonds propres durs, assez pour financer l’opération sans fragiliser la banque.",
+      "<b>Le défi</b> : réussir une fusion bancaire transfrontalière, là où la plupart échouent."
+     ]
+    }
+   ]
+  }
+ ]
+}
