@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-10",
+ "latest": "2026-11-11",
  "editions": [
+  {
+   "date": "2026-11-11",
+   "label": "Mercredi 11 novembre",
+   "words": [
+    "Idoine",
+    "Prégnant"
+   ],
+   "items": [
+    [
+     "lit",
+     "Le Vieil Homme et la mer"
+    ],
+    [
+     "essai",
+     "Le Casse du siècle"
+    ],
+    [
+     "eco",
+     "Inflation américaine : un chiffre manquant, une hausse qui se dessine"
+    ],
+    [
+     "geo",
+     "Ukraine : Abu Dhabi relance la table à trois"
+    ],
+    [
+     "log",
+     "Navires chinois : Washington gèle ses taxes portuaires deux mois de plus"
+    ],
+    [
+     "ent",
+     "Infineon : la puce allemande qui alimente l’IA"
+    ]
+   ]
+  },
   {
    "date": "2026-11-10",
    "label": "Mardi 10 novembre",

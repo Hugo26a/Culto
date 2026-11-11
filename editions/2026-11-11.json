@@ -1,0 +1,1043 @@
+{
+ "date": "2026-11-11",
+ "label": "Mercredi 11 novembre 2026",
+ "n": 23,
+ "example": false,
+ "week": {
+  "start": "2026-11-09",
+  "label": "Semaine du 9 novembre",
+  "day": 3,
+  "words": [
+   {
+    "key": "idoine",
+    "w": "Idoine",
+    "ph": "[i.dwan] · adjectif",
+    "short": "Qui convient exactement à l’usage ou à la situation.",
+    "def": "Se dit de ce qui est parfaitement adapté à un besoin, à une personne ou à un moment. Le mot est plus précis que « bon » ou « adapté » : il suggère qu’on a trouvé la solution juste, ni trop ni trop peu. Il s’emploie souvent dans « la personne idoine », « le moment idoine », « l’outil idoine ». Il garde une légère touche soutenue, parfois avec une pointe d’ironie.",
+    "ety": "Du latin idoneus, « propre à, apte à, convenable ». Le mot est attesté en français dès le Moyen Âge, d’abord dans la langue du droit et de l’administration.",
+    "ex": "Pour ce lancement, il nous faut un prestataire idoine : capable de stocker sous température dirigée et de livrer en 24 heures.",
+    "syn": "approprié, adéquat, ad hoc, convenable, pertinent"
+   },
+   {
+    "key": "pregnant",
+    "w": "Prégnant",
+    "ph": "[pʁe.ɲɑ̃] · adjectif",
+    "short": "Qui s’impose fortement à l’esprit et pèse sur la situation.",
+    "def": "Se dit d’une idée, d’une impression ou d’un problème qui occupe fortement les esprits, dont on ne peut faire abstraction. On parle d’une question prégnante, d’une inquiétude prégnante, d’un souvenir prégnant. Le mot dit plus que « important » : il souligne une présence insistante, qui marque et oriente les décisions.",
+    "ety": "Du latin praegnans, « enceinte », au figuré « gonflé, plein de ». Le sens moderne doit beaucoup à la psychologie de la forme, qui a parlé au XXe siècle, d’après l’allemand Prägnanz, des formes qui s’imposent à la perception.",
+    "ex": "La question des délais reste prégnante chez nos clients : c’est le premier point soulevé à chaque revue de contrat.",
+    "syn": "marquant, saillant, insistant, omniprésent, déterminant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Le Vieil Homme et la mer",
+   "by": "Ernest Hemingway · 1952",
+   "tagline": "Vaincu, jamais détruit",
+   "min": 10,
+   "exMin": 4,
+   "src": "E. Hemingway, The Old Man and the Sea, paru intégralement dans le magazine Life du 1er septembre 1952, puis chez Scribner’s la même année ; trad. fr. de Jean Dutourd, Gallimard, 1952. Œuvre protégée : aucune citation reproduite. Prix Pulitzer de la fiction 1953, prix Nobel de littérature 1954 (motivation de l’Académie suédoise). Article « On the Blue Water », Esquire, avril 1936. Repères biographiques : C. Baker, Ernest Hemingway. A Life Story (Scribner’s, 1969).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Santiago, un vieux pêcheur cubain, n’a rien pris depuis 84 jours. Il part seul au large, ferre un espadon gigantesque et lutte trois jours pour le ramener. Sur le chemin du retour, les requins dévorent sa prise : il rentre au port avec un squelette, épuisé mais invaincu."
+      ],
+      [
+       "Une défaite qui n’en est pas une",
+       "Santiago perd tout ce qu’il a gagné, et pourtant le livre n’est pas l’histoire d’un échec. Ce qui compte, c’est la façon dont il s’est battu. On peut tout perdre sans perdre sa dignité : c’est la morale du récit."
+      ],
+      [
+       "Le respect de l’adversaire",
+       "Le vieil homme aime le poisson qu’il veut tuer. Il l’appelle son frère et admire sa force. Cette fraternité entre le chasseur et la proie donne au combat une grandeur presque sacrée."
+      ],
+      [
+       "La solitude et la transmission",
+       "Seul en mer, Santiago parle à voix haute, aux oiseaux, au poisson, à ses propres mains. À terre l’attend Manolin, le garçon qui l’aime. Le lien entre le vieux et l’enfant donne au livre sa note d’espoir."
+      ],
+      [
+       "L’art de l’économie",
+       "Moins de 130 pages, un vocabulaire simple, des phrases nettes. Hemingway applique sa théorie de l’iceberg : le plus important reste sous la surface. Pour découvrir l’auteur, c’est la porte d’entrée [[idoine|idoine]]."
+      ],
+      [
+       "Un livre qui a sauvé son auteur",
+       "Après un roman éreinté par la critique, Hemingway signe avec ce court récit un triomphe mondial. Il obtient le Pulitzer en 1953, puis le Nobel en 1954."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Quatre-vingt-quatre jours"
+    },
+    {
+     "p": "Dans un village de pêcheurs près de La Havane, Santiago est devenu la risée du port. Voilà 84 jours qu’il n’a pas pris un seul poisson. Pendant les quarante premiers, un jeune garçon, Manolin, l’accompagnait. Puis les parents de l’enfant l’ont envoyé sur un bateau plus chanceux. Le garçon continue pourtant de veiller sur le vieil homme : il l’aide à porter son matériel, lui apporte à manger, parle avec lui de base-ball et du grand joueur Joe DiMaggio.",
+     "lead": 1
+    },
+    {
+     "p": "Santiago est maigre, ridé, les mains couturées de vieilles cicatrices. Mais ses yeux ont la couleur de la mer et restent gais. La nuit, il rêve toujours des lions qu’il a vus sur les plages d’Afrique dans sa jeunesse, quand il naviguait sur des voiliers. Le 85e jour, il décide d’aller plus loin que jamais, au-delà des autres pêcheurs, dans le courant du Gulf Stream."
+    },
+    {
+     "h5": "La touche"
+    },
+    {
+     "p": "Avant l’aube, il rame vers le large. À midi, un poisson mord à l’un de ses appâts posés très profond. La prise est si lourde que Santiago ne peut pas la remonter. C’est le poisson qui tire la barque vers le nord-ouest, pendant des heures. Le vieil homme passe la ligne sur son dos et tient bon, le soir, puis toute la nuit. Il regrette à voix haute que le garçon ne soit pas là pour l’aider."
+    },
+    {
+     "p": "Le deuxième jour, sa main gauche se paralyse dans une crampe. Il mange du thon cru pour reprendre des forces et attend. Enfin, le poisson saute hors de l’eau : c’est un espadon, plus long que la barque de deux pieds, le plus grand que Santiago ait jamais vu. Le vieil homme comprend que le combat sera long. Il éprouve pour l’animal une admiration croissante : il le trouve plus noble que lui."
+    },
+    {
+     "h5": "Trois jours de lutte"
+    },
+    {
+     "p": "Pour tenir, Santiago se souvient d’un bras de fer qu’il a gagné autrefois à Casablanca, dans une taverne, contre un docker réputé le plus fort du port. Le duel avait duré un jour et une nuit. Il prie, promet des pèlerinages s’il prend le poisson, dort quelques minutes la ligne serrée contre lui. Ses mains saignent. Au troisième jour, l’espadon commence à tourner en cercles de plus en plus étroits. Au bord de l’évanouissement, le vieil homme le ramène contre la barque et le tue d’un coup de harpon."
+    },
+    {
+     "p": "Le poisson est trop grand pour être hissé à bord. Santiago l’amarre le long de son bateau et met le cap sur le port. Il calcule ce que la chair lui rapportera au marché. Pour un instant, il a gagné."
+    },
+    {
+     "h5": "Les requins"
+    },
+    {
+     "p": "Une heure plus tard, un premier requin, attiré par le sang, surgit des profondeurs. Santiago le tue avec son harpon, mais la bête emporte l’arme en coulant, ainsi qu’un gros morceau de l’espadon. Le vieil homme fixe alors son couteau au bout d’une rame. Deux autres requins arrivent, puis un troisième. Il les combat, mais la lame se brise. À chaque attaque, le poisson perd de sa chair. Santiago s’excuse auprès de lui d’être allé trop loin."
+    },
+    {
+     "p": "La nuit tombe. Une meute entière attaque. Le vieil homme frappe avec un gourdin, puis avec la barre arrachée de son gouvernail, jusqu’à ce qu’il ne reste plus rien à défendre. Il sait qu’il est battu. Il se concentre désormais sur la seule chose qui compte : ramener sa barque."
+    },
+    {
+     "h5": "Le retour"
+    },
+    {
+     "p": "Il atteint le port au milieu de la nuit. Il porte son mât sur l’épaule jusqu’à sa cabane, en tombant plusieurs fois, puis s’endort, les bras en croix. Au matin, les pêcheurs mesurent le squelette attaché à la barque : cinq mètres et demi du nez à la queue. Manolin découvre le vieil homme endormi, voit ses mains en sang et pleure. Il décide qu’il pêchera de nouveau avec lui, quoi qu’en disent ses parents."
+    },
+    {
+     "p": "Des touristes de passage aperçoivent l’arête géante dans l’eau du port. Ils la prennent pour celle d’un requin, sans rien comprendre de ce qui s’est joué. Dans sa cabane, Santiago dort et rêve encore des lions."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Une histoire vraie, quinze ans plus tard"
+    },
+    {
+     "p": "Hemingway vit à Cuba depuis la fin des années 1930. En 1936, dans un article pour le magazine <em>Esquire</em>, il rapportait déjà l’histoire d’un vieux pêcheur traîné deux jours au large par un espadon, puis retrouvé en larmes, sa prise à moitié dévorée par les requins. Il garde l’anecdote pendant quinze ans. Il connaît intimement ce monde : il pêche lui-même le gros poisson à bord de son bateau, le <em>Pilar</em>, depuis le port de Cojímar."
+    },
+    {
+     "h5": "Un pari éditorial"
+    },
+    {
+     "p": "En 1950, son roman <em>Au-delà du fleuve et sous les arbres</em> est très mal reçu. On le dit fini. Deux ans plus tard, il publie ce court récit d’un seul tenant dans le magazine <em>Life</em> : le numéro se vend à des millions d’exemplaires en quelques jours. Le livre obtient le prix Pulitzer en 1953. En 1954, l’Académie suédoise lui décerne le prix Nobel et cite expressément ce texte. Ce sera le dernier grand livre publié de son vivant."
+    },
+    {
+     "h5": "La théorie de l’iceberg"
+    },
+    {
+     "p": "Hemingway a forgé une règle : un écrivain peut taire ce qu’il sait, et le lecteur le sentira quand même, comme on devine la masse d’un iceberg à la partie qui émerge. Ici, rien n’est expliqué. On ne sait presque rien du passé de Santiago, de sa femme morte, de ses peines. Les phrases sont courtes, les mots simples, les gestes de la pêche décrits avec une précision technique. L’émotion naît de cette retenue. La sobriété du style, loin d’appauvrir le récit, en est l’outil [[idoine|idoine]]."
+    },
+    {
+     "h5": "Plusieurs lectures"
+    },
+    {
+     "p": "Le récit se lit d’abord comme une aventure. Mais beaucoup y voient une parabole. Les images chrétiennes sont nombreuses : les mains blessées, le mât porté comme une croix, le corps étendu les bras ouverts. D’autres y lisent l’autoportrait d’un écrivain vieillissant qui a ramené son grand poisson, et que la critique, comme les requins, voudrait dépecer. Hemingway refusait les symboles : il disait avoir voulu écrire un vrai vieil homme, une vraie mer, un vrai poisson. La force du livre est de tenir sur tous ces plans à la fois."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’il pose une question [[pregnant|prégnante]] dans toute vie, professionnelle ou personnelle : que vaut un effort quand le résultat nous échappe ? Santiago perd sa prise, mais il a prouvé qu’il savait encore pêcher. Le livre parle aussi de l’âge, de la persévérance et de ce qu’on transmet. Il se lit en deux heures et se relit toute une vie."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Santiago, vieux pêcheur cubain, n’a rien pris depuis 84 jours. Seul au large, il ferre un espadon géant et le combat trois jours. Les requins dévorent sa prise sur le retour : il rentre avec un squelette, vaincu mais pas détruit."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La dignité</b> : on peut tout perdre sans perdre sa dignité. Ce qui compte, c’est la manière de se battre.",
+      "<b>Le respect de l’adversaire</b> : Santiago aime le poisson qu’il tue et l’appelle son frère.",
+      "<b>La transmission</b> : le lien avec Manolin, le garçon, donne au livre sa note d’espoir.",
+      "<b>La solitude</b> : seul en mer, Santiago parle aux oiseaux, au poisson et à ses propres mains. Il regrette à voix haute l’absence du garçon.",
+      "<b>L’économie</b> : moins de 130 pages, un vocabulaire simple, des phrases nettes. La porte d’entrée [[idoine|idoine]] dans l’œuvre de Hemingway.",
+      "<b>Le triomphe</b> : Pulitzer en 1953, Nobel en 1954, après un roman éreinté par la critique."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>84 jours</b> : près de La Havane, Santiago ne prend plus rien. Les parents de Manolin l’ont envoyé sur un autre bateau, mais le garçon veille toujours sur lui.",
+      "<b>La touche</b> : le 85e jour, très au large, un poisson énorme mord et tire la barque pendant des heures, puis toute la nuit.",
+      "<b>Le combat</b> : crampe, mains en sang, souvenir d’un bras de fer d’un jour et d’une nuit à Casablanca. C’est un espadon plus long que la barque. Au troisième jour, il le harponne.",
+      "<b>Les requins</b> : le premier emporte le harpon, puis d’autres arrivent. Couteau brisé, gourdin, barre du gouvernail : il ne reste bientôt que l’arête.",
+      "<b>Le retour</b> : un squelette de cinq mètres et demi. Manolin pleure devant ses mains et décide de repêcher avec lui. Des touristes croient voir une arête de requin. Santiago rêve des lions."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>La source</b> : une anecdote racontée par Hemingway dès 1936 dans <em>Esquire</em>, mûrie quinze ans à Cuba.",
+      "<b>Le pari</b> : en 1950, <em>Au-delà du fleuve et sous les arbres</em> est éreinté et on dit Hemingway fini. Deux ans plus tard, ce récit publié d’un bloc dans <em>Life</em> se vend à des millions d’exemplaires en quelques jours. Le Nobel de 1954 le cite expressément.",
+      "<b>Le style</b> : peu de passé, rien d’expliqué, des gestes de pêche décrits avec une précision technique. L’émotion naît de la retenue.",
+      "<b>L’iceberg</b> : tout ce qui n’est pas dit pèse autant que ce qui l’est. La sobriété est l’outil [[idoine|idoine]] du récit.",
+      "<b>Les lectures</b> : aventure, parabole chrétienne ou autoportrait de l’écrivain face aux critiques. Hemingway, lui, refusait les symboles.",
+      "<b>Pourquoi le lire</b> : que vaut un effort quand le résultat nous échappe ? Une question [[pregnant|prégnante]], qui se lit en deux heures."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Le Casse du siècle",
+   "by": "Michael Lewis · 2010",
+   "min": 9,
+   "exMin": 3,
+   "src": "M. Lewis, The Big Short. Inside the Doomsday Machine (W. W. Norton, 2010) ; trad. fr. Le Casse du siècle (Sonatine, 2010). Volumes de prêts subprime 2000 et 2005, rendement de Scion Capital (novembre 2000-juin 2008), mise de départ de Cornwall Capital et perte de Morgan Stanley : chiffres cités dans le livre. Prix immobiliers : indice national S&P CoreLogic Case-Shiller (pic de 2006, creux de 2012), ordre de grandeur. Film The Big Short d’Adam McKay (2015), Oscar du meilleur scénario adapté. Lectures complémentaires : G. Tett, Fool’s Gold (2009) ; A. R. Sorkin, Too Big to Fail (2009).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Avant la crise de 2008, une poignée d’outsiders ont compris que le marché immobilier américain reposait sur des prêts qui ne seraient jamais remboursés. Ils ont parié contre lui, contre l’avis de Wall Street, et gagné des fortunes. Michael Lewis raconte leur histoire pour expliquer, de l’intérieur, comment la finance a fabriqué la catastrophe."
+      ],
+      [
+       "Une montagne de crédits pourris",
+       "En 2005, 625 milliards de dollars de prêts subprime, accordés à des ménages fragiles, sont distribués aux États-Unis. 507 milliards sont aussitôt transformés en obligations et revendus aux investisseurs du monde entier."
+      ],
+      [
+       "L’alchimie des banques",
+       "En empilant et en redécoupant ces crédits, les banques transforment des prêts douteux en titres notés AAA, la meilleure note possible. Les agences de notation, payées par les banques, valident le tour de passe-passe."
+      ],
+      [
+       "Voir ce que personne ne regarde",
+       "Les héros du livre ne sont pas des génies de Wall Street. Ce sont des marginaux qui ont lu les contrats de prêt, un par un. Le fonds de Michael Burry a gagné 489 % net entre fin 2000 et mi-2008."
+      ],
+      [
+       "Le risque était connu, mais caché",
+       "Les grandes banques ont perdu des dizaines de milliards sur des produits qu’elles avaient elles-mêmes créés. Chez Morgan Stanley, un seul trader perd environ 9 milliards de dollars. L’ignorance n’était pas un accident : elle arrangeait tout le monde."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Le contexte"
+    },
+    {
+     "p": "Michael Lewis connaît Wall Street de l’intérieur. Ancien vendeur d’obligations chez Salomon Brothers, il a raconté les excès des années 1980 dans <em>Poker menteur</em> (1989). Il pensait alors avoir décrit la fin d’une époque. Vingt ans plus tard, la crise des subprimes lui prouve le contraire. Paru en mars 2010, alors que l’économie mondiale sort à peine de la récession, <em>The Big Short</em> devient un best-seller. Plutôt que de raconter la crise du point de vue des dirigeants, comme d’autres livres de l’époque, Lewis choisit ceux qui l’ont vue venir."
+    },
+    {
+     "h5": "La thèse"
+    },
+    {
+     "p": "La crise n’est pas tombée du ciel. Elle est le produit d’un système où chacun gagnait à ne pas regarder. Les courtiers touchaient une commission sur chaque prêt signé, quel que soit le risque. Les banques empochaient des frais pour transformer ces prêts en titres. Les agences de notation étaient payées par ceux qu’elles notaient. Les investisseurs achetaient la note sans lire le contenu. Chacun transmettait le risque au suivant. À la fin de la chaîne, plus personne ne savait ce qu’il détenait."
+    },
+    {
+     "h5": "La mécanique"
+    },
+    {
+     "p": "Le cœur du système est la titrisation. Des milliers de crédits immobiliers sont regroupés dans une obligation, découpée en tranches. Les premières pertes frappent les tranches du bas ; celles du haut, protégées, reçoivent la note AAA. Puis les banques reprennent les tranches du bas, les plus risquées, et les réempilent dans un nouveau produit, le CDO. Par magie statistique, une bonne partie de ce mille-feuille de mauvais crédits ressort notée AAA. Le modèle supposait que les défauts ne se produiraient pas tous en même temps, partout dans le pays. C’est exactement ce qui est arrivé."
+    },
+    {
+     "p": "Les prêts eux-mêmes se dégradent d’année en année. Taux d’appel très bas pendant deux ans, puis brutalement relevés. Prêts sans justificatif de revenus. Les chiffres du livre donnent la mesure : 130 milliards de dollars de prêts subprime en 2000, dont 55 transformés en obligations ; 625 milliards en 2005, dont 507 titrisés."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le subprime, une machine à fabriquer des titres",
+      "sub": "milliards de dollars par an",
+      "labels": [
+       "2000",
+       "2005"
+      ],
+      "series": [
+       {
+        "name": "Prêts subprime accordés",
+        "values": [
+         130,
+         625
+        ]
+       },
+       {
+        "name": "Dont transformés en obligations",
+        "values": [
+         55,
+         507
+        ]
+       }
+      ],
+      "note": "Source : chiffres cités par Michael Lewis dans The Big Short (2010), chapitre 1."
+     }
+    },
+    {
+     "h5": "Les personnages"
+    },
+    {
+     "p": "Michael Burry, médecin devenu gérant de fonds en Californie, solitaire et obsessionnel, lit les prospectus des obligations que personne n’ouvre. Dès 2005, il achète des <em>credit default swaps</em>, des contrats d’assurance qui paient si les obligations font défaut. Ses clients, furieux de payer des primes pendant des mois, tentent de récupérer leur argent. Il tient bon. Steve Eisman, gérant new-yorkais colérique et moraliste, découvre en visitant le terrain que les prêts sont accordés à n’importe qui. Enfin trois jeunes investisseurs, partis avec 110 000 dollars sur un compte de courtage, parient sur des événements que le marché juge impossibles."
+    },
+    {
+     "p": "En face, Lewis décrit des banques aveugles à leurs propres produits. L’assureur AIG a vendu des protections sur des montants gigantesques, sans mesurer le risque. Chez Morgan Stanley, un trader parie à la fois contre et pour le marché, et perd environ 9 milliards de dollars : l’une des plus grosses pertes de l’histoire de Wall Street. Ironie supplémentaire, le fonds d’Eisman appartenait à cette même banque."
+    },
+    {
+     "stats": [
+      [
+       "625 Md$",
+       "prêts subprime accordés aux États-Unis en 2005"
+      ],
+      [
+       "489 %",
+       "gain net du fonds de Michael Burry, de fin 2000 à mi-2008"
+      ],
+      [
+       "≈ 9 Md$",
+       "perte d’un seul trader de Morgan Stanley sur le subprime"
+      ],
+      [
+       "≈ − 27 %",
+       "chute des prix immobiliers américains, du pic de 2006 au creux de 2012"
+      ]
+     ]
+    },
+    {
+     "h5": "Avoir raison trop tôt"
+    },
+    {
+     "p": "Le livre montre aussi combien il est difficile d’avoir raison contre tout le monde. Pendant deux ans, les paris des outsiders coûtent de l’argent : il faut payer des primes d’assurance chaque trimestre, alors que les défauts tardent à apparaître. Pire, les banques qui leur ont vendu ces protections refusent longtemps d’en reconnaître la hausse de valeur. C’est Greg Lippmann, un vendeur de la Deutsche Bank, qui fait circuler l’idée du pari auprès des fonds, tout en continuant à travailler pour une banque qui fabrique ces produits."
+    },
+    {
+     "p": "Puis tout bascule. À l’été 2007, deux fonds de la banque Bear Stearns, gavés de titres subprime, s’effondrent. En mars 2008, Bear Stearns elle-même est vendue en catastrophe à JPMorgan. En septembre, Lehman Brothers fait faillite et l’État américain doit sauver AIG. Les outsiders encaissent, mais Lewis les montre étrangement amers : ils ont gagné parce que le système était pourri, et ce constat ne les réjouit pas."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre a ses angles morts. En faisant des héros de ceux qui ont gagné sur la ruine des autres, Lewis risque d’en faire des justiciers, alors qu’ils ont surtout fait une excellente affaire. Il laisse aussi dans l’ombre les causes politiques : l’encouragement à l’accession à la propriété, les taux bas de la Fed au début des années 2000, la faiblesse de la régulation. Enfin, sa lecture par les personnages simplifie un phénomène mondial. Pour une vue d’ensemble, il faut le compléter par d’autres enquêtes, celle de Gillian Tett sur les dérivés de crédit ou celle d’Andrew Ross Sorkin sur les grandes banques. Mais comme récit, il reste l’entrée [[idoine|idoine]] pour comprendre la crise."
+    },
+    {
+     "h5": "La postérité"
+    },
+    {
+     "p": "Le livre a rendu intelligible une crise que beaucoup jugeaient incompréhensible. En 2015, Adam McKay l’adapte au cinéma, avec Christian Bale en Michael Burry : le film obtient l’Oscar du meilleur scénario adapté. Les prix immobiliers américains ont chuté d’environ 27 % entre 2006 et 2012, et la faillite de Lehman Brothers, en septembre 2008, a fait basculer le monde dans la récession. La leçon du livre reste [[pregnant|prégnante]] : quand tout le monde gagne de l’argent en transmettant un risque au suivant, il faut lire ce qu’il y a dans les contrats."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Michael Lewis raconte la crise de 2008 à travers quelques outsiders qui ont lu les contrats de prêt immobilier, compris qu’ils ne seraient jamais remboursés et parié contre Wall Street. Ils ont gagné des fortunes ; les banques ont perdu des dizaines de milliards."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La montagne de crédits</b> : 625 milliards de dollars de prêts subprime en 2005, dont 507 aussitôt transformés en obligations.",
+      "<b>L’alchimie</b> : empilés et redécoupés, ces prêts douteux deviennent des titres notés AAA, avec la bénédiction d’agences payées par les banques.",
+      "<b>La chaîne</b> : courtiers, banques, agences et investisseurs gagnent tous à ne pas regarder. Chacun passe le risque au suivant.",
+      "<b>Les outsiders</b> : Michael Burry, médecin devenu gérant, gagne 489 % net entre fin 2000 et mi-2008. Steve Eisman et trois jeunes partis avec 110 000 dollars parient eux aussi contre le marché.",
+      "<b>L’aveuglement</b> : AIG assure des montants gigantesques sans mesurer le risque. Un trader de Morgan Stanley perd environ 9 milliards."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "625 Md$",
+       "prêts subprime accordés aux États-Unis en 2005"
+      ],
+      [
+       "489 %",
+       "gain net du fonds de Michael Burry, de fin 2000 à mi-2008"
+      ],
+      [
+       "≈ 9 Md$",
+       "perte d’un seul trader de Morgan Stanley sur le subprime"
+      ],
+      [
+       "≈ − 27 %",
+       "chute des prix immobiliers américains, du pic de 2006 au creux de 2012"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le subprime, une machine à fabriquer des titres",
+      "sub": "milliards de dollars par an",
+      "labels": [
+       "2000",
+       "2005"
+      ],
+      "series": [
+       {
+        "name": "Prêts subprime accordés",
+        "values": [
+         130,
+         625
+        ]
+       },
+       {
+        "name": "Dont transformés en obligations",
+        "values": [
+         55,
+         507
+        ]
+       }
+      ],
+      "note": "Source : chiffres cités par Michael Lewis dans The Big Short (2010), chapitre 1."
+     }
+    },
+    {
+     "h": "Le contexte et les critiques"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : ancien vendeur d’obligations chez Salomon Brothers, auteur de <em>Poker menteur</em> (1989). Livre paru en mars 2010.",
+      "<b>La mécanique</b> : titrisation en tranches, puis CDO qui réempilent les tranches les plus risquées. Le modèle supposait que les défauts ne seraient jamais simultanés.",
+      "<b>Les prêts</b> : taux d’appel très bas pendant deux ans puis relevés, crédits sans justificatif de revenus. Les courtiers sont payés à la signature, quel que soit le risque.",
+      "<b>Avoir raison trop tôt</b> : pendant deux ans, les paris coûtent des primes chaque trimestre et les banques refusent d’en reconnaître la valeur.",
+      "<b>La bascule</b> : fonds de Bear Stearns effondrés à l’été 2007, Bear Stearns vendue à JPMorgan en mars 2008, faillite de Lehman et sauvetage d’AIG en septembre. Les gagnants restent amers.",
+      "<b>Les limites</b> : des héros qui ont surtout fait une bonne affaire, des causes politiques laissées dans l’ombre. Mais comme récit, c’est l’entrée [[idoine|idoine]] pour comprendre la crise.",
+      "<b>La postérité</b> : film d’Adam McKay en 2015, Oscar du meilleur scénario adapté. Une leçon [[pregnant|prégnante]] : lire ce qu’il y a dans les contrats."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Inflation américaine : un chiffre manquant, une hausse qui se dessine",
+   "by": "Analyse",
+   "fig": "+ 0,4 %",
+   "figl": "prix américains en octobre, sur un mois",
+   "min": 3,
+   "exMin": 2,
+   "src": "Bureau of Labor Statistics, Consumer Price Index, octobre 2026 (USDL-26-1685), publié le 10 novembre 2026. Inflation annuelle de septembre, taux directeurs, vote d’octobre et déclarations de C. Waller et L. Logan : HNGN, 10 novembre 2026. Consensus, taux à 10 ans et réactions des marchés : TheStreet, 10 novembre 2026. Données arrêtées au 10 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Les prix ont augmenté de 0,4 % en octobre aux États-Unis, un peu plus que les 0,3 % attendus. Hors énergie et alimentation, la hausse atteint 0,3 %, pour le troisième mois consécutif. Ces chiffres rapprochent la Réserve fédérale d’une hausse de ses taux le 9 décembre. Une particularité rend pourtant la lecture délicate : il n’existe pas, cette fois, de taux d’inflation annuel.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "+ 0,4 %",
+       "prix à la consommation en octobre, sur un mois"
+      ],
+      [
+       "+ 0,3 %",
+       "inflation sous-jacente, troisième mois d’affilée"
+      ],
+      [
+       "3,7 %",
+       "dernier rythme annuel connu, en septembre"
+      ],
+      [
+       "5,00 %",
+       "taux américain à 10 ans, le 10 novembre"
+      ]
+     ]
+    },
+    {
+     "h": "Le trou dans les statistiques"
+    },
+    {
+     "p": "En octobre 2025, la paralysie budgétaire de l’État fédéral avait empêché le Bureau of Labor Statistics de relever les prix. Sans point de comparaison, impossible de calculer la hausse sur douze mois pour la plupart des produits. Seules quelques séries ont un chiffre annuel : l’essence, en hausse de 37,4 % en un an, les voitures neuves (+ 0,7 %) et les voitures d’occasion (− 3,3 %). Le dernier rythme annuel connu reste celui de septembre : 3,7 %, contre 3,4 % les deux mois précédents. Les marchés doivent donc raisonner sur des variations mensuelles, plus volatiles. Or une hausse de 0,4 % par mois, si elle se répétait toute une année, représenterait près de 5 % d’inflation annuelle."
+    },
+    {
+     "p": "Le détail montre une inflation qui se diffuse. L’énergie ralentit nettement, avec + 0,7 % après + 5,2 % en septembre, grâce à un pétrole qui reflue. Mais l’alimentation remonte de 0,5 %, l’électricité de 0,9 %, et le logement, à + 0,3 %, explique à lui seul plus de 30 % de la hausse du mois."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’énergie et l’alimentation tirent encore",
+      "sub": "variation des prix en octobre 2026 sur un mois, en %, corrigée des variations saisonnières",
+      "rows": [
+       [
+        "Essence",
+        1.0
+       ],
+       [
+        "Électricité",
+        0.9
+       ],
+       [
+        "Alimentation",
+        0.5
+       ],
+       [
+        "Billets d’avion",
+        0.4
+       ],
+       [
+        "Logement",
+        0.3
+       ],
+       [
+        "Hors énergie et alimentation",
+        0.3
+       ],
+       [
+        "Habillement",
+        0.1
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Source : Bureau of Labor Statistics, indice des prix à la consommation d’octobre 2026, 10 novembre 2026."
+     }
+    },
+    {
+     "h": "La Fed sous pression"
+    },
+    {
+     "p": "Les taux directeurs se situent entre 3,75 % et 4 %, maintenus en octobre par dix voix contre deux. Le gouverneur Christopher Waller avait prévenu : si les prix sous-jacents progressaient d’environ 0,3 %, une hausse d’un demi-point devrait être envisagée en décembre. C’est le cas. Lorie Logan, présidente de la Fed de Dallas, juge nécessaires deux hausses d’un quart de point. Sur les marchés, le taux à 10 ans a touché 5 %, et la Bourse a reculé. Le président de la Fed, Kevin Warsh, refuse pour l’instant de s’engager sur le rythme à venir."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le choc pétrolier se transmet désormais au reste de l’économie : alimentation, électricité, loyers. C’est ce que redoutent les banques centrales, car cette inflation de second tour est plus lente à refluer. La question n’est plus de savoir si la Fed va remonter ses taux, mais de combien. La persistance des prix reste la préoccupation la plus [[pregnant|prégnante]] à Washington."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : + 0,4 % en octobre, au-dessus des 0,3 % attendus. Hors énergie et alimentation : + 0,3 %, troisième mois de suite.",
+      "<b>La conséquence</b> : une hausse des taux de la Fed se dessine pour le 9 décembre."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "+ 0,4 %",
+       "prix à la consommation en octobre, sur un mois"
+      ],
+      [
+       "+ 0,3 %",
+       "inflation sous-jacente, troisième mois d’affilée"
+      ],
+      [
+       "3,7 %",
+       "dernier rythme annuel connu, en septembre"
+      ],
+      [
+       "5,00 %",
+       "taux américain à 10 ans, le 10 novembre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le trou statistique</b> : faute de relevés en octobre 2025, pendant la paralysie budgétaire, pas de taux annuel. Seule exception notable : l’essence, + 37,4 % sur un an. Dernier rythme connu : 3,7 % en septembre.",
+      "<b>La diffusion</b> : énergie + 0,7 % après + 5,2 %, mais alimentation + 0,5 %, électricité + 0,9 %. Le logement pèse plus de 30 % de la hausse du mois.",
+      "<b>La Fed</b> : taux entre 3,75 % et 4 %. Christopher Waller évoque un demi-point, Lorie Logan deux hausses d’un quart de point. Le 10 ans touche 5 %.",
+      "<b>Le calcul</b> : 0,4 % par mois pendant un an, c’est près de 5 % d’inflation annuelle."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’énergie et l’alimentation tirent encore",
+      "sub": "variation des prix en octobre 2026 sur un mois, en %, corrigée des variations saisonnières",
+      "rows": [
+       [
+        "Essence",
+        1.0
+       ],
+       [
+        "Électricité",
+        0.9
+       ],
+       [
+        "Alimentation",
+        0.5
+       ],
+       [
+        "Billets d’avion",
+        0.4
+       ],
+       [
+        "Logement",
+        0.3
+       ],
+       [
+        "Hors énergie et alimentation",
+        0.3
+       ],
+       [
+        "Habillement",
+        0.1
+       ]
+      ],
+      "prefix": "+ ",
+      "suffix": " %",
+      "note": "Source : Bureau of Labor Statistics, indice des prix à la consommation d’octobre 2026, 10 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le second tour</b> : le pétrole cher se diffuse aux autres prix, plus lents à refluer.",
+      "<b>La question</b> : non plus si la Fed monte ses taux, mais de combien. La persistance des prix reste la préoccupation la plus [[pregnant|prégnante]]."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Ukraine : Abu Dhabi relance la table à trois",
+   "by": "Analyse",
+   "fig": "9 mois",
+   "figl": "sans négociation à trois",
+   "min": 3,
+   "exMin": 2,
+   "src": "ABC News, 10 novembre 2026 (composition des délégations, positions, durée de la guerre, front de 745 miles, attaques de drones). PBS NewsHour / Associated Press, 10 novembre 2026 (quatre heures de discussions, déclarations de V. Zelensky, J. Kushner, M. Rubio, F. Merz). Euronews, 9 novembre 2026 (équipe européenne, OTAN, position de la Commission). Foreign Exchanges, 10 novembre 2026 (points de blocage ; estimation non confirmée officiellement de la baisse des capacités de raffinage russes). Données arrêtées au 10 novembre 2026, avant la seconde journée.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Pour la première fois depuis février, Américains, Ukrainiens et Russes se sont retrouvés à la même table, mardi à Abu Dhabi. Quatre heures de discussions, qualifiées de constructives par tous, une seconde journée ce mercredi, et des Européens qui tentent d’entrer dans la pièce. Aucune percée n’est attendue : le vrai enjeu est de remettre en marche un processus enlisé depuis neuf mois.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "1 721",
+       "jours de guerre au 10 novembre 2026"
+      ],
+      [
+       "≈ 1 200 km",
+       "de ligne de front"
+      ],
+      [
+       "9 mois",
+       "sans négociation à trois, depuis février"
+      ],
+      [
+       "4",
+       "régions dont Moscou exige le retrait ukrainien"
+      ]
+     ]
+    },
+    {
+     "h": "Qui est à la table"
+    },
+    {
+     "p": "Côté américain, les émissaires Steve Witkoff et Jared Kushner. Côté ukrainien, Roustem Oumerov, chef du renseignement extérieur, entouré de Kyrylo Boudanov, chef de l’administration présidentielle, et de David Arakhamia, patron du groupe parlementaire de Volodymyr Zelensky. Côté russe, le conseiller du Kremlin Vladimir Medinski, avec Iouri Ouchakov, le chef du renseignement militaire Igor Kostioukov et le vice-ministre des Affaires étrangères Sergueï Riabkov. Une délégation de poids, qui signale que Moscou prend l’exercice au sérieux."
+    },
+    {
+     "p": "Les Européens ont envoyé une équipe de la Commission et du Conseil, ainsi que les conseillers à la sécurité de Paris, Berlin, Londres et Rome, et un représentant de l’OTAN. Ils ont rencontré Ukrainiens et Américains, mais Moscou refuse leur présence dans le format à trois. La Russie concède seulement qu’ils pourraient rejoindre la négociation plus tard."
+    },
+    {
+     "h": "Des positions toujours éloignées"
+    },
+    {
+     "p": "Moscou exige le retrait ukrainien de quatre régions qu’elle a annexées en 2022 sans les contrôler entièrement : Donetsk, Louhansk, Zaporijjia et Kherson. Elle veut aussi une Ukraine hors de l’OTAN et une armée plafonnée. Kiev refuse de céder un territoire que la Russie n’a pas conquis et réclame des garanties de sécurité concrètes. Autre désaccord de méthode : le Kremlin veut d’abord une nouvelle architecture de sécurité européenne, Kiev d’abord un règlement en Ukraine. Jared Kushner juge qu’une paix durable passera par un dialogue direct entre la Russie et l’Europe, une idée saluée à Moscou et accueillie avec méfiance par les alliés."
+    },
+    {
+     "p": "Pendant les discussions, la guerre continue. Dans la nuit de lundi à mardi, la Russie a lancé 162 drones et un missile balistique sur l’Ukraine. De son côté, Kiev multiplie les frappes de drones sur les raffineries russes : selon des estimations relayées par la presse, elles auraient privé la Russie d’environ 30 % de sa capacité de raffinage depuis fin octobre. Chaque camp cherche à négocier en position de force."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le résultat le plus probable à court terme est humanitaire : un grand échange de prisonniers, le retour de civils et d’enfants déportés. C’est peu, mais c’est le format [[idoine|idoine]] pour recréer de la confiance. Sur le fond, le blocage territorial reste entier. La place des Européens, absents de la table mais directement concernés, sera l’un des tests des prochaines semaines."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le retour</b> : première négociation à trois depuis février, mardi à Abu Dhabi. Quatre heures, seconde journée mercredi.",
+      "<b>L’objectif</b> : relancer un processus enlisé depuis neuf mois, sans percée attendue."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "1 721",
+       "jours de guerre au 10 novembre 2026"
+      ],
+      [
+       "≈ 1 200 km",
+       "de ligne de front"
+      ],
+      [
+       "9 mois",
+       "sans négociation à trois, depuis février"
+      ],
+      [
+       "4",
+       "régions dont Moscou exige le retrait ukrainien"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les délégations</b> : Witkoff et Kushner pour Washington, Oumerov, Boudanov et Arakhamia pour Kiev, Medinski, Ouchakov et le chef du renseignement militaire pour Moscou.",
+      "<b>Les Européens</b> : Commission, Conseil, Paris, Berlin, Londres, Rome et l’OTAN sont sur place, mais Moscou refuse leur présence à la table.",
+      "<b>Les blocages</b> : Moscou exige quatre régions, la neutralité et une armée plafonnée. Kiev refuse de céder et réclame des garanties. Désaccord aussi sur l’ordre : sécurité européenne d’abord ou Ukraine d’abord.",
+      "<b>Le terrain</b> : 162 drones et un missile balistique russes dans la nuit de lundi à mardi. Kiev frappe les raffineries russes : ≈ 30 % des capacités touchées depuis fin octobre, selon la presse."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le résultat probable</b> : un grand échange de prisonniers. Le format [[idoine|idoine]] pour recréer de la confiance.",
+      "<b>Le test</b> : la place des Européens, concernés au premier chef mais tenus à l’écart."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Navires chinois : Washington gèle ses taxes portuaires deux mois de plus",
+   "by": "Analyse",
+   "fig": "2 mois",
+   "figl": "de répit pour les navires chinois",
+   "min": 3,
+   "exMin": 2,
+   "src": "gCaptain, 10 novembre 2026 (publication au Federal Register, entrée en vigueur le 9 novembre, prolongation chinoise d’après Reuters, commentaires publics) et 27 octobre 2026 (historique, coûts pour Matson et COSCO, part des États-Unis dans la construction navale, plan maritime). S&P Global Commodity Insights, 23 octobre 2026 (barème des taxes, position des exportateurs de charbon). Holland & Knight, novembre 2026 (grues portuaires et équipements de manutention). Données arrêtées au 10 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Les taxes américaines sur les navires liés à la Chine restent au frigo. Washington a prolongé de deux mois, jusqu’au 9 janvier 2027, la suspension décidée il y a un an lors de la trêve commerciale avec Pékin. La Chine a fait de même pour ses taxes de représailles. Pour les armateurs et les chargeurs, c’est un répit, pas une solution : la menace revient dans huit semaines.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "50 $",
+       "par tonneau net et par escale, pour un navire d’armateur chinois"
+      ],
+      [
+       "120 $",
+       "par conteneur déchargé, pour un navire construit en Chine"
+      ],
+      [
+       "9 janvier",
+       "fin de la nouvelle suspension, en 2027"
+      ],
+      [
+       "0,1 %",
+       "part des États-Unis dans la construction navale mondiale"
+      ]
+     ]
+    },
+    {
+     "h": "Une arme contre les chantiers chinois"
+    },
+    {
+     "p": "Adoptées en avril 2025 au nom de la section 301 du droit commercial américain, ces taxes visent la domination chinoise dans la construction navale. Les chantiers chinois produisent plus de la moitié des navires de commerce du monde ; les États-Unis, 0,1 %. Le barème frappe chaque escale : 50 dollars par tonneau net pour un navire détenu ou exploité par une compagnie chinoise, 18 dollars par tonneau net ou 120 dollars par conteneur déchargé pour un navire construit en Chine. Des droits supplémentaires visent aussi les grues portuaires chinoises."
+    },
+    {
+     "p": "Les taxes n’ont été prélevées que moins de quatre semaines, à partir du 14 octobre 2025. Le temps de mesurer leur coût : la compagnie américaine Matson a payé 6,4 millions de dollars de taxes chinoises de représailles, et COSCO s’exposait à environ 1,5 milliard de dollars par an aux États-Unis."
+    },
+    {
+     "h": "Qui veut quoi"
+    },
+    {
+     "p": "Les armateurs et les exportateurs plaident pour une suppression définitive. Les charbonniers américains, notamment, dépendent de vraquiers souvent construits en Chine et n’ont guère d’alternative. À l’inverse, syndicats maritimes et plusieurs sénateurs veulent le retour des taxes, seul levier selon eux pour relancer les chantiers américains. Une soixantaine de contributions ont été déposées lors de la consultation. L’administration, elle, garde la menace comme monnaie d’échange dans ses discussions avec Pékin. Elle prépare même plus large : son plan maritime évoque une redevance de 1 à 25 cents par kilo de marchandise importée sur tous les navires construits à l’étranger, qui pourrait rapporter jusqu’à 1 500 milliards de dollars en dix ans dans l’hypothèse haute."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Pour un responsable supply chain, la réponse [[idoine|idoine]] est de se préparer aux deux scénarios. Vérifier dans les contrats de transport qui paierait une taxe d’escale, chiffrer l’exposition pour les arrivées après le 9 janvier, et prévoir que les droits sur les équipements de manutention pourraient revenir par une autre voie. Une incertitude [[pregnant|prégnante]], qui pèse sur la négociation des contrats annuels de 2027."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>La décision</b> : suspension des taxes sur les navires liés à la Chine prolongée jusqu’au 9 janvier 2027. Pékin suspend aussi ses représailles.",
+      "<b>La portée</b> : un répit de huit semaines, pas une solution."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "50 $",
+       "par tonneau net et par escale, pour un navire d’armateur chinois"
+      ],
+      [
+       "120 $",
+       "par conteneur déchargé, pour un navire construit en Chine"
+      ],
+      [
+       "9 janvier",
+       "fin de la nouvelle suspension, en 2027"
+      ],
+      [
+       "0,1 %",
+       "part des États-Unis dans la construction navale mondiale"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>L’objectif</b> : contrer les chantiers chinois, qui produisent plus de la moitié des navires du monde, contre 0,1 % pour les États-Unis.",
+      "<b>Le barème</b> : 50 dollars par tonneau net pour un armateur chinois, 18 dollars par tonneau net ou 120 dollars par conteneur pour un navire construit en Chine. Plus des droits sur les grues chinoises.",
+      "<b>Le coût mesuré</b> : en moins de quatre semaines d’application, 6,4 millions de dollars pour Matson. Facture annuelle estimée de 1,5 milliard pour COSCO.",
+      "<b>Les camps</b> : armateurs et charbonniers veulent une suppression, syndicats et sénateurs un retour des taxes.",
+      "<b>Plus large</b> : le plan maritime américain évoque 1 à 25 cents par kilo importé sur tous les navires construits à l’étranger."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La réponse [[idoine|idoine]]</b> : vérifier les clauses de répercussion des contrats et chiffrer l’exposition après le 9 janvier.",
+      "<b>Le calendrier</b> : une incertitude [[pregnant|prégnante]] au moment de négocier les contrats de 2027."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Infineon : la puce allemande qui alimente l’IA",
+   "by": "Analyse",
+   "fig": "≈ 20 Md€",
+   "figl": "chiffre d’affaires visé en 2027",
+   "min": 3,
+   "exMin": 2,
+   "src": "Infineon, communiqué sur les résultats du 4e trimestre et de l’exercice 2026, 10 novembre 2026, via Power Semiconductors Weekly. Chiffres par division, centres de données, cession à Winbond et usine de Dresde : transcription de la conférence de résultats, Investing.com, 10 novembre 2026. Évolution du titre : Börse Social Network, 10 novembre 2026. Données arrêtées au 10 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Infineon, premier fabricant européen de semi-conducteurs, a clos son exercice sur un trimestre record et promet une croissance de plus de 20 % l’an prochain. Le chiffre d’affaires viserait environ 20 milliards d’euros. Le moteur n’est plus seulement l’automobile, son métier historique, mais l’alimentation électrique des centres de données d’intelligence artificielle. L’action a bondi de plus de 6 % à Francfort.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "16,4 Md€",
+       "chiffre d’affaires 2026, + 12 %"
+      ],
+      [
+       "23,8 %",
+       "marge du segment au 4e trimestre"
+      ],
+      [
+       "≈ 20 Md€",
+       "chiffre d’affaires visé en 2027, + 22 %"
+      ],
+      [
+       "≈ 4 Md€",
+       "ventes visées pour l’alimentation des centres de données IA"
+      ]
+     ]
+    },
+    {
+     "h": "Un record, puis un saut"
+    },
+    {
+     "p": "Sur l’exercice clos fin septembre, le groupe munichois a réalisé 16,4 milliards d’euros de ventes, en hausse de 12 %, avec une marge de segment de 19,7 %. Le quatrième trimestre a atteint 4,7 milliards d’euros et une marge de 23,8 %. Pour 2027, la direction vise une marge autour de 25 %, soit cinq points de mieux, et prévoit 3 à 3,5 milliards d’euros d’investissements. Le dividende proposé passe à 0,38 euro. Dès le premier trimestre, le groupe attend environ 4,6 milliards d’euros de ventes et une marge proche de 23 %. Ces prévisions supposent un dollar à 1,15 pour un euro et l’absence d’escalade commerciale majeure."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Infineon change de braquet",
+      "sub": "chiffre d’affaires par exercice clos fin septembre, en milliards d’euros",
+      "labels": [
+       "2025",
+       "2026",
+       "2027 (objectif)"
+      ],
+      "series": [
+       {
+        "name": "Chiffre d’affaires",
+        "values": [
+         14.7,
+         16.4,
+         20.0
+        ]
+       }
+      ],
+      "note": "Source : Infineon, résultats annuels 2025 et 2026 ; objectif 2027 annoncé le 10 novembre 2026 (hypothèse de 1,15 dollar pour un euro)."
+     }
+    },
+    {
+     "h": "L’IA par la prise électrique"
+    },
+    {
+     "p": "Infineon ne fabrique pas les processeurs qui entraînent les modèles d’IA. Il fournit les composants qui convertissent et régulent le courant, de l’entrée du réseau jusqu’à la puce. Plus les serveurs consomment, plus ces composants comptent. Les ventes liées aux centres de données ont atteint environ 2,2 milliards d’euros cette année, dont 1,7 milliard pour l’IA, un montant qui a plus que doublé. Elles devraient approcher 4 milliards en 2027, soit un cinquième du chiffre d’affaires."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La puissance pour l’IA tire la croissance",
+      "sub": "chiffre d’affaires par division, 4e trimestre 2026, en millions d’euros",
+      "rows": [
+       [
+        "Automobile",
+        2089
+       ],
+       [
+        "Puissance et capteurs",
+        1796
+       ],
+       [
+        "Énergie industrielle",
+        503
+       ],
+       [
+        "Sécurité connectée",
+        318
+       ]
+      ],
+      "prefix": "",
+      "suffix": " M€",
+      "note": "Source : Infineon, conférence de résultats du 10 novembre 2026, via Investing.com."
+     }
+    },
+    {
+     "p": "L’automobile reste la première division, avec 2,1 milliards d’euros au trimestre, et devrait croître d’environ 15 % grâce aux véhicules électriques et aux voitures pilotées par logiciel. Le groupe se recentre : il a réduit ses sites de production de 20 à 13 depuis 2022, inauguré une usine de puces de puissance à Dresde et vend son activité de mémoires NOR au taïwanais Winbond pour 1,12 milliard de dollars."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Infineon montre qu’on peut profiter de l’IA sans fabriquer les puces les plus médiatisées : en vendant les « pelles » électriques de la ruée vers l’or. La dépendance à ce cycle devient pourtant [[pregnant|prégnante]] : si les géants du numérique ralentissent leurs investissements, la croissance promise fondra aussi vite qu’elle est apparue."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le record</b> : 16,4 milliards d’euros de ventes en 2026, + 12 %, et un 4e trimestre record.",
+      "<b>La promesse</b> : environ 20 milliards en 2027, + 22 %, portés par l’alimentation des centres de données IA. Action + 6 %."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "16,4 Md€",
+       "chiffre d’affaires 2026, + 12 %"
+      ],
+      [
+       "23,8 %",
+       "marge du segment au 4e trimestre"
+      ],
+      [
+       "≈ 20 Md€",
+       "chiffre d’affaires visé en 2027, + 22 %"
+      ],
+      [
+       "≈ 4 Md€",
+       "ventes visées pour l’alimentation des centres de données IA"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les marges</b> : 19,7 % sur l’année, 23,8 % au trimestre, autour de 25 % visés en 2027. Investissements de 3 à 3,5 milliards. Hypothèse : 1,15 dollar pour un euro.",
+      "<b>L’IA</b> : Infineon gère le courant des serveurs. Centres de données ≈ 2,2 milliards en 2026, dont 1,7 pour l’IA ; près de 4 milliards visés en 2027.",
+      "<b>L’automobile</b> : première division, 2,1 milliards au trimestre, croissance d’environ 15 % attendue.",
+      "<b>Le recentrage</b> : de 20 à 13 usines depuis 2022, nouvelle usine à Dresde, mémoires NOR cédées à Winbond pour 1,12 milliard de dollars."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Infineon change de braquet",
+      "sub": "chiffre d’affaires par exercice clos fin septembre, en milliards d’euros",
+      "labels": [
+       "2025",
+       "2026",
+       "2027 (objectif)"
+      ],
+      "series": [
+       {
+        "name": "Chiffre d’affaires",
+        "values": [
+         14.7,
+         16.4,
+         20.0
+        ]
+       }
+      ],
+      "note": "Source : Infineon, résultats annuels 2025 et 2026 ; objectif 2027 annoncé le 10 novembre 2026 (hypothèse de 1,15 dollar pour un euro)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La stratégie</b> : vendre les « pelles » électriques de la ruée vers l’IA.",
+      "<b>Le risque</b> : une dépendance [[pregnant|prégnante]] aux investissements des géants du numérique."
+     ]
+    }
+   ]
+  }
+ ]
+}
