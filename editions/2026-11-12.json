@@ -1,0 +1,1080 @@
+{
+ "date": "2026-11-12",
+ "label": "Jeudi 12 novembre 2026",
+ "n": 24,
+ "example": false,
+ "week": {
+  "start": "2026-11-09",
+  "label": "Semaine du 9 novembre",
+  "day": 4,
+  "words": [
+   {
+    "key": "idoine",
+    "w": "Idoine",
+    "ph": "[i.dwan] · adjectif",
+    "short": "Qui convient exactement à l’usage ou à la situation.",
+    "def": "Se dit de ce qui est parfaitement adapté à un besoin, à une personne ou à un moment. Le mot est plus précis que « bon » ou « adapté » : il suggère qu’on a trouvé la solution juste, ni trop ni trop peu. Il s’emploie souvent dans « la personne idoine », « le moment idoine », « l’outil idoine ». Il garde une légère touche soutenue, parfois avec une pointe d’ironie.",
+    "ety": "Du latin idoneus, « propre à, apte à, convenable ». Le mot est attesté en français dès le Moyen Âge, d’abord dans la langue du droit et de l’administration.",
+    "ex": "Pour ce lancement, il nous faut un prestataire idoine : capable de stocker sous température dirigée et de livrer en 24 heures.",
+    "syn": "approprié, adéquat, ad hoc, convenable, pertinent"
+   },
+   {
+    "key": "pregnant",
+    "w": "Prégnant",
+    "ph": "[pʁe.ɲɑ̃] · adjectif",
+    "short": "Qui s’impose fortement à l’esprit et pèse sur la situation.",
+    "def": "Se dit d’une idée, d’une impression ou d’un problème qui occupe fortement les esprits, dont on ne peut faire abstraction. On parle d’une question prégnante, d’une inquiétude prégnante, d’un souvenir prégnant. Le mot dit plus que « important » : il souligne une présence insistante, qui marque et oriente les décisions.",
+    "ety": "Du latin praegnans, « enceinte », au figuré « gonflé, plein de ». Le sens moderne doit beaucoup à la psychologie de la forme, qui a parlé au XXe siècle, d’après l’allemand Prägnanz, des formes qui s’imposent à la perception.",
+    "ex": "La question des délais reste prégnante chez nos clients : c’est le premier point soulevé à chaque revue de contrat.",
+    "syn": "marquant, saillant, insistant, omniprésent, déterminant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Le Rouge et le Noir",
+   "by": "Stendhal · 1830",
+   "tagline": "Monter, à tout prix",
+   "min": 10,
+   "exMin": 4,
+   "src": "Stendhal (Henri Beyle), Le Rouge et le Noir. Chronique de 1830, Paris, A. Levavasseur, novembre 1830 (page de titre datée 1831). Œuvre du domaine public ; citation tirée du livre I, chapitre XIII. Affaire Antoine Berthet (Brangues, 1827 ; exécution en 1828) relatée par la Gazette des tribunaux. Théorie de la cristallisation : Stendhal, De l’amour (1822). Repères biographiques : Stendhal, Vie de Henry Brulard (posthume, 1890).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Julien Sorel, fils de charpentier du Jura, rêve de la gloire de Napoléon dans une France qui n’en veut plus. Faute d’armée, il choisit l’Église et la séduction pour s’élever, de la maison d’un maire de province au salon d’un marquis parisien. Au moment de toucher au but, il tire sur sa première maîtresse et finit sur l’échafaud."
+      ],
+      [
+       "Le rouge et le noir",
+       "Le titre oppose deux carrières : l’uniforme rouge de l’armée, fermée aux ambitieux depuis 1815, et la soutane noire du clergé, devenue la seule voie pour un jeune homme pauvre. Il évoque aussi la roulette, où l’on mise tout sur une couleur."
+      ],
+      [
+       "Une société bloquée",
+       "La Restauration a rétabli la naissance et la fortune comme seuls passeports. Le talent de Julien inquiète plus qu’il ne séduit. Le roman montre une élite qui se ferme et un mérite contraint à l’hypocrisie."
+      ],
+      [
+       "L’ambition contre le cœur",
+       "Julien calcule chaque geste comme une manœuvre militaire. Il ne trouve le bonheur que lorsqu’il cesse de calculer, trop tard, dans sa cellule."
+      ],
+      [
+       "Un roman-miroir",
+       "Sous-titré « Chronique de 1830 », le livre colle à l’actualité : un fait divers réel, les intrigues des ultras, les salons parisiens. C’est l’un des actes de naissance du roman réaliste."
+      ],
+      [
+       "Pour en parler",
+       "Retenez trois scènes : la main saisie dans le jardin de Verrières, l’échelle posée sous la fenêtre de Mathilde, le coup de pistolet dans l’église. Et une idée : chez Stendhal, l’énergie vaut mieux que la prudence."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le précepteur de Verrières"
+    },
+    {
+     "p": "Verrières, petite ville industrieuse de Franche-Comté, sous Charles X. Le maire, M. de Rênal, riche fabricant de clous, veut un précepteur pour ses enfants, surtout pour éclipser son rival Valenod. Il engage Julien Sorel, dix-neuf ans, fils cadet d’un scieur brutal qui le méprise. Julien est pâle, fin, et sait par cœur le Nouveau Testament en latin. En secret, il vénère Napoléon et lit le <em>Mémorial de Sainte-Hélène</em>.",
+     "lead": 1
+    },
+    {
+     "p": "Chez les Rênal, Julien découvre le luxe et la douceur de Mme de Rênal, femme pieuse et sans expérience de l’amour. Un soir d’été, sous le tilleul du jardin, il se fixe comme un devoir de lui prendre la main : il attend le moment [[idoine|idoine]], le cœur battant, comme avant une bataille. Elle la laisse. Bientôt il la rejoint la nuit. La passion naît chez elle avant de naître chez lui, qui y voit d’abord une victoire sur une classe."
+    },
+    {
+     "p": "Une lettre anonyme, inspirée par Valenod, avertit le mari. Mme de Rênal parvient à le convaincre que tout est calomnie, mais la ville jase. Le curé Chélan exige le départ de Julien."
+    },
+    {
+     "h5": "Le séminaire"
+    },
+    {
+     "p": "Julien entre au séminaire de Besançon. Il y découvre un monde d’espions et de rivalités, où ses camarades le détestent parce qu’il pense. Il apprend à baisser les yeux et à composer son visage. Le directeur, l’abbé Pirard, janséniste austère, devine sa valeur et le protège. Quand Pirard est chassé par ses ennemis, il obtient pour Julien une place de secrétaire chez le marquis de La Mole, à Paris. Avant de partir, Julien revient une nuit à Verrières, grimpe par une échelle jusqu’à la chambre de Mme de Rênal et la retrouve, déchirée entre remords et amour."
+    },
+    {
+     "h5": "L’hôtel de La Mole"
+    },
+    {
+     "p": "À Paris, Julien se fait apprécier du marquis par son travail et sa franchise. La fille de la maison, Mathilde, dix-neuf ans, s’ennuie parmi des jeunes gens trop polis. Elle porte le deuil chaque 30 avril de Boniface de La Mole, son ancêtre décapité en 1574, dont la reine Marguerite aurait gardé la tête. Ce plébéien ombrageux l’intrigue : elle lui écrit et l’invite à monter chez elle par une échelle, à une heure du matin. Il y va, persuadé qu’on veut l’assassiner."
+    },
+    {
+     "p": "Commence un duel d’orgueil. Mathilde se donne puis se reprend. Sur les conseils d’un prince russe, Julien feint de courtiser une veuve dévote, la maréchale de Fervaques, en lui recopiant des lettres d’amour toutes faites. La jalousie fait plier Mathilde. Entre-temps, le marquis confie à Julien une mission secrète : apprendre par cœur la note d’un complot ultra et la porter à l’étranger."
+    },
+    {
+     "h5": "Le coup de feu"
+    },
+    {
+     "p": "Mathilde est enceinte et veut l’épouser. Le marquis enrage, puis cède : il anoblit Julien sous le nom de chevalier de La Vernaye et lui obtient un brevet de lieutenant de hussards. Julien touche au but. Mais le marquis s’est renseigné auprès de Mme de Rênal. Sa réponse, dictée par son confesseur, dépeint Julien comme un séducteur qui se sert des femmes pour parvenir. Le mariage est rompu."
+    },
+    {
+     "p": "Julien part aussitôt pour Verrières, achète une paire de pistolets et entre dans l’église pendant la messe. Il tire deux fois sur Mme de Rênal agenouillée. Elle n’est que blessée à l’épaule."
+    },
+    {
+     "h5": "La prison"
+    },
+    {
+     "p": "En cellule, l’ambition tombe comme un vêtement. Julien comprend qu’il n’a aimé que Mme de Rênal. Elle vient le voir en secret ; ils connaissent leurs jours les plus heureux. Mathilde, elle, remue ciel et terre pour le sauver, ce qui l’agace. Au procès, Julien refuse de se défendre. Il lance aux jurés qu’on le punit moins pour son crime que pour avoir voulu sortir de sa classe. Le jury, présidé par Valenod, le condamne à mort. Il est guillotiné. Mathilde enterre elle-même sa tête dans une grotte du Jura, comme jadis la reine pour Boniface. Mme de Rênal meurt trois jours plus tard, en embrassant ses enfants."
+    },
+    {
+     "quote": "Un roman : c’est un miroir qu’on promène le long d’un chemin.",
+     "cite": "Stendhal, Le Rouge et le Noir, livre I, chapitre XIII (épigraphe que l’auteur attribue à Saint-Réal)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un fait divers de 1827"
+    },
+    {
+     "p": "Stendhal, de son vrai nom Henri Beyle, est né à Grenoble en 1783. Il a suivi les armées de Napoléon jusqu’à Moscou, puis vécu la Restauration comme un exil intérieur. En 1827, il lit dans la <em>Gazette des tribunaux</em> le procès d’Antoine Berthet, fils d’artisan, ancien séminariste et précepteur, qui a tiré dans une église de Brangues, près de Grenoble, sur la mère de ses anciens élèves. Berthet est guillotiné en 1828. Stendhal garde le canevas et en fait le portrait d’une génération. Le livre paraît en novembre 1830, quelques mois après la révolution de Juillet."
+    },
+    {
+     "h5": "L’ombre de Napoléon"
+    },
+    {
+     "p": "Le souvenir de l’Empereur est [[pregnant|prégnant]] à chaque page. Il prouve qu’un fils de rien a pu devenir maître de l’Europe. Pour Julien, il est un modèle et un poison : il lui fait voir chaque conquête amoureuse comme une bataille à gagner. Stendhal décrit ainsi des jeunes gens nés trop tard, dans une société où l’argent et la naissance ont repris le pouvoir et où l’hypocrisie devient une compétence."
+    },
+    {
+     "h5": "Une écriture rapide et ironique"
+    },
+    {
+     "p": "Stendhal disait prendre pour modèle la sécheresse du Code civil. Phrases courtes, peu de descriptions, beaucoup de mouvement intérieur. Il entre dans la tête de ses personnages et nous livre leurs pensées sur le vif, puis s’en moque d’une remarque. Ce va-et-vient entre adhésion et ironie fait la modernité du livre. Il y applique aussi sa théorie de la « cristallisation », exposée dans <em>De l’amour</em> en 1822 : l’amoureux pare l’être aimé de toutes les perfections, comme une branche plongée dans une mine de sel se couvre de cristaux."
+    },
+    {
+     "h5": "Deux femmes, deux amours"
+    },
+    {
+     "p": "Mme de Rênal incarne l’amour-passion, simple et vrai. Mathilde, l’amour de tête, nourri de romans et d’histoire. Julien croit vouloir la seconde, qui flatte son ambition ; il n’aime que la première, qui ne lui demande rien. Le roman se clôt sur une dédicace en anglais, « To the happy few » : Stendhal écrit pour quelques lecteurs capables de le comprendre. Mal accueilli à sa parution, le livre ne s’impose qu’à la fin du siècle, salué notamment par Taine puis par Nietzsche."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que la question de Julien n’a pas vieilli : que faire de son talent quand les places semblent réservées ? Le roman parle de mobilité sociale, de codes à maîtriser, de l’art de se vendre et de son prix. Il rappelle aussi qu’une stratégie trop parfaite peut faire passer à côté de l’essentiel."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Sous la Restauration, Julien Sorel, fils de charpentier, veut s’élever malgré sa naissance. Précepteur chez le maire de Verrières, séminariste à Besançon, secrétaire d’un marquis à Paris, il séduit deux femmes et touche au but. Puis il tire sur sa première maîtresse et meurt sur l’échafaud."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le titre</b> : le rouge de l’armée, fermée aux ambitieux depuis 1815, contre le noir de la soutane, seule voie pour un pauvre. Et peut-être la roulette.",
+      "<b>Une société bloquée</b> : la naissance et l’argent ont repris le pouvoir ; le talent doit se déguiser.",
+      "<b>L’ambition contre le cœur</b> : Julien calcule tout et ne trouve le bonheur qu’en prison, quand il cesse de calculer.",
+      "<b>Un roman-miroir</b> : sous-titré « Chronique de 1830 », tiré d’un fait divers réel. Un acte de naissance du réalisme.",
+      "<b>Trois scènes</b> : la main dans le jardin, l’échelle de Mathilde, le coup de pistolet à l’église.",
+      "<b>La morale</b> : chez Stendhal, l’énergie vaut mieux que la prudence, mais la stratégie trop parfaite fait manquer l’essentiel."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Verrières</b> : M. de Rênal, maire et fabricant de clous, engage Julien, 19 ans, admirateur secret de Napoléon. Julien guette le moment [[idoine|idoine]] pour prendre la main de Mme de Rênal ; elle devient sa maîtresse.",
+      "<b>La rumeur</b> : une lettre anonyme, inspirée par le rival Valenod, force Julien à partir.",
+      "<b>Le séminaire</b> : à Besançon, il apprend l’hypocrisie. L’abbé Pirard le protège puis le place chez le marquis de La Mole.",
+      "<b>Paris</b> : Mathilde de La Mole, orgueilleuse, fascinée par un ancêtre décapité en 1574, l’attire chez elle par une échelle. Duel d’orgueil ; Julien la reconquiert en feignant d’en courtiser une autre.",
+      "<b>Le sommet</b> : Mathilde enceinte, le marquis anoblit Julien et le fait lieutenant de hussards.",
+      "<b>La chute</b> : une lettre de Mme de Rênal, dictée par son confesseur, le dénonce. Julien tire sur elle dans l’église ; elle est blessée.",
+      "<b>La fin</b> : en prison, il comprend qu’il n’a aimé qu’elle. Il accuse les jurés de punir le paysan qui a voulu monter. Guillotiné. Mme de Rênal meurt trois jours après."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>La source</b> : l’affaire Antoine Berthet, séminariste qui tire dans une église près de Grenoble en 1827, guillotiné en 1828. Livre paru en novembre 1830.",
+      "<b>Napoléon</b> : une présence [[pregnant|prégnante]] ; modèle et poison pour Julien, qui vit l’amour comme une bataille.",
+      "<b>Le style</b> : sec comme le Code civil, rapide, ironique. Pensées des personnages livrées sur le vif.",
+      "<b>La cristallisation</b> : théorie de <em>De l’amour</em> (1822), l’amoureux pare l’autre de toutes les perfections.",
+      "<b>Deux amours</b> : la passion vraie de Mme de Rênal contre l’amour de tête de Mathilde. Dédicace finale : « To the happy few ».",
+      "<b>Aujourd’hui</b> : un grand roman de la mobilité sociale et du prix de l’ambition."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Mémoires",
+   "by": "Jean Monnet · 1976",
+   "min": 9,
+   "exMin": 3,
+   "src": "J. Monnet, Mémoires (Fayard, 1976). Œuvre protégée : une seule citation courte. Repères biographiques et dates (Wheat Executive de novembre 1916, Société des Nations 1919-1923, Victory Program 1942, Commissariat au Plan en janvier 1946, déclaration du 9 mai 1950, présidence de la Haute Autorité 1952-1955, Comité d’action pour les États-Unis d’Europe en 1955, citoyen d’honneur de l’Europe le 2 avril 1976, Panthéon le 9 novembre 1988) : Association Jean Monnet (ajmonnet.eu) et Hérodote.net. Élargissements successifs de la Communauté puis de l’Union : dates officielles d’adhésion.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Publiés en 1976, trois ans avant sa mort, les Mémoires de Jean Monnet racontent soixante ans passés à organiser la coopération entre nations : ravitaillement des Alliés en 1914-1918, armement de 1940-1945, Plan de reconstruction, puis invention de la Communauté européenne. Un manuel de méthode autant qu’un récit."
+      ],
+      [
+       "Un négociant, pas un élu",
+       "Né en 1888 dans une famille de négociants en cognac, Monnet ne s’est jamais présenté à une élection. Son pouvoir tient à une méthode : identifier le problème commun, trouver l’homme [[idoine|idoine]], rédiger le texte que d’autres signeront."
+      ],
+      [
+       "La logistique comme école",
+       "Dès novembre 1916, il fait créer à Londres un comité interallié pour acheter et transporter le blé en commun. Il en tire une leçon : mettre en commun les ressources vaut mieux que de se les disputer."
+      ],
+      [
+       "Le changement par le bas",
+       "Plutôt que de grands traités politiques, il propose de fusionner un secteur concret : le charbon et l’acier, nerfs de la guerre. Le 9 mai 1950, la déclaration Schuman, qu’il a rédigée, lance la CECA à six pays."
+      ],
+      [
+       "Des institutions qui durent",
+       "Pour Monnet, les hommes passent mais les institutions accumulent l’expérience. D’où une Haute Autorité indépendante des États, ancêtre de la Commission européenne."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Le contexte"
+    },
+    {
+     "p": "Monnet a près de 88 ans quand paraissent ses Mémoires, chez Fayard. Il vient de dissoudre le Comité d’action pour les États-Unis d’Europe, qu’il animait depuis 1955. Le 2 avril 1976, les chefs d’État et de gouvernement de la Communauté le font citoyen d’honneur de l’Europe, une première. Le livre, rédigé avec une petite équipe dans sa maison de Houjarray, près de Paris, est conçu comme une transmission : il veut léguer une manière de faire plus qu’un bilan. Le ton est sobre, presque administratif, loin des Mémoires flamboyants d’un de Gaulle. Monnet raconte des réunions, des notes, des coups de téléphone, et laisse le lecteur mesurer ce qu’ils ont changé."
+    },
+    {
+     "h5": "La thèse"
+    },
+    {
+     "p": "Les nations ne renoncent pas à se combattre par vertu, mais quand on change le cadre de leurs intérêts. Monnet le résume d’une formule devenue célèbre : « Nous ne coalisons pas des États, nous unissons des hommes. » Il ne s’agit pas de juxtaposer des souverainetés, mais de créer des règles et des organes communs qui obligent chacun à raisonner à l’échelle de l’ensemble. Le moteur, c’est la crise : selon lui, les hommes n’acceptent le changement que dans la nécessité."
+    },
+    {
+     "h5": "La méthode Monnet"
+    },
+    {
+     "p": "Le livre détaille une façon de travailler qu’on peut transposer à toute grande organisation. D’abord, poser le problème commun en termes concrets, chiffrés, que tous peuvent constater. Ensuite, réunir une petite équipe, isolée du bruit, qui rédige une proposition simple. Puis trouver le décideur prêt à porter le texte publiquement et à en recueillir le mérite : Monnet laisse volontiers la lumière aux autres. Enfin, inscrire le résultat dans une institution, pour qu’il survive aux personnes. Il se méfie des discours et préfère les « bilans », ces inventaires précis des ressources et des besoins qu’il exige avant toute négociation. Cette obsession du chiffre partagé, héritée du négoce, revient à chaque chapitre."
+    },
+    {
+     "h5": "Une vie d’organisateur"
+    },
+    {
+     "p": "À 16 ans, son père l’envoie à Londres apprendre le commerce du cognac. En 1914, réformé, il convainc le président du Conseil René Viviani que les Alliés se ruinent en se faisant concurrence pour le blé et les navires. Il est envoyé à Londres, où naît en novembre 1916 le <em>Wheat Executive</em>, puis un pool franco-britannique de navires. De 1919 à 1923, il est secrétaire général adjoint de la Société des Nations. Il revient ensuite à l’affaire familiale, aide à stabiliser les monnaies polonaise et roumaine, cofonde une banque d’affaires aux États-Unis en 1929, conseille Tchang Kaï-chek en Chine de 1934 à 1936."
+    },
+    {
+     "p": "En juin 1940, il propose une union franco-britannique, avec un Parlement et une citoyenneté communs ; le projet meurt avec la chute du gouvernement Reynaud. À Washington, il plaide pour une production d’armement massive. Le Victory Program de 1942 fait des États-Unis « l’arsenal de la démocratie » ; un mot souvent attribué à Keynes veut que cet effort ait raccourci la guerre d’un an. En janvier 1946, de Gaulle lui confie le Commissariat général du Plan. Le Plan Monnet concentre l’effort et l’aide américaine sur six secteurs de base, dont le charbon, l’électricité, l’acier et les transports."
+    },
+    {
+     "stats": [
+      [
+       "1916",
+       "comité interallié du blé, première mise en commun"
+      ],
+      [
+       "1942",
+       "Victory Program, l’armement américain à grande échelle"
+      ],
+      [
+       "9 mai 1950",
+       "déclaration Schuman, rédigée par Monnet"
+      ],
+      [
+       "6",
+       "pays fondateurs de la CECA en 1952"
+      ]
+     ]
+    },
+    {
+     "h5": "Le 9 mai 1950"
+    },
+    {
+     "p": "Au printemps 1950, la question allemande est [[pregnant|prégnante]] : Washington veut relever l’industrie de la Ruhr, Paris redoute un nouveau réarmement. Monnet propose au ministre des Affaires étrangères Robert Schuman de placer toute la production franco-allemande de charbon et d’acier sous une Haute Autorité commune, ouverte aux autres pays. La guerre devient matériellement impossible, puisque personne ne contrôle seul les moyens de la faire. Six pays signent : France, Allemagne de l’Ouest, Italie, Belgique, Pays-Bas, Luxembourg. Monnet préside la Haute Autorité, à Luxembourg, de 1952 à 1955."
+    },
+    {
+     "p": "L’échec de la Communauté européenne de défense, rejetée par l’Assemblée nationale en 1954, lui apprend la prudence. Il quitte la Haute Autorité et fonde en 1955 un comité réunissant partis et syndicats des six pays. Ce réseau pèse sur les traités de Rome de 1957, qui créent le Marché commun et Euratom, puis sur l’entrée du Royaume-Uni en 1973."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Des six aux vingt-sept",
+      "sub": "nombre d’États membres, année d’élargissement",
+      "labels": [
+       "1952",
+       "1973",
+       "1981",
+       "1986",
+       "1995",
+       "2004",
+       "2007",
+       "2013"
+      ],
+      "series": [
+       {
+        "name": "États membres",
+        "values": [
+         6,
+         9,
+         10,
+         12,
+         15,
+         25,
+         27,
+         28
+        ]
+       }
+      ],
+      "note": "Sources : dates officielles d’adhésion. Retour à 27 membres après le départ du Royaume-Uni en 2020."
+     }
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre est un plaidoyer. Monnet y minimise ses échecs, comme la CED, et ses adversaires. Les gaullistes lui ont reproché une Europe d’experts, peu soucieuse des peuples ; la critique du « déficit démocratique » vise directement sa méthode des petits pas, conduite par des fonctionnaires. Ses liens étroits avec Washington ont aussi nourri le soupçon d’atlantisme. Enfin, sa confiance dans la crise comme moteur suppose que chaque crise fasse avancer l’intégration, ce que l’histoire récente n’a pas toujours confirmé."
+    },
+    {
+     "h5": "La postérité"
+    },
+    {
+     "p": "Monnet meurt le 16 mars 1979. Ses cendres entrent au Panthéon le 9 novembre 1988, centenaire de sa naissance. Sa méthode reste la grammaire de l’Union : avancer par secteurs, de l’euro à l’union bancaire, et créer une institution quand une crise l’impose. Pour un lecteur de la supply chain, le livre offre une leçon directe : dans une pénurie, la coordination des achats et des transports pèse autant que les ressources elles-mêmes. Et une autre, plus large : une idée ne s’impose pas parce qu’elle est juste, mais parce qu’elle arrive, prête à l’emploi, au moment où les décideurs n’ont plus d’autre option."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "En 1976, Jean Monnet raconte soixante ans passés à faire coopérer les nations : blé et navires en 1914-1918, armement en 1940-1945, Plan de reconstruction, puis Communauté européenne. Un récit et un manuel de méthode."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un négociant, pas un élu</b> : né en 1888 à Cognac, jamais élu. Sa méthode : cerner le problème commun, trouver l’homme [[idoine|idoine]], écrire le texte que d’autres signent.",
+      "<b>La logistique comme école</b> : en novembre 1916, comité interallié pour acheter et transporter le blé en commun.",
+      "<b>Le changement par le bas</b> : fusionner un secteur concret, le charbon et l’acier. Déclaration Schuman le 9 mai 1950, CECA à six en 1952.",
+      "<b>Le moteur</b> : la crise. « Nous ne coalisons pas des États, nous unissons des hommes. »",
+      "<b>Des institutions</b> : une Haute Autorité indépendante, ancêtre de la Commission. Les hommes passent, les institutions accumulent l’expérience.",
+      "<b>La méthode</b> : un problème chiffré que tous constatent, une petite équipe qui rédige, un décideur qui porte le texte et en reçoit le mérite, puis une institution pour durer.",
+      "<b>Les « bilans »</b> : avant toute négociation, un inventaire précis des ressources et des besoins. Un réflexe hérité du négoce."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "1916",
+       "comité interallié du blé, première mise en commun"
+      ],
+      [
+       "1942",
+       "Victory Program, l’armement américain à grande échelle"
+      ],
+      [
+       "9 mai 1950",
+       "déclaration Schuman, rédigée par Monnet"
+      ],
+      [
+       "6",
+       "pays fondateurs de la CECA en 1952"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Des six aux vingt-sept",
+      "sub": "nombre d’États membres, année d’élargissement",
+      "labels": [
+       "1952",
+       "1973",
+       "1981",
+       "1986",
+       "1995",
+       "2004",
+       "2007",
+       "2013"
+      ],
+      "series": [
+       {
+        "name": "États membres",
+        "values": [
+         6,
+         9,
+         10,
+         12,
+         15,
+         25,
+         27,
+         28
+        ]
+       }
+      ],
+      "note": "Sources : dates officielles d’adhésion. Retour à 27 membres après le départ du Royaume-Uni en 2020."
+     }
+    },
+    {
+     "h": "Le contexte et les critiques"
+    },
+    {
+     "ul": [
+      "<b>Le parcours</b> : Société des Nations (1919-1923), banque, Chine, union franco-britannique proposée en 1940, Plan en 1946, Haute Autorité (1952-1955), Comité d’action (1955).",
+      "<b>1950</b> : une question allemande [[pregnant|prégnante]] ; mettre charbon et acier en commun rend la guerre matériellement impossible.",
+      "<b>Les critiques</b> : plaidoyer qui gomme les échecs (CED, 1954), Europe d’experts, soupçon d’atlantisme.",
+      "<b>Après la CED</b> : le Comité d’action pèse sur les traités de Rome de 1957 (Marché commun, Euratom) et sur l’entrée du Royaume-Uni en 1973.",
+      "<b>La postérité</b> : mort en 1979, Panthéon en 1988 ; la méthode des petits pas reste celle de l’Union, de l’euro à l’union bancaire.",
+      "<b>La leçon supply chain</b> : dans une pénurie, coordonner achats et transports pèse autant que les ressources elles-mêmes."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Chômage : la France recule d’un cran, sans vraiment respirer",
+   "by": "Analyse",
+   "fig": "8,2 %",
+   "figl": "taux de chômage au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Insee, Informations rapides n° 270, « Au troisième trimestre 2026, le taux de chômage s’établit à 8,2 % », 10 novembre 2026 (taux, nombre de chômeurs, tranches d’âge, longue durée, taux d’emploi, halo, marge d’incertitude, prochaine publication). Insee, Informations rapides n° 192 sur le 2e trimestre 2026 (plus haut depuis le 3e trimestre 2020). Réaction du ministre du Travail : Journal du Net, 10 novembre 2026. PIB du 3e trimestre : Insee, première estimation du 30 octobre 2026. Prévision de croissance 2026 de 0,4 % : Insee et Banque de France, fin octobre 2026. Données arrêtées au 10 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le chômage français a cessé de monter, au moins pour un trimestre. Selon l’Insee, il s’établit à 8,2 % de la population active entre juillet et septembre, contre 8,3 % au printemps, son plus haut niveau depuis 2020. Une bonne surprise, alors que le PIB a reculé de 0,1 % sur la même période. Mais sur un an, le taux gagne encore 0,4 point.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "8,2 %",
+       "taux de chômage au 3e trimestre 2026"
+      ],
+      [
+       "2,63 M",
+       "chômeurs au sens du BIT"
+      ],
+      [
+       "+ 150 000",
+       "chômeurs de plus en un an"
+      ],
+      [
+       "21 %",
+       "taux de chômage des 15-24 ans"
+      ]
+     ]
+    },
+    {
+     "h": "Un recul dans la marge d’erreur"
+    },
+    {
+     "p": "Le nombre de chômeurs baisse de 47 000 en trois mois. C’est peu au regard de la marge d’estimation de l’Insee, de plus ou moins 0,3 point. Le taux d’emploi des 15-64 ans progresse légèrement, à 69,1 %, et le halo autour du chômage, ces personnes qui voudraient travailler sans remplir les critères, reste stable à 1,9 million. Le chômage de longue durée, lui, ne recule pas : 680 000 personnes cherchent depuis plus d’un an, 82 000 de plus qu’il y a douze mois. Le ministre du Travail, Jean-Pierre Farandou, souligne que les entreprises continuent de recruter. La hausse sur un an ralentit d’ailleurs : + 0,4 point, contre + 0,7 point au trimestre précédent."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les jeunes restent les plus exposés",
+      "sub": "taux de chômage par âge, 3e trimestre 2026, en %",
+      "rows": [
+       [
+        "15-24 ans",
+        21.0
+       ],
+       [
+        "Ensemble",
+        8.2
+       ],
+       [
+        "25-49 ans",
+        7.3
+       ],
+       [
+        "50 ans ou plus",
+        5.6
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Insee, enquête Emploi, 10 novembre 2026."
+     }
+    },
+    {
+     "h": "Pourquoi l’emploi tient quand l’activité cale"
+    },
+    {
+     "p": "L’emploi réagit avec retard à la conjoncture. Les entreprises gardent leurs salariés tant qu’elles espèrent un rebond, surtout dans les métiers où recruter est difficile. Mais cette rétention a un coût : la productivité baisse, et les marges avec elle. Si la croissance ne revient pas, les ajustements arrivent plus tard, souvent d’un coup. Sur un an, toutes les tranches d’âge voient leur chômage augmenter, à commencer par les jeunes : + 1,6 point chez les 15-24 ans, + 0,5 point chez les 50 ans ou plus. Avec une croissance attendue autour de 0,4 % cette année, l’économie française ne crée pas assez d’activité pour absorber la hausse de sa population active."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Un trimestre ne fait pas une tendance, surtout quand la baisse tient dans la marge d’erreur. L’indicateur [[idoine|idoine]] à surveiller est le chômage de longue durée, qui continue de grimper et signale un marché qui se grippe. Pour une entreprise, la fenêtre reste favorable au recrutement de profils rares, mais le prochain chiffre, attendu le 16 février 2027, dira si la France a vraiment évité la remontée."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : chômage à 8,2 % au 3e trimestre, après 8,3 % au printemps, plus haut depuis 2020.",
+      "<b>Le paradoxe</b> : un léger recul alors que le PIB a baissé de 0,1 %. Sur un an, + 0,4 point."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "8,2 %",
+       "taux de chômage au 3e trimestre 2026"
+      ],
+      [
+       "2,63 M",
+       "chômeurs au sens du BIT"
+      ],
+      [
+       "+ 150 000",
+       "chômeurs de plus en un an"
+      ],
+      [
+       "21 %",
+       "taux de chômage des 15-24 ans"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Petite baisse</b> : 47 000 chômeurs de moins, dans la marge d’erreur de l’Insee (± 0,3 point).",
+      "<b>Emploi</b> : taux d’emploi des 15-64 ans à 69,1 % ; halo stable à 1,9 million.",
+      "<b>Longue durée</b> : 680 000 personnes, + 82 000 en un an.",
+      "<b>Le mécanisme</b> : les entreprises gardent leurs salariés en attendant un rebond, au prix de leur productivité.",
+      "<b>Sur un an</b> : hausse dans toutes les tranches d’âge, + 1,6 point chez les 15-24 ans ; mais la progression ralentit (+ 0,4 point contre + 0,7)."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les jeunes restent les plus exposés",
+      "sub": "taux de chômage par âge, 3e trimestre 2026, en %",
+      "rows": [
+       [
+        "15-24 ans",
+        21.0
+       ],
+       [
+        "Ensemble",
+        8.2
+       ],
+       [
+        "25-49 ans",
+        7.3
+       ],
+       [
+        "50 ans ou plus",
+        5.6
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Insee, enquête Emploi, 10 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’indicateur [[idoine|idoine]]</b> : le chômage de longue durée, toujours en hausse.",
+      "<b>Prochain rendez-vous</b> : 16 février 2027, pour savoir si la remontée est vraiment évitée."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Venezuela : 12 milliards de dollars sous clé américaine",
+   "by": "Analyse",
+   "fig": "12,26 Md$",
+   "figl": "versés sur le compte géré par Washington",
+   "min": 3,
+   "exMin": 2,
+   "src": "The New York Times, d’après un rapport confidentiel de KPMG, repris par The Philadelphia Inquirer, 10 novembre 2026 (montants, localisation du compte, enchères de devises, Trafigura et Vitol, NABEP, position du Congrès). Just Security, Early Edition du 11 novembre 2026. Chronologie (3 janvier 2026, Delcy Rodríguez, accord NABEP du 28 août, conditions de l’Office of Strategic Capital) : article Wikipédia « United States involvement in the Venezuelan oil industry », consulté le 12 novembre 2026. Audit confié à KPMG : The New York Times / San Juan Daily Star, 7 mai 2026. Données arrêtées au 30 septembre 2026 pour le compte.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Depuis la capture de Nicolás Maduro par les forces américaines, le 3 janvier 2026, l’argent du pétrole vénézuélien transite par un compte contrôlé par Washington. Un rapport confidentiel du cabinet KPMG, révélé par le <em>New York Times</em>, en donne pour la première fois la mesure : 12,26 milliards de dollars déposés entre janvier et fin septembre. Presque tout est reparti à Caracas, mais au compte-gouttes et sous contrôle américain.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "12,26 Md$",
+       "déposés sur le compte de janvier à septembre 2026"
+      ],
+      [
+       "11,7 Md$",
+       "réinjectés pour soutenir le bolivar"
+      ],
+      [
+       "61 %",
+       "des dépôts venus de Trafigura et Vitol"
+      ],
+      [
+       "170 M$",
+       "solde du compte au 30 septembre"
+      ]
+     ]
+    },
+    {
+     "h": "Comment fonctionne le compte"
+    },
+    {
+     "p": "Le Trésor américain a ouvert ce « compte de garde » d’abord au Qatar, puis l’a transféré fin janvier chez Citibank, à New York. Les négociants qui achètent le brut, surtout Trafigura et Vitol, y versent le prix. La banque centrale vénézuélienne demande ensuite des fonds ; chaque décaissement doit être validé par le département d’État et par le Trésor. Environ 11,7 milliards ont servi à des enchères de dollars organisées par les banques vénézuéliennes pour soutenir le bolivar. Quelque 130 millions ont payé des dettes envers d’autres États et des organisations internationales. Le compte a même produit 12 millions d’intérêts. À côté du pétrole, de petits montants viennent des minerais et des engrais, dont environ 100 millions versés par Trafigura pour de l’or vénézuélien. Le secrétaire d’État Marco Rubio justifie le dispositif : avant la chute de Maduro, selon lui, l’essentiel de la rente se perdait dans la corruption et chez des intermédiaires."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Où sont allés les dépôts",
+      "sub": "milliards de dollars, janvier-septembre 2026",
+      "rows": [
+       [
+        "Enchères de devises",
+        11.7
+       ],
+       [
+        "Solde au 30 sept.",
+        0.17
+       ],
+       [
+        "Dettes extérieures",
+        0.13
+       ]
+      ],
+      "note": "Source : rapport KPMG cité par le New York Times, 10 novembre 2026. Total déposé : 12,26 Md$."
+     }
+    },
+    {
+     "h": "Une souveraineté sous tutelle"
+    },
+    {
+     "p": "La question de la souveraineté reste [[pregnant|prégnante]]. La Constitution vénézuélienne dispose que les ressources naturelles appartiennent aux Vénézuéliens ; le rapport, lui, parle de « contrôle de garde » établi par les États-Unis. Le gouvernement de transition de Delcy Rodríguez soumet ses budgets à Washington. Le rapport ne dit pas qui profite des dollars mis aux enchères ; des enquêtes antérieures du <em>Times</em> pointent un petit groupe d’entreprises agroalimentaires et de grande consommation. Et il ne couvre pas tout : Chevron et NABEP, société à laquelle l’État américain s’est associé en août avec 35 % du capital et 20 % de la production à prix réduit, passent par d’autres circuits."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Washington gère de fait la caisse d’un État pétrolier. Les démocrates, qui prendront en janvier le contrôle des deux chambres du Congrès, ont promis plus de transparence. Le Venezuela devient un test : un pays peut-il retrouver sa stabilité monétaire quand la clé de son coffre est à l’étranger ?"
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : depuis la chute de Maduro, le 3 janvier, l’argent du pétrole vénézuélien passe par un compte contrôlé par Washington.",
+      "<b>La révélation</b> : selon un rapport KPMG cité par le <em>New York Times</em>, 12,26 milliards de dollars déposés jusqu’à fin septembre."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "12,26 Md$",
+       "déposés sur le compte de janvier à septembre 2026"
+      ],
+      [
+       "11,7 Md$",
+       "réinjectés pour soutenir le bolivar"
+      ],
+      [
+       "61 %",
+       "des dépôts venus de Trafigura et Vitol"
+      ],
+      [
+       "170 M$",
+       "solde du compte au 30 septembre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le circuit</b> : compte ouvert au Qatar puis chez Citibank à New York ; chaque retrait validé par le département d’État et le Trésor.",
+      "<b>L’usage</b> : 11,7 milliards pour les enchères de dollars, 130 millions pour des dettes extérieures.",
+      "<b>La souveraineté</b> : une question [[pregnant|prégnante]] ; la Constitution réserve les ressources aux Vénézuéliens.",
+      "<b>La justification</b> : selon Marco Rubio, la rente se perdait avant dans la corruption et chez des intermédiaires.",
+      "<b>Les angles morts</b> : bénéficiaires des enchères inconnus ; Chevron et NABEP, dont l’État américain détient 35 %, hors du compte."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le Congrès</b> : les démocrates, majoritaires en janvier, promettent plus de contrôle.",
+      "<b>Le test</b> : stabiliser une monnaie quand la clé du coffre est à l’étranger."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Ports américains : la saison haute s’éteint, le creux de mars se dessine",
+   "by": "Analyse",
+   "fig": "− 11,2 %",
+   "figl": "importations prévues en mars, sur un an",
+   "min": 3,
+   "exMin": 2,
+   "src": "National Retail Federation et Hackett Associates, Global Port Tracker, communiqué du 9 novembre 2026 (volumes mensuels, prévisions, total annuel, contexte tarifaire, déclarations de J. Gold et B. Hackett, conflit ILWU Local 26). gCaptain, novembre 2026 (prévision initiale pour septembre, prévision d’octobre pour 2026). Retail Insight Network, 11 novembre 2026. Données arrêtées au 9 novembre 2026 ; chiffres d’octobre à mars 2027 : prévisions.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La plus longue saison haute de l’histoire récente du transport maritime américain touche à sa fin. En septembre, les grands ports à conteneurs des États-Unis ont reçu 2,37 millions d’EVP, l’unité de mesure des conteneurs. C’est 12,6 % de plus qu’un an plus tôt et le troisième meilleur mois jamais enregistré, selon le Global Port Tracker de la fédération du commerce NRF. Mais la courbe s’apprête à plonger.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "2,37 M EVP",
+       "importations de septembre 2026"
+      ],
+      [
+       "+ 12,6 %",
+       "sur un an, en septembre"
+      ],
+      [
+       "26 M EVP",
+       "total prévu pour 2026, + 2 %"
+      ],
+      [
+       "20 novembre",
+       "fin du sursis social à Los Angeles–Long Beach"
+      ]
+     ]
+    },
+    {
+     "h": "Une saison dictée par les droits de douane"
+    },
+    {
+     "p": "En début d’année, la Cour suprême a annulé les droits de douane dits du « Liberation Day ». Les importateurs s’attendaient alors à une année calme. Puis de nouveaux droits, annoncés au deuxième trimestre, ont relancé les achats par anticipation : la vague a couru de mai à la mi-octobre. Septembre a dépassé la prévision de la NRF d’environ 90 000 EVP. Seuls mai 2022, en pleine crise post-Covid, et juillet 2025, au plus fort des hausses tarifaires, avaient fait mieux. Résultat : la quasi-totalité des marchandises de Noël est déjà sur le sol américain. Le premier semestre, lui, n’avait progressé que de 1,1 %, à 12,7 millions d’EVP : c’est l’été qui a fait l’année, au point que la NRF a relevé sa prévision annuelle de 25,8 à 26 millions."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Après le pic, la descente",
+      "sub": "importations des grands ports américains, millions d’EVP",
+      "labels": [
+       "Sept.",
+       "Oct.",
+       "Nov.",
+       "Déc.",
+       "Janv.",
+       "Févr.",
+       "Mars"
+      ],
+      "series": [
+       {
+        "name": "Millions d’EVP",
+        "values": [
+         2.37,
+         2.26,
+         2.05,
+         2.03,
+         2.04,
+         1.89,
+         1.92
+        ]
+       }
+      ],
+      "note": "Source : NRF / Hackett Associates, Global Port Tracker, 9 novembre 2026. Septembre réel ; octobre à mars 2027, prévisions."
+     }
+    },
+    {
+     "h": "Des goulets encore présents"
+    },
+    {
+     "p": "Le volume a laissé des traces. Sur la côte ouest, des conteneurs attendent leur transfert vers le rail. À Los Angeles et Long Beach, premier complexe portuaire du pays, le contrat des gardiens de terminal, expiré en juillet 2025, n’a été prolongé que de quelques jours, trois fois de suite, désormais jusqu’au 20 novembre. Pour mars 2027, la NRF prévoit 1,92 million d’EVP, 11,2 % de moins qu’en mars 2026, lorsque les importateurs anticipaient déjà de nouvelles taxes."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Un creux annoncé est une occasion. C’est le moment [[idoine|idoine]] pour renégocier les contrats de fret de 2027 face à des armateurs qui verront leurs navires moins remplis, et pour réduire les stocks de précaution constitués cet été. Reste à surveiller deux risques : un conflit social en Californie et une nouvelle annonce tarifaire, capable de relancer une vague d’achats en quelques semaines. Depuis deux ans, le calendrier des importations américaines suit moins les saisons que les décisions de Washington."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le pic</b> : 2,37 millions d’EVP importés en septembre, + 12,6 % sur un an, troisième meilleur mois de l’histoire.",
+      "<b>La suite</b> : une baisse régulière jusqu’au printemps 2027."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "2,37 M EVP",
+       "importations de septembre 2026"
+      ],
+      [
+       "+ 12,6 %",
+       "sur un an, en septembre"
+      ],
+      [
+       "26 M EVP",
+       "total prévu pour 2026, + 2 %"
+      ],
+      [
+       "20 novembre",
+       "fin du sursis social à Los Angeles–Long Beach"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les droits de douane</b> : ceux du « Liberation Day » annulés par la Cour suprême ; de nouveaux droits au 2e trimestre relancent les achats de mai à mi-octobre.",
+      "<b>Noël</b> : la plupart des marchandises sont déjà arrivées.",
+      "<b>L’année</b> : premier semestre à + 1,1 % seulement ; prévision 2026 relevée de 25,8 à 26 millions d’EVP.",
+      "<b>Les goulets</b> : conteneurs en attente de rail sur la côte ouest ; contrat des gardiens prolongé jusqu’au 20 novembre seulement.",
+      "<b>Mars 2027</b> : 1,92 million d’EVP prévus, − 11,2 % sur un an."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Après le pic, la descente",
+      "sub": "importations des grands ports américains, millions d’EVP",
+      "labels": [
+       "Sept.",
+       "Oct.",
+       "Nov.",
+       "Déc.",
+       "Janv.",
+       "Févr.",
+       "Mars"
+      ],
+      "series": [
+       {
+        "name": "Millions d’EVP",
+        "values": [
+         2.37,
+         2.26,
+         2.05,
+         2.03,
+         2.04,
+         1.89,
+         1.92
+        ]
+       }
+      ],
+      "note": "Source : NRF / Hackett Associates, Global Port Tracker, 9 novembre 2026. Septembre réel ; octobre à mars 2027, prévisions."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le moment [[idoine|idoine]]</b> : renégocier le fret 2027 et alléger les stocks de précaution.",
+      "<b>Les risques</b> : grève en Californie, nouvelle annonce tarifaire."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Siemens Energy : les turbines à gaz signent une année record",
+   "by": "Analyse",
+   "fig": "164 Md€",
+   "figl": "carnet de commandes record",
+   "min": 3,
+   "exMin": 2,
+   "src": "Siemens Energy, Earnings Release Q4 FY 2026, 11 novembre 2026 (commandes, chiffre d’affaires, résultat, marges par division, flux de trésorerie, carnet, dividende, rachats, objectifs 2027 et 2030). Transcription de la conférence de résultats, Investing.com, 11 novembre 2026 (commandes de Gas Services, centres de données, investissements, Siemens Gamesa). Évolution du titre : Zonebourse via Bourse Direct, 11 novembre 2026. Exercice clos le 30 septembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Siemens Energy a bouclé le meilleur exercice de sa courte histoire. Le groupe allemand, séparé de Siemens en 2020, a enregistré 68,1 milliards d’euros de commandes entre octobre 2025 et septembre 2026 et plus que doublé son bénéfice net, à 4,1 milliards. Son carnet atteint le record de 164 milliards d’euros. Le titre a gagné 8,4 % le 11 novembre, plus forte hausse du DAX.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "44,2 Md€",
+       "chiffre d’affaires 2026, + 15,5 %"
+      ],
+      [
+       "12,4 %",
+       "marge avant éléments exceptionnels"
+      ],
+      [
+       "4,1 Md€",
+       "bénéfice net, contre 1,7 un an plus tôt"
+      ],
+      [
+       "2,30 €",
+       "dividende proposé, contre 0,70"
+      ]
+     ]
+    },
+    {
+     "h": "Le gaz et le réseau tirent tout"
+    },
+    {
+     "p": "Deux divisions font le résultat. Gas Services, qui fabrique et entretient des turbines à gaz, voit ses commandes bondir de 46 % et dégage une marge record de 16,4 %. Grid Technologies, qui équipe les réseaux électriques, croît de 26 % avec une marge de 18,9 %. La demande vient de l’électrification et des centres de données : ces derniers représentent environ 15 milliards d’euros du carnet, un peu moins de 10 % du total. Chaque gigawatt installé rapporte ensuite environ 400 millions d’euros de services sur la durée de vie de la centrale."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Quatre métiers, quatre rentabilités",
+      "sub": "marge avant éléments exceptionnels, exercice 2026, en %",
+      "rows": [
+       [
+        "Grid Technologies",
+        18.9
+       ],
+       [
+        "Gas Services",
+        16.4
+       ],
+       [
+        "Transformation of Industry",
+        12.1
+       ],
+       [
+        "Siemens Gamesa",
+        0.1
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Siemens Energy, résultats annuels, 11 novembre 2026."
+     }
+    },
+    {
+     "h": "L’éolien sort la tête de l’eau"
+    },
+    {
+     "p": "Siemens Gamesa, la filiale éolienne qui avait failli couler le groupe, atteint l’équilibre sur l’année, avec deux trimestres bénéficiaires d’affilée. Mais sa trésorerie reste négative jusqu’en 2028, et les commandes d’éolien en mer au-delà de 2029 attendent des décisions d’investissement. Le risque d’exécution reste [[pregnant|prégnant]] : permis, raccordements et oppositions locales peuvent retarder les projets, et l’activité dépend d’usines dont la capacité est saturée. Le groupe prévoit environ 2 milliards d’euros d’investissements par an jusqu’en 2030, surtout aux États-Unis, au Moyen-Orient et en Asie, pour produire au plus près des clients. Autre chantier : la séparation de la division Transformation of Industry, qui concerne environ 17 000 salariés dans une cinquantaine de pays."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Siemens Energy vise pour 2027 une croissance de 14 à 16 %, environ 5 milliards de bénéfice net, et une marge de 20 à 22 % en 2030. Il complète ses rachats d’actions de 9 milliards d’euros supplémentaires d’ici là. La leçon pour l’industrie : quand la demande d’électricité explose, ceux qui détiennent les capacités de production d’équipements lourds fixent les délais et les prix. Pour les acheteurs, une turbine ou un transformateur se réserve désormais des années à l’avance, comme un créneau de production."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le record</b> : 68,1 milliards d’euros de commandes, bénéfice net plus que doublé à 4,1 milliards, carnet de 164 milliards.",
+      "<b>La Bourse</b> : + 8,4 % le 11 novembre, meilleure hausse du DAX."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "44,2 Md€",
+       "chiffre d’affaires 2026, + 15,5 %"
+      ],
+      [
+       "12,4 %",
+       "marge avant éléments exceptionnels"
+      ],
+      [
+       "4,1 Md€",
+       "bénéfice net, contre 1,7 un an plus tôt"
+      ],
+      [
+       "2,30 €",
+       "dividende proposé, contre 0,70"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Gaz</b> : commandes de turbines + 46 %, marge record de 16,4 %.",
+      "<b>Réseaux</b> : + 26 % de croissance, marge de 18,9 %.",
+      "<b>Centres de données</b> : environ 15 milliards d’euros du carnet, un peu moins de 10 %.",
+      "<b>Investissements</b> : environ 2 milliards d’euros par an jusqu’en 2030, aux États-Unis, au Moyen-Orient et en Asie.",
+      "<b>Éolien</b> : Siemens Gamesa à l’équilibre, trésorerie positive visée en 2028. Un risque d’exécution [[pregnant|prégnant]]."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Quatre métiers, quatre rentabilités",
+      "sub": "marge avant éléments exceptionnels, exercice 2026, en %",
+      "rows": [
+       [
+        "Grid Technologies",
+        18.9
+       ],
+       [
+        "Gas Services",
+        16.4
+       ],
+       [
+        "Transformation of Industry",
+        12.1
+       ],
+       [
+        "Siemens Gamesa",
+        0.1
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Siemens Energy, résultats annuels, 11 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Objectifs</b> : + 14 à 16 % en 2027, marge de 20 à 22 % en 2030, 9 milliards de rachats en plus.",
+      "<b>La leçon</b> : quand l’électricité manque, les fabricants d’équipements lourds fixent délais et prix. Turbines et transformateurs se réservent des années à l’avance."
+     ]
+    }
+   ]
+  }
+ ]
+}

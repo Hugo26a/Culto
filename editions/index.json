@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-11",
+ "latest": "2026-11-12",
  "editions": [
+  {
+   "date": "2026-11-12",
+   "label": "Jeudi 12 novembre",
+   "words": [
+    "Idoine",
+    "Prégnant"
+   ],
+   "items": [
+    [
+     "lit",
+     "Le Rouge et le Noir"
+    ],
+    [
+     "essai",
+     "Mémoires"
+    ],
+    [
+     "eco",
+     "Chômage : la France recule d’un cran, sans vraiment respirer"
+    ],
+    [
+     "geo",
+     "Venezuela : 12 milliards de dollars sous clé américaine"
+    ],
+    [
+     "log",
+     "Ports américains : la saison haute s’éteint, le creux de mars se dessine"
+    ],
+    [
+     "ent",
+     "Siemens Energy : les turbines à gaz signent une année record"
+    ]
+   ]
+  },
   {
    "date": "2026-11-11",
    "label": "Mercredi 11 novembre",
