@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-12",
+ "latest": "2026-11-13",
  "editions": [
+  {
+   "date": "2026-11-13",
+   "label": "Vendredi 13 novembre",
+   "words": [
+    "Idoine",
+    "Prégnant"
+   ],
+   "items": [
+    [
+     "lit",
+     "La Princesse de Clèves"
+    ],
+    [
+     "essai",
+     "Les Trente Glorieuses"
+    ],
+    [
+     "eco",
+     "Royaume-Uni : l’IA dope la croissance, l’inflation garde la main"
+    ],
+    [
+     "geo",
+     "Asie du Sud-Est : des réserves de carburant à partager"
+    ],
+    [
+     "log",
+     "Fret aérien : la taxe à 3 euros vide les soutes de l’e-commerce chinois"
+    ],
+    [
+     "ent",
+     "Nvidia sans Jensen Huang : le risque de l’homme-clé"
+    ]
+   ]
+  },
   {
    "date": "2026-11-12",
    "label": "Jeudi 12 novembre",

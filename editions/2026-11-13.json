@@ -1,0 +1,1080 @@
+{
+ "date": "2026-11-13",
+ "label": "Vendredi 13 novembre 2026",
+ "n": 25,
+ "example": false,
+ "week": {
+  "start": "2026-11-09",
+  "label": "Semaine du 9 novembre",
+  "day": 5,
+  "words": [
+   {
+    "key": "idoine",
+    "w": "Idoine",
+    "ph": "[i.dwan] · adjectif",
+    "short": "Qui convient exactement à l’usage ou à la situation.",
+    "def": "Se dit de ce qui est parfaitement adapté à un besoin, à une personne ou à un moment. Le mot est plus précis que « bon » ou « adapté » : il suggère qu’on a trouvé la solution juste, ni trop ni trop peu. Il s’emploie souvent dans « la personne idoine », « le moment idoine », « l’outil idoine ». Il garde une légère touche soutenue, parfois avec une pointe d’ironie.",
+    "ety": "Du latin idoneus, « propre à, apte à, convenable ». Le mot est attesté en français dès le Moyen Âge, d’abord dans la langue du droit et de l’administration.",
+    "ex": "Pour ce lancement, il nous faut un prestataire idoine : capable de stocker sous température dirigée et de livrer en 24 heures.",
+    "syn": "approprié, adéquat, ad hoc, convenable, pertinent"
+   },
+   {
+    "key": "pregnant",
+    "w": "Prégnant",
+    "ph": "[pʁe.ɲɑ̃] · adjectif",
+    "short": "Qui s’impose fortement à l’esprit et pèse sur la situation.",
+    "def": "Se dit d’une idée, d’une impression ou d’un problème qui occupe fortement les esprits, dont on ne peut faire abstraction. On parle d’une question prégnante, d’une inquiétude prégnante, d’un souvenir prégnant. Le mot dit plus que « important » : il souligne une présence insistante, qui marque et oriente les décisions.",
+    "ety": "Du latin praegnans, « enceinte », au figuré « gonflé, plein de ». Le sens moderne doit beaucoup à la psychologie de la forme, qui a parlé au XXe siècle, d’après l’allemand Prägnanz, des formes qui s’imposent à la perception.",
+    "ex": "La question des délais reste prégnante chez nos clients : c’est le premier point soulevé à chaque revue de contrat.",
+    "syn": "marquant, saillant, insistant, omniprésent, déterminant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "La Princesse de Clèves",
+   "by": "Madame de La Fayette · 1678",
+   "tagline": "Renoncer pour rester libre",
+   "min": 10,
+   "exMin": 4,
+   "src": "Madame de La Fayette, La Princesse de Clèves, Paris, Claude Barbin, 1678 (publication anonyme). Œuvre du domaine public ; citation : première phrase du roman. Contexte historique : cour d’Henri II, mariage de Claude de France et du duc de Lorraine (1559), tournoi de juin 1559 où le roi est blessé à mort par Montgomery. Réception : enquête du Mercure galant (1678) sur la scène de l’aveu ; Valincour, Lettres à Madame la marquise *** sur le sujet de la Princesse de Clèves (1678).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "À la cour d’Henri II, une jeune femme de seize ans épouse sans amour un prince qui l’adore. Elle tombe amoureuse du plus brillant seigneur du royaume, le duc de Nemours, et lutte contre cette passion jusqu’à la confier à son mari. Devenue veuve et libre, elle refuse pourtant d’épouser celui qu’elle aime."
+      ],
+      [
+       "Le premier roman psychologique",
+       "L’action tient en peu d’événements : un bal, un portrait volé, une lettre perdue, un aveu. Tout le drame se joue dans les consciences. C’est souvent présenté comme l’acte de naissance du roman d’analyse en France."
+      ],
+      [
+       "La cour, une scène où tout se voit",
+       "Derrière la magnificence, la cour est un lieu de surveillance permanente. Chaque regard est interprété, chaque rougeur commentée. L’amour y est une affaire publique et dangereuse."
+      ],
+      [
+       "L’aveu, scène scandaleuse",
+       "Confesser à son mari qu’on en aime un autre, sans l’avoir trompé : le geste parut si invraisemblable en 1678 qu’un journal ouvrit un débat auprès de ses lecteurs. C’est le cœur du livre."
+      ],
+      [
+       "Le refus final",
+       "La princesse ne renonce pas par simple devoir. Elle sait que la passion s’use et préfère garder la maîtrise de sa vie plutôt que de souffrir un jour d’être délaissée. Un choix de lucidité, pas seulement de vertu."
+      ],
+      [
+       "Pour en parler",
+       "Retenez trois scènes : le bal du Louvre, le portrait dérobé, l’aveu de Coulommiers. Et une idée : le bonheur promis par la passion n’est pas toujours le choix [[idoine|idoine]] pour qui veut rester maître de soi."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "L’entrée à la cour"
+    },
+    {
+     "p": "Les dernières années du règne d’Henri II, vers 1558. La cour brille de fêtes, de tournois et d’intrigues entre la reine Catherine de Médicis, la favorite Diane de Poitiers et la jeune reine dauphine, Marie Stuart. Mademoiselle de Chartres y paraît à seize ans. Sa mère, veuve, l’a élevée loin du monde et lui a appris une règle simple : la seule façon d’être heureuse, pour une femme, est d’aimer son mari et d’en être aimée. Elle l’a aussi prévenue contre la galanterie, belle en paroles et cruelle dans ses effets.",
+     "lead": 1
+    },
+    {
+     "p": "La jeune fille est d’une beauté qui frappe tout le monde. Le prince de Clèves la voit chez un joaillier et en tombe aussitôt amoureux. Après l’échec d’autres projets d’alliance, plus prestigieux, elle l’épouse. Elle l’estime, elle lui est reconnaissante, mais elle ne l’aime pas d’amour. Le prince le sent et en souffre : il a obtenu sa femme, pas son cœur."
+    },
+    {
+     "h5": "Le bal du Louvre"
+    },
+    {
+     "p": "Pour les fiançailles d’une fille du roi avec le duc de Lorraine, un grand bal est donné au Louvre. Le duc de Nemours, l’homme le plus séduisant de la cour, arrive en retard. Le roi demande à la princesse de danser avec lui. Ils ne se sont jamais vus, mais se reconnaissent sans qu’on les présente. Toute la salle remarque leur couple. À partir de ce soir-là, Nemours abandonne ses autres projets, y compris un mariage avec la reine d’Angleterre, et se consacre en secret à la princesse."
+    },
+    {
+     "p": "Elle comprend peu à peu ce qu’elle ressent. Sa mère le devine avant elle. Tombée gravement malade, Madame de Chartres lui parle une dernière fois : elle sait qu’elle aime Nemours, elle la supplie de s’éloigner de la cour plutôt que de céder. Puis elle meurt. La princesse se retrouve seule face à une passion qu’elle juge dangereuse."
+    },
+    {
+     "h5": "Le portrait et la lettre"
+    },
+    {
+     "p": "Un jour, chez la dauphine, la princesse voit Nemours dérober discrètement un petit portrait d’elle. Elle pourrait le dénoncer ; elle se tait, ce qui revient à un aveu muet. Peu après, une lettre d’amour perdue, qu’on attribue à Nemours, la plonge dans une jalousie violente. Elle découvre qu’elle appartient en réalité à son oncle, le vidame de Chartres. Pour couvrir celui-ci, Nemours et la princesse doivent réécrire ensemble la lettre, un après-midi entier. Ce moment de complicité est le plus doux du roman, et le plus inquiétant pour elle."
+    },
+    {
+     "h5": "L’aveu de Coulommiers"
+    },
+    {
+     "p": "Pour fuir Nemours, la princesse se retire à la campagne, dans sa maison de Coulommiers. Son mari la presse de revenir. Elle finit par lui faire une confidence inouïe : elle éprouve pour un autre des sentiments qu’elle combat, elle ne lui a jamais été infidèle, elle lui demande de l’aider à rester loin de la cour. Elle refuse de nommer l’homme. Or Nemours, caché dans le pavillon du jardin, entend tout."
+    },
+    {
+     "p": "Bouleversé et flatté, il raconte l’histoire sans donner de noms à son ami le vidame, et elle circule bientôt à la cour. La princesse croit que son mari a trahi son secret ; le prince croit qu’elle l’a confié à quelqu’un. La confiance se fissure. Le prince, rongé par la jalousie, devine que l’homme est Nemours."
+    },
+    {
+     "h5": "La mort du prince"
+    },
+    {
+     "p": "Le roi est blessé à mort dans un tournoi, et le règne change. M. de Clèves fait suivre Nemours, qui se rend de nuit à Coulommiers. Caché dans le jardin, Nemours voit la princesse nouer des rubans autour d’une canne qui lui a appartenu, puis contempler un tableau où il figure. Il n’ose pas entrer. Le gentilhomme envoyé par le prince rapporte seulement que Nemours a passé deux nuits près de la maison. Le prince en conclut qu’il est trompé. Il tombe malade de chagrin. Avant de mourir, il apprend la vérité de la bouche de sa femme, mais le doute l’a déjà brisé."
+    },
+    {
+     "h5": "Le refus"
+    },
+    {
+     "p": "Veuve, la princesse est libre. Nemours se déclare enfin, lors d’un entretien arrangé par le vidame. Elle reconnaît qu’elle l’aime, ce qu’elle ne lui avait jamais dit, et elle le refuse. Deux raisons s’entremêlent : le sentiment d’avoir causé la mort de son mari, et la certitude que la passion de Nemours ne durerait pas. Elle part pour ses terres, tombe malade, puis partage sa vie entre un couvent et sa retraite. Nemours finit par se lasser. Le roman se clôt sur une vie assez courte, laissant des exemples de vertu."
+    },
+    {
+     "quote": "La magnificence et la galanterie n’ont jamais paru en France avec tant d’éclat que dans les dernières années du règne de Henri second.",
+     "cite": "Madame de La Fayette, La Princesse de Clèves, première phrase"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un roman anonyme"
+    },
+    {
+     "p": "Le livre paraît en mars 1678 chez le libraire Claude Barbin, sans nom d’auteur. Marie-Madeleine Pioche de La Vergne, comtesse de La Fayette, née en 1634, fréquente les salons et la cour ; elle est l’amie de La Rochefoucauld, l’auteur des <em>Maximes</em>, et de Madame de Sévigné. Elle ne revendique jamais publiquement l’œuvre, car une femme de son rang n’était pas censée écrire des romans. Le succès est immédiat, la polémique aussi."
+    },
+    {
+     "h5": "Le passé pour parler du présent"
+    },
+    {
+     "p": "L’action se déroule environ cent vingt ans avant la publication, entre 1558 et 1559, avec des personnages historiques exacts : Henri II, Diane de Poitiers, Marie Stuart. Mais les mœurs décrites sont celles de la cour de Louis XIV. Ce décalage permet de peindre sans risque le monde de Versailles, son goût du paraître et sa surveillance mutuelle. Le souvenir des passions de l’époque y reste [[pregnant|prégnant]]."
+    },
+    {
+     "h5": "Une écriture de la retenue"
+    },
+    {
+     "p": "La phrase est claire, mesurée, presque sans images. Les sentiments sont nommés plutôt que décrits, avec une précision d’analyste. L’auteure suit les pensées de ses personnages pas à pas, montre comment un geste minuscule, une rougeur ou un silence, change tout. Les récits enchâssés, racontés par la mère ou la dauphine, servent de miroirs : ils montrent ce que la passion fait des autres femmes de la cour."
+    },
+    {
+     "h5": "Le scandale de l’aveu"
+    },
+    {
+     "p": "Dès sa sortie, la revue <em>Le Mercure galant</em> invite ses lecteurs à dire si la princesse a eu raison de tout avouer à son mari. Les réponses sont partagées. Un critique, Valincour, publie la même année des lettres entières pour juger la vraisemblance du livre. Ce débat montre la modernité du roman : il ne propose pas une morale toute faite, il pose une question."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’il parle de liberté plus que de devoir. La princesse refuse un bonheur qui la rendrait dépendante. Son choix déroute toujours, et c’est ce qui le rend vivant. Le livre est devenu en France un symbole de la culture classique, défendu par des lectures publiques au début des années 2010. Il apprend aussi une leçon utile au quotidien : voir clair dans ses désirs avant de décider, et savoir dire non quand la solution la plus tentante n’est pas la plus [[idoine|idoine]]."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "À la cour d’Henri II, Mademoiselle de Chartres, seize ans, épouse sans amour le prince de Clèves. Elle s’éprend du duc de Nemours, lutte contre sa passion et finit par l’avouer à son mari. Le prince meurt de jalousie. Veuve et libre, elle refuse pourtant d’épouser Nemours et se retire du monde."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le roman d’analyse</b> : peu d’événements, un bal, un portrait, une lettre, un aveu. Tout se joue dans les consciences.",
+      "<b>La cour</b> : un lieu de magnificence et de surveillance, où chaque regard est interprété.",
+      "<b>L’aveu</b> : confesser à son mari un amour sans l’avoir trompé, geste jugé invraisemblable en 1678.",
+      "<b>Le refus</b> : un choix de lucidité autant que de vertu. La passion s’use ; la princesse veut rester maîtresse de sa vie.",
+      "<b>Pour en parler</b> : la passion n’est pas toujours le choix [[idoine|idoine]] pour qui veut rester libre."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>L’entrée à la cour</b> : vers 1558, la jeune fille paraît à la cour. Sa mère l’a prévenue contre la galanterie. Elle épouse le prince de Clèves, qui l’adore ; elle l’estime sans l’aimer.",
+      "<b>Le bal du Louvre</b> : le roi la fait danser avec Nemours, qu’elle n’a jamais vu. Coup de foudre réciproque, remarqué de tous.",
+      "<b>La mort de la mère</b> : Madame de Chartres devine la passion et la supplie de s’éloigner de la cour.",
+      "<b>Le portrait et la lettre</b> : elle voit Nemours voler son portrait et se tait. Une lettre perdue la rend jalouse ; ils la réécrivent ensemble, moment de complicité.",
+      "<b>L’aveu de Coulommiers</b> : réfugiée à la campagne, elle confie à son mari qu’elle aime un autre, sans le nommer. Nemours, caché, entend tout et l’histoire circule.",
+      "<b>La mort du prince</b> : il fait suivre Nemours jusqu’à Coulommiers, se croit trompé et meurt de chagrin.",
+      "<b>Le refus</b> : libre, elle avoue enfin son amour à Nemours et le refuse. Elle partage sa vie entre un couvent et ses terres ; sa vie sera courte."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Le contexte</b> : publié sans nom d’auteur en mars 1678, chez Claude Barbin. Madame de La Fayette, amie de La Rochefoucauld, ne le revendique jamais.",
+      "<b>Le décalage</b> : l’action se passe en 1558-1559, mais les mœurs sont celles de la cour de Louis XIV. Le souvenir des passions de l’époque reste [[pregnant|prégnant]].",
+      "<b>Le style</b> : phrase claire et mesurée, sentiments nommés avec précision, récits enchâssés qui servent de miroirs.",
+      "<b>Le débat</b> : le <em>Mercure galant</em> demande à ses lecteurs si l’aveu était juste ; Valincour lui consacre des lettres critiques.",
+      "<b>Aujourd’hui</b> : un livre sur la liberté de dire non, devenu symbole de la culture classique. Une leçon pratique : voir clair dans ses désirs avant de décider."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Les Trente Glorieuses",
+   "by": "Jean Fourastié · 1979",
+   "min": 9,
+   "exMin": 3,
+   "src": "J. Fourastié, Les Trente Glorieuses ou la révolution invisible de 1946 à 1975 (Fayard, 1979). Œuvre protégée : aucune citation longue. Contenu du livre (Madère et Cessac, Douelle, poulet, population, agriculteurs, tertiaire) : Encyclopædia Universalis, fiche de lecture « Les Trente Glorieuses ». Biographie (1907-1990, Plan, CNAM, Académie des sciences morales et politiques en 1968, Le Grand Espoir du XXe siècle, 1949) : Encyclopædia Universalis et Hérodote.net. Croissance 1950-1973 par pays : estimations d’Angus Maddison citées par Major Prépa. Critiques : N. Baverez, Les Trente Piteuses (1997) ; C. Pessis, S. Topçu et C. Bonneuil (dir.), Une autre histoire des « Trente Glorieuses » (La Découverte, 2013).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "En 1979, l’économiste Jean Fourastié donne un nom aux trois décennies d’après-guerre : les Trente Glorieuses. Il montre comment la France est passée, en une génération, d’une pauvreté millénaire à l’abondance, grâce aux gains de productivité. Une révolution silencieuse, plus profonde à ses yeux que les révolutions politiques."
+      ],
+      [
+       "Deux villages qui n’en font qu’un",
+       "Le livre s’ouvre sur Madère, village pauvre, et Cessac, village prospère. Il s’agit en fait du même bourg du Lot, Douelle, en 1946 puis en 1975. Il y fallait environ 8 heures de travail pour acheter un poulet ; il en faut onze fois moins à la fin de la période."
+      ],
+      [
+       "La productivité, moteur de tout",
+       "Pour Fourastié, le progrès technique permet de produire plus avec moins de travail. Le prix réel des biens baisse, mesuré en heures de travail, et le niveau de vie monte. La croissance française atteint 4 à 5 % par an pendant près de trente ans."
+      ],
+      [
+       "Le grand déplacement des actifs",
+       "Les agriculteurs passent d’un tiers à un dixième de la population active. Les emplois glissent vers l’industrie, puis vers les services, qui gagnent 19 points. C’est la loi des trois secteurs, qu’il a popularisée dès 1949."
+      ],
+      [
+       "Un titre devenu une évidence",
+       "Le nom joue sur les « Trois Glorieuses » de juillet 1830. Il est entré dans la langue courante au point de faire oublier son auteur, et de servir aujourd’hui de référence [[pregnant|prégnante]] dans tous les débats sur la croissance."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Le contexte"
+    },
+    {
+     "p": "Le livre paraît chez Fayard en 1979, au moment où la France découvre le chômage de masse et l’inflation. Le premier choc pétrolier de 1973 a cassé la croissance. Fourastié, alors âgé de 72 ans, regarde en arrière pour comprendre ce qui vient de s’achever. Il n’est pas un observateur extérieur : dès 1945, Jean Monnet l’a recruté comme conseiller au Commissariat général du Plan, où il a présidé la commission de la main-d’œuvre. Professeur au Conservatoire national des arts et métiers, élu à l’Académie des sciences morales et politiques en 1968, il a écrit une quarantaine de livres de vulgarisation économique. Le sous-titre dit son intention : raconter une « révolution invisible », que ceux qui l’ont vécue n’ont pas vue passer."
+    },
+    {
+     "h5": "La thèse"
+    },
+    {
+     "p": "Pendant des siècles, la grande majorité des Français a vécu à la limite de la subsistance. Entre 1946 et 1975, cette condition disparaît. La cause principale n’est ni la politique ni la chance, mais la productivité : grâce aux machines, aux engrais, à l’électricité, à l’organisation du travail, une heure de travail produit beaucoup plus qu’avant. Comme les salaires suivent, chaque heure permet d’acheter davantage. Fourastié mesure ainsi les prix non en francs, trompeurs à cause de l’inflation, mais en temps de travail nécessaire. Cet indicateur simple, qu’il juge [[idoine|idoine]] pour comparer les époques, rend le progrès tangible."
+    },
+    {
+     "h5": "Madère et Cessac"
+    },
+    {
+     "p": "La démonstration commence par un récit. Madère est un village où la plupart des familles cultivent la terre à la main, où l’on mange peu de viande, où beaucoup de maisons n’ont ni eau courante ni confort. Cessac est un village de tracteurs, de voitures, de réfrigérateurs et de télévisions, où les agriculteurs sont devenus minoritaires. Le lecteur croit comparer un pays pauvre et un pays riche. Fourastié révèle alors qu’il s’agit du même village, Douelle, dans le Lot, où il possède une maison, observé à trente ans d’écart. Le paysan de 1946 travaillait environ 8 heures pour s’offrir un poulet ; celui de 1975 environ 44 minutes."
+    },
+    {
+     "stats": [
+      [
+       "4 à 5 %",
+       "croissance annuelle française pendant près de trente ans"
+      ],
+      [
+       "40 → 53 M",
+       "habitants en France sur la période"
+      ],
+      [
+       "1/3 → 1/10",
+       "part des agriculteurs dans la population active"
+      ],
+      [
+       "8 h → 44 min",
+       "travail nécessaire pour acheter un poulet à Douelle"
+      ]
+     ]
+    },
+    {
+     "h5": "La révolution des secteurs"
+    },
+    {
+     "p": "Le livre passe ensuite aux statistiques nationales. La population passe de 40 à 53 millions d’habitants. La part des agriculteurs dans la population active tombe d’environ un tiers à un dixième. L’industrie absorbe d’abord ces bras, puis les services prennent le relais : le tertiaire gagne 19 points en trente ans. Fourastié reprend ici, en s’inspirant de l’économiste britannique Colin Clark, l’idée qu’il défendait dès <em>Le Grand Espoir du XXe siècle</em> en 1949 : le progrès technique vide successivement les champs puis les usines, et pousse le travail vers les services, où la productivité progresse moins vite. Selon lui, les ruptures les plus spectaculaires se lisent dans la santé : la mortalité recule, l’espérance de vie s’allonge, les enfants meurent beaucoup moins."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La France dans le peloton de tête",
+      "sub": "croissance annuelle moyenne du PIB, 1950-1973, en %",
+      "rows": [
+       [
+        "Japon",
+        9.3
+       ],
+       [
+        "RFA",
+        5.7
+       ],
+       [
+        "Italie",
+        5.5
+       ],
+       [
+        "France",
+        5.1
+       ],
+       [
+        "États-Unis",
+        3.9
+       ],
+       [
+        "Royaume-Uni",
+        2.9
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : estimations d’Angus Maddison, reprises par Major Prépa. Valeurs arrondies."
+     }
+    },
+    {
+     "h5": "Ce qui a rendu cela possible"
+    },
+    {
+     "p": "Fourastié souligne le rôle des institutions, en particulier de la planification. Le Plan, fondé par Monnet, a orienté l’investissement vers les secteurs clés et corrigé la vue de court terme des marchés. La France n’est pas un cas isolé : toute l’Europe de l’Ouest et le Japon connaissent une expansion comparable. Mais elle part de loin, avec une agriculture très nombreuse et peu mécanisée, ce qui rend la transformation plus spectaculaire. Le livre insiste aussi sur les ressorts humains : une population qui rajeunit avec le baby-boom, une forte envie de consommer après les privations, une génération d’ingénieurs et d’ouvriers formés aux nouvelles méthodes. Fourastié note enfin que les inégalités de revenus se sont fortement resserrées depuis le XIXe siècle : un haut fonctionnaire gagnait environ cinquante fois le revenu moyen en 1829, à peu près trois fois en 1976. Pour lui, la croissance a été à la fois plus rapide et mieux partagée que tout ce que la France avait connu auparavant."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Les économistes ont depuis nuancé le récit. Une partie de la croissance tient au rattrapage : un pays détruit par la guerre et en retard technologique peut croître vite en imitant les États-Unis, puis ralentit quand l’écart se referme. Le bornage de 1946 à 1975 est discuté, car la reconstruction et le choc pétrolier brouillent les dates. Nicolas Baverez a répondu en 1997 par <em>Les Trente Piteuses</em>, sur les années de chômage qui ont suivi. En 2013, un ouvrage collectif d’historiens, <em>Une autre histoire des « Trente Glorieuses »</em>, rappelle les coûts passés sous silence : pollution, bétonnage, épuisement des sols, accidents du travail. Enfin, le livre parle peu des inégalités entre régions et des travailleurs immigrés qui ont fourni une partie de la main-d’œuvre."
+    },
+    {
+     "h5": "La postérité"
+    },
+    {
+     "p": "Fourastié meurt en 1990 à Douelle, le village de son livre. L’expression qu’il a créée sert désormais de point de comparaison permanent : chaque débat sur la croissance française se mesure à cet âge d’or. Le livre rappelle surtout une vérité utile pour toute entreprise : sur la durée, c’est la productivité qui fait le niveau de vie, et elle progresse souvent sans bruit, par une accumulation de petites améliorations."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "En 1979, Jean Fourastié baptise les trois décennies d’après-guerre « Trente Glorieuses ». Il montre comment la France passe, entre 1946 et 1975, de la pauvreté millénaire à l’abondance, grâce aux gains de productivité. Une « révolution invisible »."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : économiste né en 1907, recruté par Jean Monnet au Plan dès 1945, professeur au CNAM, élu à l’Académie en 1968.",
+      "<b>Madère et Cessac</b> : deux villages, pauvre et prospère, qui sont en fait le même, Douelle (Lot), en 1946 et en 1975.",
+      "<b>L’indicateur [[idoine|idoine]]</b> : les prix mesurés en heures de travail. Un poulet coûtait environ 8 heures en 1946, 44 minutes en 1975.",
+      "<b>La productivité</b> : machines, engrais, électricité. Une heure produit plus, les salaires suivent, le niveau de vie monte.",
+      "<b>Les trois secteurs</b> : les agriculteurs passent d’un tiers à un dixième des actifs ; le tertiaire gagne 19 points.",
+      "<b>Le titre</b> : un clin d’œil aux « Trois Glorieuses » de 1830, devenu une référence [[pregnant|prégnante]]."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "4 à 5 %",
+       "croissance annuelle française pendant près de trente ans"
+      ],
+      [
+       "40 → 53 M",
+       "habitants en France sur la période"
+      ],
+      [
+       "1/3 → 1/10",
+       "part des agriculteurs dans la population active"
+      ],
+      [
+       "8 h → 44 min",
+       "travail nécessaire pour acheter un poulet à Douelle"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La France dans le peloton de tête",
+      "sub": "croissance annuelle moyenne du PIB, 1950-1973, en %",
+      "rows": [
+       [
+        "Japon",
+        9.3
+       ],
+       [
+        "RFA",
+        5.7
+       ],
+       [
+        "Italie",
+        5.5
+       ],
+       [
+        "France",
+        5.1
+       ],
+       [
+        "États-Unis",
+        3.9
+       ],
+       [
+        "Royaume-Uni",
+        2.9
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : estimations d’Angus Maddison, reprises par Major Prépa. Valeurs arrondies."
+     }
+    },
+    {
+     "h": "Contexte et critiques"
+    },
+    {
+     "ul": [
+      "<b>Le moment</b> : 1979, après le choc pétrolier, quand chômage et inflation s’installent.",
+      "<b>Les institutions</b> : le Plan a orienté l’investissement ; l’Europe de l’Ouest et le Japon connaissent la même expansion.",
+      "<b>Les ressorts humains</b> : baby-boom, envie de consommer après les privations, ingénieurs et ouvriers formés aux nouvelles méthodes.",
+      "<b>Les inégalités</b> : un haut fonctionnaire gagnait environ 50 fois le revenu moyen en 1829, environ 3 fois en 1976. Une croissance plus rapide et mieux partagée.",
+      "<b>La santé</b> : pour Fourastié, les ruptures les plus nettes ; la mortalité recule, l’espérance de vie s’allonge.",
+      "<b>Le rattrapage</b> : une partie de la croissance vient de l’imitation des États-Unis, qui s’épuise quand l’écart se referme.",
+      "<b>Les réponses</b> : <em>Les Trente Piteuses</em> (Baverez, 1997) ; <em>Une autre histoire des « Trente Glorieuses »</em> (2013) sur la pollution et le bétonnage.",
+      "<b>La leçon</b> : sur la durée, la productivité fait le niveau de vie, souvent sans bruit."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Royaume-Uni : l’IA dope la croissance, l’inflation garde la main",
+   "by": "Analyse",
+   "fig": "+ 0,7 %",
+   "figl": "PIB britannique au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "ONS, GDP first quarterly estimate, UK: July to September 2026, 12 novembre 2026 (croissance trimestrielle, septembre, secteurs, commentaire de Grant Fitzner) via City AM, 12 novembre 2026. Consensus Reuters et prévisions 2026 de la Banque d’Angleterre (1,6 %) et de l’OBR (1,2 %) : Finwire, 12 novembre 2026. Part de l’IA dans la croissance : Banque d’Angleterre et Bloomberg Economics, cités par City AM. Décision du 4 novembre 2026 (hausse à 4 %, vote 8-1, inflation de 3,5 % en septembre, pic attendu vers 5 % au 2e trimestre 2027) : Banque d’Angleterre, Monetary Policy Summary, novembre 2026. Prévisions 2027 (OBR 1 %, NIESR 1,1 %) : City AM. Données arrêtées au 12 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "L’économie britannique a mieux résisté que prévu au choc pétrolier. Selon la première estimation de l’ONS, publiée le 12 novembre, le PIB a progressé de 0,7 % entre juillet et septembre, après 0,5 % au printemps. Le chiffre est conforme au consensus, que les économistes avaient relevé ces dernières semaines. Mais cette vigueur complique la tâche de la Banque d’Angleterre, qui vient de remonter ses taux.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "+ 0,7 %",
+       "PIB britannique au 3e trimestre 2026"
+      ],
+      [
+       "+ 0,9 %",
+       "croissance des services sur le trimestre"
+      ],
+      [
+       "≈ 1/5",
+       "de la croissance liée à l’investissement dans l’IA"
+      ],
+      [
+       "4 %",
+       "taux directeur de la Banque d’Angleterre"
+      ]
+     ]
+    },
+    {
+     "h": "Les services et l’IA en locomotive"
+    },
+    {
+     "p": "Presque toute la croissance vient des services, en hausse de 0,9 % sur le trimestre. La production industrielle progresse à peine, de 0,1 %, et la construction recule de 0,7 %. L’ONS souligne la vigueur de la programmation informatique, au plus haut rythme depuis trois ans. La Banque d’Angleterre comme Bloomberg Economics estiment qu’environ un cinquième de la croissance tient à l’investissement lié à l’intelligence artificielle : centres de données, logiciels, services numériques. Septembre a même surpris, avec une hausse de 0,2 % quand les prévisionnistes attendaient zéro. Seule ombre : les ventes au détail ont reculé en septembre et le moral des ménages a connu sa plus forte chute mensuelle depuis avril 2020."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Une croissance qui accélère",
+      "sub": "PIB du Royaume-Uni, variation trimestrielle en %, 2026",
+      "labels": [
+       "T1",
+       "T2",
+       "T3"
+      ],
+      "series": [
+       {
+        "name": "PIB",
+        "values": [
+         0.6,
+         0.5,
+         0.7
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : ONS, première estimation du 12 novembre 2026."
+     }
+    },
+    {
+     "h": "Le dilemme de la Banque d’Angleterre"
+    },
+    {
+     "p": "Le 4 novembre, la Banque a relevé son taux directeur d’un quart de point, à 4 %, par huit voix contre une ; le membre dissident voulait aller plus loin. L’inflation atteignait 3,5 % en septembre, et l’institution s’attend à un pic proche de 5 % au printemps 2027, sous l’effet de l’énergie. Une croissance robuste réduit le risque de récession, mais elle rend plus [[pregnant|prégnante]] la crainte d’effets de second tour : des salaires et des prix qui s’entraînent. Pour 2027, l’OBR prévoit un ralentissement à 1 %, quand le renchérissement de l’énergie pèsera pleinement. Pour 2026, la Banque d’Angleterre table sur 1,6 % de croissance, l’OBR sur 1,2 %."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le Royaume-Uni montre qu’un pays importateur d’énergie peut croître malgré un choc pétrolier, s’il dispose d’un secteur des services dynamique et d’une vague d’investissement technologique. Mais la croissance tirée par l’IA reste concentrée et ne protège pas les ménages de la hausse des prix. Le bon indicateur à suivre n’est pas le PIB, mais l’écart entre salaires et inflation : c’est lui qui dira si la Banque d’Angleterre a trouvé le dosage [[idoine|idoine]]."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : PIB britannique + 0,7 % au 3e trimestre 2026, après + 0,5 %. Conforme au consensus.",
+      "<b>Le paradoxe</b> : une économie solide en plein choc pétrolier, qui complique la tâche de la Banque d’Angleterre."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "+ 0,7 %",
+       "PIB britannique au 3e trimestre 2026"
+      ],
+      [
+       "+ 0,9 %",
+       "croissance des services sur le trimestre"
+      ],
+      [
+       "≈ 1/5",
+       "de la croissance liée à l’investissement dans l’IA"
+      ],
+      [
+       "4 %",
+       "taux directeur de la Banque d’Angleterre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les secteurs</b> : services + 0,9 %, industrie + 0,1 %, construction − 0,7 %.",
+      "<b>L’IA</b> : environ un cinquième de la croissance, selon la Banque d’Angleterre et Bloomberg Economics ; la programmation informatique au plus haut depuis trois ans.",
+      "<b>L’ombre</b> : ventes au détail en baisse en septembre, moral des ménages en chute.",
+      "<b>La banque centrale</b> : taux relevé à 4 % le 4 novembre ; inflation à 3,5 %, pic attendu vers 5 % en 2027. La crainte d’une spirale salaires-prix reste [[pregnant|prégnante]]."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Une croissance qui accélère",
+      "sub": "PIB du Royaume-Uni, variation trimestrielle en %, 2026",
+      "labels": [
+       "T1",
+       "T2",
+       "T3"
+      ],
+      "series": [
+       {
+        "name": "PIB",
+        "values": [
+         0.6,
+         0.5,
+         0.7
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : ONS, première estimation du 12 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : services et investissement technologique peuvent amortir un choc énergétique.",
+      "<b>À surveiller</b> : l’écart entre salaires et inflation, qui dira si le dosage des taux est [[idoine|idoine]]. OBR : 1 % de croissance en 2027."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Asie du Sud-Est : des réserves de carburant à partager",
+   "by": "Analyse",
+   "fig": "58 %",
+   "figl": "du brut thaïlandais venu du Golfe",
+   "min": 3,
+   "exMin": 2,
+   "src": "Nikkei Asia, « Indonesia, Thailand, Philippines to set up shared oil reserves », repris par AsiaOne, 12 novembre 2026 (calendrier 2027, système de tickets, PNOC, Laos et Timor-Leste, ERIA, sommet AZEC de Manille le 17 novembre). Energynews.pro, 12 novembre 2026 (volumes non publiés, retard de stockage indonésien, atelier ERIA d’août 2026, prix du Brent). Geopolitical Musings, « In Geopolitics Today », 12 novembre 2026 (dépendance thaïlandaise et indonésienne au Moyen-Orient, 33 raffineries et 5,2 Mb/j). Système des tickets et obligation de 90 jours dans l’UE : directive 2009/119/CE. Données arrêtées au 12 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La guerre avec l’Iran et la perturbation du détroit d’Ormuz ont révélé la fragilité énergétique de l’Asie du Sud-Est. L’Indonésie, la Thaïlande et les Philippines préparent une réponse commune : des stocks d’urgence de gazole et d’essence, logés dans des cuves indonésiennes et thaïlandaises, que les pays voisins pourront acheter en cas de crise. Selon le <em>Nikkei</em>, le dispositif pourrait démarrer dès 2027.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "58 %",
+       "du brut thaïlandais importé du Moyen-Orient en 2025"
+      ],
+      [
+       "25 %",
+       "pour l’Indonésie"
+      ],
+      [
+       "33",
+       "raffineries dans l’Asean"
+      ],
+      [
+       "5,2 Mb/j",
+       "capacité de raffinage de l’Asean"
+      ]
+     ]
+    },
+    {
+     "h": "Comment fonctionne le ticket"
+    },
+    {
+     "p": "Le mécanisme s’inspire de l’Union européenne. Un pays ou une entreprise paie à l’avance une redevance, le « ticket », qui lui donne le droit d’acheter en cas d’urgence un volume défini de carburant stocké par une entreprise d’un autre pays. L’acheteur évite de construire ses propres cuves ; l’hébergeur rentabilise ses capacités. Les Philippines, qui n’ont pas de niveau de couverture établi, seront le premier client : des filiales de la compagnie publique PNOC doivent signer des lettres d’intention avec des exploitants indonésiens et thaïlandais. Le Laos et le Timor-Leste étudient leur adhésion, et le pétrole brut pourrait suivre. Volumes et tarifs n’ont pas été publiés."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La dépendance au Golfe",
+      "sub": "part du pétrole brut importé venant du Moyen-Orient, 2025, en %",
+      "rows": [
+       [
+        "Thaïlande",
+        58
+       ],
+       [
+        "Indonésie",
+        25
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Geopolitical Musings, 12 novembre 2026."
+     }
+    },
+    {
+     "h": "Le Japon en coulisse"
+    },
+    {
+     "p": "Le projet est piloté par l’ERIA, un institut de recherche établi en Indonésie avec le soutien du ministère japonais de l’Économie. Tokyo y voit un moyen de sécuriser une région où ses entreprises produisent beaucoup, et de renforcer son influence face à la Chine. La Première ministre Sanae Takaichi doit annoncer une coopération sur les stocks communs au sommet de la Communauté asiatique zéro émission, à Manille, le 17 novembre. La question des capacités reste [[pregnant|prégnante]] : la Thaïlande est la mieux dotée, l’Indonésie manque encore de cuves. L’ERIA, qui a réuni les pays concernés à Jakarta en août, doit finaliser sa stratégie d’ici la fin de l’année. Selon un analyste de S&P Global, l’Indonésie s’est proposée pour accueillir une plateforme régionale de stockage."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "En Europe, les pays doivent détenir l’équivalent de 90 jours d’importations nettes, et peuvent en partie le faire via des tickets. L’Asie du Sud-Est s’engage sur cette voie sous la contrainte d’une crise, avec un Brent autour de 96 dollars. L’échelle régionale est la plus [[idoine|idoine]] pour des pays trop petits pour stocker seuls. Le test sera la première crise : un pays hébergeur laissera-t-il vraiment partir son carburant quand ses propres stations manqueront ?"
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : Indonésie, Thaïlande et Philippines préparent des stocks communs de gazole et d’essence, dès 2027 selon le <em>Nikkei</em>.",
+      "<b>La cause</b> : la guerre avec l’Iran et la perturbation d’Ormuz ont révélé la dépendance de la région au Golfe."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "58 %",
+       "du brut thaïlandais importé du Moyen-Orient en 2025"
+      ],
+      [
+       "25 %",
+       "pour l’Indonésie"
+      ],
+      [
+       "33",
+       "raffineries dans l’Asean"
+      ],
+      [
+       "5,2 Mb/j",
+       "capacité de raffinage de l’Asean"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le ticket</b> : une redevance payée à l’avance donne le droit d’acheter, en cas de crise, du carburant stocké dans un autre pays. Modèle européen.",
+      "<b>Les acteurs</b> : stocks en Indonésie et en Thaïlande ; Philippines premier client via la PNOC ; Laos et Timor-Leste intéressés.",
+      "<b>Le Japon</b> : projet piloté par l’ERIA, institut soutenu par Tokyo, qui y voit un levier d’influence face à la Chine ; annonce attendue de Sanae Takaichi à Manille le 17 novembre.",
+      "<b>La limite</b> : la question des cuves reste [[pregnant|prégnante]], l’Indonésie en manque. Volumes et prix non publiés."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La dépendance au Golfe",
+      "sub": "part du pétrole brut importé venant du Moyen-Orient, 2025, en %",
+      "rows": [
+       [
+        "Thaïlande",
+        58
+       ],
+       [
+        "Indonésie",
+        25
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Geopolitical Musings, 12 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La référence</b> : l’UE impose 90 jours d’importations nettes en stock.",
+      "<b>L’échelle [[idoine|idoine]]</b> : la région, pour des pays trop petits pour stocker seuls. Le vrai test sera la première crise."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Fret aérien : la taxe à 3 euros vide les soutes de l’e-commerce chinois",
+   "by": "Analyse",
+   "fig": "− 50 %",
+   "figl": "e-commerce aérien Chine-UE en septembre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Air Cargo News, « Pressure remains on China-EU e-commerce volumes as new charge looms », 23 octobre 2026 (données Aevean, comparaison de coûts Holdwise, douanes néerlandaises). Air Cargo News, 12 octobre 2026, d’après WorldACD (tonnages et tarifs Chine-Europe et Chine-États-Unis en septembre). TrasportoEuropa, 12 novembre 2026 (baisses de juillet et août, frais de 2 € depuis le 1er novembre, chiffres préliminaires WorldACD d’octobre). Données arrêtées au 12 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La fin de la franchise douanière sur les petits colis produit ses effets dans les avions. Selon le cabinet Aevean, le tonnage d’e-commerce à petite valeur expédié par air de Chine vers l’Union européenne a chuté de 50 % en septembre sur un an, après − 29 % en juillet et − 40 % en août. En cause : le droit forfaitaire de 3 euros par catégorie de produit, appliqué depuis le 1er juillet aux colis de moins de 150 euros.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "− 50 %",
+       "e-commerce aérien Chine-UE en septembre, sur un an"
+      ],
+      [
+       "− 70 %",
+       "lignes de déclaration e-commerce aux douanes néerlandaises"
+      ],
+      [
+       "3 €",
+       "droit par catégorie de produit, depuis le 1er juillet"
+      ],
+      [
+       "− 17 %",
+       "fret aérien Chine et Hong Kong vers l’Europe en octobre"
+      ]
+     ]
+    },
+    {
+     "h": "Le calcul qui change tout"
+    },
+    {
+     "p": "Le cabinet néerlandais Holdwise a fait le compte pour une commande type, une montre et un t-shirt. Expédiée directement de Chine, elle coûte environ 19,50 euros : 6 euros de droits, 4 de frais de traitement, 7 d’affranchissement et de dédouanement, 2,50 de stockage et d’emballage. Depuis un stock aux Pays-Bas, environ 10 euros, grâce au transport maritime groupé. L’écart de 9,50 euros par commande ruine le modèle du colis individuel par avion. Les douanes néerlandaises ont d’ailleurs enregistré environ 70 % de lignes de déclaration en moins en août et septembre. Et depuis le 1er novembre, s’ajoutent 2 euros de frais de traitement par type de produit."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "La chute s’accélère",
+      "sub": "tonnage d’e-commerce à petite valeur, Chine vers UE, variation sur un an, en %",
+      "labels": [
+       "Juillet",
+       "Août",
+       "Sept."
+      ],
+      "series": [
+       {
+        "name": "Variation",
+        "values": [
+         -29,
+         -40,
+         -50
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : Aevean, citée par Air Cargo News et TrasportoEuropa."
+     }
+    },
+    {
+     "h": "Les avions changent de route"
+    },
+    {
+     "p": "L’effet est visible sur l’ensemble du marché. Selon WorldACD, le fret aérien de Chine et Hong Kong vers l’Europe a reculé de 17 % en octobre, alors que les volumes mondiaux progressaient de 6 %. Hong Kong, grande plateforme de l’e-commerce, est la plus touchée. Les capacités se redéploient vers l’Amérique : en septembre, le tonnage Chine-États-Unis gagnait 17 % sur un an, avec des tarifs de 6,05 dollars le kilo, en hausse de 30 %. Le poids de cette réorganisation est [[pregnant|prégnant]] pour les compagnies tout-cargo qui vivaient de ces flux. Les opérateurs observent déjà un retour aux importations groupées, souvent par mer, avec une distribution depuis des entrepôts situés en Europe."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une taxe de quelques euros suffit à renverser une chaîne logistique entière : on passe du colis individuel par avion au conteneur maritime, puis à l’entrepôt européen et à la livraison locale. Pour les plateformes, le schéma [[idoine|idoine]] devient celui de la distribution classique. Pour les logisticiens européens, c’est une opportunité : plus de stocks à gérer sur le continent, donc plus d’entrepôts et de préparation de commandes."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : e-commerce aérien à petite valeur Chine-UE − 50 % en septembre sur un an (− 29 % en juillet, − 40 % en août).",
+      "<b>La cause</b> : droit de 3 € par catégorie de produit sur les colis de moins de 150 €, depuis le 1er juillet."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "− 50 %",
+       "e-commerce aérien Chine-UE en septembre, sur un an"
+      ],
+      [
+       "− 70 %",
+       "lignes de déclaration e-commerce aux douanes néerlandaises"
+      ],
+      [
+       "3 €",
+       "droit par catégorie de produit, depuis le 1er juillet"
+      ],
+      [
+       "− 17 %",
+       "fret aérien Chine et Hong Kong vers l’Europe en octobre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le calcul</b> : une montre et un t-shirt coûtent 19,50 € en direct de Chine, 10 € depuis un stock néerlandais.",
+      "<b>Les douanes</b> : environ 70 % de déclarations e-commerce en moins aux Pays-Bas en août-septembre ; 2 € de frais supplémentaires depuis le 1er novembre.",
+      "<b>Le marché</b> : fret Chine et Hong Kong vers l’Europe − 17 % en octobre, monde + 6 %.",
+      "<b>Le report</b> : Chine-États-Unis + 17 % en septembre, tarifs à 6,05 $/kg. Un choc [[pregnant|prégnant]] pour les tout-cargo."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "La chute s’accélère",
+      "sub": "tonnage d’e-commerce à petite valeur, Chine vers UE, variation sur un an, en %",
+      "labels": [
+       "Juillet",
+       "Août",
+       "Sept."
+      ],
+      "series": [
+       {
+        "name": "Variation",
+        "values": [
+         -29,
+         -40,
+         -50
+        ]
+       }
+      ],
+      "suffix": " %",
+      "note": "Source : Aevean, citée par Air Cargo News et TrasportoEuropa."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La bascule</b> : du colis par avion au conteneur et à l’entrepôt européen, le schéma [[idoine|idoine]].",
+      "<b>L’opportunité</b> : plus de stocks, d’entrepôts et de préparation de commandes en Europe."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Nvidia sans Jensen Huang : le risque de l’homme-clé",
+   "by": "Analyse",
+   "fig": "33 ans",
+   "figl": "de règne du fondateur",
+   "min": 3,
+   "exMin": 2,
+   "src": "Nvidia, communiqué « NVIDIA Announces CEO Transition » et formulaire 8-K déposé auprès de la SEC, 12 novembre 2026 (démission, intérim de Colette Kress, présidence de Harvey C. Jones, recherche d’un successeur, résultats du 17 novembre). Stock Titan, « Stock Market Today », 12 novembre 2026 (enquête indépendante ouverte le 8 novembre, cours de l’action, capitalisations). Al Jazeera, 12 novembre 2026 (33 ans à la tête du groupe, fondation en 1993, part de marché d’environ 90 %, chiffre d’affaires de 215,9 Md$ sur l’exercice 2026 et 4,13 Md$ sur l’exercice 2014). Données arrêtées au 12 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 12 novembre, Nvidia a annoncé la démission immédiate de Jensen Huang, son cofondateur, de ses fonctions de président-directeur général et d’administrateur. Il dirigeait l’entreprise depuis sa création en 1993. Le communiqué ne donne pas de motif ; le conseil d’administration avait ouvert le 8 novembre une enquête indépendante après des articles de presse le concernant. La directrice financière, Colette Kress, assure l’intérim.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "33 ans",
+       "à la tête de l’entreprise qu’il a cofondée"
+      ],
+      [
+       "≈ 90 %",
+       "du marché des puces avancées pour l’IA"
+      ],
+      [
+       "215,9 Md$",
+       "chiffre d’affaires de l’exercice 2026"
+      ],
+      [
+       "− 4,3 %",
+       "l’action à la clôture du 12 novembre"
+      ]
+     ]
+    },
+    {
+     "h": "Une transition organisée en urgence"
+    },
+    {
+     "p": "Colette Kress, arrivée en 2013 après des postes chez Texas Instruments, Microsoft et Cisco, cumule désormais les fonctions de directrice générale et de directrice financière. Le conseil s’est doté pour la première fois d’un président, Harvey C. Jones, ancien patron de l’éditeur Synopsys. Il cherchera un successeur en interne comme à l’extérieur et assure que les opérations, les engagements envers les clients et la feuille de route des produits se poursuivent sans interruption. Les résultats trimestriels restent prévus le 17 novembre. En Bourse, l’action a chuté de plus de 14 % à l’ouverture avant de limiter sa baisse à 4,3 %. Elle a perdu environ 31 % depuis son record du 6 octobre."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Une journée agitée",
+      "sub": "cours de l’action Nvidia, en dollars",
+      "rows": [
+       [
+        "Record du 6 oct.",
+        239.24
+       ],
+       [
+        "Clôture du 6 nov.",
+        186.64
+       ],
+       [
+        "Clôture du 11 nov.",
+        173.73
+       ],
+       [
+        "Clôture du 12 nov.",
+        166.19
+       ],
+       [
+        "Plus bas du 12 nov.",
+        148.8
+       ]
+      ],
+      "suffix": " $",
+      "note": "Source : Stock Titan, d’après les cours du Nasdaq, 12 novembre 2026."
+     }
+    },
+    {
+     "h": "Pourquoi le fondateur pèse autant"
+    },
+    {
+     "p": "Huang n’était pas un dirigeant comme les autres. Il a misé, bien avant l’essor de l’IA, sur les processeurs graphiques pour le calcul scientifique, puis sur un écosystème logiciel qui rend ses puces difficiles à remplacer. Sous sa direction, le chiffre d’affaires annuel est passé de 4,13 milliards de dollars sur l’exercice 2014 à 215,9 milliards sur l’exercice 2026. Les investisseurs parlent de « risque de l’homme-clé » : quand la stratégie, les relations avec les grands clients et la culture d’une entreprise reposent sur une seule personne, son départ brutal crée une incertitude [[pregnant|prégnante]], même si l’organisation reste solide. Le moment est délicat : l’action avait déjà reculé depuis début octobre, et les marchés s’interrogent sur la durée de la vague d’investissements dans l’IA."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Nvidia garde ses produits, ses clients et environ 90 % du marché des puces avancées pour l’IA. Mais l’épisode rappelle une règle de gouvernance : un conseil doit préparer la succession bien avant d’en avoir besoin, et séparer les rôles de président et de directeur général. Le choix du successeur [[idoine|idoine]] dira si la culture d’un fondateur peut lui survivre. Premier test le 17 novembre, avec les résultats trimestriels."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : Jensen Huang, cofondateur et patron de Nvidia depuis 1993, démissionne le 12 novembre avec effet immédiat.",
+      "<b>Le contexte</b> : aucun motif donné ; une enquête indépendante avait été ouverte le 8 novembre après des articles de presse."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "33 ans",
+       "à la tête de l’entreprise qu’il a cofondée"
+      ],
+      [
+       "≈ 90 %",
+       "du marché des puces avancées pour l’IA"
+      ],
+      [
+       "215,9 Md$",
+       "chiffre d’affaires de l’exercice 2026"
+      ],
+      [
+       "− 4,3 %",
+       "l’action à la clôture du 12 novembre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>L’intérim</b> : Colette Kress, directrice financière depuis 2013, cumule les deux postes. Premier président du conseil : Harvey C. Jones.",
+      "<b>La Bourse</b> : − 14 % à l’ouverture, − 4,3 % à la clôture ; environ − 31 % depuis le record du 6 octobre.",
+      "<b>L’héritage</b> : chiffre d’affaires passé de 4,13 Md$ (exercice 2014) à 215,9 Md$ (exercice 2026).",
+      "<b>Le risque de l’homme-clé</b> : quand stratégie et culture reposent sur une personne, son départ crée une incertitude [[pregnant|prégnante]]."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Une journée agitée",
+      "sub": "cours de l’action Nvidia, en dollars",
+      "rows": [
+       [
+        "Record du 6 oct.",
+        239.24
+       ],
+       [
+        "Clôture du 6 nov.",
+        186.64
+       ],
+       [
+        "Clôture du 11 nov.",
+        173.73
+       ],
+       [
+        "Clôture du 12 nov.",
+        166.19
+       ],
+       [
+        "Plus bas du 12 nov.",
+        148.8
+       ]
+      ],
+      "suffix": " $",
+      "note": "Source : Stock Titan, d’après les cours du Nasdaq, 12 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : préparer la succession tôt et séparer présidence et direction générale.",
+      "<b>Le test</b> : trouver le successeur [[idoine|idoine]] ; résultats attendus le 17 novembre."
+     ]
+    }
+   ]
+  }
+ ]
+}
