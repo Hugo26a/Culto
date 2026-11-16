@@ -1,0 +1,1042 @@
+{
+ "date": "2026-11-16",
+ "label": "Lundi 16 novembre 2026",
+ "n": 26,
+ "example": false,
+ "week": {
+  "start": "2026-11-16",
+  "label": "Semaine du 16 novembre",
+  "day": 1,
+  "words": [
+   {
+    "key": "endiguer",
+    "w": "Endiguer",
+    "ph": "[ɑ̃.di.ɡe] · verbe transitif",
+    "short": "Contenir un phénomène pour l’empêcher de s’étendre.",
+    "def": "Au sens propre, retenir un cours d’eau par des digues. Au figuré, freiner ou contenir quelque chose qui menace de déborder : une épidémie, une hausse des prix, une crise, un afflux de demandes. Le mot ne promet pas la disparition du problème, seulement sa maîtrise : on endigue une vague, on ne la supprime pas. Il s’emploie très naturellement en réunion, à propos de coûts, de retards ou de risques.",
+    "ety": "Formé sur « digue », mot emprunté au moyen néerlandais dijc, « levée de terre ». Le verbe a d’abord désigné le travail des ingénieurs qui contiennent les rivières et la mer, avant de passer au sens figuré.",
+    "ex": "Pour endiguer la hausse des coûts de transport, nous avons regroupé les expéditions de fin de mois.",
+    "syn": "contenir, juguler, enrayer, freiner, circonscrire"
+   },
+   {
+    "key": "tergiverser",
+    "w": "Tergiverser",
+    "ph": "[tɛʁ.ʒi.vɛʁ.se] · verbe intransitif",
+    "short": "Hésiter, chercher des détours pour retarder une décision.",
+    "def": "Se dit de quelqu’un qui use de faux-fuyants, multiplie les hésitations ou les prétextes pour éviter de trancher. Le mot est plus critique que « hésiter » : il suggère une indécision qui fait perdre du temps, parfois volontairement. On l’emploie souvent à la forme négative, pour appeler à agir : « il ne faut plus tergiverser ».",
+    "ety": "Du latin tergiversari, « tourner le dos », formé sur tergum, « le dos », et vertere, « tourner ». L’image est celle de quelqu’un qui fait volte-face au lieu d’affronter l’obstacle.",
+    "ex": "Le client a assez tergiversé : s’il ne valide pas le devis vendredi, nous perdrons le créneau chez le transporteur.",
+    "syn": "atermoyer, hésiter, louvoyer, temporiser, biaiser"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "La Ferme des animaux",
+   "by": "George Orwell · 1945",
+   "tagline": "Quand les cochons prennent le pouvoir",
+   "min": 10,
+   "exMin": 4,
+   "src": "George Orwell, Animal Farm. A Fairy Story, Londres, Secker & Warburg, 17 août 1945. Orwell est mort le 21 janvier 1950 : l’œuvre est entrée dans le domaine public en France le 1er janvier 2021 ; traduction de la citation : Culto. Rédaction (fin 1943 - début 1944), refus des éditeurs (Victor Gollancz, Jonathan Cape, Faber & Faber) : Orwell Foundation et British Library. Préface « The Freedom of the Press », publiée en 1972 dans le Times Literary Supplement ; préface à l’édition ukrainienne de 1947.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Dans une ferme anglaise, les animaux chassent leur maître ivrogne et fondent une société où tous doivent être égaux. Peu à peu, les cochons, plus instruits, confisquent le pouvoir, réécrivent les règles et finissent par ressembler trait pour trait aux hommes qu’ils avaient renversés."
+      ],
+      [
+       "Une fable sur la révolution russe",
+       "Chaque personnage a son modèle : le vieux Major évoque Marx et Lénine, Napoléon incarne Staline, Boule de Neige rappelle Trotski. Mais le récit vaut au-delà de l’URSS : il décrit la mécanique de toute révolution confisquée."
+      ],
+      [
+       "Le pouvoir par les mots",
+       "Le cochon Brille-Babil transforme chaque défaite en victoire et chaque privilège en sacrifice. Les commandements sont modifiés de nuit, un mot à la fois. Celui qui contrôle le récit contrôle la mémoire."
+      ],
+      [
+       "La complicité des naïfs",
+       "Le cheval Malabar travaille jusqu’à l’épuisement en répétant que le chef a toujours raison. Les moutons couvrent tout débat de leurs slogans. La tyrannie ne tient pas seulement par la force, mais par la confiance aveugle et la paresse de penser."
+      ],
+      [
+       "Une phrase devenue proverbe",
+       "« Tous les animaux sont égaux, mais certains sont plus égaux que d’autres » : la formule résume l’hypocrisie de tout pouvoir qui proclame l’égalité pour mieux s’en exempter."
+      ],
+      [
+       "Pour en parler",
+       "Retenez trois moments : la révolte contre Jones, l’expulsion de Boule de Neige, le dernier repas où l’on ne distingue plus les cochons des hommes. Et une idée : face aux abus, [[tergiverser|tergiverser]] revient souvent à les laisser s’installer."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le rêve du vieux Major"
+    },
+    {
+     "p": "La ferme du Manoir appartient à M. Jones, un fermier qui boit trop et néglige ses bêtes. Un soir, le vieux Major, un verrat respecté de tous, réunit les animaux dans la grange. Il leur raconte un rêve : un monde sans hommes, où les animaux profiteraient enfin du fruit de leur travail. L’homme, dit-il, est le seul être qui consomme sans produire. Il leur apprend un chant, <em>Bêtes d’Angleterre</em>, qui deviendra l’hymne de la révolte. Trois jours plus tard, Major meurt dans son sommeil.",
+     "lead": 1
+    },
+    {
+     "p": "Les cochons, réputés les plus intelligents, reprennent ses idées. Deux d’entre eux se distinguent : Boule de Neige, vif et inventif, et Napoléon, massif, peu bavard, qui a l’habitude d’obtenir ce qu’il veut. Un troisième, Brille-Babil, a un talent rare pour convaincre : on dit qu’il pourrait faire passer le noir pour le blanc. Ils tirent des enseignements de Major un système qu’ils baptisent l’Animalisme."
+    },
+    {
+     "h5": "La révolte"
+    },
+    {
+     "p": "Un soir de juin, Jones oublie de nourrir ses bêtes. Affamés, les animaux forcent la porte de la réserve. Quand le fermier et ses ouvriers arrivent avec des fouets, ils sont chassés à coups de cornes et de sabots. La ferme est libre. On la rebaptise ferme des Animaux. Les cochons peignent sur le mur de la grange les Sept Commandements : tout ce qui marche sur deux jambes est un ennemi, aucun animal ne dormira dans un lit, ne boira d’alcool, ne tuera un autre animal, et tous les animaux sont égaux."
+    },
+    {
+     "p": "La première moisson est un triomphe. Le cheval Malabar, d’une force immense, fait le travail de trois et adopte une devise : « Je vais travailler plus dur. » Mais un détail échappe à presque tous : le lait et les pommes disparaissent dans l’enclos des cochons. Brille-Babil explique que ces aliments sont indispensables à leur cerveau, et que sans eux Jones reviendrait. L’argument fait taire les questions."
+    },
+    {
+     "h5": "Le moulin et l’exil"
+    },
+    {
+     "p": "Jones tente de reprendre la ferme avec des voisins armés. Boule de Neige, qui a étudié les campagnes de Jules César, organise la défense : c’est la bataille de l’Étable, une victoire éclatante. Puis il propose un grand projet, un moulin à vent qui fournirait l’électricité et allégerait le travail de tous. Napoléon s’y oppose. Le jour du vote, il siffle : neuf chiens énormes, qu’il a élevés en secret depuis leur naissance, surgissent et chassent Boule de Neige de la ferme."
+    },
+    {
+     "p": "Napoléon supprime aussitôt les assemblées du dimanche. Les décisions seront prises par un comité de cochons. Trois semaines plus tard, il annonce que le moulin sera construit : l’idée, explique Brille-Babil, venait en réalité de lui, et Boule de Neige la lui avait volée. Les animaux, qui ne savent pas bien lire et se souviennent mal, ne peuvent rien opposer."
+    },
+    {
+     "h5": "La terreur"
+    },
+    {
+     "p": "Le moulin devient une obsession. Les animaux travaillent soixante heures par semaine, puis aussi le dimanche après-midi. Une tempête renverse la construction : Napoléon accuse Boule de Neige de sabotage. Désormais, chaque malheur lui est imputé. Les poules, à qui l’on prend leurs œufs pour les vendre, se révoltent ; on les affame jusqu’à ce qu’elles cèdent. Puis viennent les procès. Des animaux avouent des complots imaginaires avec Boule de Neige et sont égorgés sur place par les chiens. Les survivants, pétrifiés, chantent <em>Bêtes d’Angleterre</em> une dernière fois avant que l’hymne soit interdit."
+    },
+    {
+     "p": "Les commandements changent sans bruit. « Aucun animal ne dormira dans un lit » devient « avec des draps ». « Aucun animal ne tuera un autre animal » devient « sans raison ». Quand les cochons se mettent à boire le whisky de Jones, on lit sur le mur : « avec excès ». Chaque fois, les animaux croient s’être trompés de souvenir."
+    },
+    {
+     "h5": "La mort de Malabar"
+    },
+    {
+     "p": "Napoléon négocie avec les fermiers voisins, Pilkington et Frederick, qu’il dresse l’un contre l’autre. Il vend du bois à Frederick, qui le paie en faux billets puis attaque la ferme et fait sauter le moulin à la poudre. Les animaux repoussent l’assaut, au prix de nombreux blessés. Malabar, vieilli, continue de reconstruire. Un jour, il s’effondre. On annonce qu’il sera soigné à l’hôpital. Mais l’âne Benjamin, le seul qui lise bien, déchiffre l’inscription sur la camionnette : « Équarrisseur ». Malabar est vendu pour le prix d’une caisse de whisky. Brille-Babil racontera qu’il est mort à l’hôpital en bénissant Napoléon."
+    },
+    {
+     "h5": "Le dernier repas"
+    },
+    {
+     "p": "Les années passent. Peu d’animaux se souviennent de la révolte. La ferme s’enrichit, mais pas ceux qui la font tourner. Un jour, les cochons sortent de la maison en marchant sur leurs pattes arrière, un fouet à la main, tandis que les moutons bêlent un slogan inversé : quatre pattes bien, deux pattes mieux. Sur le mur, il ne reste qu’un seul commandement, celui qui deviendra célèbre. Napoléon reçoit les fermiers voisins et rend à la ferme son ancien nom. Par la fenêtre, les animaux regardent les convives jouer aux cartes et se disputer. Ils passent d’un visage à l’autre et ne savent plus dire lequel est un cochon, lequel est un homme."
+    },
+    {
+     "quote": "Tous les animaux sont égaux, mais certains sont plus égaux que d’autres.",
+     "cite": "George Orwell, La Ferme des animaux, chapitre X (traduction Culto)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un livre que personne ne voulait"
+    },
+    {
+     "p": "Orwell écrit le texte entre la fin de 1943 et le début de 1944. Il a combattu en Espagne contre Franco et y a vu les communistes liquider leurs alliés de gauche : il en garde une méfiance définitive envers le stalinisme. Mais en pleine guerre, l’URSS est l’alliée du Royaume-Uni. Plusieurs éditeurs refusent le manuscrit, dont Jonathan Cape après avoir consulté un fonctionnaire du ministère de l’Information, et Faber & Faber, où le poète T. S. Eliot émet des réserves sur le propos. Les éditeurs ne [[tergiverser|tergiversent]] pas longtemps : ils refusent. Le livre paraît enfin chez Secker & Warburg le 17 août 1945, quelques jours après Hiroshima, et devient un succès mondial."
+    },
+    {
+     "h5": "La fable comme arme"
+    },
+    {
+     "p": "Le sous-titre, <em>A Fairy Story</em>, « un conte », est un choix calculé. En prêtant les traits des dirigeants soviétiques à des animaux de ferme, Orwell rend son propos lisible par tous, y compris par un enfant. Le ton reste neutre, presque naïf : le narrateur rapporte les faits comme les animaux les perçoivent, sans commenter. C’est ce décalage qui produit l’effet. Le lecteur comprend avant les bêtes ce que signifie la disparition du lait ou la peinture fraîche sur le mur."
+    },
+    {
+     "h5": "La langue, première victime"
+    },
+    {
+     "p": "Bien avant <em>1984</em>, Orwell montre que le pouvoir commence par confisquer les mots. Brille-Babil ne ment pas toujours franchement : il ajoute une précision, glisse un chiffre invérifiable, invoque une menace. Les statistiques de production grimpent sur le papier pendant que les rations baissent. Dans une préface restée inédite jusqu’en 1972, Orwell explique que la liberté consiste d’abord à pouvoir dire aux gens ce qu’ils n’ont pas envie d’entendre."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que la mécanique décrite n’a rien perdu de sa justesse : l’ennemi extérieur commode, l’histoire réécrite, les slogans qui remplacent le débat. Le livre vaut aussi dans des univers plus ordinaires. Toute organisation peut voir une équipe dirigeante s’accorder des exceptions qu’elle refuse aux autres. La leçon d’Orwell est simple : relire les règles, garder la mémoire des engagements et poser les questions gênantes tant qu’il est temps. Une dérive se laisse [[endiguer|endiguer]] au début ; plus tard, elle a déjà réécrit le mur."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Les animaux d’une ferme anglaise chassent leur maître et fondent une société d’égaux. Les cochons, plus instruits, prennent le pouvoir, éliminent leurs rivaux, réécrivent les règles et finissent par ressembler aux hommes qu’ils avaient renversés. Une fable de 1945 sur la révolution russe et sur toute révolution trahie."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les modèles</b> : Major évoque Marx et Lénine, Napoléon Staline, Boule de Neige Trotski.",
+      "<b>Le pouvoir par les mots</b> : Brille-Babil maquille chaque privilège ; les commandements changent de nuit.",
+      "<b>La complicité</b> : Malabar répète que le chef a toujours raison ; les moutons couvrent le débat de slogans.",
+      "<b>La formule</b> : « Tous les animaux sont égaux, mais certains sont plus égaux que d’autres. » Elle résume l’hypocrisie de tout pouvoir qui proclame l’égalité pour mieux s’en exempter.",
+      "<b>Les autres figures</b> : Brille-Babil, le propagandiste ; les chiens, la police politique ; l’âne Benjamin, le sceptique qui sait lire mais se tait ; le corbeau Moïse, qui promet un paradis après la mort.",
+      "<b>Pour en parler</b> : face aux abus, [[tergiverser|tergiverser]] revient à les laisser s’installer."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le rêve de Major</b> : le vieux verrat annonce un monde sans hommes et apprend aux bêtes l’hymne <em>Bêtes d’Angleterre</em>. Il meurt trois jours plus tard.",
+      "<b>La révolte</b> : affamés, les animaux chassent Jones. La ferme est rebaptisée et sept commandements sont peints sur le mur.",
+      "<b>Les premiers privilèges</b> : le lait et les pommes vont aux cochons, « pour leur cerveau ». Malabar travaille pour trois.",
+      "<b>L’exil de Boule de Neige</b> : après la bataille de l’Étable, il propose un moulin. Napoléon le fait chasser par neuf chiens élevés en secret, supprime les assemblées et reprend le projet à son compte.",
+      "<b>La terreur</b> : Boule de Neige accusé de tout, poules affamées, aveux forcés et exécutions. Les commandements sont retouchés : « sans raison », « avec excès ».",
+      "<b>La mort de Malabar</b> : Frederick paie en faux billets et fait sauter le moulin. Malabar, épuisé, est vendu à l’équarrisseur.",
+      "<b>Le dernier repas</b> : les cochons marchent sur deux pattes, reçoivent les fermiers et rendent son ancien nom à la ferme. On ne distingue plus les cochons des hommes."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Le contexte</b> : écrit en 1943-1944, refusé par plusieurs éditeurs car l’URSS est alors alliée. Les éditeurs ne [[tergiverser|tergiversent]] pas : ils refusent. Paru le 17 août 1945 chez Secker & Warburg.",
+      "<b>La forme</b> : un « conte » au ton neutre, lisible par un enfant ; le narrateur rapporte sans commenter, et le lecteur comprend avant les animaux ce que cache la peinture fraîche sur le mur.",
+      "<b>La langue</b> : avant <em>1984</em>, Orwell montre que le pouvoir commence par confisquer les mots et les chiffres.",
+      "<b>Aujourd’hui</b> : ennemi commode, histoire réécrite, slogans contre débat. Une dérive se laisse [[endiguer|endiguer]] au début, pas quand elle a réécrit le mur."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Prisonniers de la géographie",
+   "by": "Tim Marshall · 2015",
+   "min": 9,
+   "exMin": 3,
+   "src": "Tim Marshall, Prisoners of Geography. Ten Maps That Tell You Everything You Need to Know About Global Politics, Londres, Elliott & Thompson, 2015 ; trad. fr. Prisonniers de la géographie, JC Lattès, 2018 (trad. Ariane Fornia). Édition mise à jour d’avril 2025 et chiffre de 3 millions d’exemplaires : Elliott & Thompson. Suite : The Power of Geography, 2021. Critiques : D. Webster, AAG Review of Books ; H.-D. Schultz (Université Humboldt de Berlin). Superficies : Nations unies. Accord Sykes-Picot : 1916.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un journaliste britannique, longtemps reporter de guerre, explique la politique mondiale à partir de dix cartes. Montagnes, fleuves, plaines et mers limitent les choix des dirigeants bien plus qu’on ne le croit. Les nations sont, en partie, prisonnières de leur géographie."
+      ],
+      [
+       "La Russie a peur des plaines",
+       "De la France à l’Oural, la grande plaine d’Europe du Nord n’offre aucun obstacle naturel. En Pologne, elle se resserre à environ 500 km. Napoléon puis Hitler y sont passés. Moscou cherche donc à tenir des zones tampons et rêve de ports libres de glace."
+      ],
+      [
+       "L’Amérique a gagné à la loterie",
+       "Deux océans pour se protéger, des voisins faibles et le bassin du Mississippi, un réseau de fleuves navigables unique au monde, qui relie les terres agricoles aux ports. Sa puissance commence là."
+      ],
+      [
+       "La Chine verrouille ses marges",
+       "Le cœur han, fertile et peuplé, est entouré de régions tampons : Tibet, Xinjiang, Mongolie-Intérieure. Côté mer, ses importations d’énergie dépendent de détroits qu’elle ne contrôle pas, comme Malacca."
+      ],
+      [
+       "Les frontières tracées à la règle",
+       "Au Moyen-Orient et en Afrique, des lignes dessinées par les Européens, comme l’accord Sykes-Picot de 1916, ont regroupé ou séparé des peuples sans tenir compte du terrain. Une source durable de conflits."
+      ],
+      [
+       "Une grille, pas un destin",
+       "La géographie ne décide pas de tout, mais elle fixe le décor. Les dirigeants changent ; les montagnes restent. C’est ce qui rend certaines politiques étonnamment constantes d’un régime à l’autre."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un reporter face aux cartes"
+    },
+    {
+     "p": "Tim Marshall a couvert pendant des années les guerres des Balkans, d’Afghanistan, d’Irak et de Syrie pour la télévision britannique. Il en tire une conviction : on ne comprend pas un conflit sans regarder où il se déroule. Le livre paraît à Londres en 2015 et devient un succès mondial, numéro un des ventes au Royaume-Uni et traduit dans de nombreuses langues. L’éditeur revendique plus de 3 millions d’exemplaires vendus. Une édition mise à jour est sortie en avril 2025 pour intégrer la guerre en Ukraine et la montée des tensions autour de Taïwan."
+    },
+    {
+     "stats": [
+      [
+       "10",
+       "régions, une carte par chapitre"
+      ],
+      [
+       "11",
+       "fuseaux horaires traversés par la Russie"
+      ],
+      [
+       "≈ 500 km",
+       "largeur de la plaine européenne en Pologne"
+      ],
+      [
+       "3 millions",
+       "d’exemplaires vendus selon l’éditeur"
+      ]
+     ]
+    },
+    {
+     "h5": "Russie : l’obsession de la profondeur"
+    },
+    {
+     "p": "Le premier chapitre donne la méthode. La Russie est le plus vaste pays du monde, 17 millions de kilomètres carrés sur 11 fuseaux horaires. Mais elle est vulnérable à l’ouest, où la plaine s’ouvre jusqu’à Moscou. Sa stratégie, constante depuis les tsars, consiste à repousser l’ennemi potentiel le plus loin possible. D’où son intérêt pour l’Ukraine, la Biélorussie et les pays baltes. Second handicap : ses ports gèlent ou débouchent sur des mers fermées. Sébastopol, en Crimée, donne accès à la mer Noire, mais il faut ensuite franchir le Bosphore, contrôlé par la Turquie. Pour Marshall, l’annexion de la Crimée en 2014 s’explique d’abord par cette carte. L’Occident, de son côté, a longtemps cherché à [[endiguer|endiguer]] cette poussée, de la guerre froide à l’OTAN."
+    },
+    {
+     "h5": "Chine et États-Unis : deux géants inégaux"
+    },
+    {
+     "p": "La Chine a longtemps été une puissance terrestre tournée vers elle-même. Son histoire est celle d’un centre qui contrôle ses périphéries pour se protéger. Aujourd’hui, elle se tourne vers la mer, mais se heurte à une chaîne d’îles alliées des États-Unis, du Japon aux Philippines, qui borne son accès au Pacifique. Les États-Unis, eux, ont tout pour réussir. Achat de la Louisiane en 1803, conquête de l’Ouest, contrôle des Caraïbes : une fois le continent sécurisé, ils ont pu projeter leur puissance partout. Marshall va jusqu’à affirmer que le Mississippi et ses affluents offrent plus de kilomètres navigables que le reste du monde réuni : de quoi transporter les récoltes vers la mer à très faible coût."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La carte trompe sur les tailles",
+      "sub": "superficie, en millions de km²",
+      "rows": [
+       [
+        "Afrique",
+        30.4
+       ],
+       [
+        "Russie",
+        17.1
+       ],
+       [
+        "États-Unis",
+        9.8
+       ],
+       [
+        "Chine",
+        9.6
+       ],
+       [
+        "Inde",
+        3.3
+       ]
+      ],
+      "suffix": " M km²",
+      "note": "Source : Nations unies, Annuaire démographique ; ordres de grandeur arrondis. Sur une projection de Mercator, l’Afrique paraît à peu près aussi grande que le Groenland, pourtant quatorze fois plus petit."
+     }
+    },
+    {
+     "h5": "Europe, Afrique, Moyen-Orient"
+    },
+    {
+     "p": "L’Europe occidentale doit sa richesse à un climat doux, des sols fertiles et des fleuves qui ne se rejoignent pas, ce qui a favorisé de nombreux États rivaux. L’Afrique, au contraire, est pénalisée par des côtes pauvres en ports naturels et des fleuves coupés de chutes, difficiles à naviguer. Elle est aussi victime des cartes elles-mêmes : la projection de Mercator la fait paraître bien plus petite qu’elle n’est. Ses 30 millions de kilomètres carrés pourraient contenir les États-Unis, la Chine et l’Inde réunis. Au Moyen-Orient, Marshall insiste sur les frontières artificielles héritées des empires britannique et français, qui ont créé des États sans nation."
+    },
+    {
+     "h5": "Inde, Corée, Amérique latine, Arctique"
+    },
+    {
+     "p": "L’Himalaya sépare l’Inde de la Chine et rend une guerre entre elles coûteuse et limitée. La Corée du Sud vit avec sa capitale à une cinquantaine de kilomètres de la frontière nord-coréenne, à portée d’artillerie. L’Amérique latine souffre d’une population concentrée sur les côtes et d’un intérieur difficile, entre Andes et Amazonie. Le dernier chapitre, sur l’Arctique, annonce une nouvelle compétition : la fonte des glaces ouvre des routes maritimes et des gisements que les pays riverains se disputent déjà."
+    },
+    {
+     "h5": "La méthode Marshall"
+    },
+    {
+     "p": "Chaque chapitre suit le même chemin : une carte, puis les contraintes qu’elle impose, puis l’histoire et l’actualité relues à cette lumière. Le style est celui d’un reporter, concret, nourri d’anecdotes de terrain et de chiffres simples. Marshall ne prétend pas prédire l’avenir. Il propose un réflexe : avant de juger une décision politique, regarder ce que le relief, le climat et les distances permettent ou interdisent. Un pays sans accès à la mer, une capitale proche d’une frontière, un fleuve qui gèle l’hiver : ces données ne changent pas avec les élections. Elles expliquent pourquoi des régimes opposés finissent souvent par mener des politiques étrangères voisines."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre a été salué comme une introduction claire et vivante à la géopolitique. Mais des géographes lui reprochent un déterminisme hérité du XIXe siècle. Le Berlinois Hans-Dietrich Schultz note par exemple qu’il explique la politique russe en Ukraine sans parler de la société russe, de son économie ou de ses élites. Les défenseurs des études globales jugent qu’il néglige les idées, les institutions et la technologie. Marshall lui-même ne nie pas ces facteurs ; il rappelle seulement qu’ils jouent sur un terrain donné. Le lecteur peut [[tergiverser|tergiverser]] sur la part exacte de la géographie ; il ne peut plus l’ignorer."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "L’ouvrage a ouvert une série : des livres sur les drapeaux et sur les murs, puis <em>The Power of Geography</em> en 2021. Il a surtout remis à la mode une idée simple pour un lecteur de la supply chain : un détroit, un col ou un fleuve trop bas peuvent peser plus lourd qu’une décision politique. Ormuz, Suez, Panama ou le Rhin l’ont rappelé ces dernières années."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Ancien reporter de guerre, Tim Marshall explique la politique mondiale à partir de dix cartes. Montagnes, fleuves, plaines et mers limitent les choix des dirigeants. Les nations sont en partie prisonnières de leur géographie."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La Russie</b> : 17 M km², 11 fuseaux horaires, mais une plaine ouverte à l’ouest, large d’environ 500 km en Pologne. D’où la recherche de zones tampons et de ports libres de glace. L’Occident a cherché à [[endiguer|endiguer]] cette poussée.",
+      "<b>Les États-Unis</b> : deux océans, des voisins faibles et le bassin du Mississippi, réseau navigable exceptionnel.",
+      "<b>La Chine</b> : un cœur han entouré de régions tampons (Tibet, Xinjiang, Mongolie-Intérieure) ; vers la mer, une chaîne d’îles alliées de Washington et la dépendance au détroit de Malacca.",
+      "<b>Les frontières à la règle</b> : Sykes-Picot (1916) et le découpage colonial de l’Afrique, sources de conflits.",
+      "<b>L’idée clé</b> : les dirigeants changent, les montagnes restent."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "10",
+       "régions, une carte par chapitre"
+      ],
+      [
+       "11",
+       "fuseaux horaires traversés par la Russie"
+      ],
+      [
+       "≈ 500 km",
+       "largeur de la plaine européenne en Pologne"
+      ],
+      [
+       "3 millions",
+       "d’exemplaires vendus selon l’éditeur"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La carte trompe sur les tailles",
+      "sub": "superficie, en millions de km²",
+      "rows": [
+       [
+        "Afrique",
+        30.4
+       ],
+       [
+        "Russie",
+        17.1
+       ],
+       [
+        "États-Unis",
+        9.8
+       ],
+       [
+        "Chine",
+        9.6
+       ],
+       [
+        "Inde",
+        3.3
+       ]
+      ],
+      "suffix": " M km²",
+      "note": "Source : Nations unies, Annuaire démographique ; ordres de grandeur arrondis. Sur une projection de Mercator, l’Afrique paraît à peu près aussi grande que le Groenland, pourtant quatorze fois plus petit."
+     }
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Tim Marshall, ancien reporter de guerre dans les Balkans, en Afghanistan, en Irak et en Syrie.",
+      "<b>Le succès</b> : paru en 2015, numéro un des ventes britanniques, plus de 3 millions d’exemplaires selon l’éditeur ; mise à jour en avril 2025 avec l’Ukraine et Taïwan.",
+      "<b>La méthode</b> : une carte, ses contraintes, puis l’histoire relue à cette lumière. Un pays enclavé ou un fleuve qui gèle ne changent pas avec les élections ; des régimes opposés mènent donc souvent des politiques étrangères voisines.",
+      "<b>Les autres cartes</b> : Afrique aux fleuves peu navigables, Europe aux États rivaux, Himalaya entre Inde et Chine, Séoul à une cinquantaine de km de la frontière, Arctique qui s’ouvre.",
+      "<b>Les critiques</b> : un déterminisme jugé daté, qui néglige sociétés, idées et institutions. On peut [[tergiverser|tergiverser]] sur la part de la géographie, pas l’ignorer.",
+      "<b>La leçon supply chain</b> : un détroit, un col ou un fleuve trop bas pèse parfois plus qu’une décision politique. Ormuz, Suez, Panama et le Rhin l’ont rappelé ces dernières années."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Japon : les ménages calent, la Banque du Japon hésite",
+   "by": "Analyse",
+   "fig": "− 0,1 %",
+   "figl": "PIB japonais annualisé au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Bureau du Cabinet du Japon, estimation préliminaire du PIB de juillet-septembre 2026, 16 novembre 2026, via Reuters (rallies.ai), RTTNews, Xinhua et AP (consommation, investissement, révision du 2e trimestre, consensus, déclaration de Minoru Kiuchi, yen proche de 160 pour un dollar, projet de baisse de la taxe sur l’alimentation). Banque du Japon, décision du 30 octobre 2026 (taux à 1,25 %, vote 8-1, prévisions) via Trading Economics. Inflation de septembre 2026 (2,1 % et 2,4 %) : ministère des Affaires intérieures, 22 octobre 2026, via Trading Economics. Données arrêtées au 16 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "L’économie japonaise a fait du surplace cet été. Selon l’estimation préliminaire publiée ce lundi 16 novembre, le PIB est resté stable entre juillet et septembre, soit un recul de 0,1 % en rythme annualisé. Les économistes attendaient une hausse de 0,3 %. C’est le premier repli en quatre trimestres, après une croissance révisée à 1,7 % au printemps. En cause : des ménages qui serrent les dépenses face à la hausse des prix.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "0,0 %",
+       "PIB japonais au 3e trimestre, sur un trimestre"
+      ],
+      [
+       "− 0,1 %",
+       "en rythme annualisé, contre + 0,3 % attendu"
+      ],
+      [
+       "− 0,3 %",
+       "consommation des ménages sur le trimestre"
+      ],
+      [
+       "1,25 %",
+       "taux directeur de la Banque du Japon"
+      ]
+     ]
+    },
+    {
+     "h": "Deux moteurs qui tirent en sens inverse"
+    },
+    {
+     "p": "La consommation, qui pèse plus de la moitié du PIB, a reculé de 0,3 %, un peu plus que prévu. Le mauvais temps a pesé, et les achats de voitures et de climatiseurs sont retombés après un printemps dopé par des facteurs ponctuels. Surtout, l’énergie coûte cher : la guerre avec l’Iran a fait grimper le pétrole, et un yen proche de 160 pour un dollar renchérit chaque baril importé. À l’inverse, l’investissement des entreprises progresse de 1,6 %, porté par l’automatisation, que la pénurie de main-d’œuvre rend indispensable, et par les projets liés à l’intelligence artificielle. Le ministre de l’Économie, Minoru Kiuchi, compte sur l’emploi et les revenus pour une reprise graduelle."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’investissement tient, les ménages lâchent",
+      "sub": "Japon, variation sur un trimestre en %, juillet-septembre 2026",
+      "rows": [
+       [
+        "Investissement des entreprises",
+        1.6
+       ],
+       [
+        "PIB",
+        0.0
+       ],
+       [
+        "Consommation des ménages",
+        -0.3
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Bureau du Cabinet, estimation préliminaire du 16 novembre 2026, via Reuters."
+     }
+    },
+    {
+     "h": "Le casse-tête de la Banque du Japon"
+    },
+    {
+     "p": "Le 30 octobre, la Banque du Japon a laissé son taux à 1,25 %, son plus haut niveau depuis avril 1995, après deux hausses en juin et en septembre. Un membre du conseil voulait déjà monter. L’inflation sous-jacente a atteint l’objectif de 2 % ; en septembre, les prix hors produits frais progressaient de 2,1 % et de 2,4 % hors produits frais et énergie. Beaucoup d’analystes attendent toujours une hausse dès décembre, pour [[endiguer|endiguer]] ces pressions et soutenir le yen. Mais un trimestre sans croissance pourrait pousser une partie du conseil à [[tergiverser|tergiverser]]. Le gouvernement de Sanae Takaichi, lui, prépare une baisse de la taxe sur l’alimentation, au risque d’alourdir une dette publique déjà considérable."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le Japon illustre le piège d’un pays importateur d’énergie à monnaie faible : l’inflation revient, mais elle ronge le pouvoir d’achat au lieu de refléter une demande vigoureuse. La banque centrale doit choisir entre protéger le yen et ménager les ménages. L’indicateur à suivre est la négociation salariale du printemps 2027, le « shunto » : sans hausse nette des salaires réels, la consommation restera le maillon faible."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : PIB japonais stable au 3e trimestre, − 0,1 % en rythme annualisé, contre + 0,3 % attendu. Premier repli en quatre trimestres.",
+      "<b>La cause</b> : des ménages qui dépensent moins face aux prix de l’énergie et à un yen faible."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "0,0 %",
+       "PIB japonais au 3e trimestre, sur un trimestre"
+      ],
+      [
+       "− 0,1 %",
+       "en rythme annualisé, contre + 0,3 % attendu"
+      ],
+      [
+       "− 0,3 %",
+       "consommation des ménages sur le trimestre"
+      ],
+      [
+       "1,25 %",
+       "taux directeur de la Banque du Japon"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Consommation</b> : − 0,3 % ; mauvais temps, contrecoup sur les voitures et climatiseurs, pétrole cher, yen vers 160 pour un dollar.",
+      "<b>Investissement</b> : + 1,6 %, grâce à l’automatisation et à l’IA.",
+      "<b>Banque du Japon</b> : taux à 1,25 %, plus haut depuis 1995 ; inflation hors produits frais à 2,1 %. Une hausse reste attendue dès décembre pour [[endiguer|endiguer]] les prix, mais ce trimestre plat pourrait faire [[tergiverser|tergiverser]] une partie du conseil.",
+      "<b>Gouvernement</b> : Sanae Takaichi prépare une baisse de la taxe sur l’alimentation."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’investissement tient, les ménages lâchent",
+      "sub": "Japon, variation sur un trimestre en %, juillet-septembre 2026",
+      "rows": [
+       [
+        "Investissement des entreprises",
+        1.6
+       ],
+       [
+        "PIB",
+        0.0
+       ],
+       [
+        "Consommation des ménages",
+        -0.3
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Bureau du Cabinet, estimation préliminaire du 16 novembre 2026, via Reuters."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le piège</b> : énergie importée et monnaie faible, une inflation qui ronge le pouvoir d’achat.",
+      "<b>À surveiller</b> : les salaires réels, clé de la consommation."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Taïwan : cent navires en silence avant l’APEC",
+   "by": "Analyse",
+   "fig": "> 100",
+   "figl": "navires chinois massés autour de Taïwan",
+   "min": 3,
+   "exMin": 2,
+   "src": "Reuters (Yimou Lee et Ben Blanchard), « China stages unannounced Pacific drills in “silent intimidation” of Taiwan », 13 novembre 2026, via MarketScreener : nombre de navires, commandements, porte-avions Liaoning, tir de missile rapporté, déclarations de Joseph Wu et Wellington Koo, discours de Xi Jinping, sommet de Shenzhen. Taiwan News, 4 novembre 2026 : dates du sommet (18-19 novembre), invitation par courriel, mémorandum d’adhésion de 1991. Données arrêtées au 15 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Pas de nom de code, pas d’annonce, pas de carte des zones d’exercice. Début novembre, la Chine a pourtant déployé dans le Pacifique occidental une flotte plus importante que lors de ses dernières grandes manœuvres officielles autour de Taïwan, fin 2025. Taipei parle d’« intimidation silencieuse ». Le calendrier n’a rien d’un hasard : mercredi et jeudi, Pékin accueille à Shenzhen le sommet des dirigeants de l’APEC, où Donald Trump et Xi Jinping doivent se voir pour la troisième fois cette année.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "> 100",
+       "navires chinois massés début novembre"
+      ],
+      [
+       "≈ 70",
+       "encore dans la première chaîne d’îles en fin de semaine"
+      ],
+      [
+       "3",
+       "commandements de théâtre mobilisés"
+      ],
+      [
+       "18-19 nov.",
+       "sommet de l’APEC à Shenzhen"
+      ]
+     ]
+    },
+    {
+     "h": "Une répétition de blocus"
+    },
+    {
+     "p": "Selon un haut responsable de la sécurité taïwanaise cité par Reuters, la marine et les garde-côtes chinois ont compté à un moment plus de cent navires dans la région. Des groupes venus des commandements Nord, Est et Sud opéraient ensemble, avec le porte-avions Liaoning à l’est des Philippines. Pour Taipei, Pékin répète un blocus de l’île et apprend à fondre ses flottes régionales en une seule force de haute mer. Le même responsable affirme qu’un sous-marin a tiré un missile intercontinental depuis la mer Jaune. En fin de semaine dernière, environ 70 navires restaient dans la première chaîne d’îles, cet arc qui va du Japon aux Philippines. Pékin évoque des exercices « de routine »."
+    },
+    {
+     "h": "La pression sans le prix diplomatique"
+    },
+    {
+     "p": "L’absence d’annonce est le message. Des manœuvres baptisées provoquent des condamnations ; des manœuvres anonymes permettent de peser sans gâcher un sommet. Le 12 novembre, Xi Jinping a prononcé un discours appelant à une « réunification » pacifique, sans évoquer la force. Pendant ce temps, la querelle protocolaire couve : membre de l’APEC depuis 1991 avec la garantie d’y participer « sur un pied d’égalité », Taïwan a reçu son invitation par simple courriel, ce que son ministre des Affaires étrangères juge contraire aux usages. Washington, pris entre son soutien à l’île et sa négociation commerciale avec Pékin, pourrait être tenté de [[tergiverser|tergiverser]] sur le sujet."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La Chine teste une forme de coercition graduée : assez visible pour être comprise, assez discrète pour ne pas coûter. Pour les chaînes d’approvisionnement, l’enjeu est concret : l’essentiel des puces les plus avancées est produit à Taïwan, et un blocus, même partiel, paralyserait le détroit. À suivre à Shenzhen : la place réservée à la délégation taïwanaise et ce que Trump et Xi diront, ou tairont, de l’île."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : début novembre, plus de 100 navires chinois déployés dans le Pacifique occidental, sans annonce ni nom de code.",
+      "<b>Le contexte</b> : sommet de l’APEC à Shenzhen les 18 et 19 novembre, troisième rencontre Trump-Xi de l’année."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "> 100",
+       "navires chinois massés début novembre"
+      ],
+      [
+       "≈ 70",
+       "encore dans la première chaîne d’îles en fin de semaine"
+      ],
+      [
+       "3",
+       "commandements de théâtre mobilisés"
+      ],
+      [
+       "18-19 nov.",
+       "sommet de l’APEC à Shenzhen"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>L’ampleur</b> : forces des commandements Nord, Est et Sud, porte-avions Liaoning ; plus vaste que les manœuvres officielles de fin 2025, selon Taipei.",
+      "<b>L’objectif supposé</b> : répéter un blocus et unifier les flottes en une force de haute mer. Pékin parle de « routine ».",
+      "<b>La méthode</b> : peser sans provoquer de condamnation ; Xi appelle le 12 novembre à une réunification pacifique.",
+      "<b>L’APEC</b> : Taïwan, membre depuis 1991, invité par simple courriel. Washington pourrait [[tergiverser|tergiverser]] entre l’île et le commerce."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : une coercition graduée, visible mais peu coûteuse.",
+      "<b>L’enjeu supply chain</b> : les puces les plus avancées sont produites à Taïwan ; un blocus paralyserait le détroit."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Conteneurs : les armateurs annulent des départs pour tenir les prix",
+   "by": "Analyse",
+   "fig": "− 2 %",
+   "figl": "taux de fret mondial en une semaine",
+   "min": 3,
+   "exMin": 2,
+   "src": "Drewry, World Container Index du 12 novembre 2026 (indice composite, lignes, départs annulés, congestion à Shanghai, transits à Suez et Ormuz, perspectives) via Daily Cargo News. Hapag-Lloyd, résultats du 3e trimestre 2026 publiés le 12 novembre 2026 (taux moyen, bénéfice, services rétablis via Suez) via gCaptain, 13 novembre 2026. Données arrêtées au 13 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le fret maritime redescend lentement de ses sommets. Le 12 novembre, l’indice mondial de Drewry a reculé de 2 %, à 4 305 dollars le conteneur de 40 pieds. Les lignes vers les États-Unis touchent leur plus bas depuis l’été. Face à une demande molle, les armateurs dégainent leur outil favori : la suppression de départs, ces « blank sailings » qui retirent des navires du marché pour soutenir les prix.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "4 305 $",
+       "indice mondial Drewry, par conteneur de 40 pieds"
+      ],
+      [
+       "8",
+       "départs annulés la semaine prochaine sur le Pacifique"
+      ],
+      [
+       "49 h",
+       "d’attente au port de Shanghai, contre 36 h"
+      ],
+      [
+       "53",
+       "navires passés par Suez en une semaine"
+      ]
+     ]
+    },
+    {
+     "h": "Moins de navires pour freiner la baisse"
+    },
+    {
+     "p": "Sur le Pacifique, huit départs sont annulés pour la semaine prochaine, contre quatre cette semaine. Même mouvement entre l’Asie et l’Europe : huit annulations, contre cinq. Le Shanghai-New York tombe à 9 020 dollars et le Shanghai-Los Angeles à 7 416 dollars, en baisse de 3 % et 2 %. Le Shanghai-Rotterdam perd 3 %, tandis que Gênes reste stable. Les compagnies cherchent à [[endiguer|endiguer]] la glissade sur l’Europe en annonçant des hausses tarifaires et des surcharges pour la seconde moitié de novembre. Drewry s’attend à une nouvelle baisse sur le Pacifique et à une légère remontée vers l’Europe."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Des prix qui glissent",
+      "sub": "taux spot en dollars par conteneur de 40 pieds, 12 novembre 2026",
+      "rows": [
+       [
+        "Shanghai-New York",
+        9020
+       ],
+       [
+        "Shanghai-Los Angeles",
+        7416
+       ],
+       [
+        "Shanghai-Gênes",
+        4168
+       ],
+       [
+        "Shanghai-Rotterdam",
+        3504
+       ]
+      ],
+      "suffix": " $",
+      "note": "Source : Drewry, World Container Index du 12 novembre 2026."
+     }
+    },
+    {
+     "h": "Suez rouvre, Ormuz reste fermé"
+    },
+    {
+     "p": "La carte des routes se recompose. La semaine dernière, 53 navires ont franchi le canal de Suez, tandis qu’un seul passait le détroit d’Ormuz. Hapag-Lloyd et son partenaire Maersk ramènent progressivement des services par la mer Rouge : cinq lignes Extrême-Orient - Europe du Sud, une vers l’Europe du Nord et deux entre l’Inde et l’Europe. La ligne commune ME1, entre l’Inde et l’Europe, a ainsi repris la route du canal avec un premier départ d’Oman le 4 novembre. Chaque retour par Suez raccourcit les rotations, libère de la capacité et pèse donc sur les prix. Hapag-Lloyd a pourtant bien profité de la flambée : son taux moyen a grimpé de 28 % sur un an au troisième trimestre, à 1 808 dollars par EVP, et son bénéfice net a approché le milliard de dollars."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les annulations de départs montrent que l’offre de navires reste excédentaire dès que la demande faiblit. Pour un chargeur, c’est le moment de négocier, mais avec prudence : la congestion remonte à Shanghai, à 49 heures d’attente contre 36, les expéditions d’avant le Nouvel An chinois approchent et des négociations sociales pèsent sur Los Angeles et Long Beach."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : indice Drewry − 2 %, à 4 305 $ le conteneur de 40 pieds au 12 novembre.",
+      "<b>La riposte</b> : les armateurs suppriment des départs pour soutenir les prix."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "4 305 $",
+       "indice mondial Drewry, par conteneur de 40 pieds"
+      ],
+      [
+       "8",
+       "départs annulés la semaine prochaine sur le Pacifique"
+      ],
+      [
+       "49 h",
+       "d’attente au port de Shanghai, contre 36 h"
+      ],
+      [
+       "53",
+       "navires passés par Suez en une semaine"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les lignes</b> : Shanghai-New York 9 020 $ (− 3 %), Los Angeles 7 416 $ (− 2 %), Rotterdam 3 504 $ (− 3 %), Gênes stable.",
+      "<b>Les annulations</b> : 8 la semaine prochaine sur le Pacifique (contre 4), 8 vers l’Europe (contre 5). Hausses et surcharges annoncées pour [[endiguer|endiguer]] la baisse vers l’Europe.",
+      "<b>Les routes</b> : 53 passages à Suez en une semaine, un seul à Ormuz. Hapag-Lloyd et Maersk rétablissent huit services par la mer Rouge.",
+      "<b>Hapag-Lloyd</b> : taux moyen + 28 %, à 1 808 $ par EVP au 3e trimestre."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Des prix qui glissent",
+      "sub": "taux spot en dollars par conteneur de 40 pieds, 12 novembre 2026",
+      "rows": [
+       [
+        "Shanghai-New York",
+        9020
+       ],
+       [
+        "Shanghai-Los Angeles",
+        7416
+       ],
+       [
+        "Shanghai-Gênes",
+        4168
+       ],
+       [
+        "Shanghai-Rotterdam",
+        3504
+       ]
+      ],
+      "suffix": " $",
+      "note": "Source : Drewry, World Container Index du 12 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : l’offre de navires reste excédentaire dès que la demande faiblit.",
+      "<b>Les risques</b> : congestion à Shanghai (49 h), Nouvel An chinois, négociations sociales à Los Angeles et Long Beach."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Richemont : Cartier brille, l’or pèse",
+   "by": "Analyse",
+   "fig": "+ 39 %",
+   "figl": "bénéfice net semestriel de Richemont",
+   "min": 3,
+   "exMin": 2,
+   "src": "Richemont, résultats du 1er semestre de l’exercice 2027 (avril-septembre 2026), 13 novembre 2026, via FashionUnited, JCK (Reuters), Ouispeakfashion et la transcription de la conférence publiée par Investing.com (marges, éléments exceptionnels de 229 M€, prix de l’or, trésorerie, régions, recul de l’action). Données arrêtées au 13 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le propriétaire de Cartier et de Van Cleef & Arpels a publié le 13 novembre un semestre record. Entre avril et septembre, Richemont a vendu pour 12,3 milliards d’euros, en hausse de 16 %, et son bénéfice net a bondi de 39 %, à 2,5 milliards. Pourtant, l’action a perdu environ 6 % dans les premiers échanges. Les investisseurs ont regardé un seul chiffre : le ralentissement de la joaillerie au deuxième trimestre.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "12,3 Md€",
+       "chiffre d’affaires semestriel, + 16 %"
+      ],
+      [
+       "35,3 %",
+       "marge opérationnelle de la joaillerie"
+      ],
+      [
+       "+ 14 %",
+       "ventes de joaillerie au 2e trimestre, contre + 24 %"
+      ],
+      [
+       "≈ − 6 %",
+       "recul de l’action le jour des résultats"
+      ]
+     ]
+    },
+    {
+     "h": "La joaillerie, machine à marges"
+    },
+    {
+     "p": "Les maisons joaillières pèsent 9,1 milliards d’euros de ventes, les trois quarts du groupe, et dégagent une marge opérationnelle de 35,3 %. Leur croissance à changes constants est passée de 24 % au premier trimestre à 14 % au deuxième, sous les 16 % attendus par les analystes de RBC. La direction assure que la hausse vient surtout des volumes, pas des prix : Johann Rupert, le président, dit vouloir préserver le pouvoir de fixation des prix sans en abuser. Les horlogers, longtemps à la peine, se redressent : ventes en hausse de 10 % et bénéfice opérationnel triplé, à 150 millions d’euros. La marge du groupe atteint 25,5 %, dont près de deux points grâce à 229 millions d’euros d’éléments exceptionnels liés aux droits de douane."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Où Richemont a grandi",
+      "sub": "ventes du 1er semestre 2026-2027, variation à changes constants en %",
+      "rows": [
+       [
+        "Japon",
+        30
+       ],
+       [
+        "Amériques",
+        23
+       ],
+       [
+        "Asie-Pacifique",
+        16
+       ],
+       [
+        "Europe",
+        13
+       ],
+       [
+        "Moyen-Orient et Afrique",
+        -2
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Richemont, résultats semestriels du 13 novembre 2026."
+     }
+    },
+    {
+     "h": "L’or et les touristes"
+    },
+    {
+     "p": "Le principal vent contraire est le métal. Selon le directeur financier, l’or coûtait encore environ 40 % de plus qu’un an plus tôt sur le semestre. Il a reculé depuis son pic, proche de 5 600 dollars l’once, mais la baisse n’arrivera dans les comptes qu’avec retard, le temps d’écouler les stocks. Difficile d’[[endiguer|endiguer]] ce coût sans augmenter les prix. Côté géographie, les Amériques progressent de 23 % et le Japon de 30 %, quand le Moyen-Orient recule de 7 % au deuxième trimestre, faute de touristes. La Chine continentale reste faible, à − 3 %."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Richemont prouve que le haut de gamme résiste mieux que le luxe aspirationnel : on achète un bracelet Cartier comme une valeur refuge. Mais sa dépendance à l’or en fait aussi un pari sur une matière première. Avec 7,7 milliards d’euros de trésorerie nette, le groupe a les moyens d’attendre la détente des cours. Le chiffre à suivre : la croissance de la joaillerie au troisième trimestre, celui des fêtes."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Les chiffres</b> : ventes semestrielles 12,3 Md€ (+ 16 %), bénéfice net 2,5 Md€ (+ 39 %).",
+      "<b>Le paradoxe</b> : l’action perd environ 6 %, car la joaillerie ralentit au 2e trimestre."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "12,3 Md€",
+       "chiffre d’affaires semestriel, + 16 %"
+      ],
+      [
+       "35,3 %",
+       "marge opérationnelle de la joaillerie"
+      ],
+      [
+       "+ 14 %",
+       "ventes de joaillerie au 2e trimestre, contre + 24 %"
+      ],
+      [
+       "≈ − 6 %",
+       "recul de l’action le jour des résultats"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Joaillerie</b> : 9,1 Md€ de ventes, marge de 35,3 % ; croissance de 24 % puis 14 % (16 % attendus).",
+      "<b>Horlogerie</b> : ventes + 10 %, bénéfice opérationnel triplé à 150 M€.",
+      "<b>L’or</b> : environ 40 % plus cher sur un an ; difficile d’[[endiguer|endiguer]] ce coût, la baisse récente n’arrivera qu’avec retard.",
+      "<b>Les régions</b> : Japon + 30 %, Amériques + 23 %, Moyen-Orient − 7 % au 2e trimestre, Chine continentale − 3 %."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Où Richemont a grandi",
+      "sub": "ventes du 1er semestre 2026-2027, variation à changes constants en %",
+      "rows": [
+       [
+        "Japon",
+        30
+       ],
+       [
+        "Amériques",
+        23
+       ],
+       [
+        "Asie-Pacifique",
+        16
+       ],
+       [
+        "Europe",
+        13
+       ],
+       [
+        "Moyen-Orient et Afrique",
+        -2
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Richemont, résultats semestriels du 13 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : le très haut de gamme résiste ; un bijou Cartier se vit comme une valeur refuge.",
+      "<b>À surveiller</b> : la joaillerie au trimestre des fêtes ; 7,7 Md€ de trésorerie nette pour voir venir."
+     ]
+    }
+   ]
+  }
+ ]
+}
