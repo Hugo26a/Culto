@@ -1,0 +1,1050 @@
+{
+ "date": "2026-11-17",
+ "label": "Mardi 17 novembre 2026",
+ "n": 27,
+ "example": false,
+ "week": {
+  "start": "2026-11-16",
+  "label": "Semaine du 16 novembre",
+  "day": 2,
+  "words": [
+   {
+    "key": "endiguer",
+    "w": "Endiguer",
+    "ph": "[ɑ̃.di.ɡe] · verbe transitif",
+    "short": "Contenir un phénomène pour l’empêcher de s’étendre.",
+    "def": "Au sens propre, retenir un cours d’eau par des digues. Au figuré, freiner ou contenir quelque chose qui menace de déborder : une épidémie, une hausse des prix, une crise, un afflux de demandes. Le mot ne promet pas la disparition du problème, seulement sa maîtrise : on endigue une vague, on ne la supprime pas. Il s’emploie très naturellement en réunion, à propos de coûts, de retards ou de risques.",
+    "ety": "Formé sur « digue », mot emprunté au moyen néerlandais dijc, « levée de terre ». Le verbe a d’abord désigné le travail des ingénieurs qui contiennent les rivières et la mer, avant de passer au sens figuré.",
+    "ex": "Pour endiguer la hausse des coûts de transport, nous avons regroupé les expéditions de fin de mois.",
+    "syn": "contenir, juguler, enrayer, freiner, circonscrire"
+   },
+   {
+    "key": "tergiverser",
+    "w": "Tergiverser",
+    "ph": "[tɛʁ.ʒi.vɛʁ.se] · verbe intransitif",
+    "short": "Hésiter, chercher des détours pour retarder une décision.",
+    "def": "Se dit de quelqu’un qui use de faux-fuyants, multiplie les hésitations ou les prétextes pour éviter de trancher. Le mot est plus critique que « hésiter » : il suggère une indécision qui fait perdre du temps, parfois volontairement. On l’emploie souvent à la forme négative, pour appeler à agir : « il ne faut plus tergiverser ».",
+    "ety": "Du latin tergiversari, « tourner le dos », formé sur tergum, « le dos », et vertere, « tourner ». L’image est celle de quelqu’un qui fait volte-face au lieu d’affronter l’obstacle.",
+    "ex": "Le client a assez tergiversé : s’il ne valide pas le devis vendredi, nous perdrons le créneau chez le transporteur.",
+    "syn": "atermoyer, hésiter, louvoyer, temporiser, biaiser"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Le Père Goriot",
+   "by": "Honoré de Balzac · 1835",
+   "tagline": "Un père saigné par l’amour",
+   "min": 10,
+   "exMin": 4,
+   "src": "Honoré de Balzac, Le Père Goriot, publié en feuilleton dans la Revue de Paris (décembre 1834 - février 1835), puis en volume chez Werdet et Spachmann, 1835 ; intégré à La Comédie humaine, « Scènes de la vie privée ». Balzac est mort le 18 août 1850 : l’œuvre est dans le domaine public. Citation tirée du texte original (dernière phrase du roman). Action datée de 1819 dans le roman. Le retour systématique des personnages est généralement daté de ce roman par la critique balzacienne.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Paris, 1819. Dans une pension misérable du Quartier latin, un vieux négociant retiré se ruine pour ses deux filles mariées dans le grand monde, qui ne viennent le voir que pour lui prendre de l’argent. Sous ses yeux, un jeune provincial ambitieux, Eugène de Rastignac, apprend les règles de la société parisienne. Le père meurt seul ; l’étudiant, lui, part à la conquête de Paris."
+      ],
+      [
+       "L’amour paternel jusqu’à l’absurde",
+       "Goriot donne tout : sa fortune, son confort, ses couverts d’argent, jusqu’à sa dignité. Balzac en fait un « Christ de la paternité », un homme possédé par une seule passion, qui finit par détruire celui qu’elle habite."
+      ],
+      [
+       "L’argent, mesure de toute chose",
+       "Dans ce Paris de la Restauration, les mariages sont des contrats, les sentiments ont un prix et la naissance ne suffit plus sans fortune. Chaque relation du roman finit par se traduire en francs."
+      ],
+      [
+       "Trois leçons pour un jeune homme",
+       "Rastignac reçoit trois éducations : celle de sa cousine Mme de Beauséant (se servir des femmes et des salons), celle de Vautrin (le crime comme raccourci), et celle de Goriot (ce que la société fait des faibles). Le roman raconte comment il choisit."
+      ],
+      [
+       "La naissance de La Comédie humaine",
+       "C’est dans ce roman que Balzac fait revenir de façon systématique des personnages d’une œuvre à l’autre. Rastignac, Vautrin, Bianchon ou Nucingen reparaîtront dans des dizaines de récits, formant un monde complet."
+      ],
+      [
+       "Pour en parler",
+       "« Un Rastignac » désigne encore aujourd’hui un ambitieux prêt à tout pour réussir. Le roman montre aussi combien il est vain de [[tergiverser|tergiverser]] avec ses principes : chaque petite concession prépare la suivante."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "La pension Vauquer"
+    },
+    {
+     "p": "Rue Neuve-Sainte-Geneviève, sur la montagne Sainte-Geneviève, Mme Vauquer tient une pension bourgeoise qui sent le renfermé et la soupe froide. On y croise une vieille fille, Mlle Michonneau, et son compagnon Poiret ; une jeune orpheline, Victorine Taillefer, déshéritée par un père banquier ; un étudiant en médecine, Bianchon ; un quadragénaire jovial et inquiétant, M. Vautrin ; un étudiant en droit venu d’Angoulême, Eugène de Rastignac. Et, tout en haut, dans la chambre la moins chère, le père Goriot, ancien fabricant de vermicelle.",
+     "lead": 1
+    },
+    {
+     "p": "Goriot est la tête de Turc de la maison. Arrivé six ans plus tôt avec une belle garde-robe, il est monté d’étage en étage à mesure qu’il s’appauvrissait. Les pensionnaires le croient vicieux : de belles dames viennent le voir en cachette. Personne n’imagine que ce sont ses filles."
+    },
+    {
+     "h5": "L’entrée dans le monde"
+    },
+    {
+     "p": "Rastignac, fils de petits nobles sans fortune, a compris que le droit ne le mènerait pas loin. Il se fait introduire chez sa cousine, la vicomtesse de Beauséant, reine du faubourg Saint-Germain. Au cours d’une visite chez la comtesse Anastasie de Restaud, il prononce le nom du père Goriot : la porte se ferme aussitôt. Mme de Beauséant lui explique : Goriot, enrichi pendant la Révolution dans le commerce des grains, a donné à chacune de ses filles une dot considérable. Anastasie a épousé un comte, Delphine le baron de Nucingen, un banquier. Toutes deux ont ensuite écarté ce père devenu gênant. La vicomtesse donne à Eugène sa leçon : la société est un jeu cruel, il faut s’en servir sans s’y livrer."
+    },
+    {
+     "p": "Rastignac écrit à sa mère et à ses sœurs pour leur demander de l’argent ; elles se privent pour lui. Il s’habille, fréquente les salons et devient l’amant de Delphine, malheureuse auprès d’un mari qui garde la main sur sa dot. Goriot, ravi, voit dans cet amour un moyen de rester près de sa fille."
+    },
+    {
+     "h5": "La tentation de Vautrin"
+    },
+    {
+     "p": "Vautrin a percé l’ambition d’Eugène. Un soir, il lui fait un discours d’une lucidité glaçante : le travail honnête mène, au mieux, à une vie médiocre ; les grandes fortunes reposent sur des fautes oubliées. Il lui propose un marché. Victorine aime Eugène ; si son frère disparaissait, elle hériterait de leur père. Vautrin se charge de faire tuer le frère en duel ; Rastignac épousera l’héritière et lui reversera une part de la dot. Eugène refuse, mais sans assez de netteté : il laisse faire, par faiblesse, et le duel a lieu."
+    },
+    {
+     "p": "Mais la police surveille la pension. Elle a payé Mlle Michonneau pour verser un narcotique à Vautrin et vérifier une marque sur son épaule. Vautrin est en réalité Jacques Collin, dit « Trompe-la-Mort », forçat évadé et banquier des bagnards. Il est arrêté sous les yeux des pensionnaires, qui chassent aussitôt la délatrice."
+    },
+    {
+     "h5": "Le père dépouillé"
+    },
+    {
+     "p": "Goriot a vendu ses dernières rentes pour installer Eugène et Delphine dans un petit appartement. Mais ses filles reviennent, chacune à son tour, avec leurs dettes. Anastasie a vendu les diamants de la famille Restaud pour payer les dettes de jeu de son amant, Maxime de Trailles. Delphine découvre que Nucingen a placé sa fortune dans des spéculations. Les deux sœurs se disputent devant leur père. Goriot, accablé, est frappé d’une attaque."
+    },
+    {
+     "p": "Le même soir, Mme de Beauséant donne un dernier bal : son amant, le marquis d’Ajuda-Pinto, l’abandonne pour un riche mariage. Elle quitte Paris pour la Normandie. Delphine, elle, préfère aller au bal plutôt qu’au chevet de son père."
+    },
+    {
+     "h5": "La mort et le défi"
+    },
+    {
+     "p": "Goriot agonise, veillé par Rastignac et Bianchon. Dans son délire, il appelle ses filles, les maudit, les bénit, comprend enfin qu’elles ne l’aiment que pour son argent. Aucune ne vient à temps. Eugène doit mettre sa montre au mont-de-piété pour payer l’enterrement. Au Père-Lachaise, deux voitures vides, aux armes des gendres, suivent le corbillard. Resté seul, Rastignac regarde Paris s’étendre à ses pieds, entre la place Vendôme et les Invalides, là où vit le beau monde. Puis il redescend dîner chez Delphine."
+    },
+    {
+     "quote": "À nous deux maintenant !",
+     "cite": "Rastignac, face à Paris, dernière page du roman"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un roman écrit à toute vitesse"
+    },
+    {
+     "p": "Balzac rédige Le Père Goriot à l’automne 1834, en quelques semaines, dans l’urgence financière qui accompagne toute sa vie. Le roman paraît en feuilleton dans la Revue de Paris, puis en volume en 1835. Le succès est immédiat. Balzac a 35 ans et n’a pas encore donné le nom de Comédie humaine à son grand projet, mais c’est ici qu’il en trouve la clé : faire revenir les personnages. Rastignac deviendra ministre, Vautrin chef de la police, Bianchon un grand médecin. Le lecteur ne lit plus des romans isolés, mais l’histoire d’une société."
+    },
+    {
+     "h5": "Le réalisme par l’accumulation"
+    },
+    {
+     "p": "La célèbre description de la pension Vauquer s’étale sur des pages : odeurs, meubles, papier peint, mœurs. Pour Balzac, le décor explique les êtres ; la pension dit la gêne et l’usure de ceux qui l’habitent, comme la robe de Mme Vauquer résume sa personne. Ce goût du détail social, de l’argent compté au centime, fait de lui le père du roman réaliste. Il s’en inspire de la science de son temps : comme les naturalistes classent les espèces animales, il veut classer les « espèces sociales »."
+    },
+    {
+     "h5": "Une société sans pitié"
+    },
+    {
+     "p": "Le roman se déroule en 1819, sous la Restauration. La noblesse est revenue, mais l’argent commande. Goriot incarne l’ancienne bourgeoisie enrichie que les filles renient une fois établies. Vautrin dit tout haut ce que les salons pratiquent en silence : il n’existe pas de différence de nature entre le bagnard et le banquier, seulement une différence de méthode. Balzac ne prend pas parti avec des sermons ; il montre une mécanique. Rien ne vient [[endiguer|endiguer]] la puissance de l’argent, pas même l’amour d’un père."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que le roman pose une question toujours actuelle : que reste-t-il de nos principes quand l’ambition s’en mêle ? Rastignac n’est pas un monstre ; il est sensible, généreux même. Mais il cède par petites étapes, sans jamais décider vraiment. Le livre est aussi une méditation sur l’amour donné sans limite et sur l’ingratitude qu’il peut produire. Enfin, il offre une porte d’entrée idéale dans Balzac : court, dramatique, peuplé de figures inoubliables."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Paris, 1819. Dans une pension misérable, le père Goriot se ruine pour ses deux filles mariées dans le grand monde, qui le renient. Un jeune ambitieux, Rastignac, observe ce drame et apprend les règles d’une société régie par l’argent. Goriot meurt seul ; Rastignac lance son défi à Paris."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’amour paternel</b> : Goriot donne tout, jusqu’à sa dignité ; une passion unique qui détruit celui qu’elle habite.",
+      "<b>L’argent roi</b> : mariages arrangés, sentiments monnayés ; tout finit par se compter en francs.",
+      "<b>Trois éducations</b> : Mme de Beauséant (les salons), Vautrin (le crime), Goriot (le sort des faibles).",
+      "<b>La Comédie humaine</b> : premier roman où les personnages reviennent de façon systématique d’une œuvre à l’autre.",
+      "<b>Pour en parler</b> : « un Rastignac » désigne un ambitieux prêt à tout. Inutile de [[tergiverser|tergiverser]] avec ses principes : chaque concession prépare la suivante.",
+      "<b>Les personnages clés</b> : Goriot, ancien vermicellier enrichi sous la Révolution ; Rastignac, provincial pauvre et ambitieux ; Vautrin, forçat évadé qui dit tout haut les règles cachées du jeu social ; Mme de Beauséant, grande dame abandonnée qui quitte Paris."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>La pension Vauquer</b> : Rastignac, Vautrin, Victorine Taillefer, Bianchon et le père Goriot, ancien fabricant de vermicelle, moqué de tous.",
+      "<b>Le secret</b> : les belles visiteuses de Goriot sont ses filles, Anastasie de Restaud et Delphine de Nucingen, richement dotées puis oublieuses.",
+      "<b>L’entrée dans le monde</b> : Rastignac est introduit par sa cousine Mme de Beauséant et devient l’amant de Delphine.",
+      "<b>Vautrin</b> : il propose de faire tuer en duel le frère de Victorine pour que Rastignac épouse l’héritière. Eugène laisse faire. Vautrin, alias le forçat Jacques Collin, est dénoncé et arrêté.",
+      "<b>La ruine</b> : les deux filles reviennent avec leurs dettes et se disputent devant leur père, frappé d’une attaque.",
+      "<b>Le dernier bal</b> : Mme de Beauséant, abandonnée par son amant pour un riche mariage, quitte Paris ; Delphine choisit le bal plutôt que le chevet de son père.",
+      "<b>La fin</b> : Goriot meurt sans ses filles ; Rastignac met sa montre en gage pour payer l’enterrement. Deux voitures vides suivent le corbillard au Père-Lachaise. Face à Paris, il lance : « À nous deux maintenant ! »"
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Le contexte</b> : écrit en quelques semaines à l’automne 1834, publié en feuilleton puis en volume en 1835, succès immédiat. Balzac y invente le retour des personnages : Rastignac deviendra ministre, Vautrin chef de la police.",
+      "<b>Le réalisme</b> : le décor explique les personnages ; Balzac veut classer les « espèces sociales » comme les naturalistes classent les animaux.",
+      "<b>La société</b> : sous la Restauration, l’argent commande ; Vautrin dit tout haut ce que les salons font en silence. Rien ne vient [[endiguer|endiguer]] sa puissance.",
+      "<b>Aujourd’hui</b> : un roman sur l’ambition qui avance par petites concessions, et une porte d’entrée idéale dans Balzac."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Seuls les paranoïaques survivent",
+   "by": "Andrew S. Grove · 1996",
+   "min": 9,
+   "exMin": 3,
+   "src": "Andrew S. Grove, Only the Paranoid Survive. How to Exploit the Crisis Points That Challenge Every Company and Career, New York, Currency Doubleday, 1996 ; titre français : Seuls les paranoïaques survivent. Lettre aux actionnaires d’Intel du rapport annuel 1986 (réduction des effectifs de 7 200 personnes, fermeture de huit usines, R&D de 228 millions de dollars soit 18 % du chiffre d’affaires). Part de marché d’Intel en mémoires en 1984 et dialogue Grove-Moore de 1985 : récit de Grove repris par SemiWiki. Capitalisation d’Intel de 4 à 197 milliards de dollars : chiffre couramment cité lors du décès de Grove (mars 2016). Charge de 475 millions de dollars liée au bug du Pentium : Intel, résultats du 4e trimestre 1994. Personnalité de l’année du magazine Time : 1997.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Le patron d’Intel raconte comment son entreprise a failli disparaître au milieu des années 1980, puis en tire une méthode. Chaque entreprise traverse un jour un « point d’inflexion stratégique », un moment où les règles de son marché changent. Ceux qui le voient tard meurent ; ceux qui osent changer à temps prospèrent."
+      ],
+      [
+       "Le point d’inflexion stratégique",
+       "C’est le moment où une force devient dix fois plus puissante que d’habitude (Grove parle de « force 10X ») : un concurrent, une technologie, un client, une réglementation. La courbe de l’activité bascule, vers le haut ou vers le bas. Le problème : sur le moment, on ne sait pas si l’on est au point de bascule."
+      ],
+      [
+       "Le dialogue qui a sauvé Intel",
+       "En 1985, Grove demande à Gordon Moore ce que ferait un nouveau patron si le conseil les remplaçait. Réponse : il abandonnerait les mémoires. Les deux hommes décident de le faire eux-mêmes. Intel réduit ses effectifs de 7 200 personnes et ferme huit usines pour se concentrer sur les microprocesseurs."
+      ],
+      [
+       "Écouter les Cassandres",
+       "Les signaux faibles viennent rarement de la direction. Ils viennent des commerciaux, des ingénieurs, des clients, de ceux qui sont au contact du terrain. Le travail du dirigeant est de distinguer le signal du bruit, et de ne pas faire taire les porteurs de mauvaises nouvelles."
+      ],
+      [
+       "Laisser régner le chaos, puis le maîtriser",
+       "Pendant la transition, il faut laisser l’entreprise expérimenter et débattre, puis trancher et concentrer les ressources. La traversée de cette « vallée de la mort » prend des années : chez Intel, environ trois ans."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un réfugié devenu patron"
+    },
+    {
+     "p": "András Gróf naît à Budapest en 1936. Il survit à la persécution nazie, fuit la Hongrie après l’insurrection de 1956 et arrive aux États-Unis sans un sou. Il y devient ingénieur chimiste, puis le troisième salarié d’Intel, fondé en 1968 par Robert Noyce et Gordon Moore. Président opérationnel, puis directeur général de 1987 à 1998, il fait d’Intel le premier fabricant mondial de semi-conducteurs. Pendant son mandat, la valeur boursière de l’entreprise passe d’environ 4 à 197 milliards de dollars. En 1996, il publie ce livre, mi-mémoires, mi-manuel de stratégie. Le titre reprend une de ses formules favorites : le succès engendre la complaisance, la complaisance engendre l’échec, et seuls les paranoïaques survivent. Grove n’y fait pas l’éloge de la méfiance envers les autres, mais d’une vigilance permanente envers ce qui pourrait rendre son propre modèle obsolète."
+    },
+    {
+     "h5": "1985 : la fin des mémoires"
+    },
+    {
+     "p": "Intel est d’abord une entreprise de mémoires informatiques. Elle a pratiquement inventé le marché. Mais au début des années 1980, les fabricants japonais produisent des puces de meilleure qualité, moins chères, en volumes énormes. La part d’Intel s’effondre : selon le récit de Grove, elle tombe à 1,3 % en 1984. Pendant des mois, la direction préfère [[tergiverser|tergiverser]] : on lance des projets de défense, on espère un retournement. Grove décrit cette période comme une année d’errance. Puis vient le dialogue de 1985 avec Moore : « Si on nous mettait dehors, que ferait notre successeur ? » La réponse est évidente. Encore faut-il l’appliquer. Les vendeurs continuent d’annoncer des mémoires aux clients, les ingénieurs y tiennent par fierté. La sortie complète prendra environ trois ans."
+    },
+    {
+     "stats": [
+      [
+       "1,3 %",
+       "part d’Intel sur le marché des mémoires en 1984, selon Grove"
+      ],
+      [
+       "7 200",
+       "postes supprimés en 1985-1986"
+      ],
+      [
+       "8",
+       "usines fermées"
+      ],
+      [
+       "18 %",
+       "du chiffre d’affaires consacrés à la R&D en 1986"
+      ]
+     ]
+    },
+    {
+     "h5": "La mécanique des forces"
+    },
+    {
+     "p": "Grove reprend le modèle des cinq forces de Michael Porter (concurrents, clients, fournisseurs, nouveaux entrants, substituts) et en ajoute une sixième : les « complémenteurs », ces entreprises dont les produits rendent le vôtre plus utile, comme les éditeurs de logiciels pour les fabricants de puces. Une force devient « 10X » quand elle change d’échelle. Exemples du livre : les mémoires japonaises pour Intel, le conteneur pour les ports traditionnels, le passage du gros ordinateur au PC pour IBM et l’ensemble de l’industrie informatique, organisée jusque-là verticalement et devenue horizontale. Grove propose un test simple pour reconnaître le moment : quand votre principal concurrent n’est plus celui que vous surveilliez, quand vos clients changent de comportement, ou quand les meilleurs de vos équipes semblent soudain perdre le fil, il faut se demander si les règles ont changé."
+    },
+    {
+     "h5": "Le bug du Pentium, une leçon d’humilité"
+    },
+    {
+     "p": "Le livre s’ouvre sur une crise que Grove a mal gérée. En 1994, un professeur de mathématiques découvre une erreur de division dans le Pentium. Intel la juge rarissime et propose de remplacer la puce seulement aux clients qui prouvent en avoir besoin. Le public s’indigne, IBM suspend ses livraisons. Intel finit par proposer un remplacement à tous et passe une charge de 475 millions de dollars. Grove en tire une leçon : l’entreprise était devenue une marque grand public sans changer de réflexes. Le monde avait changé de règles, et la direction était la dernière à le voir."
+    },
+    {
+     "h5": "Ce que doit faire un dirigeant"
+    },
+    {
+     "p": "Pour Grove, le danger vient de l’intérieur : les cadres dirigeants ont souvent bâti leur carrière sur l’ancien modèle. Il faut donc s’informer à la base, accepter le débat, puis décider. Il insiste sur le timing : bouger trop tôt peut coûter cher, mais bouger trop tard est presque toujours fatal. Il applique la même grille à la carrière individuelle : chacun doit se demander si son métier traverse un point d’inflexion, et agir en conséquence. Le dernier chapitre est consacré à Internet, que Grove voit, en 1996, comme une force 10X pour tous les secteurs."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "On reproche au livre de raconter l’histoire après coup : il est facile de reconnaître un point d’inflexion une fois franchi. La méthode reste aussi très centrée sur Intel, et la paranoïa revendiquée peut tourner à la culture de la peur. Surtout, l’histoire récente d’Intel a donné un tour ironique au titre. L’entreprise a manqué le virage du smartphone, puis celui des puces pour l’intelligence artificielle, au profit d’Apple, de TSMC et de Nvidia. Les héritiers de Grove n’ont pas su [[endiguer|endiguer]] ces nouvelles forces 10X qu’il avait pourtant appris à repérer."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Le livre reste une référence dans la Silicon Valley et les écoles de commerce. Le magazine Time a fait de Grove sa personnalité de l’année en 1997. Steve Jobs le consultait ; les investisseurs citent encore le « point d’inflexion stratégique » à chaque rupture technologique. Grove est mort en mars 2016. Pour un professionnel de la supply chain, le livre offre une grille simple : surveiller la force qui change d’échelle, qu’il s’agisse d’un fournisseur dominant, d’une technologie ou d’une route commerciale."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Le patron d’Intel raconte comment son entreprise a failli disparaître en 1985 et en tire une méthode : repérer le « point d’inflexion stratégique », ce moment où les règles d’un marché changent, et oser se transformer avant qu’il ne soit trop tard."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le point d’inflexion</b> : une force devient dix fois plus puissante (« force 10X ») et fait basculer la courbe d’une activité.",
+      "<b>Le dialogue de 1985</b> : « Que ferait un nouveau patron ? » — sortir des mémoires. Intel le fait : 7 200 postes en moins, 8 usines fermées, priorité au microprocesseur.",
+      "<b>Les Cassandres</b> : les signaux faibles viennent du terrain ; il faut séparer le signal du bruit.",
+      "<b>Le chaos, puis l’ordre</b> : laisser expérimenter, puis trancher. Chez Intel, la traversée a duré environ trois ans.",
+      "<b>Le timing</b> : trop tôt coûte cher, trop tard est presque toujours fatal. Inutile de [[tergiverser|tergiverser]] une fois la bascule identifiée."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "1,3 %",
+       "part d’Intel sur le marché des mémoires en 1984, selon Grove"
+      ],
+      [
+       "7 200",
+       "postes supprimés en 1985-1986"
+      ],
+      [
+       "8",
+       "usines fermées"
+      ],
+      [
+       "18 %",
+       "du chiffre d’affaires consacrés à la R&D en 1986"
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : né à Budapest en 1936, réfugié en 1956, troisième salarié d’Intel, directeur général de 1987 à 1998 ; valeur boursière passée d’environ 4 à 197 milliards de dollars.",
+      "<b>Six forces</b> : les cinq de Porter, plus les « complémenteurs » (ex. les logiciels pour les puces). Une force devient « 10X » quand elle change d’échelle : mémoires japonaises, conteneur, PC face au gros ordinateur.",
+      "<b>La devise</b> : le succès engendre la complaisance, la complaisance l’échec ; seule une vigilance permanente protège.",
+      "<b>Le Pentium (1994)</b> : une erreur de calcul minimisée, un tollé, puis un remplacement pour tous et une charge de 475 millions de dollars.",
+      "<b>Les critiques</b> : une lecture après coup, une paranoïa qui peut virer à la peur ; et l’ironie d’un Intel qui n’a pas su [[endiguer|endiguer]] le smartphone ni l’IA.",
+      "<b>La postérité</b> : personnalité de l’année de Time en 1997, référence durable de la Silicon Valley ; une grille utile pour repérer la force qui change d’échelle dans une chaîne d’approvisionnement."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Chine : la consommation cale, l’investissement plonge",
+   "by": "Analyse",
+   "fig": "+ 0,4 %",
+   "figl": "ventes au détail chinoises en octobre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Bureau national des statistiques de Chine, indicateurs d’activité d’octobre 2026, publiés le 16 novembre 2026, via CNBC, Reuters (consensus), Poland Insight et Inquisitr (ventes au détail, production industrielle, investissement, immobilier, emploi, déclaration de Fu Linghui). Exportations d’octobre (+ 35,2 % en dollars) et excédent commercial : douanes chinoises. Prévisions de Goldman Sachs et analyse de Citi : via CNBC. Données arrêtées au 16 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La Chine exporte comme jamais, mais ses habitants n’achètent presque plus. Selon les chiffres publiés lundi 16 novembre par le Bureau national des statistiques, les ventes au détail n’ont progressé que de 0,4 % sur un an en octobre, deux fois moins que prévu et après 1,1 % en septembre. La production industrielle ralentit à 4,8 %. Et l’investissement recule de 8,1 % sur les dix premiers mois, une chute sans précédent hors période de Covid.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "+ 0,4 %",
+       "ventes au détail sur un an, contre + 0,8 % attendu"
+      ],
+      [
+       "+ 4,8 %",
+       "production industrielle, contre + 5,3 % attendu"
+      ],
+      [
+       "− 8,1 %",
+       "investissement en capital fixe sur dix mois"
+      ],
+      [
+       "− 21,6 %",
+       "investissement immobilier sur dix mois"
+      ]
+     ]
+    },
+    {
+     "h": "Une économie à deux vitesses"
+    },
+    {
+     "p": "D’un côté, l’industrie de pointe tourne à plein : la production high-tech bondit de 17,6 % et les exportations de 35,2 % en dollars, portées par la demande mondiale d’équipements pour l’intelligence artificielle. L’excédent commercial a dépassé 1 000 milliards de dollars dès octobre. De l’autre, l’économie domestique s’enlise. L’immobilier, qui concentre l’essentiel du patrimoine des ménages, s’effondre pour la cinquième année : l’investissement y plonge de 21,6 %. L’investissement privé recule de 11,4 %, celui des infrastructures de 5,1 %. Seul le chômage urbain s’améliore, à 5,1 %, mais il atteint 18 % chez les 16-24 ans. Le porte-parole du Bureau, Fu Linghui, insiste sur le fait que les industries avancées ont fourni plus de la moitié de la croissance industrielle depuis janvier : le message officiel reste celui d’une montée en gamme réussie."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’usine accélère, le reste recule",
+      "sub": "Chine, variation sur un an en %, octobre 2026 (investissements : cumul janvier-octobre)",
+      "rows": [
+       [
+        "Exportations (en dollars)",
+        35.2
+       ],
+       [
+        "Production high-tech",
+        17.6
+       ],
+       [
+        "Production industrielle",
+        4.8
+       ],
+       [
+        "Ventes au détail",
+        0.4
+       ],
+       [
+        "Investissement total",
+        -8.1
+       ],
+       [
+        "Investissement privé",
+        -11.4
+       ],
+       [
+        "Investissement immobilier",
+        -21.6
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Bureau national des statistiques de Chine et douanes chinoises, 16 novembre 2026."
+     }
+    },
+    {
+     "h": "Pékin temporise"
+    },
+    {
+     "p": "Les dirigeants chinois continuent de [[tergiverser|tergiverser]] sur un plan de relance massif tourné vers les ménages. Goldman Sachs prévoit une croissance de 4,6 % en 2026 et 4,5 % en 2027, avec une inflation sous 1 %. Mais la dépendance aux exportations a un coût politique : les partenaires commerciaux pressent Pékin de rééquilibrer son modèle, et Citi voit dans de nouvelles restrictions européennes un risque pour 2027. Faute de soutien à la consommation, la Chine continuera d’écouler ses surplus à l’étranger, ce qui risque d’[[endiguer|endiguer]] les prix industriels mondiaux mais d’attiser les tensions commerciales."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La Chine produit beaucoup plus qu’elle ne consomme. Tant que l’immobilier n’aura pas touché le fond, les ménages épargneront, et l’excédent commercial restera la soupape. Pour un acheteur européen, c’est la promesse de prix bas sur les biens industriels, mais aussi celle de nouvelles barrières douanières."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : ventes au détail + 0,4 % sur un an en octobre, deux fois moins que prévu (+ 1,1 % en septembre).",
+      "<b>Le reste</b> : production industrielle + 4,8 %, investissement − 8,1 % sur dix mois, du jamais-vu hors Covid."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "+ 0,4 %",
+       "ventes au détail sur un an, contre + 0,8 % attendu"
+      ],
+      [
+       "+ 4,8 %",
+       "production industrielle, contre + 5,3 % attendu"
+      ],
+      [
+       "− 8,1 %",
+       "investissement en capital fixe sur dix mois"
+      ],
+      [
+       "− 21,6 %",
+       "investissement immobilier sur dix mois"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Ce qui tourne</b> : production high-tech + 17,6 %, exportations + 35,2 % en dollars, excédent au-delà de 1 000 milliards de dollars.",
+      "<b>Ce qui cale</b> : immobilier − 21,6 %, investissement privé − 11,4 %, chômage des jeunes à 18 %.",
+      "<b>La politique</b> : Pékin continue de [[tergiverser|tergiverser]] sur une relance tournée vers les ménages ; Goldman Sachs table sur 4,6 % de croissance en 2026.",
+      "<b>L’effet mondial</b> : des surplus écoulés à l’étranger, de quoi [[endiguer|endiguer]] les prix industriels mais attiser les tensions commerciales."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’usine accélère, le reste recule",
+      "sub": "Chine, variation sur un an en %, octobre 2026 (investissements : cumul janvier-octobre)",
+      "rows": [
+       [
+        "Exportations (en dollars)",
+        35.2
+       ],
+       [
+        "Production high-tech",
+        17.6
+       ],
+       [
+        "Production industrielle",
+        4.8
+       ],
+       [
+        "Ventes au détail",
+        0.4
+       ],
+       [
+        "Investissement total",
+        -8.1
+       ],
+       [
+        "Investissement privé",
+        -11.4
+       ],
+       [
+        "Investissement immobilier",
+        -21.6
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Bureau national des statistiques de Chine et douanes chinoises, 16 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le déséquilibre</b> : la Chine produit bien plus qu’elle ne consomme ; l’export sert de soupape.",
+      "<b>À surveiller</b> : l’immobilier, clé de la confiance des ménages."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Shenzhen : Trump, Xi et Poutine à la même table",
+   "by": "Analyse",
+   "fig": "≈ 8 700",
+   "figl": "ogives nucléaires des trois puissances",
+   "min": 3,
+   "exMin": 2,
+   "src": "Al Jazeera, « Trump-Xi-Putin trilateral meeting at APEC: What to expect », 14 novembre 2026 (sommet de l’APEC à Shenzhen les 18 et 19 novembre, ordre du jour, positions, déclarations de Dmitri Peskov et Piotr Tolstoï, guerre avec l’Iran depuis le 28 février, Ormuz fermé depuis plus de 100 jours). Kremlin via Anadolu et South China Morning Post : rencontre fixée au jeudi 19 novembre. Arsenaux : Arms Control Association, d’après la Federation of American Scientists (Russie ≈ 4 400 ogives en stock militaire, mai 2026 ; États-Unis ≈ 3 700, mars 2026) et le département américain de la Défense (Chine, un peu plus de 600, décembre 2025). Traité New START : expiré le 5 février 2026. Données arrêtées au 16 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Pour la première fois, les dirigeants des trois grandes puissances nucléaires vont se réunir à trois. Donald Trump, Xi Jinping et Vladimir Poutine doivent se retrouver jeudi 19 novembre à Shenzhen, en marge du sommet de l’APEC. La Maison-Blanche annonce un thème principal : le désarmement nucléaire, sans traité en vigueur depuis février. Mais derrière la photo, chacun poursuit un but différent. Le Kremlin juge la rencontre « extrêmement importante », tout en précisant que les trois dirigeants ne pourront rien imposer aux autres pays.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "≈ 4 400",
+       "ogives dans le stock militaire russe"
+      ],
+      [
+       "≈ 3 700",
+       "ogives dans le stock militaire américain"
+      ],
+      [
+       "> 600",
+       "ogives chinoises, en forte hausse"
+      ],
+      [
+       "5 février 2026",
+       "fin du traité New START"
+      ]
+     ]
+    },
+    {
+     "h": "Un vide nucléaire à combler"
+    },
+    {
+     "p": "Le traité New START plafonnait les arsenaux stratégiques déployés des États-Unis et de la Russie. Il a expiré en février. Donald Trump a refusé la prolongation proposée par Moscou : il veut un nouvel accord qui inclue la Chine, dont l’arsenal croît le plus vite. Pékin refuse de se laisser lier par un cadre conçu sans elle, et juge déraisonnable, à ce stade, toute négociation à trois. Un responsable américain prévient : on ouvrira la discussion, sans attendre d’accord. Le risque est clair : sans règles, rien ne vient plus [[endiguer|endiguer]] une course aux armements à trois."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Trois arsenaux très inégaux",
+      "sub": "ogives dans les stocks militaires, estimations 2025-2026",
+      "rows": [
+       [
+        "Russie",
+        4400
+       ],
+       [
+        "États-Unis",
+        3700
+       ],
+       [
+        "Chine",
+        600
+       ]
+      ],
+      "suffix": "",
+      "note": "Source : Arms Control Association, d’après la FAS (Russie, mai 2026 ; États-Unis, mars 2026) et le Pentagone (Chine, décembre 2025). Hors ogives retirées en attente de démantèlement."
+     }
+    },
+    {
+     "h": "Trois agendas"
+    },
+    {
+     "p": "Pékin veut surtout la fin de la guerre avec l’Iran : avant le conflit, un tiers de son pétrole brut passait par le détroit d’Ormuz, fermé depuis plus de cent jours. Moscou profite au contraire des prix élevés de l’énergie, et Vladimir Poutine cherche l’image d’un égal des deux autres. Le président de la commission des affaires étrangères de la Douma parle même d’un « nouveau Yalta », en référence à la conférence de 1945 qui avait partagé l’Europe. Washington, affaibli par la défaite républicaine aux élections de mi-mandat, veut montrer son influence. L’Ukraine ne devrait pas être abordée, alors que ses alliés européens, absents de la table, auraient tort de [[tergiverser|tergiverser]] sur leur propre défense."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une rencontre à trois est un symbole fort, mais aucun des trois dirigeants ne peut, seul, mettre fin aux guerres en Iran ou en Ukraine. L’enjeu réel est de savoir si ce format ouvre un canal durable sur les armes nucléaires, ou s’il ne sert qu’à afficher un partage d’influence entre grandes puissances."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>L’événement</b> : première réunion à trois Trump-Xi-Poutine, jeudi 19 novembre à Shenzhen, en marge de l’APEC.",
+      "<b>Le thème officiel</b> : le nucléaire, sans traité depuis février."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 4 400",
+       "ogives dans le stock militaire russe"
+      ],
+      [
+       "≈ 3 700",
+       "ogives dans le stock militaire américain"
+      ],
+      [
+       "> 600",
+       "ogives chinoises, en forte hausse"
+      ],
+      [
+       "5 février 2026",
+       "fin du traité New START"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le vide</b> : New START a expiré ; Trump veut un accord incluant la Chine, qui refuse. Sans règles, plus rien pour [[endiguer|endiguer]] une course aux armements.",
+      "<b>La Chine</b> : veut la fin de la guerre avec l’Iran ; un tiers de son brut passait par Ormuz, fermé depuis plus de cent jours.",
+      "<b>La Russie</b> : profite de l’énergie chère ; un député parle d’un « nouveau Yalta ».",
+      "<b>Les États-Unis</b> : affaiblis par les élections de mi-mandat. L’Ukraine absente ; les Européens ne peuvent plus [[tergiverser|tergiverser]] sur leur défense."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Trois arsenaux très inégaux",
+      "sub": "ogives dans les stocks militaires, estimations 2025-2026",
+      "rows": [
+       [
+        "Russie",
+        4400
+       ],
+       [
+        "États-Unis",
+        3700
+       ],
+       [
+        "Chine",
+        600
+       ]
+      ],
+      "suffix": "",
+      "note": "Source : Arms Control Association, d’après la FAS (Russie, mai 2026 ; États-Unis, mars 2026) et le Pentagone (Chine, décembre 2025). Hors ogives retirées en attente de démantèlement."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Un symbole</b> : fort, mais aucun des trois ne peut seul mettre fin aux guerres en Iran ou en Ukraine.",
+      "<b>À surveiller</b> : un canal durable sur le nucléaire, ou une simple photo de partage d’influence."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Poste américaine : moins de colis, mais plus chers",
+   "by": "Analyse",
+   "fig": "11 %",
+   "figl": "surcharge carburant permanente proposée",
+   "min": 3,
+   "exMin": 2,
+   "src": "US Postal Service, résultats de l’exercice 2026 (clos le 30 septembre), communiqué du 10 novembre 2026 (perte nette, chiffre d’affaires, colis, courrier, heures travaillées, plafond de dette de 15 milliards de dollars, report d’environ 2,6 milliards de cotisations). Proposition tarifaire de janvier 2027 (dossier CP2027-1) et déclaration de David Steiner : via Value Added Resource et Supply Chain Dive. Données arrêtées au 16 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La Poste américaine, l’USPS, a trouvé sa formule : transporter moins de colis, mais les facturer plus cher. Sur l’exercice clos fin septembre, son volume de colis a reculé de 5,3 %, mais le chiffre d’affaires correspondant a progressé de 5,1 %. Et elle propose de recommencer : une hausse moyenne de 5,9 % au 17 janvier 2027, et une surcharge carburant de 11 % rendue permanente.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "− 6,5 Md$",
+       "perte nette de l’exercice 2026, contre − 9 Md$"
+      ],
+      [
+       "34,1 Md$",
+       "chiffre d’affaires des colis, + 5,1 %"
+      ],
+      [
+       "− 5,3 %",
+       "volume de colis, soit 359 millions de moins"
+      ],
+      [
+       "+ 5,9 %",
+       "hausse moyenne des tarifs colis proposée"
+      ]
+     ]
+    },
+    {
+     "h": "Le pari du prix"
+    },
+    {
+     "p": "L’USPS a perdu 6,5 milliards de dollars sur l’exercice, contre 9 milliards l’année précédente. Ses recettes totales atteignent 82,9 milliards (+ 3 %), mais ses charges restent à 89,4 milliards. Le courrier classique continue de fondre : − 5,1 % en volume. Pour [[endiguer|endiguer]] les pertes, la direction a supprimé 19 millions d’heures de travail et augmenté ses prix. En avril 2026, elle a ajouté un supplément temporaire de 8 % pour couvrir la hausse du carburant. Elle propose maintenant de le porter à 11 % et de le rendre permanent, avec un ajustement hebdomadaire plus tard, sur le modèle d’UPS et de FedEx. Le postier en chef, David Steiner, estime qu’il reste « de la marge de prix »."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les recettes montent, les volumes baissent",
+      "sub": "USPS, exercice 2026, variation sur un an en %",
+      "rows": [
+       [
+        "Recettes colis",
+        5.1
+       ],
+       [
+        "Recettes courrier marketing",
+        5.3
+       ],
+       [
+        "Recettes courrier ordinaire",
+        1.2
+       ],
+       [
+        "Volume courrier marketing",
+        -1.1
+       ],
+       [
+        "Volume courrier ordinaire",
+        -5.1
+       ],
+       [
+        "Volume colis",
+        -5.3
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : USPS, résultats de l’exercice 2026, 10 novembre 2026."
+     }
+    },
+    {
+     "h": "Le risque de la fuite"
+    },
+    {
+     "p": "La stratégie a ses limites. Chaque hausse pousse les gros expéditeurs vers d’autres réseaux, en premier lieu celui d’Amazon, qui livre désormais lui-même une large part de ses colis. L’USPS reste aussi sous contrainte financière : son plafond d’endettement est bloqué à 15 milliards de dollars depuis 1992, et elle a reporté environ 2,6 milliards de cotisations de retraite cette année. La commission de régulation doit encore valider les nouveaux tarifs. Les tarifs internationaux, eux, augmenteraient de 7,9 % en moyenne ; le prix du timbre ne bougerait pas. Les e-commerçants, eux, n’ont plus le loisir de [[tergiverser|tergiverser]] : il faut renégocier ou diversifier ses transporteurs avant janvier."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "L’USPS illustre une tendance de fond du colis : quand les volumes plafonnent, les transporteurs défendent leurs marges par le prix et les surcharges. Pour un expéditeur, la surcharge carburant devient un poste permanent à piloter, et non plus un accident de conjoncture."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>La formule</b> : colis − 5,3 % en volume, mais + 5,1 % en recettes.",
+      "<b>La suite</b> : + 5,9 % en moyenne au 17 janvier 2027 et surcharge carburant de 11 % rendue permanente."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "− 6,5 Md$",
+       "perte nette de l’exercice 2026, contre − 9 Md$"
+      ],
+      [
+       "34,1 Md$",
+       "chiffre d’affaires des colis, + 5,1 %"
+      ],
+      [
+       "− 5,3 %",
+       "volume de colis, soit 359 millions de moins"
+      ],
+      [
+       "+ 5,9 %",
+       "hausse moyenne des tarifs colis proposée"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les comptes</b> : recettes 82,9 Md$ (+ 3 %), charges 89,4 Md$ ; courrier ordinaire − 5,1 % en volume.",
+      "<b>Les leviers</b> : 19 millions d’heures en moins et des prix en hausse pour [[endiguer|endiguer]] les pertes.",
+      "<b>La surcharge</b> : 8 % temporaire depuis avril, bientôt 11 % permanente, puis ajustement hebdomadaire comme UPS et FedEx.",
+      "<b>Les risques</b> : fuite des gros clients vers Amazon, dette plafonnée à 15 Md$ depuis 1992. Les e-commerçants ne peuvent plus [[tergiverser|tergiverser]] : renégocier avant janvier."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les recettes montent, les volumes baissent",
+      "sub": "USPS, exercice 2026, variation sur un an en %",
+      "rows": [
+       [
+        "Recettes colis",
+        5.1
+       ],
+       [
+        "Recettes courrier marketing",
+        5.3
+       ],
+       [
+        "Recettes courrier ordinaire",
+        1.2
+       ],
+       [
+        "Volume courrier marketing",
+        -1.1
+       ],
+       [
+        "Volume courrier ordinaire",
+        -5.1
+       ],
+       [
+        "Volume colis",
+        -5.3
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : USPS, résultats de l’exercice 2026, 10 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La tendance</b> : volumes plafonnés, marges défendues par le prix.",
+      "<b>Pour l’expéditeur</b> : la surcharge carburant devient un coût permanent à piloter, à intégrer dans les appels d’offres transport."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Baidu : le cloud double, la publicité fond",
+   "by": "Analyse",
+   "fig": "+ 94 %",
+   "figl": "revenus du cloud IA de Baidu",
+   "min": 3,
+   "exMin": 2,
+   "src": "Baidu, résultats du troisième trimestre 2026 (clos le 30 septembre), communiqué du 16 novembre 2026 (PR Newswire, Manila Times) : chiffre d’affaires, activités IA, publicité en ligne, cloud IA, résultats, Apollo Go, rachats d’actions, déclarations de Robin Li et Haijian He. Réaction du marché et recul de 22 % de la publicité : Newsquawk, 16 novembre 2026 ; DigiTimes, 17 novembre 2026. Données arrêtées au 16 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le « Google chinois » est en train de changer de métier. Au troisième trimestre, les revenus publicitaires de Baidu ont chuté de 22 % sur un an, tandis que son cloud dédié à l’intelligence artificielle a presque doublé (+ 94 %). Résultat : un chiffre d’affaires stable à 30,8 milliards de yuans (− 1 %), mais une entreprise dont plus de la moitié des revenus courants vient désormais de l’IA.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "30,8 Md¥",
+       "chiffre d’affaires trimestriel, − 1 % sur un an"
+      ],
+      [
+       "− 22 %",
+       "publicité en ligne, à 11,9 Md¥"
+      ],
+      [
+       "+ 94 %",
+       "cloud IA, à 8,2 Md¥"
+      ],
+      [
+       "53 %",
+       "part de l’IA dans l’activité générale, contre 39 %"
+      ]
+     ]
+    },
+    {
+     "h": "Le moteur de recherche s’essouffle"
+    },
+    {
+     "p": "La publicité liée aux recherches a longtemps été la rente de Baidu. Elle souffre doublement : l’économie chinoise freine, et les internautes posent de plus en plus leurs questions à des assistants conversationnels, qui affichent une réponse plutôt qu’une liste de liens sponsorisés. Baidu a lui-même accéléré cette bascule en intégrant l’IA à son moteur. Rien ne semble pouvoir [[endiguer|endiguer]] ce recul : même les nouveaux formats publicitaires conçus pour l’IA baissent de 15 %."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Une bascule en un an",
+      "sub": "Baidu, revenus du 3e trimestre, en milliards de yuans",
+      "rows": [
+       [
+        "Publicité en ligne T3 2025",
+        15.3
+       ],
+       [
+        "Publicité en ligne T3 2026",
+        11.9
+       ],
+       [
+        "Cloud IA T3 2025",
+        4.2
+       ],
+       [
+        "Cloud IA T3 2026",
+        8.2
+       ]
+      ],
+      "suffix": " Md¥",
+      "note": "Source : Baidu, résultats du troisième trimestre 2026, 16 novembre 2026."
+     }
+    },
+    {
+     "h": "Le pari des puces et des robotaxis"
+    },
+    {
+     "p": "Le relais vient de l’infrastructure : la location de puissance de calcul sur processeurs graphiques a bondi de 191 %, portée par la ruée des entreprises chinoises vers l’IA. Les activités dopées à l’IA atteignent 13,2 milliards de yuans (+ 37 %). Baidu reste aussi pionnier du taxi autonome : Apollo Go opère dans 30 villes et a dépassé 390 millions de kilomètres cumulés. L’entreprise renoue avec le bénéfice (1,4 milliard de yuans, après une lourde dépréciation l’an dernier), mais sa marge opérationnelle n’est que de 2 %. Depuis janvier, le groupe a consacré 373 millions de dollars à des rachats d’actions pour rassurer ses actionnaires. Robin Li refuse de [[tergiverser|tergiverser]] : l’investissement dans l’IA continuera, même si la publicité souffre."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Baidu montre ce que l’IA générative fait aux modèles bâtis sur la recherche : elle détruit une rente avant d’en créer une autre, moins rentable au départ. Sa capacité à vendre de la puissance de calcul dépend aussi de l’accès aux puces avancées, au cœur du bras de fer technologique entre Pékin et Washington."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : cloud IA + 94 %, publicité − 22 %, chiffre d’affaires stable à 30,8 Md¥ (− 1 %).",
+      "<b>Le tournant</b> : l’IA pèse 53 % de l’activité générale, contre 39 % un an plus tôt."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "30,8 Md¥",
+       "chiffre d’affaires trimestriel, − 1 % sur un an"
+      ],
+      [
+       "− 22 %",
+       "publicité en ligne, à 11,9 Md¥"
+      ],
+      [
+       "+ 94 %",
+       "cloud IA, à 8,2 Md¥"
+      ],
+      [
+       "53 %",
+       "part de l’IA dans l’activité générale, contre 39 %"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>La publicité</b> : économie qui freine et assistants IA qui remplacent les liens sponsorisés ; rien pour [[endiguer|endiguer]] la baisse, même les formats IA reculent de 15 %.",
+      "<b>Le relais</b> : cloud GPU + 191 %, activités IA 13,2 Md¥ (+ 37 %).",
+      "<b>Apollo Go</b> : 30 villes, plus de 390 millions de km cumulés.",
+      "<b>Les comptes</b> : bénéfice net de 1,4 Md¥, marge opérationnelle de 2 %. Robin Li refuse de [[tergiverser|tergiverser]] sur l’IA."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Une bascule en un an",
+      "sub": "Baidu, revenus du 3e trimestre, en milliards de yuans",
+      "rows": [
+       [
+        "Publicité en ligne T3 2025",
+        15.3
+       ],
+       [
+        "Publicité en ligne T3 2026",
+        11.9
+       ],
+       [
+        "Cloud IA T3 2025",
+        4.2
+       ],
+       [
+        "Cloud IA T3 2026",
+        8.2
+       ]
+      ],
+      "suffix": " Md¥",
+      "note": "Source : Baidu, résultats du troisième trimestre 2026, 16 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : l’IA détruit la rente de la recherche avant d’en créer une autre, moins rentable au départ.",
+      "<b>À surveiller</b> : l’accès aux puces avancées, enjeu central du bras de fer technologique entre Pékin et Washington."
+     ]
+    }
+   ]
+  }
+ ]
+}
