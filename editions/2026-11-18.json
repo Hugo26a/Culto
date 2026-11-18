@@ -1,0 +1,953 @@
+{
+ "date": "2026-11-18",
+ "label": "Mercredi 18 novembre 2026",
+ "n": 28,
+ "example": false,
+ "week": {
+  "start": "2026-11-16",
+  "label": "Semaine du 16 novembre",
+  "day": 3,
+  "words": [
+   {
+    "key": "endiguer",
+    "w": "Endiguer",
+    "ph": "[ɑ̃.di.ɡe] · verbe transitif",
+    "short": "Contenir un phénomène pour l’empêcher de s’étendre.",
+    "def": "Au sens propre, retenir un cours d’eau par des digues. Au figuré, freiner ou contenir quelque chose qui menace de déborder : une épidémie, une hausse des prix, une crise, un afflux de demandes. Le mot ne promet pas la disparition du problème, seulement sa maîtrise : on endigue une vague, on ne la supprime pas. Il s’emploie très naturellement en réunion, à propos de coûts, de retards ou de risques.",
+    "ety": "Formé sur « digue », mot emprunté au moyen néerlandais dijc, « levée de terre ». Le verbe a d’abord désigné le travail des ingénieurs qui contiennent les rivières et la mer, avant de passer au sens figuré.",
+    "ex": "Pour endiguer la hausse des coûts de transport, nous avons regroupé les expéditions de fin de mois.",
+    "syn": "contenir, juguler, enrayer, freiner, circonscrire"
+   },
+   {
+    "key": "tergiverser",
+    "w": "Tergiverser",
+    "ph": "[tɛʁ.ʒi.vɛʁ.se] · verbe intransitif",
+    "short": "Hésiter, chercher des détours pour retarder une décision.",
+    "def": "Se dit de quelqu’un qui use de faux-fuyants, multiplie les hésitations ou les prétextes pour éviter de trancher. Le mot est plus critique que « hésiter » : il suggère une indécision qui fait perdre du temps, parfois volontairement. On l’emploie souvent à la forme négative, pour appeler à agir : « il ne faut plus tergiverser ».",
+    "ety": "Du latin tergiversari, « tourner le dos », formé sur tergum, « le dos », et vertere, « tourner ». L’image est celle de quelqu’un qui fait volte-face au lieu d’affronter l’obstacle.",
+    "ex": "Le client a assez tergiversé : s’il ne valide pas le devis vendredi, nous perdrons le créneau chez le transporteur.",
+    "syn": "atermoyer, hésiter, louvoyer, temporiser, biaiser"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Cyrano de Bergerac",
+   "by": "Edmond Rostand · 1897",
+   "tagline": "Le panache et le masque",
+   "min": 10,
+   "exMin": 4,
+   "src": "Edmond Rostand, Cyrano de Bergerac, comédie héroïque en cinq actes et en vers, créée au théâtre de la Porte-Saint-Martin le 28 décembre 1897, avec Constant Coquelin dans le rôle-titre ; publiée chez Charpentier et Fasquelle, 1898. Rostand est mort le 2 décembre 1918 : l’œuvre est dans le domaine public. Citation tirée du texte original (acte I, scène 4, « tirade du nez »). Personnage historique : Savinien de Cyrano de Bergerac (1619-1655), auteur de L’Autre Monde ou les États et Empires de la Lune. Film de Jean-Paul Rappeneau (1990) : 10 César. Pièce Edmond d’Alexis Michalik (2016).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Paris, 1640. Cyrano, poète, bretteur et cadet de Gascogne, aime en secret sa cousine Roxane, mais se croit indigne d’elle à cause de son nez démesuré. Roxane s’éprend du beau Christian, qui ne sait pas parler d’amour : Cyrano lui prête ses mots. Il gardera ce secret quinze ans, jusqu’à son dernier soir."
+      ],
+      [
+       "L’esprit contre l’apparence",
+       "Roxane croit aimer un visage ; elle aime en réalité une voix et une âme. Aucun des deux hommes n’est complet seul : l’un a la beauté, l’autre l’éloquence. La pièce montre ce que coûte de ne se fier qu’aux apparences."
+      ],
+      [
+       "Le panache",
+       "C’est le dernier mot de la pièce. Cyrano refuse les protecteurs, la flatterie et les compromis, quitte à rester pauvre. Le panache, c’est l’élégance du geste gratuit, le courage sans calcul. Le mot a gardé ce sens dans la langue courante."
+      ],
+      [
+       "Le prix du silence",
+       "Après la mort de Christian, Cyrano pourrait parler. Il se tait, par loyauté et par fierté. Lui qui ne recule devant aucun duel ne cesse de [[tergiverser|tergiverser]] devant l’aveu. Noblesse ou peur ? La pièce laisse la question ouverte."
+      ],
+      [
+       "Un triomphe à contre-courant",
+       "En 1897, le théâtre est dominé par le naturalisme et le symbolisme. Rostand ose des alexandrins, des duels et des capes. Le public lui fait un triomphe, et la pièce est souvent présentée comme la plus jouée du répertoire français."
+      ],
+      [
+       "Pour en parler",
+       "« La tirade du nez » désigne un morceau de bravoure verbale. « Jouer les Cyrano », c’est écrire ou parler à la place d’un autre, comme une plume de l’ombre."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le nez et l’épée"
+    },
+    {
+     "p": "Paris, 1640, à l’hôtel de Bourgogne. Le public attend une pastorale jouée par le gros acteur Montfleury. Parmi les spectateurs, la belle Roxane, le comte de Guiche, neveu du cardinal de Richelieu et homme marié qui la courtise, et un jeune homme timide, Christian de Neuvillette, qui la dévore des yeux. Soudain, une voix interdit à Montfleury de jouer : c’est Cyrano de Bergerac, qui lui a défendu de monter sur scène pendant un mois. L’acteur s’enfuit, Cyrano rembourse les spectateurs avec tout l’argent de son mois.",
+     "lead": 1
+    },
+    {
+     "p": "Un vicomte fat, Valvert, croit l’humilier en lui lançant : « Vous avez un nez… très grand. » Cyrano lui répond par une longue tirade où il improvise vingt manières plus spirituelles de se moquer de son propre nez. Puis il se bat en duel avec lui tout en composant une ballade, et touche son adversaire au dernier vers. Le soir, il avoue à son ami Le Bret la raison de sa mélancolie : il aime Roxane, sa cousine, mais n’ose espérer être aimé avec un tel visage. La duègne de Roxane vient lui demander un rendez-vous. Fou d’espoir, Cyrano part seul affronter cent hommes postés à la porte de Nesle pour protéger un ami poète."
+    },
+    {
+     "h5": "La confidence"
+    },
+    {
+     "p": "Le lendemain, dans la rôtisserie de Ragueneau, pâtissier qui nourrit les poètes à crédit, Cyrano retrouve Roxane. Elle lui confie qu’elle aime… un autre : Christian, qui vient d’entrer chez les cadets de Gascogne, la compagnie de Cyrano. Elle lui demande de le protéger. Cyrano encaisse le coup et promet. Devant les cadets, Christian le provoque en multipliant les allusions au nez. Contre toute attente, Cyrano ne le tue pas. Christian lui avoue son drame : il aime Roxane, mais il est incapable de lui écrire ou de lui parler avec esprit. Cyrano lui propose un pacte : « Je serai ton esprit, tu seras ma beauté. » Il refuse aussi, dans une tirade célèbre, la protection de De Guiche : plutôt la liberté que la courbette."
+    },
+    {
+     "h5": "Le balcon"
+    },
+    {
+     "p": "Roxane reçoit des lettres magnifiques signées Christian, écrites par Cyrano. Mais lorsque Christian veut lui parler seul, il ne trouve que des banalités, et elle le congédie. Le soir, sous son balcon, Cyrano se cache dans l’ombre et parle à sa place, d’abord en soufflant, puis de sa propre voix. Roxane, bouleversée, accorde un baiser, que Christian monte cueillir. Arrive un capucin porteur d’une lettre de De Guiche, qui part pour la guerre et veut voir Roxane en secret. Elle lit la lettre à voix haute en la travestissant, et obtient que le moine la marie sur-le-champ à Christian. Pour retenir De Guiche dehors, Cyrano se fait passer pour un homme tombé de la Lune. Furieux, De Guiche envoie les cadets au siège d’Arras."
+    },
+    {
+     "h5": "Le siège d’Arras"
+    },
+    {
+     "p": "Les cadets meurent de faim dans les tranchées. Chaque matin, Cyrano traverse les lignes espagnoles au péril de sa vie pour envoyer à Roxane une lettre signée Christian, parfois deux par jour. Un carrosse surgit : Roxane a franchi les lignes ennemies avec Ragueneau et des vivres. Elle dit à Christian que ses lettres l’ont transformée et qu’elle l’aimerait désormais même s’il était laid. Christian comprend alors que c’est Cyrano qu’elle aime. Il exige qu’il lui dise la vérité. Mais avant que Cyrano ne parle, Christian est tué à la première salve. Cyrano se tait et se jette dans la bataille."
+    },
+    {
+     "h5": "Quinze ans après"
+    },
+    {
+     "p": "En 1655, Roxane vit en deuil dans un couvent. Chaque samedi, Cyrano vient lui raconter les nouvelles de la ville. Ce jour-là, il arrive en retard : des ennemis ont fait tomber une poutre sur sa tête. Mourant, il demande à lire la « dernière lettre » de Christian, que Roxane porte sur son cœur. Il la lit à voix haute alors que la nuit tombe. Roxane comprend qu’il ne peut plus voir le texte : il le connaît par cœur, parce qu’il l’a écrit. Elle découvre qu’elle a aimé un seul homme et l’a perdu deux fois. Cyrano meurt en se battant, l’épée levée contre ses vieux ennemis, le mensonge, les compromis, la sottise, en emportant une seule chose intacte : son panache."
+    },
+    {
+     "quote": "C’est un roc !… c’est un pic !… c’est un cap ! / Que dis-je, c’est un cap ?… C’est une péninsule !",
+     "cite": "Cyrano, acte I, scène 4, la « tirade du nez »"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un pari de jeune auteur"
+    },
+    {
+     "p": "Edmond Rostand a 29 ans et reste peu connu quand il écrit Cyrano pour le grand acteur Constant Coquelin. Créée le 28 décembre 1897, la pièce déclenche une ovation devenue légendaire. Elle arrive dans une France divisée par l’affaire Dreyfus et encore marquée par la défaite de 1870 : le public y retrouve une image flatteuse de lui-même, faite de bravoure, d’esprit et de générosité."
+    },
+    {
+     "h5": "Le vrai Cyrano"
+    },
+    {
+     "p": "Savinien de Cyrano de Bergerac a existé. Né à Paris en 1619, il a servi chez les cadets, été blessé au siège d’Arras en 1640, puis écrit des récits de voyage imaginaires dans la Lune et le Soleil. Libre penseur, il meurt en 1655, après avoir été blessé, selon la tradition, par une poutre. Rostand garde ces traits et invente l’histoire d’amour, le pacte avec Christian et la tirade du nez."
+    },
+    {
+     "h5": "Une virtuosité du vers"
+    },
+    {
+     "p": "La pièce est écrite en alexandrins, mais d’une souplesse rare : les répliques se coupent, rebondissent, passent du burlesque au lyrique en un vers. Rostand mêle tous les registres : comédie de cape et d’épée, farce, scène de balcon, tableau de guerre, agonie. Le langage est le vrai sujet : Cyrano séduit, se bat et meurt avec les mots. Les grandes tirades, celles du nez, du « non, merci » ou de la Lune, sont des morceaux de bravoure qui ont fait de la pièce un trésor de la mémoire scolaire."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que la question de la pièce n’a pas vieilli : qui aime-t-on vraiment, l’image ou la personne ? À l’heure des profils soignés et des messages retouchés, le pacte entre Cyrano et Christian ressemble à une fable moderne sur l’authenticité. La pièce rappelle aussi qu’on ne peut pas [[endiguer|endiguer]] indéfiniment ce qu’on ressent : à force de se taire, Cyrano perd tout. Enfin, elle offre l’une des plus belles leçons d’indépendance de la littérature française, portée par le film de Jean-Paul Rappeneau avec Gérard Depardieu (1990), couronné de dix César."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Paris, 1640. Cyrano, poète et bretteur au nez démesuré, aime en secret sa cousine Roxane. Elle aime le beau Christian, qui ne sait pas parler : Cyrano écrit et parle pour lui. Il garde le secret quinze ans, jusqu’à sa mort.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’esprit contre l’apparence</b> : Roxane croit aimer un visage, elle aime une âme. Aucun des deux hommes n’est complet seul.",
+      "<b>Le panache</b> : dernier mot de la pièce ; refus des protecteurs et des compromis, courage sans calcul.",
+      "<b>Le silence</b> : intrépide au combat, Cyrano ne cesse de [[tergiverser|tergiverser]] devant l’aveu. Noblesse ou peur ?",
+      "<b>Le triomphe</b> : alexandrins et capes en plein naturalisme ; ovation en 1897, pièce souvent dite la plus jouée du répertoire français.",
+      "<b>Pour en parler</b> : « la tirade du nez » ; « jouer les Cyrano », c’est parler ou écrire à la place d’un autre.",
+      "<b>Les personnages clés</b> : Cyrano, poète et bretteur ; Roxane, sa cousine, précieuse et lettrée ; Christian, beau cadet sans éloquence ; le comte de Guiche, puissant rival ; Ragueneau, pâtissier ami des poètes ; Le Bret, le confident."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Acte I</b> : à l’hôtel de Bourgogne, Cyrano chasse l’acteur Montfleury, répond à un vicomte par la tirade du nez, le bat en duel en composant une ballade, puis avoue à Le Bret son amour pour Roxane.",
+      "<b>Acte II</b> : Roxane lui confie qu’elle aime Christian et lui demande de le protéger. Pacte : Cyrano sera l’esprit, Christian la beauté. Cyrano refuse la protection du comte de Guiche.",
+      "<b>Acte III</b> : sous le balcon, Cyrano parle dans l’ombre à la place de Christian, qui obtient un baiser. Roxane épouse Christian en secret ; De Guiche envoie les cadets à la guerre.",
+      "<b>Acte IV</b> : au siège d’Arras, Cyrano risque sa vie chaque jour pour envoyer des lettres. Roxane arrive et dit qu’elle aime l’âme de l’auteur des lettres. Christian comprend, puis est tué ; Cyrano se tait.",
+      "<b>Acte V</b> : quinze ans plus tard, au couvent, Cyrano blessé à mort lit la dernière lettre dans la nuit. Roxane comprend qu’il la sait par cœur. Il meurt en gardant son panache."
+     ]
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Le contexte</b> : Rostand, 29 ans, écrit pour l’acteur Coquelin ; création le 28 décembre 1897, dans une France marquée par 1870 et divisée par l’affaire Dreyfus.",
+      "<b>Le vrai Cyrano</b> : Savinien de Cyrano de Bergerac (1619-1655), cadet blessé à Arras, auteur de voyages dans la Lune. L’histoire d’amour est inventée.",
+      "<b>L’écriture</b> : des alexandrins d’une grande souplesse, tous les registres mêlés ; les mots sont l’arme et le sujet de la pièce.",
+      "<b>Aujourd’hui</b> : une fable sur l’image et l’authenticité. On ne peut pas [[endiguer|endiguer]] sans fin ce qu’on ressent. Film de Rappeneau (1990), dix César."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "A Random Walk Down Wall Street",
+   "by": "Burton G. Malkiel · 1973",
+   "min": 9,
+   "exMin": 3,
+   "src": "Burton G. Malkiel, A Random Walk Down Wall Street, W. W. Norton, 1re édition 1973 ; 13e édition, 2023. Performance des fonds actifs : S&P Dow Jones Indices, SPIVA U.S. Scorecard fin 2025 (79 % des fonds de grandes valeurs sous-performants en 2025, contre 65 % en 2024 ; seulement trois années sur 25 où une majorité a battu l’indice), via InvestmentNews et Indexology. Actifs passifs et actifs : Morningstar, fin décembre 2023, cité par le Financial Times. Premier fonds indiciel Vanguard (1976) : historique de Vanguard. Données arrêtées à novembre 2026.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un professeur de Princeton explique que les cours de Bourse suivent une « marche au hasard » : leurs variations futures sont imprévisibles, car l’information disponible est déjà dans les prix. Conséquence pratique : presque personne ne bat durablement le marché, et l’épargnant a intérêt à acheter tout le marché, à bas coût, et à le garder."
+      ],
+      [
+       "Le marché digère vite l’information",
+       "Une bonne nouvelle connue de tous est déjà dans le cours. Pour gagner, il faudrait savoir avant les autres ce que personne ne sait. D’où l’idée qu’un portefeuille tiré au hasard ferait à peu près aussi bien que celui d’un expert."
+      ],
+      [
+       "Les experts font rarement mieux",
+       "Les données lui donnent raison : en 2025, 79 % des fonds actifs de grandes valeurs américaines ont fait moins bien que le S&P 500. Sur 25 ans, une majorité n’a battu l’indice que trois années."
+      ],
+      [
+       "Les bulles reviennent toujours",
+       "Tulipes hollandaises, Compagnie des mers du Sud, valeurs électroniques des années 1960, internet en 2000 : Malkiel montre que la foule finit toujours par payer trop cher une belle histoire."
+      ],
+      [
+       "La recette : l’indice",
+       "En 1973, il réclame un fonds qui achète tout le marché sans frais de gestion lourds. Il n’existe pas encore. Fin 2023, les fonds passifs américains pèsent 13 300 milliards de dollars et dépassent pour la première fois les fonds actifs."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un professeur contre Wall Street"
+    },
+    {
+     "p": "Burton Malkiel n’est pas un théoricien coupé du terrain. Avant Princeton, il a travaillé dans la banque d’affaires ; il siégera ensuite au conseil des conseillers économiques du président américain et, pendant des décennies, au conseil d’administration de Vanguard. Quand paraît la première édition, en 1973, la gestion de fonds est une industrie florissante qui vend une promesse : des professionnels capables de choisir les bonnes actions. Le livre conteste cette promesse, en termes accessibles, et sera réédité treize fois en cinquante ans.",
+     "lead": 1
+    },
+    {
+     "h5": "Deux façons de fixer un prix"
+    },
+    {
+     "p": "Malkiel oppose deux théories. La première, celle des « fondations solides », dit qu’une action vaut la somme actualisée des dividendes futurs : il suffit d’estimer ces flux pour savoir si elle est chère. La seconde, celle des « châteaux en Espagne », vient de Keynes : on achète un titre parce qu’on pense pouvoir le revendre plus cher à quelqu’un d’autre. La psychologie de la foule compte alors plus que les comptes de l’entreprise. Les deux approches éclairent une partie des marchés, mais aucune ne permet de prédire les cours de façon fiable."
+    },
+    {
+     "h5": "L’analyse technique et l’analyse fondamentale"
+    },
+    {
+     "p": "L’auteur s’attaque d’abord aux chartistes, qui lisent l’avenir dans les courbes passées. Les tests statistiques montrent que les variations successives des cours sont presque indépendantes : la courbe d’hier ne dit rien de celle de demain, et les frais de transaction mangent les rares gains. L’analyse fondamentale, qui épluche bilans et perspectives, est plus sérieuse, mais elle bute sur trois obstacles : l’avenir est incertain, les analystes se trompent souvent ensemble, et ce qu’ils trouvent est vite connu de tous. C’est le cœur de l’hypothèse d’efficience des marchés."
+    },
+    {
+     "p": "Les économistes distinguent trois degrés d’efficience. Dans sa forme faible, les cours passés ne permettent pas de prévoir les cours futurs. Dans sa forme semi-forte, toute information publique, comme un résultat trimestriel ou une annonce de fusion, est intégrée dans les prix en quelques instants. Dans sa forme forte, même l’information privée le serait. Malkiel défend les deux premières et doute de la troisième : les initiés gagnent parfois, mais c’est justement pour cela que la loi le leur interdit."
+    },
+    {
+     "stats": [
+      [
+       "79 %",
+       "des fonds actifs de grandes valeurs américaines battus par le S&P 500 en 2025"
+      ],
+      [
+       "3 sur 25",
+       "années où une majorité de ces fonds a fait mieux que l’indice"
+      ],
+      [
+       "11 M$",
+       "collectés par le premier fonds indiciel grand public, en 1976"
+      ],
+      [
+       "13 300 Md$",
+       "dans les fonds passifs américains fin 2023, devant les fonds actifs"
+      ]
+     ]
+    },
+    {
+     "h5": "La folie des foules"
+    },
+    {
+     "p": "Les chapitres les plus vivants racontent les bulles. Dans la Hollande des années 1630, un seul bulbe de tulipe rare s’échange, dit-on, contre le prix d’une maison avant que le marché ne s’effondre en quelques semaines. En 1720, la Compagnie des mers du Sud entraîne Londres dans une frénésie où l’on souscrit aux projets les plus fumeux. Au XXe siècle, Malkiel décrit l’engouement pour tout ce qui finit en « -tronics » au début des années 1960, les « Nifty Fifty », ces cinquante valeurs vedettes qu’on croyait pouvoir acheter à n’importe quel prix, la bulle japonaise de la fin des années 1980, puis internet. Les dernières éditions évoquent les cryptomonnaies. La leçon est toujours la même : quand tout le monde répète que « cette fois, c’est différent », il est temps de se méfier."
+    },
+    {
+     "h5": "Les leçons pour l’épargnant"
+    },
+    {
+     "p": "La seconde moitié du livre est un guide pratique. Malkiel recommande de diversifier, de réduire les frais, de garder ses placements longtemps et d’ajuster la part des actions à son âge et à sa capacité à supporter des pertes. Surtout, il plaide pour les fonds indiciels. Son vœu est exaucé en 1976, quand John Bogle lance chez Vanguard le premier fonds indiciel grand public. Il ne collecte qu’environ 11 millions de dollars et passe pour une bizarrerie. Un demi-siècle plus tard, la gestion passive est devenue la norme : fin 2023, les fonds passifs américains dépassent pour la première fois les fonds actifs, avec environ 13 300 milliards de dollars contre un peu plus de 13 200."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La gestion active battue par l’indice",
+      "sub": "Part des fonds actifs de grandes valeurs américaines sous-performant le S&P 500, en %",
+      "rows": [
+       [
+        "2024",
+        65
+       ],
+       [
+        "2025",
+        79
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : S&P Dow Jones Indices, SPIVA U.S. Scorecard, fin 2025."
+     }
+    },
+    {
+     "h5": "Les limites et les critiques"
+    },
+    {
+     "p": "La finance comportementale, avec Robert Shiller, a montré que les marchés pouvaient s’écarter longtemps de toute valeur raisonnable : comment parler d’efficience au sommet d’une bulle ? D’autres travaux ont repéré des régularités, comme la persistance des tendances à court terme ou la meilleure performance des petites valeurs. Malkiel l’admet dans ses éditions successives, mais répond que ces anomalies sont instables et rarement exploitables après frais. Les marchés ne sont pas parfaits ; ils sont simplement trop difficiles à battre. Les critiques notent aussi un paradoxe : si tout le monde achetait l’indice, plus personne ne fixerait les prix."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Le livre est devenu l’une des bibles de l’investissement individuel. Il a contribué à faire baisser les frais de gestion dans le monde entier et à imposer l’idée que le premier ennemi de l’épargnant est souvent lui-même : l’envie d’acheter au sommet, la peur de vendre au creux. Pour un lecteur pressé, sa leçon tient en une ligne : inutile de [[tergiverser|tergiverser]] sur le choix du bon gérant, mieux vaut acheter le marché entier et laisser le temps faire. La discipline sert aussi à [[endiguer|endiguer]] ses propres emballements."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Les cours de Bourse suivent une « marche au hasard » : l’information est déjà dans les prix, donc presque personne ne bat durablement le marché. Malkiel conseille d’acheter tout le marché, à bas coût, et de le garder longtemps.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : professeur à Princeton, ancien banquier, conseiller économique de la Maison-Blanche, administrateur de Vanguard. Première édition en 1973, treize éditions depuis.",
+      "<b>Deux théories</b> : la valeur des dividendes futurs (« fondations solides ») ou la revente à plus naïf que soi (« châteaux en Espagne », Keynes).",
+      "<b>Les chartistes</b> : les courbes passées ne prédisent pas les cours futurs. L’analyse fondamentale est plus sérieuse, mais ses trouvailles sont vite dans les prix.",
+      "<b>Les bulles</b> : tulipes, mers du Sud, années 1960, internet ; la foule paie toujours trop cher une belle histoire.",
+      "<b>La recette</b> : diversifier, réduire les frais, tenir longtemps, acheter l’indice. Inutile de [[tergiverser|tergiverser]] sur le choix du gérant.",
+      "<b>Les critiques</b> : bulles et anomalies montrent que le marché n’est pas parfait ; Malkiel répond qu’il reste trop difficile à battre après frais. La discipline sert à [[endiguer|endiguer]] ses emballements."
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "ul": [
+      "<b>Trois degrés d’efficience</b> : les cours passés ne prédisent rien (forme faible) ; l’information publique est intégrée en quelques instants (semi-forte) ; même l’information privée le serait (forte), ce dont Malkiel doute.",
+      "<b>Les données</b> : en 2025, 79 % des fonds actifs de grandes valeurs américaines ont fait moins bien que le S&P 500, contre 65 % en 2024. En 25 ans, une majorité n’a battu l’indice que trois fois.",
+      "<b>Le fonds indiciel</b> : réclamé par Malkiel en 1973, lancé par John Bogle chez Vanguard en 1976 avec environ 11 millions de dollars. Fin 2023, les fonds passifs américains (13 300 Md$) dépassent les fonds actifs.",
+      "<b>Le conseil de gestion</b> : diversifier, réduire les frais, tenir longtemps, adapter la part d’actions à son âge et à sa tolérance aux pertes.",
+      "<b>Le paradoxe</b> : si tout le monde achetait l’indice, plus personne ne fixerait les prix.",
+      "<b>La postérité</b> : une bible de l’épargnant, qui a fait baisser les frais de gestion et rappelle que l’ennemi de l’investisseur est souvent lui-même."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "79 %",
+       "des fonds actifs de grandes valeurs américaines battus par le S&P 500 en 2025"
+      ],
+      [
+       "3 sur 25",
+       "années où une majorité de ces fonds a fait mieux que l’indice"
+      ],
+      [
+       "11 M$",
+       "collectés par le premier fonds indiciel grand public, en 1976"
+      ],
+      [
+       "13 300 Md$",
+       "dans les fonds passifs américains fin 2023, devant les fonds actifs"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La gestion active battue par l’indice",
+      "sub": "Part des fonds actifs de grandes valeurs américaines sous-performant le S&P 500, en %",
+      "rows": [
+       [
+        "2024",
+        65
+       ],
+       [
+        "2025",
+        79
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : S&P Dow Jones Indices, SPIVA U.S. Scorecard, fin 2025."
+     }
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Pétrole : le surplus revient malgré Ormuz",
+   "by": "Analyse",
+   "fig": "+ 1,7 Mb/j",
+   "figl": "hausse des stocks mondiaux en octobre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Agence internationale de l’énergie, Oil Market Report du 13 novembre 2026, via Oil & Gas Journal et The National (stocks, offre, demande, exportations du Golfe, prix du Brent daté et du diesel, stocks d’urgence). Cours du Brent à terme le 18 novembre : Gulf News. Prévision de Goldman Sachs : via Newsquawk, 17 novembre 2026. Données arrêtées au 18 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Pour la première fois depuis le début de la guerre avec l’Iran, fin février, le monde produit plus de pétrole qu’il n’en consomme. Selon le rapport mensuel de l’Agence internationale de l’énergie (AIE), publié le 13 novembre, les stocks mondiaux observés ont augmenté de 52 millions de barils en octobre, soit 1,7 million par jour. C’est la première hausse depuis juin. Le détroit d’Ormuz reste pourtant le théâtre d’attaques quasi quotidiennes contre les pétroliers.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "+ 1,7 Mb/j",
+       "hausse des stocks mondiaux observés en octobre"
+      ],
+      [
+       "105,4 Mb/j",
+       "offre mondiale en octobre, + 5,3 Mb/j depuis août"
+      ],
+      [
+       "− 32 %",
+       "baisse du Brent daté depuis son pic de 136 $ début octobre"
+      ],
+      [
+       "− 26 %",
+       "exportations du Golfe sous leur niveau d’avant-guerre"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi les prix baissent"
+    },
+    {
+     "p": "L’offre revient plus vite que prévu : 105,4 millions de barils par jour en octobre, 5,3 millions de plus qu’en août. Les exportations du Golfe, hors Oman, atteignent 18,4 millions de barils par jour, encore 26 % sous leur niveau d’avant-guerre, mais le brut seul retrouve 82 % de ses volumes. En face, la demande a fondu sous l’effet des prix : elle devrait reculer de 2,7 millions de barils par jour en 2026, à 102,3 millions. Résultat, le Brent daté est retombé d’un pic de 136 dollars début octobre à environ 93 dollars, encore 22 dollars au-dessus de son niveau d’avant-guerre. Mercredi matin, le Brent à terme cotait 92,6 dollars."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le Golfe exporte à nouveau, mais pas tout",
+      "sub": "Exportations d’octobre 2026, en % du niveau d’avant-guerre",
+      "rows": [
+       [
+        "Pétrole brut",
+        82
+       ],
+       [
+        "Ensemble (hors Oman)",
+        74
+       ],
+       [
+        "Produits raffinés et GPL",
+        50
+       ]
+      ],
+      "suffix": " %",
+      "note": "Produits raffinés et GPL : « environ la moitié » selon l’AIE, valeur arrondie. Source : AIE, rapport mensuel sur le pétrole, 13 novembre 2026."
+     }
+    },
+    {
+     "h": "Un surplus fragile"
+    },
+    {
+     "p": "Le rééquilibrage reste précaire. Les stocks terrestres sont au plus bas depuis au moins 2016 : la hausse d’octobre tient surtout au pétrole stocké en mer, en transit. Depuis le début du conflit, le monde a puisé 462 millions de barils dans ses réserves, et les pays de l’AIE ont libéré quelque 349 millions de barils de stocks d’urgence pour [[endiguer|endiguer]] la flambée. Le diesel reste le maillon faible : en Europe, il coûte encore 77 % de plus qu’avant la guerre. Pour 2027, l’AIE prévoit une offre en hausse de 6,6 millions de barils par jour, plus de trois fois la reprise de la demande ; Goldman Sachs table sur un excédent d’environ 2 millions. Les marchés ne [[tergiverser|tergiversent]] plus : ils parient sur la baisse, sauf nouvelle escalade."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les prix élevés ont fait leur travail : ils ont réduit la consommation et relancé la production. Si les flux du Golfe continuent de remonter, le baril pourrait baisser nettement en 2027. Mais avec des stocks terrestres vides, un seul incident grave dans le détroit suffirait à inverser la tendance."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le basculement</b> : stocks mondiaux + 52 millions de barils en octobre (+ 1,7 Mb/j), première hausse depuis juin et premier surplus depuis le début de la guerre.",
+      "<b>Le paradoxe</b> : les attaques continuent dans le détroit d’Ormuz, mais le pétrole circule davantage."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "+ 1,7 Mb/j",
+       "hausse des stocks mondiaux observés en octobre"
+      ],
+      [
+       "105,4 Mb/j",
+       "offre mondiale en octobre, + 5,3 Mb/j depuis août"
+      ],
+      [
+       "− 32 %",
+       "baisse du Brent daté depuis son pic de 136 $ début octobre"
+      ],
+      [
+       "− 26 %",
+       "exportations du Golfe sous leur niveau d’avant-guerre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>L’offre</b> : 105,4 Mb/j en octobre ; exportations du Golfe à 18,4 Mb/j, brut à 82 % de l’avant-guerre.",
+      "<b>La demande</b> : − 2,7 Mb/j en 2026, à 102,3 Mb/j.",
+      "<b>Les prix</b> : Brent daté de 136 $ à environ 93 $ ; Brent à terme à 92,6 $ mercredi matin.",
+      "<b>La fragilité</b> : stocks terrestres au plus bas depuis 2016 ; 349 millions de barils d’urgence libérés pour [[endiguer|endiguer]] la flambée ; diesel européen + 77 % sur l’avant-guerre.",
+      "<b>2027</b> : offre + 6,6 Mb/j, plus de trois fois la demande. Les marchés ne [[tergiverser|tergiversent]] plus et parient sur la baisse."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le Golfe exporte à nouveau, mais pas tout",
+      "sub": "Exportations d’octobre 2026, en % du niveau d’avant-guerre",
+      "rows": [
+       [
+        "Pétrole brut",
+        82
+       ],
+       [
+        "Ensemble (hors Oman)",
+        74
+       ],
+       [
+        "Produits raffinés et GPL",
+        50
+       ]
+      ],
+      "suffix": " %",
+      "note": "Produits raffinés et GPL : « environ la moitié » selon l’AIE, valeur arrondie. Source : AIE, rapport mensuel sur le pétrole, 13 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : les prix élevés ont réduit la demande et relancé l’offre ; un incident grave dans le détroit suffirait toutefois à tout inverser."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "BCE : Paris et Berlin choisissent un Espagnol",
+   "by": "Analyse",
+   "fig": "16 sur 21",
+   "figl": "États requis pour nommer le président",
+   "min": 3,
+   "exMin": 2,
+   "src": "LaPresse et de Volkskrant (retrait attendu de Klaas Knot, accord franco-allemand, 16 novembre 2026) ; BigGo Finance et FX.co (calendrier, candidatures, partage des sièges, règle de vote, Markus Brunnermeier, Laurence Boone, mandats de Philip Lane et d’Isabel Schnabel) ; Newsquawk (Gediminas Šimkus, 17 novembre). BRI : nomination de Pablo Hernández de Cos au 1er juillet 2025. BCE : décision du 29 octobre 2026 (taux de dépôt à 2,50 %). Eurostat : inflation estimée à 4,0 % en octobre 2026. Données arrêtées au 18 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La succession de Christine Lagarde à la tête de la Banque centrale européenne est en train de se régler, et elle se règle comme souvent en Europe : entre Paris et Berlin. Selon la presse néerlandaise, l’Allemagne et la France se sont entendues sur le nom de l’Espagnol Pablo Hernández de Cos. Son rival, le Néerlandais Klaas Knot, s’apprête à jeter l’éponge. Berlin doit officialiser ce mercredi 18 novembre ses propres candidats au directoire, et les dirigeants européens veulent trancher avant la fin de l’année.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "16 sur 21",
+       "États de la zone euro requis, représentant 65 % de sa population"
+      ],
+      [
+       "févr. 2027",
+       "départ de Christine Lagarde, neuf mois avant la fin de son mandat"
+      ],
+      [
+       "4,0 %",
+       "inflation de la zone euro en octobre, au plus haut depuis trois ans"
+      ],
+      [
+       "2,50 %",
+       "taux de dépôt de la BCE"
+      ]
+     ]
+    },
+    {
+     "h": "Un poste, trois sièges"
+    },
+    {
+     "p": "Christine Lagarde a annoncé le 29 octobre qu’elle quitterait la BCE en février 2027, neuf mois avant le terme. Deux candidats ont été déposés : Klaas Knot, ancien gouverneur de la banque des Pays-Bas, réputé faucon, et Pablo Hernández de Cos, 55 ans, ancien gouverneur de la Banque d’Espagne et directeur général de la Banque des règlements internationaux depuis juillet 2025. Emmanuel Macron et Friedrich Merz en ont discuté à Dublin, en marge d’un sommet européen. L’accord dépasse la présidence : Berlin propose l’économiste Markus Brunnermeier, de Princeton, pour succéder à Philip Lane comme chef économiste, dont le mandat s’achève en mai ; Paris récupérerait le portefeuille des opérations de marché d’Isabel Schnabel. Le nom de Laurence Boone circule. Berlin a toutefois longtemps [[tergiverser|tergiversé]], le ministère des Finances et la chancellerie ne s’accordant pas sur leurs candidats."
+    },
+    {
+     "h": "Ce qui se joue"
+    },
+    {
+     "p": "Pour être nommé, un candidat doit réunir au moins 16 des 21 pays de la zone euro, représentant 65 % de sa population : sans l’appui franco-allemand, rien ne passe. Les Pays-Bas, paralysés par une crise gouvernementale, n’ont pas pesé. Le choix n’est pas neutre. Hernández de Cos passe pour plus modéré que Knot, et une France sous pression budgétaire préfère une BCE moins dure sur les taux. Or l’inflation a atteint 4,0 % en octobre, et plusieurs gouverneurs, comme le Lituanien Gediminas Šimkus, jugent une hausse en décembre probable pour [[endiguer|endiguer]] les prix."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La BCE reste l’institution la plus puissante de l’Union. Sa présidence se négocie dans un paquet de postes où Paris et Berlin se servent d’abord. Le prochain président héritera d’une inflation repartie et d’une question politique : jusqu’où remonter les taux sans fragiliser les pays les plus endettés."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>L’accord</b> : Paris et Berlin soutiennent l’Espagnol Pablo Hernández de Cos pour succéder à Christine Lagarde, qui part en février 2027.",
+      "<b>Le perdant</b> : le Néerlandais Klaas Knot, réputé faucon, s’apprête à se retirer."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "16 sur 21",
+       "États de la zone euro requis, représentant 65 % de sa population"
+      ],
+      [
+       "févr. 2027",
+       "départ de Christine Lagarde, neuf mois avant la fin de son mandat"
+      ],
+      [
+       "4,0 %",
+       "inflation de la zone euro en octobre, au plus haut depuis trois ans"
+      ],
+      [
+       "2,50 %",
+       "taux de dépôt de la BCE"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le candidat</b> : 55 ans, ex-gouverneur de la Banque d’Espagne, directeur général de la BRI depuis juillet 2025.",
+      "<b>Le paquet</b> : Berlin propose Markus Brunnermeier comme chef économiste (après Philip Lane, en mai) ; Paris obtiendrait les opérations de marché d’Isabel Schnabel. Berlin a longtemps [[tergiverser|tergiversé]] sur ses noms.",
+      "<b>La règle</b> : 16 pays sur 21 et 65 % de la population ; rien sans le couple franco-allemand.",
+      "<b>L’enjeu</b> : un président plus modéré, alors que l’inflation est à 4,0 % et que plusieurs gouverneurs veulent monter les taux en décembre pour [[endiguer|endiguer]] les prix."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : la présidence de la BCE se négocie dans un paquet de postes ; le prochain président devra arbitrer entre inflation et dettes publiques."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "GXO : jusqu’à 1 000 humanoïdes dans les entrepôts",
+   "by": "Analyse",
+   "fig": "15 à 20 $",
+   "figl": "coût horaire visé par humanoïde",
+   "min": 3,
+   "exMin": 2,
+   "src": "GXO et Apptronik, lettre d’intention annoncée mi-novembre 2026, via DC Velocity et Humanoid Megahub (calendrier, flux testés, modèle RaaS, déclarations de Patrick Kelleher sur les coûts, 45 pilotes, environ 20 000 robots, 40 % des sites, caractéristiques d’Apollo, levée de 935 millions de dollars, Agility coté au Nasdaq). Chiffre d’affaires de GXO au troisième trimestre 2026 : FreightWaves. Marché de l’entreposage américain : JOC, via Intelligent Audit, 16 novembre 2026. Données arrêtées au 18 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "GXO, l’un des premiers prestataires logistiques mondiaux, a signé une lettre d’intention avec la start-up texane Apptronik pour déployer jusqu’à 1 000 robots humanoïdes Apollo en quatre ans. Les essais commenceront en 2027, avec de premiers déploiements commerciaux en Amérique du Nord fin 2027. C’est l’un des projets d’humanoïdes les plus ambitieux annoncés dans la logistique, mais il reste conditionnel : chaque usage devra atteindre des objectifs de productivité, de sécurité et de fiabilité avant d’être étendu.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "1 000",
+       "humanoïdes Apollo au maximum, sur quatre ans"
+      ],
+      [
+       "15 à 20 $",
+       "coût horaire visé pour rentabiliser un humanoïde"
+      ],
+      [
+       "45",
+       "pilotes d’humanoïdes déjà menés par GXO"
+      ],
+      [
+       "≈ 20 000",
+       "robots dans le réseau de GXO fin 2026"
+      ]
+     ]
+    },
+    {
+     "h": "Pourquoi un humanoïde"
+    },
+    {
+     "p": "Les entrepôts sont déjà très automatisés : GXO comptera près de 20 000 robots fin 2026, et environ 40 % de ses sites sont lourdement équipés. Mais ces machines sont spécialisées et exigent des bâtiments conçus pour elles. L’humanoïde promet de s’insérer dans un entrepôt existant, là où travaillent des humains. Les essais porteront sur cinq tâches : préparation de commandes dans les deux sens, déplacement de cartons et de bacs, emballage et tri. Apollo mesure environ 1,73 m, pèse 73 kg, porte 25 kg et fonctionne avec une batterie de quatre heures, échangeable. GXO ne part pas de zéro : il a déjà mené plus de 45 pilotes avec Agility, Reflex Robotics et Apptronik. Les robots seront loués à l’usage, sur le modèle du « robot en tant que service »."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce que coûte une heure d’humanoïde",
+      "sub": "Selon GXO, en dollars par heure (bornes hautes)",
+      "rows": [
+       [
+        "Exploitation aujourd’hui, hors robot",
+        15
+       ],
+       [
+        "Exploitation dans deux ans",
+        10
+       ],
+       [
+        "Seuil de rentabilité visé",
+        20
+       ],
+       [
+        "Robot à 15 $ allant deux fois moins vite qu’un humain",
+        30
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $",
+      "note": "Fourchettes : exploitation 10 à 15 $ aujourd’hui, moins de 10 $ d’ici deux ans ; seuil 15 à 20 $. La dernière ligne est un calcul illustratif à productivité égale. Source : Patrick Kelleher, PDG de GXO, via Humanoid Megahub, novembre 2026."
+     }
+    },
+    {
+     "h": "La question du coût"
+    },
+    {
+     "p": "Le PDG Patrick Kelleher a donné un repère rare : un humanoïde est rentable s’il coûte 15 à 20 dollars de l’heure. Les frais d’exploitation, hors achat du robot, sont aujourd’hui de 10 à 15 dollars et devraient passer sous 10 dollars d’ici deux ans, tandis que le prix des machines pourrait être divisé par deux. Le vrai frein reste la vitesse et la dextérité : un robot à 15 dollars qui travaille deux fois moins vite qu’un humain revient à 30 dollars par heure de travail équivalente. La démarche évite deux écueils : [[tergiverser|tergiverser]] indéfiniment, ou généraliser sans preuve. Pour le secteur, l’enjeu est d’[[endiguer|endiguer]] la hausse du coût de la main-d’œuvre, alors que la demande d’entrepôts repasse devant l’offre aux États-Unis, avec un taux de vacance tombé à 7,2 %."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "L’humanoïde entre dans la logistique par la petite porte : des essais mesurés, des contrats à l’usage, un seuil de coût explicite. Pour un responsable supply chain, le bon réflexe est de suivre ces chiffres plutôt que les vidéos : c’est la vitesse réelle des robots qui décidera de leur place."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>L’annonce</b> : GXO prévoit jusqu’à 1 000 humanoïdes Apollo d’Apptronik en quatre ans, essais en 2027, premiers déploiements fin 2027.",
+      "<b>La condition</b> : chaque usage doit prouver sa productivité et sa sécurité avant d’être étendu."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "1 000",
+       "humanoïdes Apollo au maximum, sur quatre ans"
+      ],
+      [
+       "15 à 20 $",
+       "coût horaire visé pour rentabiliser un humanoïde"
+      ],
+      [
+       "45",
+       "pilotes d’humanoïdes déjà menés par GXO"
+      ],
+      [
+       "≈ 20 000",
+       "robots dans le réseau de GXO fin 2026"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le contexte</b> : près de 20 000 robots chez GXO fin 2026, 40 % des sites très automatisés, plus de 45 pilotes d’humanoïdes.",
+      "<b>Les tâches</b> : préparation de commandes, déplacement de bacs, emballage, tri. Apollo : 1,73 m, 25 kg de charge, batterie de 4 heures.",
+      "<b>Le coût</b> : rentable entre 15 et 20 $ de l’heure ; exploitation à 10-15 $, bientôt sous 10 $. Un robot deux fois plus lent revient à 30 $ l’heure équivalente.",
+      "<b>La méthode</b> : ni [[tergiverser|tergiverser]] indéfiniment, ni généraliser sans preuve. Objectif : [[endiguer|endiguer]] le coût de la main-d’œuvre."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le réflexe</b> : juger les humanoïdes sur leur vitesse réelle et leur coût horaire, pas sur leurs démonstrations."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Disney : la croissance revient, les coupes continuent",
+   "by": "Analyse",
+   "fig": "+ 43 %",
+   "figl": "résultat opérationnel des segments",
+   "min": 3,
+   "exMin": 2,
+   "src": "Walt Disney Company, communiqué de résultats du 4e trimestre et de l’exercice 2026 (clos le 3 octobre 2026), formulaire 8-K déposé à la SEC le 17 novembre 2026 ; consensus des analystes : GuruFocus et Fast Company ; licenciements, propos de Hugh Johnston et réaction du titre avant l’ouverture : Fast Company (citant CNBC). Données arrêtées au 17 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Disney a publié mardi 17 novembre des résultats meilleurs que prévu pour le trimestre clos le 3 octobre : chiffre d’affaires de 25,9 milliards de dollars, en hausse de 16 %, et bénéfice avant impôt en hausse de 71 %, à 3,5 milliards. Pourtant, le titre a reculé d’environ 1,6 % avant l’ouverture. Car le groupe, désormais dirigé par Josh D’Amaro, annonce dans le même souffle 3 milliards de dollars d’économies annuelles d’ici 2029, et de nouveaux licenciements.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "25,9 Md$",
+       "chiffre d’affaires trimestriel, + 16 %"
+      ],
+      [
+       "+ 43 %",
+       "résultat opérationnel des segments, à 5 Md$"
+      ],
+      [
+       "3 Md$",
+       "économies annuelles visées d’ici 2029"
+      ],
+      [
+       "26 Md$",
+       "dépenses de contenus prévues en 2027"
+      ]
+     ]
+    },
+    {
+     "h": "Trois moteurs en même temps"
+    },
+    {
+     "p": "Pour la première fois depuis longtemps, les trois métiers progressent ensemble. Le divertissement (cinéma, télévision, streaming) double presque son résultat opérationnel, à 1,33 milliard. Le streaming en est le symbole : son bénéfice passe de 402 à 824 millions sur le trimestre, et sa marge atteint 11,5 % sur l’année, après des années de pertes. Les sports, portés par ESPN, gagnent 53 %, et les parcs et croisières 20 %, grâce à plus de visiteurs qui dépensent davantage. Sur l’exercice, le chiffre d’affaires dépasse 102 milliards de dollars et le dividende est relevé d’un tiers. Une semaine comptable supplémentaire a toutefois gonflé le trimestre."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Tous les métiers progressent",
+      "sub": "Hausse du résultat opérationnel par segment, trimestre clos le 3 octobre 2026, en %",
+      "rows": [
+       [
+        "Divertissement",
+        92
+       ],
+       [
+        "Sports (ESPN)",
+        53
+       ],
+       [
+        "Expériences (parcs, croisières)",
+        20
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Walt Disney Company, résultats du 4e trimestre de l’exercice 2026, 17 novembre 2026."
+     }
+    },
+    {
+     "h": "Pourquoi couper quand tout va bien"
+    },
+    {
+     "p": "Disney veut financer une hausse de 9 % de ses dépenses de contenus, à 26 milliards de dollars en 2027, sans sacrifier ses marges. Il ne compte plus [[tergiverser|tergiverser]] : après environ 1 000 postes supprimés au printemps dans la télévision et le cinéma, plus d’une centaine chez Pixar en juillet et plusieurs centaines dans les fonctions support en septembre, le directeur financier Hugh Johnston prévient que d’autres départs suivront. Le message aux actionnaires est clair : la croissance doit s’accompagner d’une discipline de coûts capable d’[[endiguer|endiguer]] l’inflation des budgets. Le groupe arrête aussi de publier séparément la rentabilité du streaming, signe qu’il le considère comme un métier mûr."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Disney a retrouvé la croissance dans tous ses métiers et rendu son streaming rentable. Mais pour financer ses contenus et rassurer la Bourse, il choisit de réduire ses effectifs au sommet du cycle, pas au creux. Le marché attend de voir si la machine à succès suivra en 2027."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Les résultats</b> : 25,9 Md$ de chiffre d’affaires (+ 16 %), au-dessus des attentes ; bénéfice avant impôt + 71 %.",
+      "<b>Le paradoxe</b> : le titre recule d’environ 1,6 % ; Disney annonce 3 Md$ d’économies d’ici 2029 et d’autres licenciements."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "25,9 Md$",
+       "chiffre d’affaires trimestriel, + 16 %"
+      ],
+      [
+       "+ 43 %",
+       "résultat opérationnel des segments, à 5 Md$"
+      ],
+      [
+       "3 Md$",
+       "économies annuelles visées d’ici 2029"
+      ],
+      [
+       "26 Md$",
+       "dépenses de contenus prévues en 2027"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Divertissement</b> : résultat + 92 % ; streaming de 402 à 824 M$ sur le trimestre, marge annuelle de 11,5 %.",
+      "<b>Sports et parcs</b> : ESPN + 53 %, parcs et croisières + 20 % ; dividende relevé d’un tiers.",
+      "<b>Les coupes</b> : environ 1 000 postes au printemps, plus de 100 chez Pixar, des centaines dans les fonctions support ; Disney ne veut plus [[tergiverser|tergiverser]].",
+      "<b>L’objectif</b> : financer 26 Md$ de contenus en 2027 et [[endiguer|endiguer]] l’inflation des budgets."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Tous les métiers progressent",
+      "sub": "Hausse du résultat opérationnel par segment, trimestre clos le 3 octobre 2026, en %",
+      "rows": [
+       [
+        "Divertissement",
+        92
+       ],
+       [
+        "Sports (ESPN)",
+        53
+       ],
+       [
+        "Expériences (parcs, croisières)",
+        20
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Walt Disney Company, résultats du 4e trimestre de l’exercice 2026, 17 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La stratégie</b> : réduire les effectifs au sommet du cycle pour financer les contenus et protéger les marges."
+     ]
+    }
+   ]
+  }
+ ]
+}

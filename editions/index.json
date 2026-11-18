@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-17",
+ "latest": "2026-11-18",
  "editions": [
+  {
+   "date": "2026-11-18",
+   "label": "Mercredi 18 novembre",
+   "words": [
+    "Endiguer",
+    "Tergiverser"
+   ],
+   "items": [
+    [
+     "lit",
+     "Cyrano de Bergerac"
+    ],
+    [
+     "essai",
+     "A Random Walk Down Wall Street"
+    ],
+    [
+     "eco",
+     "Pétrole : le surplus revient malgré Ormuz"
+    ],
+    [
+     "geo",
+     "BCE : Paris et Berlin choisissent un Espagnol"
+    ],
+    [
+     "log",
+     "GXO : jusqu’à 1 000 humanoïdes dans les entrepôts"
+    ],
+    [
+     "ent",
+     "Disney : la croissance revient, les coupes continuent"
+    ]
+   ]
+  },
   {
    "date": "2026-11-17",
    "label": "Mardi 17 novembre",
