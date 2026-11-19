@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-18",
+ "latest": "2026-11-19",
  "editions": [
+  {
+   "date": "2026-11-19",
+   "label": "Jeudi 19 novembre",
+   "words": [
+    "Endiguer",
+    "Tergiverser"
+   ],
+   "items": [
+    [
+     "lit",
+     "Le Maître et Marguerite"
+    ],
+    [
+     "essai",
+     "The Snowball"
+    ],
+    [
+     "eco",
+     "Fed : la pause d’octobre prépare une hausse"
+    ],
+    [
+     "geo",
+     "Israël : la Knesset échappe à Netanyahou"
+    ],
+    [
+     "log",
+     "Wildberries : quand l’entrepôt géant devient une cible"
+    ],
+    [
+     "ent",
+     "Target : les clients reviennent, les prévisions montent"
+    ]
+   ]
+  },
   {
    "date": "2026-11-18",
    "label": "Mercredi 18 novembre",

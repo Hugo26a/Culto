@@ -1,0 +1,1066 @@
+{
+ "date": "2026-11-19",
+ "label": "Jeudi 19 novembre 2026",
+ "n": 29,
+ "example": false,
+ "week": {
+  "start": "2026-11-16",
+  "label": "Semaine du 16 novembre",
+  "day": 4,
+  "words": [
+   {
+    "key": "endiguer",
+    "w": "Endiguer",
+    "ph": "[ɑ̃.di.ɡe] · verbe transitif",
+    "short": "Contenir un phénomène pour l’empêcher de s’étendre.",
+    "def": "Au sens propre, retenir un cours d’eau par des digues. Au figuré, freiner ou contenir quelque chose qui menace de déborder : une épidémie, une hausse des prix, une crise, un afflux de demandes. Le mot ne promet pas la disparition du problème, seulement sa maîtrise : on endigue une vague, on ne la supprime pas. Il s’emploie très naturellement en réunion, à propos de coûts, de retards ou de risques.",
+    "ety": "Formé sur « digue », mot emprunté au moyen néerlandais dijc, « levée de terre ». Le verbe a d’abord désigné le travail des ingénieurs qui contiennent les rivières et la mer, avant de passer au sens figuré.",
+    "ex": "Pour endiguer la hausse des coûts de transport, nous avons regroupé les expéditions de fin de mois.",
+    "syn": "contenir, juguler, enrayer, freiner, circonscrire"
+   },
+   {
+    "key": "tergiverser",
+    "w": "Tergiverser",
+    "ph": "[tɛʁ.ʒi.vɛʁ.se] · verbe intransitif",
+    "short": "Hésiter, chercher des détours pour retarder une décision.",
+    "def": "Se dit de quelqu’un qui use de faux-fuyants, multiplie les hésitations ou les prétextes pour éviter de trancher. Le mot est plus critique que « hésiter » : il suggère une indécision qui fait perdre du temps, parfois volontairement. On l’emploie souvent à la forme négative, pour appeler à agir : « il ne faut plus tergiverser ».",
+    "ety": "Du latin tergiversari, « tourner le dos », formé sur tergum, « le dos », et vertere, « tourner ». L’image est celle de quelqu’un qui fait volte-face au lieu d’affronter l’obstacle.",
+    "ex": "Le client a assez tergiversé : s’il ne valide pas le devis vendredi, nous perdrons le créneau chez le transporteur.",
+    "syn": "atermoyer, hésiter, louvoyer, temporiser, biaiser"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Le Maître et Marguerite",
+   "by": "Mikhaïl Boulgakov · 1967",
+   "tagline": "Le diable à Moscou",
+   "min": 10,
+   "exMin": 4,
+   "src": "Mikhaïl Boulgakov, Le Maître et Marguerite, roman écrit de 1928 à 1940 ; première publication censurée dans la revue Moskva (novembre 1966 et janvier 1967) ; édition intégrale en URSS en 1973. Boulgakov est mort le 10 mars 1940 : l’œuvre est dans le domaine public. Citation traduite librement du russe (chapitre 24). Épigraphe tirée du Faust de Goethe.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Dans le Moscou des années 1930, le diable en personne, sous les traits d’un mystérieux professeur étranger nommé Woland, débarque avec une suite extravagante et sème le chaos dans une société qui prétend ne croire à rien. En parallèle, un écrivain brisé, le Maître, et sa maîtresse Marguerite cherchent à sauver un roman sur Ponce Pilate, que le roman de Boulgakov enchâsse chapitre après chapitre."
+      ],
+      [
+       "La lâcheté, le pire des vices",
+       "Le fil rouge du livre est le procès de Jésus, ici appelé Yeshoua. Pilate sait l’accusé innocent mais le condamne par peur pour sa carrière. Boulgakov fait de la lâcheté le péché capital, celui qui ronge pendant des siècles. Dans le Moscou stalinien, où chacun se tait pour survivre, la leçon est transparente."
+      ],
+      [
+       "Le diable comme révélateur",
+       "Woland ne corrompt personne : il se contente de tendre un miroir. Billets qui tombent du plafond, robes de Paris offertes au public, les Moscovites se ruent sur tout. Le diable conclut que les gens n’ont guère changé : ils aiment l’argent, comme toujours, et sont parfois capables de pitié."
+      ],
+      [
+       "L’amour et la création plus forts que la censure",
+       "Marguerite accepte de devenir sorcière et de présider le bal de Satan pour retrouver le Maître. Le roman brûlé renaît intact : l’art authentique survit aux bûchers. C’est aussi l’histoire de Boulgakov lui-même, qui a écrit pendant douze ans un livre qu’il savait impubliable."
+      ],
+      [
+       "Trois romans en un",
+       "Satire burlesque de la bureaucratie soviétique, drame historique à Jérusalem, histoire d’amour fantastique : le livre passe d’un registre à l’autre sans prévenir. C’est ce mélange qui en fait l’un des grands romans du XXe siècle, et l’un des plus aimés en Russie."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Un étranger aux étangs du Patriarche"
+    },
+    {
+     "p": "Moscou, un soir de printemps d’une chaleur accablante. Aux étangs du Patriarche, deux hommes de lettres conversent sur un banc : Mikhaïl Berlioz, rédacteur en chef d’une revue et président d’une puissante association d’écrivains, et le jeune poète Ivan Bezdomny, auteur d’un poème antireligieux. Berlioz lui explique que Jésus n’a jamais existé. Un inconnu élégant, aux yeux de couleurs différentes, se mêle à la conversation. Il se présente comme un professeur de magie noire, affirme avoir déjeuné avec Kant et assisté au procès de Jésus, puis prédit à Berlioz qu’il aura la tête tranchée le soir même, parce qu’une certaine Annouchka a déjà renversé de l’huile.",
+     "lead": 1
+    },
+    {
+     "p": "Quelques minutes plus tard, Berlioz glisse sur l’huile renversée près des rails et un tramway le décapite. Ivan se lance à la poursuite de l’étranger et de ses compagnons : un grand escogriffe à carreaux, Koroviev, et un énorme chat noir qui marche debout, Béhémoth. Il finit la nuit en caleçon dans un restaurant d’écrivains, à crier que le diable est à Moscou. On l’interne dans une clinique psychiatrique."
+    },
+    {
+     "h5": "Le chaos dans la capitale"
+    },
+    {
+     "p": "L’étranger s’appelle Woland. Avec sa suite, qui compte aussi le tueur roux Azazello et la sorcière Hella, il s’installe dans l’appartement du défunt Berlioz, au 302 bis de la rue Sadovaïa. Le directeur du théâtre des Variétés, encombrant, se réveille téléporté à Yalta. Woland annonce une séance de magie noire. Ce soir-là, une pluie de billets tombe sur les spectateurs, puis les femmes échangent leurs robes contre des toilettes de Paris. Le présentateur, qui en fait trop, se fait arracher la tête par le chat, avant qu’on la lui remette par pitié. Le lendemain, les billets sont devenus des étiquettes de bouteilles, et les élégantes se retrouvent en sous-vêtements dans la rue."
+    },
+    {
+     "p": "Pendant des jours, la bande de Woland humilie les bureaucrates, les profiteurs et les délateurs : un fonctionnaire dont le costume continue de signer des papiers sans corps, un président de comité d’immeuble qui accepte un pot-de-vin, un spectateur important dont l’infidélité est révélée en public. La police enquête, interroge, arrête, mais ne parvient jamais à [[endiguer|endiguer]] la vague d’événements absurdes."
+    },
+    {
+     "h5": "Le Maître et son roman"
+    },
+    {
+     "p": "À la clinique, Ivan reçoit la visite nocturne de son voisin de chambre, qui ne se fait appeler que le Maître. Historien, il a gagné une somme à la loterie, quitté son travail et écrit un roman sur Ponce Pilate. Il a rencontré Marguerite, une femme mariée, riche, qui s’ennuyait dans sa vie confortable : ce fut un coup de foudre. Mais les critiques ont démoli son roman avant même sa publication, dans des articles haineux. Pris de peur, il a brûlé le manuscrit. Puis un voisin l’a dénoncé pour récupérer son logement. À sa sortie, brisé, il s’est fait interner de lui-même."
+    },
+    {
+     "p": "Le roman du Maître, que le lecteur découvre par fragments, raconte Jérusalem au temps de Pilate. Le procurateur, torturé par une migraine, interroge un prédicateur errant, Yeshoua Ha-Nozri, qui affirme que tous les hommes sont bons. Pilate est séduit, il veut le sauver. Mais l’accusé a parlé du pouvoir de César. Pilate [[tergiverser|tergiverse]], cherche une issue, puis cède devant le grand prêtre et confirme la condamnation. Il fera ensuite assassiner Judas, le traître, comme pour racheter sa faute."
+    },
+    {
+     "h5": "Marguerite et le bal de Satan"
+    },
+    {
+     "p": "Marguerite n’a jamais cessé d’aimer le Maître. Azazello lui remet une crème magique : elle devient sorcière, nue et invisible, et s’envole sur un balai au-dessus de Moscou. Au passage, elle saccage l’appartement du critique qui a brisé son amant. Woland lui demande d’être la reine de son grand bal du printemps, où défilent pendant des heures les pendus, les empoisonneurs et les assassins de l’histoire. Marguerite tient bon, le genou douloureux de baisers."
+    },
+    {
+     "p": "En récompense, Woland lui promet ce qu’elle veut. Elle demande d’abord la grâce d’une damnée, condamnée à retrouver chaque matin le mouchoir avec lequel elle a étouffé son enfant. Puis elle réclame le Maître. Woland le fait apparaître, et lui rend son manuscrit, intact, sorti des cendres."
+    },
+    {
+     "h5": "La paix plutôt que la lumière"
+    },
+    {
+     "p": "Lévi Matthieu, disciple de Yeshoua, vient trouver Woland : le Maître ne mérite pas la lumière, mais il mérite le repos. Azazello sert aux deux amants un vin empoisonné ; ils meurent à Moscou pour renaître dans la cavalcade de Woland. Avant de quitter la ville, Koroviev et Béhémoth mettent le feu au restaurant des écrivains. Sur une montagne, les cavaliers croisent Pilate, assis depuis deux mille ans avec son chien. Le Maître lui crie qu’il est libre : Pilate s’élance sur un chemin de lune où l’attend Yeshoua. Le Maître et Marguerite rejoignent leur demeure éternelle. Dans l’épilogue, Ivan, devenu historien, retrouve chaque printemps, à la pleine lune, le souvenir de ces jours."
+    },
+    {
+     "quote": "Les manuscrits ne brûlent pas.",
+     "cite": "Woland, chapitre 24 (traduction libre)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un livre écrit contre le temps"
+    },
+    {
+     "p": "Mikhaïl Boulgakov, médecin devenu écrivain, né à Kiev en 1891, est dans les années 1920 l’un des auteurs les plus attaqués d’URSS. Ses pièces sont interdites, ses livres ne paraissent plus. En 1930, il brûle une première version du roman, puis écrit directement à Staline, qui l’appelle au téléphone et lui obtient un poste au Théâtre d’art de Moscou. Il reprend le livre et y travaille jusqu’à sa mort, en mars 1940, dictant ses dernières corrections à sa femme Elena. Il ne l’a jamais vu imprimé."
+    },
+    {
+     "p": "Le roman paraît en 1966 et 1967 dans la revue Moskva, amputé d’environ un huitième par la censure. Les passages coupés circulent sous le manteau, une version intégrale sort à l’étranger, et l’URSS ne l’édite en entier qu’en 1973. Le succès est immédiat : des phrases du livre entrent dans la langue courante russe."
+    },
+    {
+     "h5": "Faust à Moscou"
+    },
+    {
+     "p": "L’épigraphe, tirée du Faust de Goethe, donne la clé : le diable se présente comme une part de cette force qui veut toujours le mal et fait toujours le bien. Woland n’est pas le démon tentateur de la tradition. C’est un justicier ironique, qui punit les menteurs et récompense les fidèles. Le nom de Marguerite renvoie directement à celle de Faust. Boulgakov inverse pourtant le schéma : ici, c’est la femme qui signe le pacte, par amour."
+    },
+    {
+     "h5": "Une construction en miroir"
+    },
+    {
+     "p": "Les chapitres moscovites, écrits dans une langue vive, presque de vaudeville, alternent avec les chapitres de Jérusalem, au style sobre et solennel. Les deux mondes se répondent. Les deux récits se déroulent à la veille de Pâques, sous une chaleur écrasante ; la lâcheté de Pilate fait écho à celle des écrivains moscovites qui hurlent avec les loups ; le Maître est à la fois l’auteur et la victime de son livre. Le narrateur, bavard et complice, interpelle le lecteur et brouille sans cesse la frontière entre le réel et le fantastique."
+    },
+    {
+     "h5": "Une satire codée du stalinisme"
+    },
+    {
+     "p": "Disparitions inexpliquées, appartements réquisitionnés, dénonciations entre voisins, écrivains aux ordres : le Moscou de Boulgakov est celui des années de terreur, à peine déguisé. L’humour permet de dire ce qui ne peut pas l’être. Les lecteurs soviétiques des années 1960 y ont reconnu leur propre passé, au moment où le régime cherchait encore à [[endiguer|endiguer]] le souvenir des purges."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’il pose une question que chacun rencontre un jour : que fait-on quand dire la vérité coûte cher ? Pilate n’est pas un monstre, c’est un homme raisonnable qui choisit sa sécurité. Le livre rappelle que le compromis a un prix, parfois éternel. On peut [[tergiverser|tergiverser]] longtemps, mais la conscience finit par présenter l’addition. Et c’est aussi un roman très drôle, plein de scènes inoubliables : un chat qui joue aux échecs, une sorcière à balai, une séance de magie qui ridiculise toute une ville."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Moscou, années 1930. Le diable, sous les traits du professeur Woland, sème le chaos avec sa suite et démasque l’avidité et la lâcheté des Moscovites. En parallèle, un écrivain brisé, le Maître, et sa bien-aimée Marguerite tentent de sauver un roman sur Ponce Pilate.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La lâcheté</b> : Pilate condamne un innocent par peur ; Boulgakov en fait le pire des vices, transparent sous Staline.",
+      "<b>Le diable miroir</b> : Woland ne corrompt pas, il révèle ; les gens aiment l’argent, mais restent capables de pitié.",
+      "<b>L’art survit</b> : le manuscrit brûlé renaît intact ; l’amour de Marguerite et la création résistent à la censure.",
+      "<b>Trois romans en un</b> : satire, drame historique, conte d’amour fantastique."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>L’étranger</b> : aux étangs du Patriarche, Woland prédit à l’écrivain Berlioz sa mort ; un tramway le décapite. Le poète Ivan Bezdomny poursuit le diable et finit interné.",
+      "<b>Le chaos</b> : Woland, le chat Béhémoth, Koroviev et Azazello s’installent chez Berlioz ; séance de magie noire au théâtre des Variétés, billets et robes qui disparaissent. La police ne parvient pas à [[endiguer|endiguer]] les prodiges.",
+      "<b>Le Maître</b> : à la clinique, Ivan rencontre un écrivain dont le roman sur Pilate a été démoli par la critique ; il l’a brûlé et a été dénoncé.",
+      "<b>Jérusalem</b> : Pilate veut sauver le prédicateur Yeshoua, [[tergiverser|tergiverse]], puis cède au grand prêtre ; il le condamne, puis fait tuer Judas.",
+      "<b>Le bal</b> : Marguerite devient sorcière, préside le bal de Satan, obtient la grâce d’une damnée puis le retour du Maître et de son manuscrit.",
+      "<b>La fin</b> : les amants meurent et gagnent le repos, pas la lumière ; Pilate, libéré après deux mille ans, rejoint Yeshoua."
+     ]
+    },
+    {
+     "quote": "Les manuscrits ne brûlent pas.",
+     "cite": "Woland, chapitre 24 (traduction libre)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Le contexte</b> : Boulgakov (1891-1940), interdit sous Staline, écrit le roman de 1928 à sa mort ; il brûle une première version en 1930.",
+      "<b>La publication</b> : 1966-1967 dans la revue Moskva, censuré d’environ un huitième ; version intégrale en URSS en 1973.",
+      "<b>Faust</b> : épigraphe de Goethe ; Woland est un justicier ironique ; c’est Marguerite qui signe le pacte, par amour.",
+      "<b>Le miroir</b> : Moscou burlesque et Jérusalem solennelle se répondent ; même veille de Pâques, même lâcheté.",
+      "<b>La satire</b> : délations, appartements réquisitionnés, écrivains aux ordres ; les lecteurs y ont vu les purges que le régime voulait [[endiguer|endiguer]] dans les mémoires.",
+      "<b>Pourquoi le lire</b> : on peut [[tergiverser|tergiverser]] longtemps, la conscience présente toujours l’addition. Et c’est un roman très drôle."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "The Snowball",
+   "by": "Alice Schroeder · 2008",
+   "min": 9,
+   "exMin": 3,
+   "src": "Alice Schroeder, The Snowball: Warren Buffett and the Business of Life, Bantam Books, 29 septembre 2008 (976 pages) ; présentation de l’ouvrage et réception : Wikipédia. Partenariats Buffett (1956-1969) : FinMasters, d’après les lettres aux associés. Rendements de Berkshire et du S&P 500 de 1965 à 2025, départ de la direction générale : The Motley Fool, 9 janvier 2026. See’s Candies et filature Berkshire : Associated Press via PBS NewsHour, mai 2025. Don du 16 novembre 2026, actions restantes, présidence : Fortune, 16 novembre 2026. Données arrêtées au 18 novembre 2026.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "La biographie de référence de Warren Buffett, écrite par une ancienne analyste financière à qui il a ouvert ses archives. Elle raconte comment un garçon d’Omaha obsédé par les chiffres est devenu l’investisseur le plus célèbre du monde, et ce que cette réussite lui a coûté dans sa vie privée."
+      ],
+      [
+       "L’effet boule de neige",
+       "Le titre résume la méthode : de petites sommes, placées avec discipline et laissées à composer pendant des décennies, deviennent gigantesques. Entre 1965 et 2025, l’action Berkshire Hathaway a progressé en moyenne de 19,7 % par an, contre 10,5 % pour le S&P 500 : 1 000 dollars y sont devenus environ 48,5 millions."
+      ],
+      [
+       "Acheter une entreprise, pas un ticket",
+       "Disciple de Benjamin Graham, Buffett commence par acheter des sociétés qui valent moins que leurs actifs. Avec Charlie Munger, il passe ensuite aux entreprises excellentes payées un prix raisonnable : See’s Candies, achetée 25 millions de dollars en 1972, a rapporté 1,65 milliard de bénéfice avant impôt jusqu’en 2011."
+      ],
+      [
+       "Le tableau de score intérieur",
+       "Le fil psychologique du livre : Buffett se juge à l’aune de ses propres critères, pas de l’opinion des autres. Cela lui permet d’ignorer les modes, mais l’enferme aussi dans une forme de solitude que sa femme Susie compense pendant des années."
+      ],
+      [
+       "Un génie aux angles morts",
+       "Schroeder ne cache rien : un père absent, une vie conjugale hors norme, des erreurs coûteuses comme le rachat de la filature Berkshire elle-même. Buffett lui a demandé de retenir, en cas de doute, la version la moins flatteuse."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Une biographie autorisée, pas complaisante"
+    },
+    {
+     "p": "Alice Schroeder a été pendant six ans la seule analyste de Wall Street avec qui Buffett acceptait de parler, lorsqu’elle suivait l’assurance chez Morgan Stanley. C’est lui qui lui propose d’écrire sa vie, après avoir éconduit des dizaines de biographes. En 2003, elle quitte la banque et s’installe à Omaha. Elle passe plus de 2 000 heures dans ses archives personnelles et interroge sa femme, ses enfants, ses sœurs, ses amis et ses associés. Buffett s’engage à ne rien faire modifier. Le livre paraît le 29 septembre 2008, au cœur de la crise financière, en près de mille pages. Il devient numéro un des ventes d’essais aux États-Unis.",
+     "lead": 1
+    },
+    {
+     "h5": "Le gamin qui comptait tout"
+    },
+    {
+     "p": "Né en 1930 à Omaha, dans le Nebraska, fils d’un agent de change devenu élu républicain au Congrès, Warren Buffett grandit pendant la Grande Dépression. Enfant, il revend une à une des bouteilles de Coca-Cola achetées par paquets de six, distribue les journaux, place des flippers dans les salons de coiffure. À 11 ans, il achète ses premières actions, les revend avec un petit gain, puis les voit s’envoler : il en retient une leçon de patience. Toute sa vie, il saura attendre longtemps, puis acheter vite, sans [[tergiverser|tergiverser]], quand une affaire lui paraît évidente. Refusé par Harvard, il rejoint Columbia en 1950 pour suivre les cours de Benjamin Graham, l’auteur de L’Investisseur intelligent, le livre qui a changé sa vie."
+    },
+    {
+     "h5": "La méthode Graham, puis la méthode Munger"
+    },
+    {
+     "p": "La règle de Graham est simple : acheter une action nettement moins cher que ce que vaut l’entreprise, pour se garder une marge de sécurité. Buffett l’applique avec une rigueur obsessionnelle, d’abord chez Graham à New York, puis à son compte. En 1956, il crée à Omaha un partenariat avec 105 100 dollars apportés par sept proches ; il y met lui-même 100 dollars. De 1957 à 1969, ces fonds rapportent en moyenne 29,5 % par an avant commissions, contre 7,4 % pour le Dow Jones. Il les ferme en 1969, jugeant le marché trop cher."
+    },
+    {
+     "stats": [
+      [
+       "19,7 %",
+       "hausse annuelle moyenne de l’action Berkshire, 1965-2025"
+      ],
+      [
+       "10,5 %",
+       "même mesure pour le S&P 500"
+      ],
+      [
+       "29,5 %",
+       "rendement annuel brut des partenariats Buffett, 1957-1969"
+      ],
+      [
+       "5,4 Md$",
+       "nouveau don annoncé le 16 novembre 2026"
+      ]
+     ]
+    },
+    {
+     "p": "Sa rencontre avec Charlie Munger, avocat de Los Angeles, change sa façon de voir. Munger le convainc qu’il vaut mieux acheter une entreprise remarquable à un prix correct qu’une entreprise médiocre à un prix bradé. See’s Candies, chaîne californienne de chocolats, achetée 25 millions de dollars en 1972, en est la démonstration : une marque forte permet d’augmenter les prix chaque année sans perdre ses clients. Viennent ensuite le Washington Post, Geico, Coca-Cola. Pour Buffett, la marque est un fossé autour du château : elle protège les profits et permet d’[[endiguer|endiguer]] la concurrence."
+    },
+    {
+     "h5": "Berkshire, l’erreur devenue empire"
+    },
+    {
+     "p": "Schroeder raconte avec précision la plus célèbre erreur de Buffett. Au début des années 1960, il achète des actions d’une filature déclinante de Nouvelle-Angleterre, Berkshire Hathaway, à 7 ou 8 dollars. Vexé par le patron qui veut lui racheter ses titres à un prix inférieur à celui convenu, il prend le contrôle de l’entreprise en 1965, par orgueil. Le textile perd de l’argent pendant vingt ans, avant la fermeture en 1985. Mais Buffett transforme la coquille en holding : les primes d’assurance, encaissées avant que les sinistres ne soient payés, lui fournissent un capital qu’il investit. Ce mécanisme, le « float », est le moteur de l’empire."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le pouvoir de la composition",
+      "sub": "Rendement annuel moyen, en %",
+      "rows": [
+       [
+        "Partenariats Buffett, brut (1957-1969)",
+        29.5
+       ],
+       [
+        "Dow Jones, dividendes compris (1957-1969)",
+        7.4
+       ],
+       [
+        "Action Berkshire (1965-2025)",
+        19.7
+       ],
+       [
+        "S&P 500 (1965-2025)",
+        10.5
+       ]
+      ],
+      "suffix": " %",
+      "note": "Sources : lettres de Buffett aux associés (via FinMasters) ; Berkshire Hathaway, via The Motley Fool, janvier 2026."
+     }
+    },
+    {
+     "h5": "L’homme derrière l’investisseur"
+    },
+    {
+     "p": "La moitié du livre parle d’autre chose que d’argent, et c’est sa force. Buffett apparaît comme un homme d’une immense timidité, incapable de gérer les émotions des autres, mangeant des hamburgers en lisant des rapports annuels. Sa femme Susan, dite Susie, l’accompagne socialement et élève leurs trois enfants presque seule. En 1977, elle part vivre à San Francisco, sans divorcer, et présente elle-même à son mari celle qui deviendra sa compagne, Astrid Menks. Susie meurt en 2004 ; Buffett épouse Astrid en 2006. Schroeder montre aussi l’homme public : sauveur de la banque Salomon en 1991, ami de Bill Gates, critique des dirigeants trop payés."
+    },
+    {
+     "h5": "Les limites et les critiques"
+    },
+    {
+     "p": "La presse a salué un portrait d’une richesse rare, mais certains critiques ont regretté sa longueur et ses détails intimes. The Economist conseillait à qui voulait comprendre la méthode de lire plutôt les lettres annuelles de Buffett aux actionnaires. Selon la presse, la relation entre l’auteure et son sujet s’est d’ailleurs refroidie après la parution, Buffett n’ayant pas apprécié certains passages. Le livre s’arrête en 2008 : il ne couvre ni la succession, ni la fin de carrière."
+    },
+    {
+     "h5": "Postérité et actualité"
+    },
+    {
+     "p": "La suite lui donne une conclusion. Buffett a quitté la direction générale de Berkshire fin 2025, au profit de Greg Abel, puis la présidence en septembre 2026. Le 16 novembre, à 96 ans, il a annoncé un nouveau don d’environ 5,4 milliards de dollars en actions à quatre fondations familiales, et prévu de leur transmettre le reste, plus de 160 milliards, d’ici fin 2034. Son message de Thanksgiving tenait en une idée : la gentillesse ne coûte rien et n’a pas de prix. La boule de neige se termine en don. Pour un lecteur de la supply chain, la leçon reste actuelle : la régularité et la patience battent presque toujours l’agitation."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "La biographie de référence de Warren Buffett, par une ancienne analyste qui a eu accès à ses archives : comment un garçon d’Omaha est devenu l’investisseur le plus célèbre du monde, et à quel prix pour sa vie privée.",
+     "lead": 1
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’auteure</b> : Alice Schroeder, analyste chez Morgan Stanley ; 2 000 heures d’archives, des centaines d’entretiens ; publication le 29 septembre 2008.",
+      "<b>La composition</b> : 1 000 dollars placés en Berkshire en 1965 valent environ 48,5 millions en 2025.",
+      "<b>La méthode</b> : Graham (acheter sous la valeur, marge de sécurité), puis Munger (une entreprise excellente à un prix correct).",
+      "<b>Le score intérieur</b> : se juger selon ses propres critères, pas l’opinion des autres.",
+      "<b>Les angles morts</b> : vie familiale négligée ; Buffett a demandé la version la moins flatteuse en cas de doute."
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "ul": [
+      "<b>L’enfance</b> : né en 1930 ; Coca-Cola revendu à l’unité, journaux, flippers ; premières actions à 11 ans, revendues trop tôt : il apprend à attendre, puis à acheter sans [[tergiverser|tergiverser]].",
+      "<b>Les partenariats</b> : 105 100 dollars de sept proches en 1956 ; 29,5 % par an brut de 1957 à 1969, contre 7,4 % pour le Dow Jones.",
+      "<b>See’s Candies</b> : achetée 25 M$ en 1972, 1,65 Md$ de bénéfice avant impôt jusqu’en 2011 ; une marque forte sert à [[endiguer|endiguer]] la concurrence.",
+      "<b>Berkshire</b> : filature achetée par orgueil en 1965, textile fermé en 1985 ; la holding vit des primes d’assurance encaissées d’avance.",
+      "<b>L’homme</b> : timide, absorbé par les chiffres ; Susie part en 1977 sans divorcer ; Buffett épouse Astrid Menks en 2006.",
+      "<b>Les critiques</b> : livre long et intime ; relations refroidies avec l’auteure après la parution.",
+      "<b>L’actualité</b> : retrait de la direction fin 2025, de la présidence en septembre 2026 ; don de 5,4 Md$ le 16 novembre 2026, le reste d’ici 2034."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "19,7 %",
+       "hausse annuelle moyenne de l’action Berkshire, 1965-2025"
+      ],
+      [
+       "10,5 %",
+       "même mesure pour le S&P 500"
+      ],
+      [
+       "29,5 %",
+       "rendement annuel brut des partenariats Buffett, 1957-1969"
+      ],
+      [
+       "5,4 Md$",
+       "nouveau don annoncé le 16 novembre 2026"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le pouvoir de la composition",
+      "sub": "Rendement annuel moyen, en %",
+      "rows": [
+       [
+        "Partenariats Buffett, brut (1957-1969)",
+        29.5
+       ],
+       [
+        "Dow Jones, dividendes compris (1957-1969)",
+        7.4
+       ],
+       [
+        "Action Berkshire (1965-2025)",
+        19.7
+       ],
+       [
+        "S&P 500 (1965-2025)",
+        10.5
+       ]
+      ],
+      "suffix": " %",
+      "note": "Sources : lettres de Buffett aux associés (via FinMasters) ; Berkshire Hathaway, via The Motley Fool, janvier 2026."
+     }
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Fed : la pause d’octobre prépare une hausse",
+   "by": "Analyse",
+   "fig": "3,75-4 %",
+   "figl": "fourchette des taux de la Fed",
+   "min": 3,
+   "exMin": 2,
+   "src": "Réserve fédérale, communiqué annonçant le compte rendu de la réunion des 27 et 28 octobre 2026 (publié le 18 novembre 2026) ; contenu du compte rendu : Yahoo Finance et FOMCDiff (18 novembre 2026). Propos de Christopher Waller : MarketWatch via StockAnalysis (10 novembre 2026). Prix à la consommation d’octobre et probabilité CME FedWatch : Associated Press via ABC7 (10 novembre 2026). Prix à la production d’octobre : Bureau of Labor Statistics, via StockTitan (13 novembre 2026). Données arrêtées au 18 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La Réserve fédérale américaine a laissé ses taux inchangés fin octobre, mais elle prépare la suite. Le compte rendu de cette réunion, publié mercredi 18 novembre, montre que presque tous les responsables jugent de nouvelles hausses probablement nécessaires pour ramener l’inflation à 2 %. Deux d’entre eux auraient même voulu agir tout de suite. Rendez-vous les 8 et 9 décembre.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "3,75-4 %",
+       "fourchette des taux directeurs de la Fed"
+      ],
+      [
+       "10 contre 2",
+       "vote pour la pause d’octobre"
+      ],
+      [
+       "6,5 %",
+       "hausse des prix à la production sur un an, en octobre"
+      ],
+      [
+       "≈ 82 %",
+       "probabilité d’une hausse en décembre selon les marchés (10 novembre)"
+      ]
+     ]
+    },
+    {
+     "h": "Une pause qui n’en est pas une"
+    },
+    {
+     "p": "Après une hausse d’un quart de point en septembre, la Fed, présidée par Kevin Warsh, a maintenu le 28 octobre ses taux entre 3,75 % et 4 %, par 10 voix contre 2. La gouverneure Lisa Cook et la présidente de la Fed de Cleveland, Beth Hammack, réclamaient une hausse immédiate. Ceux qui ont préféré attendre voulaient mesurer l’effet de la hausse de septembre, des conditions de financement et du contexte géopolitique ; quelques-uns ont reconnu un choix serré. Certains ont noté que les marchés anticipaient déjà des hausses en décembre et l’an prochain, ce qui rendait la pause moins risquée. Mais la Fed ne pourra pas [[tergiverser|tergiverser]] longtemps : selon Christopher Waller, ne pas livrer les hausses attendues reviendrait à desserrer la politique monétaire."
+    },
+    {
+     "h": "Pétrole, droits de douane et IA"
+    },
+    {
+     "p": "La plupart des responsables jugent les tensions sur les prix désormais généralisées. L’énergie, chère depuis la guerre avec l’Iran, continue de peser. Fait nouveau, beaucoup voient dans la construction effrénée de centres de données pour l’intelligence artificielle un risque inflationniste important, si les capacités de production croissent moins vite que la demande. Les chiffres récents ne rassurent pas : les prix à la consommation ont augmenté de 0,4 % en octobre, plus que prévu, et les prix à la production de 6,5 % sur un an, du jamais-vu depuis 2022. Le gouverneur Christopher Waller a prévenu le 10 novembre qu’une hausse d’un demi-point pourrait être envisagée si l’inflation sous-jacente restait trop forte."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’inflation loin de la cible",
+      "sub": "Hausse sur un an, en %",
+      "rows": [
+       [
+        "Prix à la production (oct.)",
+        6.5
+       ],
+       [
+        "Prix à la production hors alimentation et énergie (oct.)",
+        5.0
+       ],
+       [
+        "Prix à la consommation (sept.)",
+        3.7
+       ],
+       [
+        "Cible de la Fed",
+        2
+       ]
+      ],
+      "suffix": " %",
+      "note": "La Fed vise 2 % mesurés par l’indice PCE. Sources : Bureau of Labor Statistics, via StockTitan (13 novembre 2026) et Associated Press (10 novembre 2026)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La Fed a choisi de remonter ses taux face au choc pétrolier. Son objectif : [[endiguer|endiguer]] une inflation qui se diffuse avant qu’elle ne s’installe dans les anticipations. Le coût sera un crédit plus cher, pour les ménages américains comme pour les entreprises, et, en principe, un dollar plus fort."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le message</b> : le compte rendu publié le 18 novembre montre que presque tous les responsables de la Fed jugent de nouvelles hausses de taux probablement nécessaires.",
+      "<b>Le calendrier</b> : prochaine réunion les 8 et 9 décembre."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "3,75-4 %",
+       "fourchette des taux directeurs de la Fed"
+      ],
+      [
+       "10 contre 2",
+       "vote pour la pause d’octobre"
+      ],
+      [
+       "6,5 %",
+       "hausse des prix à la production sur un an, en octobre"
+      ],
+      [
+       "≈ 82 %",
+       "probabilité d’une hausse en décembre selon les marchés (10 novembre)"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>La pause</b> : taux maintenus entre 3,75 % et 4 % le 28 octobre, après une hausse en septembre ; Lisa Cook et Beth Hammack voulaient monter. La Fed ne peut pas [[tergiverser|tergiverser]] longtemps.",
+      "<b>Les causes</b> : énergie chère depuis la guerre avec l’Iran, pressions généralisées, et risque nouveau lié aux centres de données de l’IA.",
+      "<b>Les chiffres</b> : prix à la consommation + 0,4 % en octobre ; prix à la production + 6,5 % sur un an, record depuis 2022.",
+      "<b>Waller</b> : une hausse d’un demi-point pourrait être envisagée si l’inflation sous-jacente reste forte."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’inflation loin de la cible",
+      "sub": "Hausse sur un an, en %",
+      "rows": [
+       [
+        "Prix à la production (oct.)",
+        6.5
+       ],
+       [
+        "Prix à la production hors alimentation et énergie (oct.)",
+        5.0
+       ],
+       [
+        "Prix à la consommation (sept.)",
+        3.7
+       ],
+       [
+        "Cible de la Fed",
+        2
+       ]
+      ],
+      "suffix": " %",
+      "note": "La Fed vise 2 % mesurés par l’indice PCE. Sources : Bureau of Labor Statistics, via StockTitan (13 novembre 2026) et Associated Press (10 novembre 2026)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : la Fed veut [[endiguer|endiguer]] l’inflation avant qu’elle ne s’installe ; le prix sera un crédit plus cher."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Israël : la Knesset échappe à Netanyahou",
+   "by": "Analyse",
+   "fig": "66 voix",
+   "figl": "pour le nouveau président de la Knesset",
+   "min": 3,
+   "exMin": 2,
+   "src": "Résultats définitifs des législatives du 27 octobre 2026 : The Times of Israel et Wikipédia, « 2026 Israeli legislative election » (recommandations, mandat du 8 novembre, délais). Élection de Matan Kahana le 17 novembre 2026, commissions, accord sur l’obstruction : Ynetnews et Jewish Telegraphic Agency (17 novembre 2026). Données arrêtées au 18 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Pour la première fois depuis des années, Benjamin Netanyahou a perdu le contrôle du Parlement israélien. Mardi 17 novembre, la Knesset a élu à sa présidence Matan Kahana, un allié de Gadi Eisenkot, par 66 voix contre 52, grâce aux voix des députés arabes. Eisenkot a reçu le mandat de former un gouvernement, mais il n’a toujours pas de coalition. Netanyahou reste Premier ministre par intérim.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "66 contre 52",
+       "élection de Matan Kahana à la présidence de la Knesset"
+      ],
+      [
+       "53",
+       "sièges du bloc de Netanyahou, sur 120"
+      ],
+      [
+       "67",
+       "députés ayant recommandé Eisenkot au président"
+      ],
+      [
+       "20 déc.",
+       "date limite pour Eisenkot, prolongation comprise"
+      ]
+     ]
+    },
+    {
+     "h": "Des urnes au perchoir"
+    },
+    {
+     "p": "Les législatives du 27 octobre ont donné 27 sièges au Likoud de Netanyahou, premier parti, contre 21 à Yashar, le parti d’Eisenkot, avec une participation de 78 %. Mais le bloc sortant n’a que 53 sièges sur 120, loin des 61 nécessaires. Le bloc d’opposition juive en compte 48, et les partis arabes 19, un score sans précédent. Cinq partis, dont les deux formations arabes, ont recommandé Eisenkot au président Isaac Herzog, soit 67 députés. Herzog lui a confié le mandat le 8 novembre : il a 28 jours, prolongeables de 14, soit jusqu’au 20 décembre au plus tard."
+    },
+    {
+     "p": "L’élection de Kahana, 54 ans, remplace un fidèle de Netanyahou, Amir Ohana. Elle donne à l’opposition la maîtrise de l’agenda parlementaire et des commissions clés : Avigdor Lieberman préside désormais celle des affaires étrangères et de la défense. Kahana a promis que la Knesset respecterait sans condition les décisions de justice, une rupture avec la réforme judiciaire du gouvernement sortant."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La Knesset en trois blocs",
+      "sub": "Sièges après les législatives du 27 octobre 2026, sur 120",
+      "rows": [
+       [
+        "Bloc de Netanyahou (Likoud, ultra-orthodoxes, extrême droite)",
+        53
+       ],
+       [
+        "Bloc d’Eisenkot (Yashar, Ensemble, Démocrates, Israel Beytenou)",
+        48
+       ],
+       [
+        "Partis arabes (Liste unifiée, Ra’am)",
+        19
+       ]
+      ],
+      "suffix": "",
+      "note": "Source : commission électorale centrale, résultats définitifs, via The Times of Israel et Wikipédia."
+     }
+    },
+    {
+     "h": "Le casse-tête de la coalition"
+    },
+    {
+     "p": "Eisenkot ne peut gouverner qu’avec l’appui des partis arabes. La Liste unifiée promet de soutenir son gouvernement de l’extérieur, Ra’am de voter pour lui même sans accord formel. Mais une partie de la droite laïque rechigne à dépendre de ces voix, qu’un candidat du Likoud a qualifiées de « soutiens du terrorisme ». Netanyahou, lui, plaide pour un gouvernement d’union nationale incluant les ultra-orthodoxes, une manière d’[[endiguer|endiguer]] sa marginalisation. Pour obtenir la fin de l’obstruction parlementaire, Eisenkot a accepté de ne pas voter avant lundi l’abrogation de la réforme judiciaire. Il ne peut pas [[tergiverser|tergiverser]] longtemps : en cas d’échec au 20 décembre, le président pourrait désigner un autre candidat, et le spectre d’un nouveau scrutin reviendrait."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La Knesset a changé de majorité avant même qu’un gouvernement ne soit formé. Les partis arabes deviennent pour la première fois les arbitres du pouvoir. Si Eisenkot réussit, il promet une commission d’enquête sur le 7 octobre et l’abrogation de la réforme judiciaire ; s’il échoue, Netanyahou, toujours en poste, retrouvera une chance."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le basculement</b> : le 17 novembre, la Knesset élit à sa présidence Matan Kahana, allié de Gadi Eisenkot, par 66 voix contre 52, avec les voix arabes.",
+      "<b>L’inconnue</b> : Eisenkot a le mandat mais pas encore de coalition ; Netanyahou reste Premier ministre par intérim."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "66 contre 52",
+       "élection de Matan Kahana à la présidence de la Knesset"
+      ],
+      [
+       "53",
+       "sièges du bloc de Netanyahou, sur 120"
+      ],
+      [
+       "67",
+       "députés ayant recommandé Eisenkot au président"
+      ],
+      [
+       "20 déc.",
+       "date limite pour Eisenkot, prolongation comprise"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le scrutin</b> : 27 octobre ; Likoud 27 sièges, Yashar 21 ; blocs de 53, 48 et 19 sièges (partis arabes) ; participation de 78 %.",
+      "<b>Le mandat</b> : confié par Isaac Herzog le 8 novembre après 67 recommandations ; 28 jours plus 14, jusqu’au 20 décembre.",
+      "<b>Le perchoir</b> : Kahana remplace Amir Ohana ; Lieberman prend la commission défense ; promesse de respecter les décisions de justice.",
+      "<b>La coalition</b> : soutien arabe de l’extérieur ; Netanyahou veut une union nationale pour [[endiguer|endiguer]] sa marginalisation ; Eisenkot ne peut pas [[tergiverser|tergiverser]]."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La Knesset en trois blocs",
+      "sub": "Sièges après les législatives du 27 octobre 2026, sur 120",
+      "rows": [
+       [
+        "Bloc de Netanyahou (Likoud, ultra-orthodoxes, extrême droite)",
+        53
+       ],
+       [
+        "Bloc d’Eisenkot (Yashar, Ensemble, Démocrates, Israel Beytenou)",
+        48
+       ],
+       [
+        "Partis arabes (Liste unifiée, Ra’am)",
+        19
+       ]
+      ],
+      "suffix": "",
+      "note": "Source : commission électorale centrale, résultats définitifs, via The Times of Israel et Wikipédia."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : les partis arabes arbitrent le pouvoir pour la première fois ; en cas d’échec au 20 décembre, un nouveau scrutin redeviendrait possible."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Wildberries : quand l’entrepôt géant devient une cible",
+   "by": "Analyse",
+   "fig": "43 %",
+   "figl": "surfaces de stockage perdues à la mi-août",
+   "min": 3,
+   "exMin": 2,
+   "src": "Associated Press via PBS NewsHour, 31 juillet 2026 (16 sites frappés, neuf morts, part des commandes d’après Data Insight, réaction du Kremlin). The Moscow Times, 5 août 2026 (volume d’affaires de RWB en 2025, parts de marché prévues). The Moscow Times et Data Insight, cités par United24 Media, 18 septembre 2026 (43 % des surfaces, pertes d’Ozon selon Alfa-Bank, 400 milliards de roubles, annulations, filets anti-drones). Briefs, 22 juillet 2026, d’après Bloomberg (X5, Lenta, Bloomberg Economics). Stars and Stripes et Euronews, 17 et 18 novembre 2026 (Elbridge Colby, Boris Pistorius). Données arrêtées au 18 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Depuis le 18 juillet, des drones ukrainiens frappent les entrepôts de Wildberries, l’« Amazon russe ». En quatre mois, la campagne a mis hors service une grande partie de son réseau logistique et privé l’e-commerce russe de plusieurs centaines de millions de commandes. Mardi 17 novembre, à l’OTAN, un haut responsable américain l’a critiquée, déclenchant la colère des Européens. Au-delà de la guerre, l’affaire pose une question à toute la supply chain : jusqu’où concentrer ses stocks ?",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "16",
+       "sites Wildberries frappés en moins de deux semaines, en juillet"
+      ],
+      [
+       "43 %",
+       "de ses surfaces de stockage perdues à la mi-août"
+      ],
+      [
+       "400 Md₽",
+       "manque à gagner de l’e-commerce russe en 2026"
+      ],
+      [
+       "478 000 m²",
+       "de filets anti-drones commandés par Wildberries"
+      ]
+     ]
+    },
+    {
+     "h": "Un réseau trop concentré"
+    },
+    {
+     "p": "Wildberries traite à elle seule plus de la moitié des commandes en ligne en Russie. Son groupe, RWB, a réalisé en 2025 un volume d’affaires de 6 100 milliards de roubles, environ 75 milliards de dollars. Son modèle repose sur d’immenses entrepôts en propre. C’est sa force en temps de paix, et sa faiblesse sous les drones : en moins de deux semaines, 16 sites ont été touchés, faisant neuf morts. À la mi-août, selon The Moscow Times, l’entreprise avait perdu 43 % de ses surfaces de stockage, soit environ 2,4 millions de mètres carrés. Son concurrent Ozon, frappé à partir du 25 août, a moins souffert : les analystes d’Alfa-Bank l’expliquent par un réseau plus dispersé et souvent loué."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Deux géants, deux modèles",
+      "sub": "Part prévue du chiffre d’affaires des places de marché russes en 2026, en %",
+      "rows": [
+       [
+        "Wildberries (grands entrepôts en propre)",
+        45
+       ],
+       [
+        "Ozon (réseau plus dispersé, souvent loué)",
+        32
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : prévision citée par The Moscow Times, 5 août 2026."
+     }
+    },
+    {
+     "h": "Le coût de la résilience"
+    },
+    {
+     "p": "Le cabinet russe Data Insight estime que l’e-commerce perdra en 2026 environ 400 millions de commandes et 400 milliards de roubles de ventes ; près de 30 % des commandes bloquées ont été annulées par les clients. Pour [[endiguer|endiguer]] les dégâts, Wildberries a commandé 478 000 mètres carrés de filets anti-drones, et cherche des entrepôts au Kazakhstan. Les distributeurs alimentaires X5 et Lenta ne veulent plus [[tergiverser|tergiverser]] : ils étudient des plateformes régionales de 10 000 à 30 000 mètres carrés au lieu de méga-centres de 100 000 à 200 000. Bloomberg Economics prévient que cette dispersion réduira l’efficacité et renchérira la logistique."
+    },
+    {
+     "p": "Kiev affirme que Wildberries fournit l’armée russe en équipements et composants, ce que le Kremlin dément. Le 17 novembre, Elbridge Colby, numéro trois du Pentagone, a jugé que ces frappes sur des infrastructures civiles avaient sans doute renforcé la détermination des Russes ; le ministre allemand de la Défense, Boris Pistorius, a qualifié la critique de « stupide »."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La concentration des stocks optimise les coûts tant que rien ne casse. Quand le risque change de nature, l’entrepôt unique devient un point de rupture. Toute entreprise doit arbitrer entre efficacité et redondance : la guerre l’impose brutalement à la Russie, mais les incendies, les inondations ou les cyberattaques posent la même question ailleurs."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>La campagne</b> : depuis le 18 juillet, des drones ukrainiens frappent les entrepôts de Wildberries, l’« Amazon russe ».",
+      "<b>La question</b> : pour toute supply chain, jusqu’où concentrer ses stocks ?"
+     ]
+    },
+    {
+     "stats": [
+      [
+       "16",
+       "sites Wildberries frappés en moins de deux semaines, en juillet"
+      ],
+      [
+       "43 %",
+       "de ses surfaces de stockage perdues à la mi-août"
+      ],
+      [
+       "400 Md₽",
+       "manque à gagner de l’e-commerce russe en 2026"
+      ],
+      [
+       "478 000 m²",
+       "de filets anti-drones commandés par Wildberries"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le géant</b> : plus de la moitié des commandes en ligne russes ; 6 100 Md₽ (≈ 75 Md$) de volume d’affaires pour RWB en 2025.",
+      "<b>Les dégâts</b> : 16 sites touchés en deux semaines, neuf morts ; 43 % des surfaces perdues à la mi-août. Ozon, plus dispersé, souffre moins.",
+      "<b>Les parades</b> : filets anti-drones pour [[endiguer|endiguer]] les dégâts ; X5 et Lenta ne veulent plus [[tergiverser|tergiverser]] et passent à des plateformes régionales de 10 000 à 30 000 m².",
+      "<b>La polémique</b> : le 17 novembre, Elbridge Colby (Pentagone) critique ces frappes ; Boris Pistorius juge la critique « stupide »."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Deux géants, deux modèles",
+      "sub": "Part prévue du chiffre d’affaires des places de marché russes en 2026, en %",
+      "rows": [
+       [
+        "Wildberries (grands entrepôts en propre)",
+        45
+       ],
+       [
+        "Ozon (réseau plus dispersé, souvent loué)",
+        32
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : prévision citée par The Moscow Times, 5 août 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : l’entrepôt unique optimise les coûts jusqu’au jour où il devient un point de rupture ; la résilience a un prix."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Target : les clients reviennent, les prévisions montent",
+   "by": "Analyse",
+   "fig": "+ 5,6 %",
+   "figl": "ventes à magasins comparables",
+   "min": 3,
+   "exMin": 2,
+   "src": "Target Corporation, communiqué de résultats du 3e trimestre 2026 (clos le 31 octobre 2026), formulaire 8-K déposé à la SEC le 18 novembre 2026. Consensus, rayons, remboursements de droits de douane, ouvertures et rénovations, livraison : transcription de la conférence de résultats, Investing.com. Hausse du titre : CNBC, 18 novembre 2026. Date de publication de Walmart : Yahoo Finance. Données arrêtées au 18 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Target respire enfin. Le distributeur américain, grand rival de Walmart, a publié mercredi 18 novembre sa meilleure croissance des ventes en cinq ans. Après une année 2025 de recul, ses ventes à magasins comparables progressent de 5,6 % au troisième trimestre, portées par le retour des clients. Le groupe relève ses prévisions annuelles, et l’action a bondi d’environ 7 % selon CNBC.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "+ 5,6 %",
+       "ventes à magasins comparables, contre − 2,7 % un an plus tôt"
+      ],
+      [
+       "27,1 Md$",
+       "chiffre d’affaires du trimestre, + 7,1 %"
+      ],
+      [
+       "2,65 $",
+       "bénéfice par action, contre 2,07 $ attendus"
+      ],
+      [
+       "≈ 300 M$",
+       "remboursements de droits de douane encaissés sur le trimestre"
+      ]
+     ]
+    },
+    {
+     "h": "Les clients reviennent"
+    },
+    {
+     "p": "Sur le trimestre clos le 31 octobre, le chiffre d’affaires atteint 27,1 milliards de dollars, en hausse de 7,1 %. Le nombre de transactions bondit de 5 %, tandis que le panier moyen ne progresse que de 0,6 % : la croissance vient de la fréquentation, pas des prix. Les ventes en ligne comparables grimpent de près de 10 %, et les deux tiers des commandes en ligne sont servies le jour même. L’alimentation progresse de près de 7 %, la beauté de plus de 9 %, les jouets et cartes à collectionner de 27 %. L’habillement reste stable et la maison redevient tout juste positive."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le retour des clients",
+      "sub": "Variation sur un an, trimestre clos le 31 octobre 2026, en %",
+      "rows": [
+       [
+        "Ventes en ligne comparables",
+        9.8
+       ],
+       [
+        "Nombre de transactions",
+        5.0
+       ],
+       [
+        "Ventes en magasin comparables",
+        4.6
+       ],
+       [
+        "Panier moyen",
+        0.6
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Target Corporation, résultats du 3e trimestre 2026, formulaire 8-K du 18 novembre 2026."
+     }
+    },
+    {
+     "h": "Une stratégie, et un coup de pouce"
+    },
+    {
+     "p": "Michael Fiddelke, directeur général depuis février, a refusé de [[tergiverser|tergiverser]] : baisses de prix sur des milliers d’articles, 32 ouvertures de magasins, un record depuis 2009, et plus de 130 rénovations. Les résultats bénéficient aussi d’un cadeau : environ 300 millions de dollars de droits de douane remboursés par l’État fédéral, soit 0,50 dollar sur un bénéfice par action de 2,65 dollars. Même sans eux, le résultat opérationnel ajusté progresse de 24 %. Le groupe vise désormais une croissance des ventes d’environ 6 % sur l’année et prévoit 5 à 6 milliards de dollars d’investissements en 2027. Les stocks, en hausse d’environ 8 %, devront s’écouler à Noël sans braderie : un défi pour [[endiguer|endiguer]] le risque de démarque."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Target montre qu’un distributeur en difficulté peut regagner ses clients en misant sur le prix, le magasin et la livraison rapide. Mais une partie de l’embellie tient à des remboursements ponctuels. La saison des fêtes dira si la reprise est durable, dans une Amérique où l’inflation repart et où Walmart, qui publie ses comptes ce jeudi, reste la référence."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le rebond</b> : ventes à magasins comparables + 5,6 % au 3e trimestre, meilleure croissance en cinq ans, après une année 2025 de recul.",
+      "<b>La réaction</b> : prévisions annuelles relevées ; action en hausse d’environ 7 %."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "+ 5,6 %",
+       "ventes à magasins comparables, contre − 2,7 % un an plus tôt"
+      ],
+      [
+       "27,1 Md$",
+       "chiffre d’affaires du trimestre, + 7,1 %"
+      ],
+      [
+       "2,65 $",
+       "bénéfice par action, contre 2,07 $ attendus"
+      ],
+      [
+       "≈ 300 M$",
+       "remboursements de droits de douane encaissés sur le trimestre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les ventes</b> : 27,1 Md$ (+ 7,1 %) ; transactions + 5 %, panier moyen + 0,6 % ; en ligne + 9,8 %.",
+      "<b>Les rayons</b> : alimentation + 7 %, beauté + 9 %, jouets et cartes + 27 % ; habillement stable.",
+      "<b>La stratégie</b> : Michael Fiddelke refuse de [[tergiverser|tergiverser]] : baisses de prix, 32 ouvertures, plus de 130 rénovations.",
+      "<b>Le coup de pouce</b> : ≈ 300 M$ de droits de douane remboursés (0,50 $ par action) ; hors remboursements, résultat opérationnel ajusté + 24 %.",
+      "<b>Le risque</b> : stocks + 8 % à écouler à Noël pour [[endiguer|endiguer]] la démarque ; 5 à 6 Md$ d’investissements en 2027."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le retour des clients",
+      "sub": "Variation sur un an, trimestre clos le 31 octobre 2026, en %",
+      "rows": [
+       [
+        "Ventes en ligne comparables",
+        9.8
+       ],
+       [
+        "Nombre de transactions",
+        5.0
+       ],
+       [
+        "Ventes en magasin comparables",
+        4.6
+       ],
+       [
+        "Panier moyen",
+        0.6
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Target Corporation, résultats du 3e trimestre 2026, formulaire 8-K du 18 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : prix, magasins rénovés et livraison rapide ramènent les clients ; Noël dira si la reprise dure, Walmart publie ce jeudi."
+     ]
+    }
+   ]
+  }
+ ]
+}
