@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-19",
+ "latest": "2026-11-20",
  "editions": [
+  {
+   "date": "2026-11-20",
+   "label": "Vendredi 20 novembre",
+   "words": [
+    "Endiguer",
+    "Tergiverser"
+   ],
+   "items": [
+    [
+     "lit",
+     "Les Liaisons dangereuses"
+    ],
+    [
+     "essai",
+     "Freakonomics"
+    ],
+    [
+     "eco",
+     "Royaume-Uni : le carburant pousse l’inflation à 3,6 %"
+    ],
+    [
+     "geo",
+     "Yémen : les Houthis tiennent Bab el-Mandeb et marchent sur Aden"
+    ],
+    [
+     "log",
+     "Mer Rouge : le retour par Suez suspendu au Yémen"
+    ],
+    [
+     "ent",
+     "Walmart : la publicité et l’abonnement font la marge"
+    ]
+   ]
+  },
   {
    "date": "2026-11-19",
    "label": "Jeudi 19 novembre",

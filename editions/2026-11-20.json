@@ -1,0 +1,1102 @@
+{
+ "date": "2026-11-20",
+ "label": "Vendredi 20 novembre 2026",
+ "n": 30,
+ "example": false,
+ "week": {
+  "start": "2026-11-16",
+  "label": "Semaine du 16 novembre",
+  "day": 5,
+  "words": [
+   {
+    "key": "endiguer",
+    "w": "Endiguer",
+    "ph": "[ɑ̃.di.ɡe] · verbe transitif",
+    "short": "Contenir un phénomène pour l’empêcher de s’étendre.",
+    "def": "Au sens propre, retenir un cours d’eau par des digues. Au figuré, freiner ou contenir quelque chose qui menace de déborder : une épidémie, une hausse des prix, une crise, un afflux de demandes. Le mot ne promet pas la disparition du problème, seulement sa maîtrise : on endigue une vague, on ne la supprime pas. Il s’emploie très naturellement en réunion, à propos de coûts, de retards ou de risques.",
+    "ety": "Formé sur « digue », mot emprunté au moyen néerlandais dijc, « levée de terre ». Le verbe a d’abord désigné le travail des ingénieurs qui contiennent les rivières et la mer, avant de passer au sens figuré.",
+    "ex": "Pour endiguer la hausse des coûts de transport, nous avons regroupé les expéditions de fin de mois.",
+    "syn": "contenir, juguler, enrayer, freiner, circonscrire"
+   },
+   {
+    "key": "tergiverser",
+    "w": "Tergiverser",
+    "ph": "[tɛʁ.ʒi.vɛʁ.se] · verbe intransitif",
+    "short": "Hésiter, chercher des détours pour retarder une décision.",
+    "def": "Se dit de quelqu’un qui use de faux-fuyants, multiplie les hésitations ou les prétextes pour éviter de trancher. Le mot est plus critique que « hésiter » : il suggère une indécision qui fait perdre du temps, parfois volontairement. On l’emploie souvent à la forme négative, pour appeler à agir : « il ne faut plus tergiverser ».",
+    "ety": "Du latin tergiversari, « tourner le dos », formé sur tergum, « le dos », et vertere, « tourner ». L’image est celle de quelqu’un qui fait volte-face au lieu d’affronter l’obstacle.",
+    "ex": "Le client a assez tergiversé : s’il ne valide pas le devis vendredi, nous perdrons le créneau chez le transporteur.",
+    "syn": "atermoyer, hésiter, louvoyer, temporiser, biaiser"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Les Liaisons dangereuses",
+   "by": "Choderlos de Laclos · 1782",
+   "tagline": "La guerre des libertins",
+   "min": 10,
+   "exMin": 4,
+   "src": "Pierre Choderlos de Laclos, Les Liaisons dangereuses, ou Lettres recueillies dans une société et publiées pour l’instruction de quelques autres, Paris, Durand Neveu, 1782 ; roman épistolaire de 175 lettres. Œuvre dans le domaine public (Laclos est mort en 1803). Citation : lettre LXXXI, de la marquise de Merteuil au vicomte de Valmont. Adaptations citées : Les Liaisons dangereuses 1960 de Roger Vadim (1959), pièce de Christopher Hampton (1985), film de Stephen Frears (1988).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Dans la haute société parisienne de la fin du XVIIIe siècle, deux anciens amants, la marquise de Merteuil et le vicomte de Valmont, jouent avec les cœurs comme on joue aux échecs. Ils corrompent une jeune fille à peine sortie du couvent et brisent une femme vertueuse, avant de se retourner l’un contre l’autre. Le tout est raconté uniquement par des lettres."
+      ],
+      [
+       "La séduction comme stratégie",
+       "Chez Merteuil et Valmont, l’amour n’est jamais un sentiment, c’est une campagne militaire : objectifs, ruses, reconnaissance du terrain, rapports de victoire. Laclos, officier d’artillerie, en fait une guerre au sens propre, avec son vocabulaire et ses morts."
+      ],
+      [
+       "Une femme qui s’est faite seule",
+       "Merteuil est l’un des personnages les plus audacieux de la littérature française. Privée de tout pouvoir par sa condition de femme, elle s’est forgé une maîtrise absolue d’elle-même pour retourner contre les hommes les armes qu’ils utilisent contre les femmes."
+      ],
+      [
+       "Le piège de la vanité",
+       "Valmont perd parce qu’il tombe amoureux sans vouloir l’admettre. Plutôt que de passer pour faible aux yeux de Merteuil, il sacrifie la seule personne qu’il aime. L’orgueil, plus que le vice, cause sa perte."
+      ],
+      [
+       "Le pouvoir de l’écrit",
+       "Tout passe par des lettres : on ment, on manipule, on se trahit par écrit. Et ce sont des lettres rendues publiques qui finissent par détruire la marquise. Une leçon très actuelle sur les traces que l’on laisse."
+      ],
+      [
+       "Pour en parler",
+       "Retenez la phrase de la lettre 81, « je suis mon ouvrage », la fin terrible de Merteuil, défigurée et ruinée, et l’ambiguïté du livre : condamne-t-il le libertinage ou le rend-il fascinant ?"
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Un défi entre complices"
+    },
+    {
+     "p": "Paris, années 1780. La marquise de Merteuil, veuve respectée et très en vue, écrit à son ancien amant, le vicomte de Valmont, séducteur réputé. Elle a une vengeance à accomplir : le comte de Gercourt, qui l’a quittée autrefois, va épouser Cécile de Volanges, quinze ans, tout juste sortie du couvent. Merteuil propose à Valmont de déniaiser la jeune fille avant le mariage, pour ridiculiser le futur mari.",
+     "lead": 1
+    },
+    {
+     "p": "Valmont refuse d’abord. Il a un projet qu’il juge plus digne de son talent : séduire la présidente de Tourvel, une femme mariée, pieuse et d’une vertu irréprochable, qu’il a rencontrée chez sa vieille tante, Mme de Rosemonde, à la campagne. Une conquête facile ne l’intéresse pas ; il veut faire tomber une femme qui croit en Dieu et en son mari."
+    },
+    {
+     "h5": "Deux proies"
+    },
+    {
+     "p": "Pendant que Valmont assiège la présidente, Cécile s’éprend de son jeune professeur de chant, le chevalier Danceny. Merteuil, qui gagne la confiance de la mère comme de la fille, encourage en secret cet amour naïf pour mieux le manipuler. Valmont, lui, découvre que Mme de Volanges a mis la présidente en garde contre lui. Pour se venger de la mère, il accepte finalement de corrompre la fille."
+    },
+    {
+     "p": "Entre deux lettres, la marquise prouve qu’elle n’a rien à envier à son complice. Un jeune officier, Prévan, se vante de pouvoir la séduire. Elle le laisse avancer, l’attire chez elle, puis appelle ses domestiques au moment décisif en l’accusant d’avoir voulu la forcer. Prévan est arrêté, chassé de son régiment et déshonoré, tandis que la marquise passe pour une victime vertueuse. L’épisode montre sa règle d’or : ne jamais laisser de preuve, et toujours garder la réputation de son côté."
+    },
+    {
+     "p": "Sous prétexte de servir de messager entre Cécile et Danceny, il obtient la clé de la chambre de la jeune fille et la séduit en une nuit. Cécile, désemparée, se confie à Merteuil, qui lui conseille de prendre goût à ces leçons. La jeune fille devient la maîtresse docile de Valmont, sans cesser de se croire amoureuse de Danceny."
+    },
+    {
+     "h5": "La chute de la présidente"
+    },
+    {
+     "p": "La présidente de Tourvel résiste longtemps. Elle lit les lettres de Valmont, les renvoie, puis les garde. Elle fuit à Paris pour se protéger d’elle-même, mais elle a cessé de [[tergiverser|tergiverser]] dans son cœur : elle l’aime. Valmont finit par l’emporter. Il annonce sa victoire à Merteuil comme un général son triomphe, mais ses lettres trahissent autre chose : il est heureux auprès d’elle, et cela le trouble."
+    },
+    {
+     "p": "Merteuil le comprend avant lui. Elle se moque de ce séducteur devenu amoureux et lui fait sentir qu’il est en train de perdre sa réputation. Piqué, Valmont rompt avec la présidente en lui recopiant une lettre glaciale dictée par la marquise, dont chaque paragraphe se termine par « ce n’est pas ma faute ». Brisée, Mme de Tourvel se retire dans un couvent, tombe malade et sombre dans le délire."
+    },
+    {
+     "h5": "La guerre"
+    },
+    {
+     "p": "Valmont réclame alors la récompense promise : une nuit avec la marquise. Elle refuse et le provoque. Il répond par une déclaration de guerre, qu’elle accepte d’un mot. Merteuil a pris Danceny pour amant ; elle lui révèle que Valmont a séduit Cécile. Danceny provoque Valmont en duel et le blesse mortellement."
+    },
+    {
+     "p": "Avant de mourir, Valmont confie à Danceny les lettres de la marquise. Elles circulent dans Paris. Mme de Tourvel meurt en apprenant la mort de Valmont. Cécile entre au couvent, Danceny part pour Malte. Quant à Merteuil, elle est huée au théâtre, perd un procès qui la ruine, puis la petite vérole la défigure et lui fait perdre un œil. Elle s’enfuit en Hollande. Le scandale qu’elle aurait voulu [[endiguer|endiguer]] l’a emportée."
+    },
+    {
+     "quote": "Je puis dire que je suis mon ouvrage.",
+     "cite": "La marquise de Merteuil, lettre LXXXI"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un officier qui n’a écrit qu’un roman"
+    },
+    {
+     "p": "Pierre Choderlos de Laclos, né à Amiens en 1741, est officier d’artillerie. Il s’ennuie dans les garnisons, notamment à Grenoble et sur l’île d’Aix, où il surveille la construction de fortifications. Il publie Les Liaisons dangereuses en 1782, à quarante ans. Le livre fait scandale et se vend très vite. Laclos sera ensuite secrétaire du duc d’Orléans pendant la Révolution, puis général sous Bonaparte. Il meurt à Tarente en 1803, sans avoir écrit d’autre grand roman."
+    },
+    {
+     "h5": "La force du roman par lettres"
+    },
+    {
+     "p": "Le genre est à la mode depuis La Nouvelle Héloïse de Rousseau. Laclos le pousse à la perfection. Les 175 lettres sont présentées comme authentiques, avec une fausse préface d’éditeur qui doute de leur vérité. Chaque personnage a sa voix : la naïveté maladroite de Cécile, la ferveur inquiète de la présidente, le cynisme brillant de Valmont, la froideur précise de Merteuil. Le lecteur sait toujours plus que chacun d’eux, et voit les pièges se refermer."
+    },
+    {
+     "h5": "La lettre 81, un manifeste"
+    },
+    {
+     "p": "Au centre du livre, Merteuil raconte comment, jeune fille, elle a appris à cacher ses émotions, à observer, à feindre. Elle explique qu’une femme qui veut être libre dans cette société doit tout calculer, parce qu’une seule erreur suffit à la perdre, alors qu’un homme s’en relève. Ce texte, d’une lucidité saisissante, fait de Merteuil bien plus qu’une méchante : une femme qui a compris les règles d’un jeu truqué et décidé de gagner quand même."
+    },
+    {
+     "h5": "Moraliste ou complice ?"
+    },
+    {
+     "p": "La préface prétend que le livre doit instruire et mettre en garde. La fin semble punir les coupables. Mais le lecteur reste séduit par l’intelligence des libertins, bien plus que par la vertu des victimes. Sous la Restauration, le livre est condamné à la destruction pour atteinte aux bonnes mœurs. Baudelaire, au XIXe siècle, y voit un livre profondément moral parce qu’il montre le mal sans fard. Le débat n’a jamais été tranché."
+    },
+    {
+     "h5": "Un monde au bord de la Révolution"
+    },
+    {
+     "p": "Le roman paraît sept ans avant 1789. Il montre une aristocratie oisive, qui n’a plus de rôle politique et consacre son intelligence à des intrigues de salon. On peut y lire une critique sociale : des privilégiés qui traitent les autres comme des pions, une jeune fille mariée sans être consultée, des domestiques achetés pour espionner. Laclos, qui rejoindra le camp du duc d’Orléans, connaît bien ce milieu et le dépeint sans indulgence."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que c’est un traité de manipulation d’une modernité stupéfiante : flatterie, isolement de la cible, contrôle de l’information, réputation comme arme. Parce que la question du pouvoir entre hommes et femmes y est posée avec une franchise rare. Et parce que ce roman sur les lettres dérobées parle à une époque où tout message peut être capturé, transféré et rendu public. Le cinéma ne s’y est pas trompé : Roger Vadim en 1959, puis Stephen Frears en 1988, d’après la pièce de Christopher Hampton."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Paris, années 1780. Deux libertins, la marquise de Merteuil et le vicomte de Valmont, corrompent une jeune fille et brisent une femme vertueuse par pur jeu, avant de se détruire mutuellement. Un roman entièrement composé de lettres, qui fit scandale en 1782."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La séduction comme guerre</b> : pour les deux libertins, aimer, c’est conquérir ; Laclos, officier d’artillerie, en garde le vocabulaire militaire.",
+      "<b>Merteuil</b> : une femme sans pouvoir qui s’est forgé une maîtrise totale d’elle-même pour battre les hommes à leur propre jeu.",
+      "<b>La perte de Valmont</b> : il tombe amoureux et, par vanité, sacrifie celle qu’il aime pour ne pas paraître faible.",
+      "<b>L’écrit</b> : tout passe par des lettres, et ce sont des lettres rendues publiques qui perdent la marquise.",
+      "<b>Pour en parler</b> : « je suis mon ouvrage » (lettre 81) ; la fin de Merteuil, défigurée et ruinée ; l’ambiguïté morale du livre."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le défi</b> : Merteuil veut se venger de Gercourt, qui doit épouser Cécile de Volanges, quinze ans ; elle demande à Valmont de la séduire avant le mariage.",
+      "<b>Deux proies</b> : Valmont préfère d’abord conquérir la pieuse présidente de Tourvel ; apprenant que Mme de Volanges le dénigre, il séduit Cécile, éprise du chevalier Danceny.",
+      "<b>Prévan</b> : la marquise attire chez elle un officier qui se vantait de la séduire, puis l’accuse de tentative de viol ; il est déshonoré, elle passe pour vertueuse.",
+      "<b>La chute</b> : la présidente cesse de [[tergiverser|tergiverser]] et cède ; Valmont est heureux, Merteuil se moque de lui ; il rompt avec une lettre cruelle (« ce n’est pas ma faute ») et elle se retire au couvent.",
+      "<b>La guerre</b> : Merteuil refuse la récompense promise ; Valmont déclare la guerre ; elle pousse Danceny au duel, Valmont meurt.",
+      "<b>La chute finale</b> : les lettres de Merteuil circulent ; incapable d’[[endiguer|endiguer]] le scandale, elle est huée, ruinée, défigurée par la petite vérole et s’enfuit en Hollande. Tourvel meurt, Cécile entre au couvent."
+     ]
+    },
+    {
+     "quote": "Je puis dire que je suis mon ouvrage.",
+     "cite": "La marquise de Merteuil, lettre LXXXI"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Choderlos de Laclos (1741-1803), officier d’artillerie, puis secrétaire du duc d’Orléans et général sous Bonaparte ; un seul grand roman.",
+      "<b>La forme</b> : 175 lettres, une voix par personnage ; le lecteur voit les pièges que chacun ignore.",
+      "<b>La lettre 81</b> : Merteuil explique comment elle a appris à feindre pour survivre libre dans un monde où une femme n’a pas droit à l’erreur.",
+      "<b>La société</b> : sept ans avant 1789, le portrait sans indulgence d’une aristocratie oisive qui traite les autres comme des pions.",
+      "<b>Moral ou complice ?</b> : condamné sous la Restauration, jugé moral par Baudelaire ; le débat reste ouvert.",
+      "<b>Aujourd’hui</b> : un traité de manipulation et de réputation, adapté par Vadim (1959) et Frears (1988)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Freakonomics",
+   "by": "Steven D. Levitt et Stephen J. Dubner · 2005",
+   "min": 9,
+   "exMin": 3,
+   "src": "Steven D. Levitt et Stephen J. Dubner, Freakonomics: A Rogue Economist Explores the Hidden Side of Everything, William Morrow, 12 avril 2005 ; édition française : Denoël, 2006, trad. Anatole Muchnik. Ventes et traductions : freakonomics.com (plus de 4 millions d’exemplaires, 35 langues). Médaille John Bates Clark 2003 : American Economic Association. Études citées : Jacob et Levitt, NBER WP 9413 (2003) ; Duggan et Levitt, NBER WP 7798 ; taux de victoire des lutteurs de sumo : Wikipédia, « Match-fixing in professional sumo » ; Gneezy et Rustichini, « A Fine is a Price » (2000) ; Dubner et Levitt, « What the Bagel Man Saw », New York Times, 6 juin 2004 ; Levitt et Syverson, NBER WP 11053 ; Levitt et Venkatesh, NBER WP 6592 ; Donohue et Levitt, NBER WP 8004 (2001) ; Levitt, Journal of Economic Perspectives (2004) ; Foote et Goetz, Fed de Boston, WP 05-15 (septembre 2005) ; Fryer et Levitt, NBER WP 9938 ; Ariel Rubinstein, « Freak-Freakonomics », The Economists’ Voice (décembre 2006).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un économiste de Chicago et un journaliste du New York Times appliquent les outils de l’économie à des sujets inattendus : la triche des enseignants, les combats de sumo truqués, les revenus des dealers, les prénoms des enfants. Leur conviction : les incitations expliquent presque tout, et les données révèlent ce que l’intuition ignore."
+      ],
+      [
+       "Les incitations gouvernent les comportements",
+       "Une crèche israélienne qui instaure une amende de 10 shekels pour les retards voit le nombre de parents en retard plus que doubler : l’amende a transformé une faute morale en service payant."
+      ],
+      [
+       "Les experts jouent souvent contre vous",
+       "Les agents immobiliers gardent leur propre maison en vente environ 9,5 jours de plus que celles de leurs clients et la vendent environ 3,7 % plus cher. Sur 10 000 dollars de prix en plus, l’agent ne touche qu’environ 150 dollars : il pousse le client à vendre vite."
+      ],
+      [
+       "La triche laisse des traces",
+       "En étudiant les réponses aux tests des écoles de Chicago, Levitt estime qu’une triche grave d’enseignants touche au moins 4 à 5 % des classes chaque année."
+      ],
+      [
+       "La sagesse populaire se trompe souvent",
+       "Selon les auteurs, la légalisation de l’avortement aux États-Unis en 1973 expliquerait jusqu’à la moitié de la baisse de la criminalité des années 1990, une thèse aussi célèbre que contestée."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un économiste qui ne parle pas d’économie"
+    },
+    {
+     "p": "Steven Levitt est un économiste atypique. Professeur à l’université de Chicago, il reçoit en 2003 la médaille John Bates Clark, qui récompense les meilleurs économistes américains de moins de quarante ans. Pourtant, il ne s’intéresse ni à l’inflation ni aux taux d’intérêt. Ce qui le passionne, ce sont les énigmes de la vie quotidienne, qu’il résout avec des données et un peu d’astuce. Le journaliste Stephen Dubner fait son portrait pour le New York Times Magazine en 2003 ; les deux hommes décident d’écrire un livre ensemble. Freakonomics paraît en avril 2005. Il dépasse les 4 millions d’exemplaires vendus et est traduit en 35 langues.",
+     "lead": 1
+    },
+    {
+     "p": "Le livre n’a pas de thème central, et il le revendique. Son fil rouge est une méthode : se demander quelles incitations poussent les gens à agir, se méfier des idées reçues, et laisser parler les chiffres. Les auteurs résument l’économie à une science de la mesure des incitations. Ils en distinguent trois sortes : économiques (l’argent), sociales (le regard des autres) et morales (la conscience). L’exemple de la crèche israélienne les illustre toutes : avant l’amende, les parents arrivaient à l’heure par culpabilité ; une fois l’amende de 10 shekels instaurée, ils ont payé leur retard sans remords, et les retards ont plus que doublé. Pire, quand l’amende a été supprimée, les retards ne sont pas redescendus : la norme morale était perdue."
+    },
+    {
+     "stats": [
+      [
+       "4 M+",
+       "exemplaires vendus dans le monde"
+      ],
+      [
+       "35",
+       "langues de traduction"
+      ],
+      [
+       "4 à 5 %",
+       "classes de Chicago touchées par une triche grave d’enseignants"
+      ],
+      [
+       "≈ 50 %",
+       "part de la baisse du crime attribuée à l’avortement légal (selon les auteurs)"
+      ]
+     ]
+    },
+    {
+     "h5": "Tricheurs en tout genre"
+    },
+    {
+     "p": "Premier terrain : la triche. Quand Chicago lie la carrière des enseignants aux résultats de leurs élèves, certains corrigent les copies en secret. Levitt les repère grâce à des suites de bonnes réponses identiques chez plusieurs élèves, souvent en fin de test, sur les questions les plus difficiles. Même logique au sumo : un lutteur qui compte sept victoires et sept défaites avant le dernier combat d’un tournoi doit absolument gagner pour garder son rang. Il gagne environ 80 % du temps, contre moins de 49 % attendus au vu de son niveau. Et lors du combat suivant entre les deux mêmes lutteurs, le rapport s’inverse : un service rendu se paie en retour."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Sumo : le combat décisif est trop souvent gagné",
+      "sub": "Taux de victoire des lutteurs à 7-7 avant le dernier combat, en %",
+      "rows": [
+       [
+        "Taux observé",
+        80
+       ],
+       [
+        "Taux attendu selon leur niveau",
+        48.7
+       ],
+       [
+        "Lors du combat retour",
+        40
+       ]
+      ],
+      "suffix": " %",
+      "note": "Valeurs arrondies (≈). Sources : Duggan et Levitt, NBER WP 7798 ; synthèse Wikipédia, « Match-fixing in professional sumo »."
+     }
+    },
+    {
+     "p": "Le contrepoint vient d’un vendeur de bagels, Paul Feldman, qui dépose ses petits pains dans des bureaux avec une simple boîte pour l’argent. Il espérait que 95 % des clients paieraient ; vers 2001, il en compte environ 87 %. Après le 11 Septembre, le taux remonte vers 89 %. Les gens sont donc plutôt honnêtes, mais pas tous, et pas tout le temps."
+    },
+    {
+     "h5": "Pourquoi les dealers vivent chez leur mère"
+    },
+    {
+     "p": "Grâce aux carnets de comptes d’un gang de crack recueillis par le sociologue Sudhir Venkatesh, Levitt dissèque l’économie de la drogue. Le gang fonctionne comme une franchise : le chef local gagne environ 100 000 dollars par an, tandis que les vendeurs de rue touchent un salaire horaire moyen modeste, autour de 6 dollars au début de la période étudiée, avec un risque de mort violente d’environ 7 % par an. Pourquoi accepter ? Parce que, comme dans le cinéma ou la mode, une foule de candidats accepte des miettes dans l’espoir de devenir un jour le patron. C’est un tournoi où seuls les gagnants s’enrichissent."
+    },
+    {
+     "h5": "La thèse qui a tout fait exploser"
+    },
+    {
+     "p": "Le chapitre le plus célèbre s’attaque à la chute brutale de la criminalité américaine dans les années 1990. Les explications courantes, comme l’économie florissante ou les nouvelles méthodes de police, convainquent peu les auteurs. Ils retiennent quatre facteurs : plus de policiers, plus de prisonniers, le déclin du marché du crack et, surtout, la légalisation de l’avortement par l’arrêt Roe v. Wade en 1973. Selon eux, moins d’enfants non désirés, donc plus exposés à la délinquance, sont nés dans les années suivantes. Vingt ans plus tard, quand cette génération atteint l’âge où le crime culmine, la criminalité baisse."
+    },
+    {
+     "h5": "Prénoms et parents"
+    },
+    {
+     "p": "Les derniers chapitres examinent l’éducation. À partir d’une grande enquête du ministère américain de l’Éducation portant sur plus de 20 000 enfants, les auteurs montrent que ce que les parents sont compte plus que ce qu’ils font : leur niveau d’études, l’âge de la mère ou le nombre de livres à la maison prédisent la réussite scolaire, alors que les sorties au musée ou la lecture du soir pèsent peu. Quant aux prénoms, ils reflètent le milieu des parents plus qu’ils ne façonnent l’avenir de l’enfant."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le succès a attiré les critiques. En 2005, deux économistes de la Fed de Boston, Christopher Foote et Christopher Goetz, découvrent une erreur de programmation dans l’étude sur l’avortement : une fois corrigée, l’effet est bien plus faible. Levitt reconnaît l’erreur mais maintient sa conclusion avec d’autres données ; le débat n’est pas clos. L’économiste israélien Ariel Rubinstein reproche au livre d’enjoliver des corrélations fragiles et de pratiquer un impérialisme de l’économie sur les autres sciences sociales. Le passage sur le Ku Klux Klan a même dû être corrigé dans la deuxième édition. Le lecteur doit donc garder une prudence que les auteurs prêchent sans toujours l’appliquer : face à une explication séduisante, ne pas [[tergiverser|tergiverser]] sur la question de la preuve."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Freakonomics a ouvert la voie à une vague de livres d’économie grand public et popularisé l’économie comportementale. Il a eu une suite, SuperFreakonomics, en 2009, dont le chapitre sur le climat a été vivement contesté, un documentaire en 2010 et un podcast lancé la même année, toujours très écouté. Son héritage le plus utile est une habitude d’esprit : avant de juger une politique, se demander quelles incitations elle crée. Une amende mal conçue peut amplifier le comportement qu’elle prétendait [[endiguer|endiguer]]."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Un économiste de Chicago et un journaliste appliquent l’économie à des sujets inattendus : triche, sumo, gangs, criminalité, prénoms. Leur message : les incitations expliquent presque tout, et les données démentent souvent l’intuition."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les auteurs</b> : Steven Levitt, médaille John Bates Clark 2003, et Stephen Dubner ; parution en avril 2005, plus de 4 millions d’exemplaires, 35 langues.",
+      "<b>La méthode</b> : se demander quelles incitations, économiques, sociales ou morales, guident les gens, se méfier des idées reçues et laisser parler les données.",
+      "<b>Les incitations</b> : une crèche israélienne instaure une amende de 10 shekels pour les retards ; les retards font plus que doubler, et ne baissent pas quand l’amende est supprimée : la culpabilité a disparu.",
+      "<b>L’honnêteté</b> : un vendeur de bagels qui laisse une boîte à monnaie est payé par environ 87 % de ses clients, 89 % après le 11 Septembre.",
+      "<b>Les experts</b> : les agents immobiliers vendent leur propre maison 3,7 % plus cher et après 9,5 jours de plus ; 10 000 dollars de plus ne leur rapportent qu’environ 150 dollars.",
+      "<b>La triche</b> : au moins 4 à 5 % des classes de Chicago touchées chaque année ; au sumo, un lutteur à 7-7 gagne environ 80 % du temps contre 48,7 % attendus.",
+      "<b>Les dealers</b> : le chef gagne environ 100 000 dollars par an, les vendeurs de rue environ 6 dollars de l’heure, avec 7 % de risque annuel de mort violente.",
+      "<b>Le crime</b> : l’avortement légal (1973) expliquerait jusqu’à la moitié de la baisse du crime des années 1990, avec la police, la prison et le déclin du crack.",
+      "<b>Les parents</b> : ce que les parents sont (études, âge de la mère, livres à la maison) compte plus que ce qu’ils font ; les prénoms reflètent le milieu sans façonner l’avenir."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "4 M+",
+       "exemplaires vendus dans le monde"
+      ],
+      [
+       "35",
+       "langues de traduction"
+      ],
+      [
+       "4 à 5 %",
+       "classes de Chicago touchées par une triche grave d’enseignants"
+      ],
+      [
+       "≈ 50 %",
+       "part de la baisse du crime attribuée à l’avortement légal (selon les auteurs)"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Sumo : le combat décisif est trop souvent gagné",
+      "sub": "Taux de victoire des lutteurs à 7-7 avant le dernier combat, en %",
+      "rows": [
+       [
+        "Taux observé",
+        80
+       ],
+       [
+        "Taux attendu selon leur niveau",
+        48.7
+       ],
+       [
+        "Lors du combat retour",
+        40
+       ]
+      ],
+      "suffix": " %",
+      "note": "Valeurs arrondies (≈). Sources : Duggan et Levitt, NBER WP 7798 ; synthèse Wikipédia, « Match-fixing in professional sumo »."
+     }
+    },
+    {
+     "h": "Limites et postérité"
+    },
+    {
+     "ul": [
+      "<b>L’erreur</b> : en 2005, la Fed de Boston trouve une erreur de programmation dans l’étude sur l’avortement ; l’effet corrigé est bien plus faible, Levitt maintient sa thèse.",
+      "<b>Les critiques</b> : Ariel Rubinstein dénonce des corrélations enjolivées ; face à une explication séduisante, il ne faut pas [[tergiverser|tergiverser]] sur la preuve.",
+      "<b>L’héritage</b> : SuperFreakonomics (2009), un podcast depuis 2010, et un réflexe : une incitation mal conçue peut amplifier ce qu’elle voulait [[endiguer|endiguer]]."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Royaume-Uni : le carburant pousse l’inflation à 3,6 %",
+   "by": "Analyse",
+   "fig": "3,6 %",
+   "figl": "inflation britannique en octobre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Office for National Statistics, « Consumer price inflation, UK: October 2026 », 18 novembre 2026. Banque d’Angleterre, Monetary Policy Summary and Minutes, novembre 2026 (publié le 5 novembre 2026). Consensus et probabilités de marché : FXStreet (données LSEG) et Trading and Investment News, 18 novembre 2026 ; Euronews et MoneyWeek, 18 novembre 2026 (prévision de Cornwall Insight sur le plafond de janvier 2027). Budget du 28 octobre 2026 : Which?, 28 octobre 2026. Données arrêtées au 18 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "L’inflation britannique a encore monté en octobre : 3,6 % sur un an, contre 3,5 % en septembre, selon l’Office for National Statistics, qui a publié le chiffre mercredi 18 novembre. Le moteur est clair : les carburants, plus chers d’un tiers en un an. Le chiffre est toutefois resté au niveau, ou juste en dessous, de ce qu’attendaient les économistes, ce qui laisse un peu de marge à la Banque d’Angleterre.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "3,6 %",
+       "hausse des prix sur un an, en octobre"
+      ],
+      [
+       "+ 33,2 %",
+       "prix des carburants sur un an"
+      ],
+      [
+       "4 %",
+       "taux directeur après la hausse du 5 novembre"
+      ],
+      [
+       "≈ 80 %",
+       "probabilité d’une nouvelle hausse le 17 décembre (marchés, 18 novembre)"
+      ]
+     ]
+    },
+    {
+     "h": "Un choc d’énergie, pas encore une spirale"
+    },
+    {
+     "p": "Le transport explique à lui seul plus d’un point d’inflation. Les carburants affichent leur plus forte hausse depuis juillet 2022, et le gazole a atteint un prix record, effet direct de la guerre avec l’Iran et des perturbations à Ormuz. Le gaz a aussi augmenté de 6,3 % sur le mois avec le nouveau plafond tarifaire. À l’inverse, l’électricité a baissé, car le gouvernement a supprimé la TVA depuis le 1er octobre, et l’alimentation ralentit à 0,9 %. Surtout, l’inflation sous-jacente, hors énergie et alimentation, reste à 2,8 %, et celle des services à 3,7 %, un peu sous les prévisions : la flambée ne se diffuse pas encore aux salaires et aux services. Le prix des biens, lui, accélère à 3,5 %, du jamais-vu depuis septembre 2023, et le tabac a renchéri après la hausse des droits du 1er octobre."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce qui fait monter les prix",
+      "sub": "Hausse sur un an en octobre 2026, en %",
+      "rows": [
+       [
+        "Carburants",
+        33.2
+       ],
+       [
+        "Services",
+        3.7
+       ],
+       [
+        "Ensemble",
+        3.6
+       ],
+       [
+        "Biens",
+        3.5
+       ],
+       [
+        "Inflation sous-jacente",
+        2.8
+       ],
+       [
+        "Alimentation",
+        0.9
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Office for National Statistics, 18 novembre 2026."
+     }
+    },
+    {
+     "h": "La Banque d’Angleterre ne veut plus tergiverser"
+    },
+    {
+     "p": "Le 5 novembre, la Banque d’Angleterre a relevé son taux d’un quart de point, à 4 %, sa première hausse depuis plus de trois ans, par 8 voix contre 1 : Catherine Mann voulait un demi-point. Elle prévoit une inflation proche de 4,5 % début 2027 et d’environ 5 % au milieu de l’année. Après le chiffre d’octobre, les marchés estiment à environ 80 % la probabilité d’une nouvelle hausse le 17 décembre, contre plus de 90 % auparavant. Certains économistes jugent qu’il ne faut pas [[tergiverser|tergiverser]] ; d’autres misent sur février. Le budget du 28 octobre, présenté par le chancelier John Healey, gèle la taxe sur les carburants et prolonge la TVA nulle sur l’électricité jusqu’en juillet 2027 pour [[endiguer|endiguer]] la hausse des factures."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le Royaume-Uni subit un choc pétrolier classique : les prix de l’énergie montent, le reste suit lentement. La banque centrale monte ses taux pour éviter que ce choc ne s’installe dans les salaires, quitte à freiner une économie déjà fragile. Le prochain chiffre d’inflation, le 16 décembre, tombera la veille de sa décision. Et la menace suivante est déjà connue : le cabinet Cornwall Insight prévoit une hausse d’environ 26 % du plafond des prix de l’énergie en janvier 2027."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le chiffre</b> : inflation à 3,6 % en octobre, après 3,5 % en septembre (ONS, 18 novembre).",
+      "<b>La surprise</b> : c’est au niveau ou un peu sous les attentes, ce qui laisse un peu de marge à la Banque d’Angleterre."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "3,6 %",
+       "hausse des prix sur un an, en octobre"
+      ],
+      [
+       "+ 33,2 %",
+       "prix des carburants sur un an"
+      ],
+      [
+       "4 %",
+       "taux directeur après la hausse du 5 novembre"
+      ],
+      [
+       "≈ 80 %",
+       "probabilité d’une nouvelle hausse le 17 décembre (marchés, 18 novembre)"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les carburants</b> : + 33,2 % sur un an, record depuis juillet 2022 ; gazole au plus haut historique.",
+      "<b>Les freins</b> : électricité sans TVA depuis le 1er octobre, alimentation à 0,9 %.",
+      "<b>Le fond</b> : inflation sous-jacente à 2,8 %, services à 3,7 % ; pas encore de diffusion aux salaires.",
+      "<b>La banque centrale</b> : taux relevé à 4 % le 5 novembre (8 voix contre 1) ; pic prévu vers 5 % mi-2027 ; elle ne veut pas [[tergiverser|tergiverser]], décision le 17 décembre.",
+      "<b>Le budget</b> : taxe sur les carburants gelée et TVA nulle sur l’électricité jusqu’en juillet 2027, pour [[endiguer|endiguer]] les factures."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Ce qui fait monter les prix",
+      "sub": "Hausse sur un an en octobre 2026, en %",
+      "rows": [
+       [
+        "Carburants",
+        33.2
+       ],
+       [
+        "Services",
+        3.7
+       ],
+       [
+        "Ensemble",
+        3.6
+       ],
+       [
+        "Biens",
+        3.5
+       ],
+       [
+        "Inflation sous-jacente",
+        2.8
+       ],
+       [
+        "Alimentation",
+        0.9
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Office for National Statistics, 18 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : un choc pétrolier classique ; la banque centrale monte ses taux pour qu’il ne s’installe pas dans les salaires."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Yémen : les Houthis tiennent Bab el-Mandeb et marchent sur Aden",
+   "by": "Analyse",
+   "fig": "60 km",
+   "figl": "entre les Houthis et Aden (AFP)",
+   "min": 3,
+   "exMin": 2,
+   "src": "Al Jazeera, 15, 16 et 17 novembre 2026 ; The National, 15 novembre 2026 ; Arab News, 15 novembre 2026 (déclarations de la présidence yéménite) ; FDD Long War Journal, 16 novembre 2026 ; Reuters via Al-Monitor et BOE Report, 15 et 16 novembre 2026 ; AFP via Kurdistan24, 16 novembre 2026 ; AFP via Al-Monitor, 23 juillet et 11 novembre 2026 (bilans de l’ONU, part du pétrole mondial selon l’EIA) ; Maritime Executive, 15 novembre 2026 ; SAFETY4SEA, 16 novembre 2026. Données arrêtées au 17 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 15 novembre, les forces du sud du Yémen, alliées au gouvernement soutenu par l’Arabie saoudite, ont quitté leurs positions autour du détroit de Bab el-Mandeb pour se replier sur Aden, la capitale provisoire. Les Houthis, alliés de l’Iran, ont aussitôt repris le terrain. Ils contrôlent désormais la rive yéménite de la porte sud de la mer Rouge et se trouvent, selon les sources, à 60 à 100 km d’Aden.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "1 600+",
+       "morts depuis juillet (ONU)"
+      ],
+      [
+       "300 000+",
+       "déplacés depuis juillet (ONU)"
+      ],
+      [
+       "12 %",
+       "part du pétrole transporté par mer passée par le détroit en 2023 (EIA)"
+      ],
+      [
+       "≈ 30 km",
+       "largeur du détroit au plus étroit"
+      ]
+     ]
+    },
+    {
+     "h": "Une guerre relancée par le conflit iranien"
+    },
+    {
+     "p": "La trêve conclue sous l’égide de l’ONU en 2022 a volé en éclats en juillet, dans le sillage de la guerre entre les États-Unis, Israël et l’Iran. En septembre, les Houthis ont pris le port de Moka et une grande partie de la côte. La contre-offensive gouvernementale lancée début octobre a atteint l’aéroport de Dhubab, sans reprendre Moka. Elle s’arrête donc après environ six semaines. La présidence parle d’un redéploiement calculé pour protéger Aden et briser le siège de Taëz ; des analystes y voient une retraite qui laisse un vide. Le 16 novembre, le roi Salmane a remplacé le commandant des forces de la coalition, signe que Riyad ne veut plus [[tergiverser|tergiverser]]."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "À quelle distance d’Aden ?",
+      "sub": "Position avancée des Houthis selon les sources, 16 novembre 2026, en km",
+      "rows": [
+       [
+        "Reuters (côte, Khor Omairah)",
+        100
+       ],
+       [
+        "Al Jazeera (Tor al-Baha)",
+        80
+       ],
+       [
+        "Long War Journal (hauts plateaux)",
+        64
+       ],
+       [
+        "AFP (camp d’al-Kharaz)",
+        60
+       ]
+      ],
+      "suffix": " km",
+      "note": "Le Long War Journal indique environ 40 miles, converti en km. Sources : Reuters via Al-Monitor, Al Jazeera, FDD Long War Journal, AFP via Kurdistan24, 16 novembre 2026."
+     }
+    },
+    {
+     "h": "Pourquoi le monde regarde"
+    },
+    {
+     "p": "Avec Ormuz perturbé par la guerre, Bab el-Mandeb compte plus que jamais : l’Arabie saoudite exporte désormais une grande partie de son pétrole par Yanbou, sur la mer Rouge. Or, depuis Perim et la presqu’île de Ras Menhali, les Houthis pourraient intercepter des navires avec de simples vedettes armées, et pas seulement des missiles. Leurs représentants affirment ne pas viser la navigation en général, mais les navires liés aux intérêts saoudiens restent des cibles. La mission européenne Aspides n’a pas les moyens d’escorter tout le monde. Le Parlement yéménite a voté la désignation des Houthis comme organisation terroriste ; le texte attend la signature du président du Conseil présidentiel, Rachad al-Alimi."
+    },
+    {
+     "h": "Le coût humain"
+    },
+    {
+     "p": "Selon l’ONU, les combats ont fait plus de 1 600 morts et plus de 300 000 déplacés depuis juillet, dont une grande partie autour de Taëz, troisième ville du pays, assiégée par les Houthis depuis début octobre. La prise du district d’Al-Maqatirah leur donne la main sur la route principale entre Aden et Taëz. Côté saoudien, les frappes houthies ont tué 26 personnes depuis la reprise des hostilités, et visé ports, aéroports et sites d’Aramco."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le Yémen n’est plus une guerre oubliée : il commande l’une des deux artères pétrolières du Golfe. Tout l’enjeu, pour Riyad, est d’[[endiguer|endiguer]] l’avancée vers Aden et le siège de Taëz avant qu’un second détroit ne passe sous l’influence de l’Iran."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : le 15 novembre, les forces progouvernementales quittent Bab el-Mandeb pour défendre Aden ; les Houthis reprennent le terrain.",
+      "<b>La menace</b> : ils seraient à 60 à 100 km d’Aden selon les sources."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "1 600+",
+       "morts depuis juillet (ONU)"
+      ],
+      [
+       "300 000+",
+       "déplacés depuis juillet (ONU)"
+      ],
+      [
+       "12 %",
+       "part du pétrole transporté par mer passée par le détroit en 2023 (EIA)"
+      ],
+      [
+       "≈ 30 km",
+       "largeur du détroit au plus étroit"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le contexte</b> : trêve de 2022 rompue en juillet avec la guerre contre l’Iran ; Moka tombe en septembre ; la contre-offensive d’octobre échoue.",
+      "<b>Riyad</b> : le roi Salmane change le commandant de la coalition le 16 novembre ; l’Arabie saoudite ne veut plus [[tergiverser|tergiverser]].",
+      "<b>Le détroit</b> : avec Ormuz perturbé, le pétrole saoudien part par Yanbou ; depuis Perim, les Houthis peuvent arraisonner des navires avec des vedettes.",
+      "<b>Le coût humain</b> : plus de 1 600 morts et 300 000 déplacés depuis juillet (ONU) ; Taëz assiégée, route Aden-Taëz coupée à Al-Maqatirah ; 26 morts en Arabie saoudite.",
+      "<b>La suite</b> : désignation terroriste votée par le Parlement, en attente de signature ; siège de Taëz."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "À quelle distance d’Aden ?",
+      "sub": "Position avancée des Houthis selon les sources, 16 novembre 2026, en km",
+      "rows": [
+       [
+        "Reuters (côte, Khor Omairah)",
+        100
+       ],
+       [
+        "Al Jazeera (Tor al-Baha)",
+        80
+       ],
+       [
+        "Long War Journal (hauts plateaux)",
+        64
+       ],
+       [
+        "AFP (camp d’al-Kharaz)",
+        60
+       ]
+      ],
+      "suffix": " km",
+      "note": "Le Long War Journal indique environ 40 miles, converti en km. Sources : Reuters via Al-Monitor, Al Jazeera, FDD Long War Journal, AFP via Kurdistan24, 16 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’enjeu</b> : [[endiguer|endiguer]] l’avancée vers Aden avant qu’un second détroit pétrolier ne passe sous influence iranienne."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Mer Rouge : le retour par Suez suspendu au Yémen",
+   "by": "Analyse",
+   "fig": "426",
+   "figl": "porte-conteneurs à Bab el-Mandeb en octobre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Lloyd’s List Intelligence, « Red Sea Brief », 12 novembre 2026 (transits d’octobre, comparaisons avec 2023, retour d’Evergreen). Données JMIC des 12-14 novembre via ShipUniverse, 16 novembre 2026. C.H. Robinson, Freight Market Update, novembre 2026 (5 novembre, services revenus à Suez, données Linerlytica). The Loadstar, citant Xeneta (début novembre 2026). SAFETY4SEA, 16 novembre 2026 ; Maritime Executive, 15 novembre 2026. Données arrêtées au 16 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Depuis l’été, les porte-conteneurs revenaient peu à peu en mer Rouge, après près de trois ans de détour par le cap de Bonne-Espérance. Le repli des forces yéménites de Bab el-Mandeb, le 15 novembre, remet ce retour en question. L’enjeu est énorme pour les chargeurs : selon Xeneta, la mer Rouge décidera du niveau des taux de fret en 2027.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "426",
+       "porte-conteneurs passés par Bab el-Mandeb en octobre"
+      ],
+      [
+       "1 338",
+       "transits par Suez en octobre, contre 2 009 par mois avant la crise"
+      ],
+      [
+       "≈ 22 par jour",
+       "navires dans le détroit du 12 au 14 novembre, contre ≈ 61 en 2023"
+      ],
+      [
+       "≈ − 30 %",
+       "baisse des taux spot prévue par Xeneta sur 2027 si le retour se poursuit"
+      ]
+     ]
+    },
+    {
+     "h": "Une reprise bien engagée"
+    },
+    {
+     "p": "Les chiffres de Lloyd’s List Intelligence montrent une reprise nette : 1 363 navires ont franchi Bab el-Mandeb en octobre, 43 % de plus qu’un an plus tôt, et Suez a enregistré 1 338 transits, en hausse de 63 %. On reste loin d’avant la crise, mais le mouvement s’accélère. Evergreen, dernier membre de l’alliance Ocean à hésiter, a fait repasser un navire par le canal le 8 novembre. Début novembre, selon C.H. Robinson, 30 services sur 52 vers l’ouest avaient retrouvé la route de Suez. Les armateurs, qui avaient longtemps préféré [[tergiverser|tergiverser]], s’engageaient enfin."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les porte-conteneurs reviennent",
+      "sub": "Passages par Bab el-Mandeb, par mois",
+      "labels": [
+       "Oct. 2025",
+       "Sept. 2026",
+       "Oct. 2026"
+      ],
+      "series": [
+       {
+        "name": "Porte-conteneurs",
+        "values": [
+         230,
+         315,
+         426
+        ]
+       }
+      ],
+      "note": "Environ la moitié naviguait sans transpondeur. Source : Lloyd’s List Intelligence, 12 novembre 2026."
+     }
+    },
+    {
+     "h": "Le mécanisme des taux"
+    },
+    {
+     "p": "Passer par Suez plutôt que par le Cap raccourcit un trajet Asie-Europe d’environ dix jours. Chaque navire fait donc plus de rotations, ce qui revient à injecter de la capacité sur le marché. Xeneta estime que le retour a déjà libéré environ 600 000 EVP. Avec une demande qui ralentit et de nombreux navires neufs livrés, cette capacité supplémentaire fait baisser les prix : d’où une chute attendue d’environ 30 % des taux spot en 2027. Mais si les Houthis menacent de nouveau le détroit, ou tentent d’imposer un péage, comme l’envisage Maritime Executive, les navires repartiront par le Cap et les taux remonteront. Aucune attaque n’a été confirmée depuis le 24 août."
+    },
+    {
+     "h": "Les premiers signaux"
+    },
+    {
+     "p": "Juste avant le repli yéménite, du 12 au 14 novembre, le centre d’information maritime JMIC comptait environ 22 passages par jour dans le détroit, contre environ 61 en 2023 : le trafic restait inférieur de près des deux tiers à son niveau d’avant-crise. Le JMIC jugeait la menace « substantielle ». Fin octobre, environ 180 porte-conteneurs contournaient encore l’Afrique, contre une moyenne d’environ 350 sur deux ans. C.H. Robinson prévient que les menaces dans la zone pourraient ralentir les retours. Les assureurs, eux, n’ont pas encore publié de nouvelles primes de risque de guerre."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Pour un acheteur, la mer Rouge est désormais la variable clé des contrats 2027. Prudence : prévoir des clauses de surcharge et des délais tampons pour [[endiguer|endiguer]] le risque d’un nouveau détour de deux semaines."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : le retour des porte-conteneurs par Suez est menacé depuis que les Houthis tiennent Bab el-Mandeb (15 novembre).",
+      "<b>L’enjeu</b> : selon Xeneta, la mer Rouge décidera des taux de fret en 2027."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "426",
+       "porte-conteneurs passés par Bab el-Mandeb en octobre"
+      ],
+      [
+       "1 338",
+       "transits par Suez en octobre, contre 2 009 par mois avant la crise"
+      ],
+      [
+       "≈ 22 par jour",
+       "navires dans le détroit du 12 au 14 novembre, contre ≈ 61 en 2023"
+      ],
+      [
+       "≈ − 30 %",
+       "baisse des taux spot prévue par Xeneta sur 2027 si le retour se poursuit"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>La reprise</b> : Bab el-Mandeb + 43 % sur un an en octobre, Suez + 63 % ; Evergreen revient le 8 novembre ; 30 services sur 52 vers l’ouest repassent par Suez. Les armateurs ont cessé de [[tergiverser|tergiverser]].",
+      "<b>Le mécanisme</b> : Suez fait gagner environ dix jours ; plus de rotations, donc plus de capacité (≈ 600 000 EVP libérés) et des taux en baisse.",
+      "<b>Le risque</b> : menace ou péage houthi, et retour par le Cap ; aucune attaque confirmée depuis le 24 août.",
+      "<b>Les signaux</b> : ≈ 22 passages par jour du 12 au 14 novembre, contre ≈ 61 en 2023 ; ≈ 180 porte-conteneurs contournaient encore l’Afrique fin octobre, contre ≈ 350 en moyenne sur deux ans."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Les porte-conteneurs reviennent",
+      "sub": "Passages par Bab el-Mandeb, par mois",
+      "labels": [
+       "Oct. 2025",
+       "Sept. 2026",
+       "Oct. 2026"
+      ],
+      "series": [
+       {
+        "name": "Porte-conteneurs",
+        "values": [
+         230,
+         315,
+         426
+        ]
+       }
+      ],
+      "note": "Environ la moitié naviguait sans transpondeur. Source : Lloyd’s List Intelligence, 12 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Pour l’acheteur</b> : clauses de surcharge et délais tampons pour [[endiguer|endiguer]] le risque d’un nouveau détour."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Walmart : la publicité et l’abonnement font la marge",
+   "by": "Analyse",
+   "fig": "188,8 Md$",
+   "figl": "chiffre d’affaires du trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Walmart Inc., communiqué de résultats du 3e trimestre de l’exercice 2027 (clos le 31 octobre 2026), formulaire 8-K déposé à la SEC le 19 novembre 2026. Consensus LSEG, assistant Sparky et hausse depuis janvier : Briefs Finance, 19 novembre 2026. Chiffre d’affaires de Target (27,1 Md$) : Target, résultats du 18 novembre 2026. Cours avant Bourse, coûts et investissements : Investing.com, 19 novembre 2026. Offre groupée d’abonnements : Cord Cutters News, 19 novembre 2026. Nomination de John Furner : Walmart, communiqué du 14 novembre 2025. Données arrêtées au 19 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Walmart a publié jeudi 19 novembre des résultats supérieurs aux attentes et relevé ses prévisions annuelles. Le premier distributeur du monde vend toujours plus, mais ce qui fait grimper sa rentabilité, ce sont des activités que l’on n’associe pas à un supermarché : la publicité et les abonnements. Premier bilan solide pour John Furner, directeur général depuis le 1er février 2026.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "188,8 Md$",
+       "chiffre d’affaires du trimestre, + 5,2 %"
+      ],
+      [
+       "+ 16 %",
+       "résultat d’exploitation"
+      ],
+      [
+       "+ 25 %",
+       "recettes publicitaires mondiales"
+      ],
+      [
+       "+ 23 %",
+       "e-commerce aux États-Unis"
+      ]
+     ]
+    },
+    {
+     "h": "Le magasin devient une plateforme"
+    },
+    {
+     "p": "Aux États-Unis, les ventes à magasins comparables progressent de 2,9 % hors carburant, moins qu’il y a un an. Mais l’e-commerce bondit de 23 %, la publicité de 37 % et les cotisations d’abonnement de 17 % dans le monde. Ces revenus sont presque sans coût marginal : un annonceur qui paie pour apparaître sur le site ou sur les téléviseurs connectés Vizio rapporte bien plus qu’un panier de courses. Résultat : le résultat d’exploitation grimpe de 16 %, à 7,8 milliards de dollars. Le bénéfice par action ajusté atteint 0,65 dollar, contre 0,64 attendu. En octobre, Walmart a lancé une offre groupée Walmart+ et Sam’s Club à 120 dollars par an, qui aurait déjà attiré environ 2 millions de membres chez Sam’s Club."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Trois enseignes, trois rythmes",
+      "sub": "Ventes du 3e trimestre de l’exercice 2027, en milliards de dollars",
+      "rows": [
+       [
+        "Walmart États-Unis (+ 3,6 %)",
+        125.0
+       ],
+       [
+        "International (+ 7 %)",
+        35.9
+       ],
+       [
+        "Sam’s Club États-Unis (+ 10 %)",
+        25.9
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : Walmart, communiqué du 19 novembre 2026."
+     }
+    },
+    {
+     "h": "Des vents contraires"
+    },
+    {
+     "p": "Le groupe prévoit plus de 2 milliards de dollars de coûts supplémentaires sur l’année : carburant, transport et investissements. La baisse des prix de certains médicaments, imposée par la réforme américaine, ampute les ventes comparables d’environ 0,7 point. Walmart accélère aussi l’automatisation de ses entrepôts, avec des investissements portés à environ 4 % des ventes. Il relève malgré tout ses objectifs : un bénéfice par action ajusté de 2,84 à 2,89 dollars. Les investisseurs, qui espéraient davantage, n’ont pas voulu [[tergiverser|tergiverser]] : l’action reculait de près de 2 % avant l’ouverture, après une hausse d’environ 13 % depuis janvier."
+    },
+    {
+     "h": "Une leçon pour les concurrents"
+    },
+    {
+     "p": "La veille, Target annonçait lui aussi un retour des clients. Mais l’écart d’échelle est immense : Walmart réalise en un trimestre près de sept fois le chiffre d’affaires de son rival. Cette taille lui permet de financer l’intelligence artificielle, comme son assistant d’achat Sparky, associé selon John Furner à des paniers environ 40 % plus gros, et de vendre de l’espace publicitaire à des marques qui veulent toucher ses clients."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Walmart montre la nouvelle équation de la grande distribution : vendre au plus bas prix et se rémunérer sur les données, la publicité et la fidélité. C’est ainsi qu’il compte [[endiguer|endiguer]] la hausse de ses coûts sans augmenter ses prix."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : résultats supérieurs aux attentes le 19 novembre et prévisions relevées.",
+      "<b>Le moteur</b> : la publicité et les abonnements font grimper la marge ; John Furner est directeur général depuis le 1er février 2026."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "188,8 Md$",
+       "chiffre d’affaires du trimestre, + 5,2 %"
+      ],
+      [
+       "+ 16 %",
+       "résultat d’exploitation"
+      ],
+      [
+       "+ 25 %",
+       "recettes publicitaires mondiales"
+      ],
+      [
+       "+ 23 %",
+       "e-commerce aux États-Unis"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les ventes</b> : + 2,9 % à magasins comparables aux États-Unis hors carburant ; Sam’s Club + 10 %.",
+      "<b>Les relais</b> : publicité + 37 % aux États-Unis, abonnements + 17 % ; offre groupée à 120 dollars par an, ≈ 2 millions de membres gagnés chez Sam’s Club.",
+      "<b>Les coûts</b> : plus de 2 milliards de dollars de surcoûts ; prix des médicaments, − 0,7 point ; investissements à ≈ 4 % des ventes.",
+      "<b>La Bourse</b> : prévision de bénéfice par action relevée à 2,84-2,89 dollars ; sans [[tergiverser|tergiverser]], l’action perd près de 2 % avant l’ouverture.",
+      "<b>L’échelle</b> : près de sept fois le chiffre d’affaires trimestriel de Target ; l’assistant d’achat Sparky serait associé à des paniers ≈ 40 % plus gros."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Trois enseignes, trois rythmes",
+      "sub": "Ventes du 3e trimestre de l’exercice 2027, en milliards de dollars",
+      "rows": [
+       [
+        "Walmart États-Unis (+ 3,6 %)",
+        125.0
+       ],
+       [
+        "International (+ 7 %)",
+        35.9
+       ],
+       [
+        "Sam’s Club États-Unis (+ 10 %)",
+        25.9
+       ]
+      ],
+      "suffix": " Md$",
+      "note": "Source : Walmart, communiqué du 19 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : vendre au plus bas prix et gagner sa marge sur la publicité et la fidélité, pour [[endiguer|endiguer]] les coûts sans monter les prix."
+     ]
+    }
+   ]
+  }
+ ]
+}
