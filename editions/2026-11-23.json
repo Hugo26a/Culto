@@ -1,0 +1,1111 @@
+{
+ "date": "2026-11-23",
+ "label": "Lundi 23 novembre 2026",
+ "n": 31,
+ "example": false,
+ "week": {
+  "start": "2026-11-23",
+  "label": "Semaine du 23 novembre",
+  "day": 1,
+  "words": [
+   {
+    "key": "latent",
+    "w": "Latent",
+    "ph": "[la.tɑ̃] · adjectif",
+    "short": "Qui existe déjà sans encore se manifester ouvertement.",
+    "def": "Se dit de ce qui est présent mais caché, en attente de se révéler : un conflit latent, un risque latent, une demande latente. Le mot décrit une réalité qui couve et peut éclater à la moindre occasion. Il est précieux dans le travail, pour désigner un problème que tout le monde pressent sans que personne l’ait encore nommé, ou un besoin que les clients n’expriment pas encore. Son contraire est « manifeste » ou « déclaré ».",
+    "ety": "Du latin latens, participe présent de latere, « être caché ». La même racine a donné « latence », le temps qui sépare une cause de son effet, très employé en médecine comme en informatique.",
+    "ex": "Le conflit entre les équipes était latent depuis la réorganisation : le retard du chantier l’a simplement fait éclater.",
+    "syn": "sous-jacent, larvé, dormant, caché, potentiel"
+   },
+   {
+    "key": "peremptoire",
+    "w": "Péremptoire",
+    "ph": "[pe.ʁɑ̃p.twaʁ] · adjectif",
+    "short": "Qui tranche d’autorité, sans admettre de réplique.",
+    "def": "Se dit d’un ton, d’un argument ou d’une personne qui coupe court à toute discussion. Un argument péremptoire est décisif, impossible à contester ; un ton péremptoire est cassant, parfois arrogant. Le mot sert donc à la fois à saluer une preuve imparable et à critiquer quelqu’un qui affirme sans laisser la place au doute. En réunion, il qualifie bien une affirmation trop sûre d’elle.",
+    "ety": "Du latin juridique peremptorius, « qui détruit, qui met fin », formé sur perimere, « anéantir ». En droit, une exception péremptoire est un moyen qui met fin au procès. Le sens s’est élargi à toute parole qui clôt le débat.",
+    "ex": "Le fournisseur a répondu de façon péremptoire que le délai était impossible, sans même regarder notre proposition.",
+    "syn": "catégorique, tranchant, impérieux, sans appel, cassant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Le Grand Meaulnes",
+   "by": "Alain-Fournier · 1913",
+   "tagline": "Le domaine perdu de l’enfance",
+   "min": 10,
+   "exMin": 4,
+   "src": "Alain-Fournier, Le Grand Meaulnes, publié en feuilleton dans La Nouvelle Revue française de juillet à novembre 1913, puis en volume chez Émile-Paul fin octobre 1913. Œuvre dans le domaine public (l’auteur est mort en 1914). Citation : dernière phrase de l’épilogue, texte du Projet Gutenberg (ebook n° 5781). Biographie : Chemins de mémoire (ministère des Armées) et ministère de la Culture, « Alain-Fournier (1886-1914) », archéologie de la Grande Guerre. Prix Goncourt 1913 : Marc Elder, Le Peuple de la mer. Classement : « Les 100 livres du siècle », Le Monde, 1999 (9e place). Ventes en Livre de poche : La Vie des idées, « Le siècle du Grand Meaulnes ». Adaptations : Jean-Gabriel Albicocco (1967), Jean-Daniel Verhaeghe (2006).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Dans un village du Cher, à la fin du XIXe siècle, un adolescent fougueux, Augustin Meaulnes, s’égare une nuit d’hiver et tombe sur une fête étrange dans un château perdu. Il y croise une jeune fille, Yvonne de Galais, puis passe des années à chercher le chemin du « domaine mystérieux ». Le récit, raconté par son ami François Seurel, dit la beauté et l’impossibilité de retrouver un rêve d’enfance."
+      ],
+      [
+       "La nostalgie comme moteur",
+       "Tout le roman tient dans un regret : celui d’un instant de bonheur parfait qu’on voudrait revivre. Meaulnes le poursuit, le retrouve et découvre qu’on ne remonte pas le temps. Le désir était plus beau que sa réalisation."
+      ],
+      [
+       "Le passage à l’âge adulte",
+       "Les personnages quittent l’enfance à regret. Meaulnes refuse longtemps de grandir ; ses choix d’homme blessent ceux qui l’aiment. Le livre montre le prix de la fidélité aux promesses de jeunesse."
+      ],
+      [
+       "Un réalisme enchanté",
+       "L’école, les chemins boueux, les foires de la Sologne sont décrits avec une précision de souvenir. Sur ce fond très concret, le merveilleux surgit sans effets : une fête costumée, un bohémien masqué, un appel de chouette dans la nuit."
+      ],
+      [
+       "Un roman d’amitié",
+       "Le vrai couple du livre est peut-être celui que forment Meaulnes et François, le narrateur fasciné qui vit l’aventure par procuration et finit par en porter le poids."
+      ],
+      [
+       "Pour en parler",
+       "Retenez la fête au domaine, la promesse faite à Frantz et son prix terrible, la mort de l’auteur au front en septembre 1914, à 27 ans, et la dernière phrase du roman, l’une des plus célèbres de la littérature française."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "L’arrivée du grand Meaulnes"
+    },
+    {
+     "p": "Sainte-Agathe, un bourg du Cher, dans les années 1890. François Seurel, quinze ans, fils des instituteurs, est un garçon sage et un peu boiteux. Un dimanche de novembre arrive un nouveau pensionnaire de dix-sept ans, Augustin Meaulnes. Grand, silencieux, audacieux, il prend aussitôt l’ascendant sur toute l’école : les élèves l’appellent « le grand Meaulnes ». François devient son ami et son ombre.",
+     "lead": 1
+    },
+    {
+     "p": "Quelques jours avant Noël, on doit aller chercher les grands-parents de François à la gare de Vierzon. Meaulnes, qui n’a pas été choisi pour la course, emprunte une carriole et part seul. Il s’égare dans la campagne gelée, perd sa jument, erre une nuit entière et finit par découvrir, au fond des bois, un vieux domaine illuminé où se prépare une fête."
+    },
+    {
+     "h5": "La fête étrange"
+    },
+    {
+     "p": "Le domaine semble régi par les enfants. On s’y costume avec des habits d’autrefois ; Meaulnes enfile un gilet de soie démodé et se mêle aux invités. Il comprend qu’on célèbre les noces du fils de la maison, Frantz de Galais, qui doit ramener sa fiancée. Le lendemain matin, lors d’une promenade en barque sur l’étang, il rencontre la sœur de Frantz, Yvonne de Galais. Ils échangent quelques mots, une promesse à peine formulée. C’est le coup de foudre."
+    },
+    {
+     "p": "Mais la fiancée n’est pas venue. Frantz, désespéré, annonce que la fête est finie. Dans la confusion, Meaulnes repart dans une voiture, s’endort et se retrouve déposé près de Sainte-Agathe, sans savoir par où il est passé. Revenu à l’école, il ne pense plus qu’à retrouver le chemin. Il dresse en secret une carte de son trajet, mais un trou demeure : le domaine reste introuvable."
+    },
+    {
+     "h5": "Le bohémien"
+    },
+    {
+     "p": "À la fin de l’hiver, des bohémiens s’installent sur la place. L’un d’eux, la tête bandée, s’inscrit à l’école et vole la carte de Meaulnes. Il finit par se démasquer : c’est Frantz de Galais, qui a fui après l’échec de son mariage et vit sur les routes avec un compagnon, Ganache. Il fait jurer aux deux garçons de venir l’aider le jour où il les appellera par un cri de chouette. Puis la troupe disparaît."
+    },
+    {
+     "p": "Meaulnes part terminer ses études à Paris, où il espère retrouver Yvonne à une adresse indiquée par Frantz. La maison reste vide. Ses lettres à François, de plus en plus rares, trahissent un malaise [[latent|latent]]. On apprendra plus tard qu’il y a rencontré une jeune couturière, Valentine Blondeau, dont il est devenu l’amant, avant de découvrir qu’elle était la fiancée perdue de Frantz. Il l’a quittée brutalement."
+    },
+    {
+     "h5": "Les retrouvailles"
+    },
+    {
+     "p": "C’est François qui, par hasard, retrouve la trace du domaine, appelé les Sablonnières. La famille de Galais s’est ruinée, le château a été en partie démoli, mais Yvonne vit tout près et n’est pas mariée. François organise une partie de campagne au bord de l’eau pour les réunir. La rencontre est maladroite : Meaulnes pose sur la fête d’autrefois des questions auxquelles Yvonne répond qu’il ne reste plus rien. Le rêve s’est défait. Ils se marient pourtant quelques mois plus tard."
+    },
+    {
+     "h5": "La promesse"
+    },
+    {
+     "p": "Le soir des noces, le cri de chouette retentit : Frantz appelle. Le lendemain, Meaulnes part sans un mot, tenu par son serment et rongé par sa faute envers Valentine. Yvonne attend un enfant. Elle accouche d’une fille et meurt peu après, veillée par François, qui porte lui-même son cercueil."
+    },
+    {
+     "p": "Devenu instituteur, François découvre le journal de Meaulnes et comprend tout : le remords, l’impossibilité d’être heureux tant qu’il n’aurait pas réparé le mal fait à Frantz. Un matin, Meaulnes revient. Il a réuni Frantz et Valentine. Il prend sa fille dans ses bras, et François sent que son ami va lui échapper encore."
+    },
+    {
+     "quote": "Et déjà je l’imaginais, la nuit, enveloppant sa fille dans un manteau, et partant avec elle pour de nouvelles aventures.",
+     "cite": "François Seurel, dernière phrase de l’épilogue"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un seul roman, une vie brève"
+    },
+    {
+     "p": "Alain-Fournier, de son vrai nom Henri-Alban Fournier, naît le 3 octobre 1886 à La Chapelle-d’Angillon, dans le Cher. Son père est instituteur à Épineuil-le-Fleuriel, le village qui deviendra Sainte-Agathe. Le roman paraît en feuilleton dans La Nouvelle Revue française de juillet à novembre 1913, puis en volume chez Émile-Paul. Il manque de peu le prix Goncourt, attribué à Marc Elder. Moins d’un an plus tard, le 22 septembre 1914, le lieutenant Fournier est tué au combat près de Verdun. Il a 27 ans. Son corps, retrouvé en 1991 dans une fosse commune, repose depuis 1992 au cimetière militaire de Saint-Remy-la-Calonne."
+    },
+    {
+     "h5": "Une rencontre devenue mythe"
+    },
+    {
+     "p": "Le 1er juin 1905, à Paris, le jeune homme aperçoit au bord de la Seine une jeune femme, Yvonne de Quiévrecourt. Il la suit, lui parle quelques jours plus tard. Elle est fiancée, et se marie en 1907. Il ne la reverra qu’une fois, en 1913. Pendant huit ans, il transforme cette rencontre fugitive en roman. Yvonne de Galais en est l’héritière directe. Son beau-frère et ami Jacques Rivière, qui a épousé sa sœur Isabelle, suit pas à pas cette lente gestation dans une correspondance publiée après sa mort."
+    },
+    {
+     "h5": "L’art de la distance"
+    },
+    {
+     "p": "Le choix du narrateur est décisif. François raconte des années après, avec une voix simple et tendre. Il n’a pas vécu la fête : il la rapporte d’après Meaulnes, ce qui la rend plus lointaine encore. Le style mêle des notations très concrètes, la craie, la pluie, l’odeur des pommes au grenier, à une lumière de rêve. Aucun jugement [[peremptoire|péremptoire]] ne vient fixer le sens : le lecteur reste, comme les personnages, dans l’entre-deux de l’enfance et de l’âge adulte."
+    },
+    {
+     "h5": "Un héros insaisissable"
+    },
+    {
+     "p": "Meaulnes fascine et déçoit. Il est l’aventurier que François n’ose pas être, mais il fuit dès que le bonheur devient possible. On peut lire son départ au soir des noces comme un acte d’honneur ou comme une incapacité à vivre. Le roman ne tranche pas. Il suggère seulement qu’une part de nous reste attachée à ce qui est perdu, et que cette part est à la fois notre richesse et notre malheur."
+    },
+    {
+     "h5": "Un succès qui ne s’est jamais démenti"
+    },
+    {
+     "p": "Le Grand Meaulnes s’est vendu à plus de 4,5 millions d’exemplaires en Livre de poche. En 1999, les lecteurs du Monde l’ont classé 9e des « 100 livres du siècle ». Il a été adapté au cinéma par Jean-Gabriel Albicocco en 1967, puis par Jean-Daniel Verhaeghe en 2006. Pour des générations d’élèves, il a été le premier grand roman lu en classe."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’il parle d’une chose que chacun connaît : le souvenir d’un moment parfait qu’on idéalise à mesure qu’il s’éloigne. Parce qu’il rappelle qu’une promesse a un prix, et que la fidélité au passé peut coûter le présent. Et parce qu’il a été écrit à la veille de 1914 par un jeune homme qui allait mourir avec sa génération : ce monde d’écoles, de chemins et de fêtes de village allait disparaître lui aussi."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Dans le Cher, à la fin du XIXe siècle, le jeune Augustin Meaulnes s’égare une nuit d’hiver, découvre une fête mystérieuse dans un château perdu et y rencontre Yvonne de Galais. Il passe des années à chercher le chemin du domaine. Raconté par son ami François, le seul roman d’Alain-Fournier, paru en 1913."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La nostalgie</b> : Meaulnes poursuit un instant de bonheur parfait, le retrouve et découvre qu’on ne remonte pas le temps.",
+      "<b>Grandir</b> : le héros refuse longtemps l’âge adulte ; sa fidélité aux promesses de jeunesse blesse ceux qui l’aiment.",
+      "<b>Un réalisme enchanté</b> : l’école et la campagne décrites avec précision, sur lesquelles surgit le merveilleux.",
+      "<b>L’amitié</b> : François, narrateur fasciné, vit l’aventure par procuration et finit par en porter le poids.",
+      "<b>Pour en parler</b> : la fête au domaine, la promesse faite à Frantz, la mort de l’auteur au front à 27 ans, la dernière phrase du roman."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>L’arrivée</b> : à Sainte-Agathe, François Seurel, quinze ans, fils des instituteurs, se lie avec un nouveau pensionnaire de dix-sept ans, « le grand Meaulnes ».",
+      "<b>La fête</b> : parti seul vers la gare de Vierzon, Meaulnes s’égare et découvre un domaine où l’on fête les noces de Frantz de Galais ; il y rencontre Yvonne, sa sœur.",
+      "<b>La fuite</b> : la fiancée ne vient pas, la fête s’arrête ; Meaulnes rentre sans savoir par où il est passé et ne retrouve jamais le chemin.",
+      "<b>Le bohémien</b> : Frantz, déguisé, vole la carte de Meaulnes, puis fait jurer aux deux garçons de venir l’aider à son appel, un cri de chouette.",
+      "<b>Paris</b> : Meaulnes ne retrouve pas Yvonne ; ses lettres trahissent un malaise [[latent|latent]] : il est devenu l’amant de Valentine, la fiancée de Frantz, avant de la quitter.",
+      "<b>Les retrouvailles</b> : François retrouve le domaine ruiné ; Meaulnes et Yvonne se revoient, maladroits, et se marient.",
+      "<b>La promesse</b> : le soir des noces, Frantz appelle ; Meaulnes part. Yvonne meurt après avoir donné naissance à une fille.",
+      "<b>Le retour</b> : Meaulnes revient après avoir réuni Frantz et Valentine, et repart avec sa fille."
+     ]
+    },
+    {
+     "quote": "Et déjà je l’imaginais, la nuit, enveloppant sa fille dans un manteau, et partant avec elle pour de nouvelles aventures.",
+     "cite": "François Seurel, dernière phrase de l’épilogue"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Henri-Alban Fournier (1886-1914), fils d’instituteur à Épineuil-le-Fleuriel ; roman paru en 1913, Goncourt manqué de peu ; tué près de Verdun le 22 septembre 1914.",
+      "<b>La source</b> : une rencontre fugitive à Paris, le 1er juin 1905, avec Yvonne de Quiévrecourt, transformée en roman pendant huit ans.",
+      "<b>La forme</b> : un narrateur qui raconte des années après ; aucun jugement [[peremptoire|péremptoire]], le lecteur reste dans l’entre-deux de l’enfance.",
+      "<b>Le héros</b> : Meaulnes fuit dès que le bonheur devient possible ; honneur ou incapacité à vivre, le roman ne tranche pas.",
+      "<b>Le succès</b> : plus de 4,5 millions d’exemplaires en poche, 9e des « 100 livres du siècle » du Monde ; films en 1967 et 2006."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "L’Ordre du monde",
+   "by": "Henry Kissinger · 2014",
+   "min": 9,
+   "exMin": 3,
+   "src": "Henry Kissinger, World Order, New York, Penguin Press, 9 septembre 2014, 432 pages ; édition française : L’Ordre du monde, Fayard, 2016, trad. Odile Demange, 395 pages. Table des matières : catalogue de la bibliothèque de Texas A&M University. Biographie : PBS, nécrologie du 29 novembre 2023. Critique d’Hillary Clinton : The Washington Post, 4 septembre 2014 (rapportée par The Hill) ; critique de David Adesnik : Washington Free Beacon, 11 octobre 2014. Nombre d’États membres de l’ONU : Nations unies, « Growth in United Nations membership ».",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "À 91 ans, l’ancien secrétaire d’État américain se demande s’il existe encore un ordre mondial. Il montre que l’Europe, la Chine, l’islam politique et les États-Unis ont chacun leur propre conception de l’ordre, et qu’aucune n’a jamais été réellement universelle. La paix future dépendra de la capacité à les faire tenir ensemble."
+      ],
+      [
+       "Un ordre, c’est deux choses",
+       "Pour Kissinger, un ordre international repose sur un ensemble de règles jugées légitimes et sur un équilibre des forces qui dissuade de les violer. La légitimité sans puissance est impuissante ; la puissance sans légitimité provoque la révolte."
+      ],
+      [
+       "Le modèle de 1648",
+       "Les traités de Westphalie, qui mettent fin à la guerre de Trente Ans, inventent un système d’États souverains qui ne se mêlent pas des affaires intérieures des autres. Ce modèle européen s’est étendu au monde : l’ONU est passée de 51 États membres en 1945 à 193 aujourd’hui."
+      ],
+      [
+       "Des visions concurrentes",
+       "La Chine s’est longtemps pensée comme le centre du monde, entourée de vassaux ; l’islam politique rêve d’un ordre fondé sur la foi, sans frontières ; les États-Unis croient que leurs valeurs ont vocation à devenir celles de tous."
+      ],
+      [
+       "La technologie bouleverse le jeu",
+       "Armes nucléaires, cyberattaques et flot continu d’informations réduisent le temps de la réflexion et brouillent la frontière entre paix et guerre, au moment même où les États auraient besoin de patience stratégique."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Le testament d’un réaliste"
+    },
+    {
+     "p": "Henry Kissinger, né en 1923 en Bavière, réfugié aux États-Unis en 1938, a été conseiller à la sécurité nationale puis secrétaire d’État de Richard Nixon et Gerald Ford. Il a négocié l’ouverture vers la Chine et la détente avec l’URSS. Quand paraît World Order, en septembre 2014, il a 91 ans. L’Ukraine vient d’être amputée de la Crimée, l’État islamique proclame un califat, la Chine s’affirme en mer de Chine méridionale. Le livre, de 432 pages, se veut une réponse à une question simple : le monde a-t-il encore des règles partagées ? Kissinger est mort en novembre 2023, à 100 ans ; ce livre est souvent lu comme son testament intellectuel.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "1648",
+       "traités de Westphalie, naissance du système d’États"
+      ],
+      [
+       "51 → 193",
+       "États membres de l’ONU, de 1945 à aujourd’hui"
+      ],
+      [
+       "91 ans",
+       "âge de l’auteur à la parution"
+      ],
+      [
+       "9",
+       "chapitres, de l’Europe à la technologie"
+      ]
+     ]
+    },
+    {
+     "h5": "L’invention européenne de l’équilibre"
+    },
+    {
+     "p": "Tout commence en 1648. Après trois décennies de guerres de religion qui ont ravagé l’Europe centrale, les belligérants renoncent à imposer leur vérité. Ils acceptent que chaque souverain choisisse la religion de son territoire et que les États se reconnaissent comme égaux en droit. C’est une idée modeste et révolutionnaire : la paix ne repose plus sur une foi commune, mais sur un équilibre entre des puissances qui se surveillent. Le congrès de Vienne, en 1815, perfectionne ce système après les guerres napoléoniennes et assure à l’Europe près d’un siècle sans guerre générale."
+    },
+    {
+     "p": "Ce mécanisme s’effondre en 1914. Les alliances sont devenues rigides, la diplomatie a perdu sa souplesse, et un attentat dans les Balkans suffit à entraîner tout le continent. Pour Kissinger, la leçon est durable : un équilibre n’est jamais acquis, il demande un entretien permanent et des dirigeants capables de penser au-delà de l’émotion du moment. Les tensions [[latent|latentes]] finissent toujours par trouver une étincelle."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le modèle westphalien s’est mondialisé",
+      "sub": "Nombre d’États membres de l’ONU",
+      "labels": [
+       "1945",
+       "1960",
+       "1980",
+       "2000",
+       "2011"
+      ],
+      "series": [
+       {
+        "name": "États membres",
+        "values": [
+         51,
+         99,
+         154,
+         189,
+         193
+        ]
+       }
+      ],
+      "note": "Source : Nations unies, « Growth in United Nations membership ». Le dernier État admis est le Soudan du Sud, le 14 juillet 2011."
+     }
+    },
+    {
+     "h5": "Le Moyen-Orient, l’Asie et leurs propres règles"
+    },
+    {
+     "p": "Le livre consacre deux chapitres au Moyen-Orient. Les frontières tracées après 1918 y ont créé des États sans adhésion profonde de leurs peuples, que contestent à la fois les rivalités religieuses et l’islamisme, qui rejette le principe même de l’État-nation. L’Iran pose un défi particulier : Kissinger se demande s’il veut être un pays parmi d’autres ou la tête d’une cause révolutionnaire. Toute négociation nucléaire dépend de la réponse."
+    },
+    {
+     "p": "L’Asie occupe les deux chapitres suivants. La Chine a vécu des siècles comme l’empire du Milieu, sans égaux, recevant le tribut de ses voisins. Elle n’a accepté le système westphalien que sous la contrainte, au XIXe siècle. Le Japon, l’Inde et les pays d’Asie du Sud-Est, eux, pratiquent l’équilibre des puissances presque à l’européenne. Kissinger juge que la relation entre Pékin et Washington décidera de la paix du siècle, et plaide pour un partenariat qui évite la confrontation."
+    },
+    {
+     "h5": "L’Amérique, superpuissance ambivalente"
+    },
+    {
+     "p": "Le cœur critique du livre vise son propre pays. Les États-Unis oscillent entre deux tentations : le repli et la croisade. Ils se croient porteurs de valeurs universelles, et cette conviction les a poussés à des interventions mal pensées, du Vietnam à l’Irak. Kissinger plaide pour une politique qui allie idéalisme et réalisme : défendre la démocratie, oui, mais en mesurant les rapports de force et la légitimité des autres. Un discours trop [[peremptoire|péremptoire]] sur les valeurs, sans stratégie, produit le désordre."
+    },
+    {
+     "h5": "La technologie, nouveau facteur de désordre"
+    },
+    {
+     "p": "L’avant-dernier chapitre est le plus inattendu. Kissinger, qui a connu la diplomatie des télégrammes, s’inquiète de l’ère numérique. Les armes nucléaires avaient déjà imposé une prudence nouvelle : la dissuasion repose sur la certitude que chacun comprend les règles. Les cyberattaques, elles, sont difficiles à attribuer, peu coûteuses et sans frontière claire entre paix et guerre. Personne ne sait à partir de quel seuil une intrusion informatique justifie une riposte. Surtout, le flot continu d’informations pousse les dirigeants à réagir dans l’instant, sous la pression de l’opinion, alors que la stratégie exige du recul, de la mémoire historique et la capacité de penser en décennies. Pour l’auteur, savoir n’est pas comprendre, et l’abondance de données peut appauvrir le jugement."
+    },
+    {
+     "h5": "Une méthode plus qu’une doctrine"
+    },
+    {
+     "p": "Le livre ne propose pas de plan clé en main. Il offre une manière de raisonner : partir de la façon dont chaque acteur voit le monde, de son histoire et de ses peurs, avant de juger ses intentions. Pour Kissinger, la Russie, la Chine ou l’Iran ne sont pas seulement des adversaires à contenir, mais des puissances dont il faut comprendre la logique pour bâtir des compromis durables. C’est ce qu’il appelle l’art de l’homme d’État : concilier ce qui est souhaitable et ce qui est possible."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Hillary Clinton, dans le Washington Post du 4 septembre 2014, salue un plaidoyer convaincant qui rejoint selon elle la stratégie de l’administration Obama. D’autres sont plus sévères. Le critique conservateur David Adesnik reproche à Kissinger de réécrire l’histoire américaine, de minimiser la force des valeurs démocratiques et de se montrer trop indulgent envers la Chine. À gauche, beaucoup rappellent son rôle au Cambodge ou au Chili et contestent qu’il puisse donner des leçons de légitimité. Le livre est aussi plus descriptif que prescriptif : il dit ce qu’il faudrait, rarement comment l’obtenir."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Douze ans plus tard, le livre se lit comme un avertissement. Le retour de la guerre en Europe, la rivalité sino-américaine, l’affaiblissement des institutions multilatérales et l’essor de l’intelligence artificielle, sujet de ses derniers écrits, confirment son diagnostic : le monde n’a pas d’arbitre. Sa conclusion reste utile, y compris pour qui gère des chaînes d’approvisionnement mondiales : un ordre se construit région par région, et la stabilité repose sur des équilibres que l’on doit sans cesse ajuster."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "À 91 ans, Henry Kissinger montre que l’Europe, la Chine, l’islam politique et les États-Unis ont chacun leur vision de l’ordre mondial, et qu’aucune n’est universelle. La paix dépendra de la capacité à les faire tenir ensemble, en alliant légitimité et équilibre des forces."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : conseiller puis secrétaire d’État de Nixon et Ford ; livre paru en septembre 2014, 432 pages ; mort en 2023 à 100 ans.",
+      "<b>La définition</b> : un ordre, ce sont des règles jugées légitimes et un équilibre des forces qui dissuade de les violer.",
+      "<b>1648</b> : les traités de Westphalie inventent les États souverains et égaux ; le congrès de Vienne (1815) assure ensuite un siècle sans guerre générale.",
+      "<b>1914</b> : des alliances rigides font tout s’effondrer ; les tensions [[latent|latentes]] trouvent toujours une étincelle.",
+      "<b>Le Moyen-Orient</b> : des États contestés par l’islamisme ; l’Iran doit choisir entre être un pays ou une cause.",
+      "<b>L’Asie</b> : la Chine s’est pensée en empire du Milieu ; la relation Pékin-Washington décidera de la paix du siècle.",
+      "<b>L’Amérique</b> : entre repli et croisade ; un discours [[peremptoire|péremptoire]] sur les valeurs, sans stratégie, produit le désordre.",
+      "<b>La technologie</b> : nucléaire, cyber et flux d’informations réduisent le temps de la réflexion ; une cyberattaque est difficile à attribuer et brouille la frontière entre paix et guerre ; savoir n’est pas comprendre.",
+      "<b>La méthode</b> : comprendre l’histoire et les peurs de chaque acteur avant de juger ses intentions ; l’art de l’homme d’État consiste à concilier le souhaitable et le possible."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "1648",
+       "traités de Westphalie, naissance du système d’États"
+      ],
+      [
+       "51 → 193",
+       "États membres de l’ONU, de 1945 à aujourd’hui"
+      ],
+      [
+       "91 ans",
+       "âge de l’auteur à la parution"
+      ],
+      [
+       "9",
+       "chapitres, de l’Europe à la technologie"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le modèle westphalien s’est mondialisé",
+      "sub": "Nombre d’États membres de l’ONU",
+      "labels": [
+       "1945",
+       "1960",
+       "1980",
+       "2000",
+       "2011"
+      ],
+      "series": [
+       {
+        "name": "États membres",
+        "values": [
+         51,
+         99,
+         154,
+         189,
+         193
+        ]
+       }
+      ],
+      "note": "Source : Nations unies, « Growth in United Nations membership ». Le dernier État admis est le Soudan du Sud, le 14 juillet 2011."
+     }
+    },
+    {
+     "h": "Limites et postérité"
+    },
+    {
+     "ul": [
+      "<b>Les critiques</b> : Hillary Clinton salue dans le Washington Post un plaidoyer convaincant, proche de la stratégie d’Obama ; David Adesnik l’accuse de réécrire l’histoire et d’être indulgent envers la Chine ; d’autres rappellent le Cambodge et le Chili.",
+      "<b>Une limite</b> : le livre dit ce qu’il faudrait faire, rarement comment l’obtenir.",
+      "<b>L’héritage</b> : douze ans après, guerre en Europe, rivalité sino-américaine et institutions affaiblies confirment le diagnostic d’un monde sans arbitre ; l’ordre se construit région par région, par des équilibres à ajuster sans cesse."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Wall Street : l’IA fait plonger la Bourse malgré de bons chiffres",
+   "by": "Analyse",
+   "fig": "− 8,6 %",
+   "figl": "le S&P 500 en une semaine",
+   "min": 3,
+   "exMin": 2,
+   "src": "Associated Press, « How major US stock indexes fared », 20 novembre 2026 (clôtures et variations hebdomadaires). Reuters, 20 et 21 novembre 2026, via Yahoo Finance et The Standard (correction, VIX, volumes, Anthropic, indice des semi-conducteurs, déclarations de Lisa Cook). Nvidia, résultats du 3e trimestre de l’exercice 2027, communiqué du 17 novembre 2026. Inflation d’octobre : Bureau of Labor Statistics, analysée par Morningstar, novembre 2026. Probabilités de marché : CME FedWatch, cité par Reuters. Données arrêtées au 20 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La Bourse de New York vient de vivre sa pire semaine depuis le printemps 2025. Du 16 au 20 novembre, le S&P 500 a perdu 8,6 % et le Nasdaq 10 %. Vendredi, l’indice phare a cédé 3,7 % et terminé plus de 10 % sous son record : c’est la définition d’une correction. Le paradoxe est total, car les nouvelles venues du secteur de l’intelligence artificielle étaient excellentes.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "− 8,6 %",
+       "S&P 500 sur la semaine du 16 au 20 novembre"
+      ],
+      [
+       "− 3,7 %",
+       "S&P 500 le seul vendredi 20 novembre"
+      ],
+      [
+       "35,9",
+       "indice de volatilité VIX, plus haut depuis avril 2025"
+      ],
+      [
+       "+ 0,4 %",
+       "prix à la consommation américains en octobre, sur un mois"
+      ]
+     ]
+    },
+    {
+     "h": "Quand les bonnes nouvelles ne suffisent plus"
+    },
+    {
+     "p": "Le 17 novembre, Nvidia a publié un chiffre d’affaires trimestriel record de 115,8 milliards de dollars, en hausse de 103 % sur un an, et promis 130 milliards pour le trimestre suivant. Le 19, Anthropic a réussi la plus grosse introduction en Bourse de l’histoire. Rien n’y a fait : l’action Nvidia a reculé de 13,8 % après ses résultats, et Anthropic a perdu 9,1 % vendredi. Quand un titre est valorisé sur des années de croissance future, il ne suffit plus de battre les attentes : il faut les pulvériser. Les inquiétudes [[latent|latentes]] sur la rentabilité des data centers ont pris le dessus."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Une semaine noire pour Wall Street",
+      "sub": "Baisse des indices du 16 au 20 novembre 2026, en %",
+      "rows": [
+       [
+        "Nasdaq",
+        10
+       ],
+       [
+        "S&P 500",
+        8.6
+       ],
+       [
+        "Dow Jones",
+        8
+       ],
+       [
+        "Russell 2000",
+        7.5
+       ]
+      ],
+      "prefix": "− ",
+      "suffix": " %",
+      "note": "Source : Associated Press, « How major US stock indexes fared », 20 novembre 2026."
+     }
+    },
+    {
+     "h": "Le vrai déclencheur : les taux"
+    },
+    {
+     "p": "La clé est ailleurs. En octobre, les prix à la consommation américains ont progressé de 0,4 % sur un mois, deux fois plus que prévu. Les marchés jugent désormais quasi certaine une hausse d’un quart de point des taux de la Fed le 9 décembre ; la gouverneure Lisa Cook a jugé le taux directeur, entre 3,75 % et 4 %, insuffisant. Or des taux plus élevés réduisent la valeur actuelle des profits lointains, ceux sur lesquels reposent les valeurs technologiques, et renchérissent la dette qui finance les centres de données. Le mouvement s’est étendu à toute la cote : vendredi, on comptait près de quatre actions en baisse pour une en hausse à New York."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Une correction n’est pas un krach : le S&P 500 reste encore en légère hausse depuis janvier, quand le Nasdaq a effacé tout son gain de l’année. Mais la leçon est claire. Quand l’argent redevient cher, les promesses valent moins, et aucun discours [[peremptoire|péremptoire]] sur l’avenir de l’IA ne protège un marché des lois de l’actualisation."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : pire semaine depuis 2025 ; S&P 500 − 8,6 %, Nasdaq − 10 % ; vendredi, le S&P 500 finit plus de 10 % sous son record, une correction.",
+      "<b>Le paradoxe</b> : les nouvelles de l’IA étaient excellentes."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "− 8,6 %",
+       "S&P 500 sur la semaine du 16 au 20 novembre"
+      ],
+      [
+       "− 3,7 %",
+       "S&P 500 le seul vendredi 20 novembre"
+      ],
+      [
+       "35,9",
+       "indice de volatilité VIX, plus haut depuis avril 2025"
+      ],
+      [
+       "+ 0,4 %",
+       "prix à la consommation américains en octobre, sur un mois"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Nvidia</b> : 115,8 milliards de dollars de ventes trimestrielles (+ 103 %), 130 milliards promis ; l’action recule pourtant de 13,8 % après ses résultats.",
+      "<b>Anthropic</b> : plus grosse introduction en Bourse de l’histoire le 19 novembre, puis − 9,1 % vendredi ; les doutes [[latent|latents]] sur la rentabilité des data centers l’emportent.",
+      "<b>Les taux</b> : prix + 0,4 % en octobre, le double du prévu ; hausse de la Fed jugée quasi certaine le 9 décembre ; des taux plus hauts dévalorisent les profits lointains.",
+      "<b>La contagion</b> : près de quatre actions en baisse pour une en hausse vendredi ; le Nasdaq efface son gain de l’année."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Une semaine noire pour Wall Street",
+      "sub": "Baisse des indices du 16 au 20 novembre 2026, en %",
+      "rows": [
+       [
+        "Nasdaq",
+        10
+       ],
+       [
+        "S&P 500",
+        8.6
+       ],
+       [
+        "Dow Jones",
+        8
+       ],
+       [
+        "Russell 2000",
+        7.5
+       ]
+      ],
+      "prefix": "− ",
+      "suffix": " %",
+      "note": "Source : Associated Press, « How major US stock indexes fared », 20 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : quand l’argent redevient cher, les promesses valent moins ; aucun discours [[peremptoire|péremptoire]] sur l’IA n’abolit les lois de l’actualisation."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "COP31 : Antalya se sépare sans accord",
+   "by": "Analyse",
+   "fig": "44 h",
+   "figl": "de prolongation pour rien",
+   "min": 3,
+   "exMin": 2,
+   "src": "Reuters, 22 novembre 2026, via The Jerusalem Post et Fox Business (clôture, déclarations de Murat Kurum et Darragh O’Brien, contenu du projet du 19 novembre). Al Jazeera, 22 novembre 2026 (prolongation de 44 heures, Monique Barbut). Middle East Eye, 22 novembre 2026 (objections formelles). Anadolu via The Daily Chronicle (196 pays et l’UE). IISD, Earth Negotiations Bulletin n° 910. Global Carbon Budget 2026, via Carbon Brief, 10 novembre 2026. COP32 à Addis-Abeba : Reuters, 11 novembre 2025. Données arrêtées au 22 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "La conférence de l’ONU sur le climat s’est achevée dimanche 22 novembre à Antalya, en Turquie, sans texte final. Après 44 heures de prolongation, un record, le président de la COP31, le ministre turc Murat Kurum, a constaté l’absence de consensus sur le « pacte d’Antalya ». C’est la première fois depuis Copenhague, en 2009, qu’une COP se termine sans décision commune.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "44 h",
+       "de prolongation, un record, sans accord"
+      ],
+      [
+       "196 + UE",
+       "pays représentés à Antalya"
+      ],
+      [
+       "1re fois",
+       "depuis Copenhague (2009) qu’une COP échoue"
+      ],
+      [
+       "5",
+       "délégations ayant formellement refusé le texte"
+      ]
+     ]
+    },
+    {
+     "h": "Le pétrole au cœur de la rupture"
+    },
+    {
+     "p": "Le blocage porte sur les énergies fossiles. Le premier projet, préparé par l’Australie, qui menait les négociations, appelait à accélérer la sortie du charbon, du pétrole et du gaz. Sous la pression de l’Arabie saoudite et d’autres producteurs, les versions suivantes ont effacé toute mention explicite, se contentant de renvoyer à l’accord de Dubaï de 2023. Elles mettaient en avant le captage du carbone, avec un objectif d’au moins 500 millions de tonnes de CO₂ par an en 2035. L’Union européenne, la Norvège, le Panama, les îles Marshall et le Vanuatu ont refusé. Pour le ministre irlandais Darragh O’Brien, qui parlait au nom des Vingt-Sept, il était inadmissible d’adopter un texte sur le climat sans un mot sur les fossiles."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Qui émet le CO₂ fossile ?",
+      "sub": "Part des émissions mondiales en 2026 (projection), en %",
+      "rows": [
+       [
+        "Chine",
+        32
+       ],
+       [
+        "États-Unis",
+        13
+       ],
+       [
+        "Inde",
+        8
+       ],
+       [
+        "Union européenne",
+        6
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Global Carbon Budget 2026, via Carbon Brief, 10 novembre 2026. Le reste du monde représente environ 38 %."
+     }
+    },
+    {
+     "h": "Un multilatéralisme fatigué"
+    },
+    {
+     "p": "Le contexte n’aidait pas. La guerre avec l’Iran a fait flamber l’énergie, les États-Unis ne participent plus, et le projet reconnaissait pour la première fois que le réchauffement dépassera 1,5 °C. La fracture, [[latent|latente]] depuis des années, entre pays producteurs et Européens alliés aux États insulaires a éclaté au grand jour. La Russie a bloqué un plan sur l’éducation au climat, le groupe africain un texte sur le financement. Murat Kurum, sur un ton [[peremptoire|péremptoire]], a prévenu qu’il n’y aurait plus de nouveau texte. Les règles de l’accord de Paris et des COP précédentes restent en vigueur ; rien n’est défait, mais rien n’avance. Pour les pays les plus vulnérables, l’enjeu est concret : le projet citait des besoins de financement de 5 100 à 6 800 milliards de dollars d’ici 2030 pour les pays en développement."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les émissions fossiles mondiales devraient légèrement baisser en 2026, d’environ 0,4 %, surtout parce que le pétrole est cher. La diplomatie, elle, recule. Rendez-vous en 2027 à Addis-Abeba, en Éthiopie, pour la COP32, avec un dossier fossile toujours ouvert. D’ici là, le climat se jouera surtout ailleurs : dans les prix de l’énergie, les investissements des entreprises et les accords entre pays volontaires."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : la COP31 d’Antalya s’achève le 22 novembre sans texte final, après 44 heures de prolongation.",
+      "<b>Le précédent</b> : une première depuis Copenhague en 2009."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "44 h",
+       "de prolongation, un record, sans accord"
+      ],
+      [
+       "196 + UE",
+       "pays représentés à Antalya"
+      ],
+      [
+       "1re fois",
+       "depuis Copenhague (2009) qu’une COP échoue"
+      ],
+      [
+       "5",
+       "délégations ayant formellement refusé le texte"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les fossiles</b> : le projet australien visait une sortie accélérée ; sous la pression saoudienne, la mention disparaît au profit du captage du carbone (500 Mt de CO₂ par an en 2035).",
+      "<b>Le refus</b> : UE, Norvège, Panama, îles Marshall et Vanuatu rejettent un texte muet sur les fossiles.",
+      "<b>La fracture</b> : [[latent|latente]] depuis des années entre producteurs et Européens alliés aux îles ; Russie et groupe africain bloquent d’autres textes.",
+      "<b>La présidence</b> : Murat Kurum, [[peremptoire|péremptoire]], exclut tout nouveau texte ; l’accord de Paris reste en vigueur.",
+      "<b>Le contexte</b> : énergie chère, absence américaine, dépassement de 1,5 °C reconnu pour la première fois."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Qui émet le CO₂ fossile ?",
+      "sub": "Part des émissions mondiales en 2026 (projection), en %",
+      "rows": [
+       [
+        "Chine",
+        32
+       ],
+       [
+        "États-Unis",
+        13
+       ],
+       [
+        "Inde",
+        8
+       ],
+       [
+        "Union européenne",
+        6
+       ]
+      ],
+      "suffix": " %",
+      "note": "Source : Global Carbon Budget 2026, via Carbon Brief, 10 novembre 2026. Le reste du monde représente environ 38 %."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La suite</b> : émissions fossiles ≈ − 0,4 % en 2026 grâce au pétrole cher, mais la diplomatie recule ; COP32 à Addis-Abeba en 2027."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Durban : un logiciel de trop, et l’Afrique du Sud s’engorge",
+   "by": "Analyse",
+   "fig": "263 h",
+   "figl": "d’attente en rade à Durban",
+   "min": 3,
+   "exMin": 2,
+   "src": "Shipping & Freight Resource, « Transnet steps in to alleviate congestion at Durban Gateway Terminal » et « Trade Moves », 23 novembre 2026 (mesures du 18 novembre, mise à jour SAAFF/BUSA n° 308). Daily Maverick, 1er et 11 novembre 2026. IOL, 16 novembre 2026 (concession ICTSI, Metair). EWN, 16 novembre 2026. The National (Afrique du Sud), 21 et 23 novembre 2026 (plan d’équipement, médicaments, volumes du premier semestre). Maersk, avis client relayé par Tradlinx. Données arrêtées au 23 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le premier terminal à conteneurs d’Afrique du Sud est paralysé. À Durban Gateway Terminal, les navires attendent en moyenne 263 heures en rade, soit environ onze jours. Le 18 novembre, l’opérateur public Transnet a lancé un plan d’urgence : déroutement de navires vers Ngqura, à quelque 900 kilomètres, poste réservé aux navires équipés de leurs propres grues, trains pour évacuer les importations vers Johannesburg, priorité aux médicaments et aux pièces automobiles.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "263 h",
+       "attente moyenne en rade, soit ≈ 11 jours"
+      ],
+      [
+       "≈ 30 %",
+       "chute du débit après le changement de logiciel"
+      ],
+      [
+       "≈ 20 jours",
+       "de retard ajouté aux chaînes d’approvisionnement"
+      ],
+      [
+       "16",
+       "navires chargés de médicaments signalés"
+      ]
+     ]
+    },
+    {
+     "h": "Anatomie d’une bascule ratée"
+    },
+    {
+     "p": "Depuis janvier 2026, le terminal est exploité par Transnet (51 %) et le philippin ICTSI (49 %), dans le cadre d’une concession de 25 ans. Le 15 août, il a basculé sur un nouveau logiciel de gestion de parc, Navis N4. Le changement a révélé des fragilités [[latent|latentes]] : chariots cavaliers usés, alimentation électrique instable, manque de remorqueurs et de pilotes. Le débit a chuté d’environ 30 %. Selon l’association des transitaires SAAFF, le terminal traite environ 3 400 mouvements par jour quand il en arrive 3 250 : il suffit à peine au flux courant, alors qu’il en faudrait 5 000 pour résorber le stock en un mois."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Durban : l’attente s’allonge",
+      "sub": "Attente moyenne des porte-conteneurs en rade, en jours",
+      "rows": [
+       [
+        "Début octobre",
+        8.3
+       ],
+       [
+        "Semaine au 2 novembre",
+        7.5
+       ],
+       [
+        "Semaine précédente",
+        7.9
+       ],
+       [
+        "Semaine au 20 novembre",
+        11
+       ]
+      ],
+      "suffix": " j",
+      "note": "Valeurs indicatives issues de sources aux méthodes différentes. Sources : IOL (16 novembre), Kuehne+Nagel via Tradlinx, SAAFF/BUSA via Shipping & Freight Resource (20 novembre)."
+     }
+    },
+    {
+     "h": "Des usines aux hôpitaux"
+    },
+    {
+     "p": "Le retard ajouté atteint une vingtaine de jours. Des hôpitaux signalent des ruptures : le ministère de la Santé a recensé 16 navires chargés de médicaments, dont 6 seulement étaient déchargés le 21 novembre. L’équipementier Metair estime le coût de la congestion entre 20 et 25 % de son excédent brut d’exploitation de l’an dernier. Maersk accorde un jour de franchise supplémentaire à ses clients jusqu’au 31 décembre. Transnet rejette de façon [[peremptoire|péremptoire]] l’idée d’un terminal déjà cassé avant l’arrivée d’ICTSI. Le plan d’équipement publié le 21 novembre prévoit 26 chariots d’occasion d’ici fin mars 2027, puis du matériel neuf jusqu’en 2028."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Durban illustre deux leçons. Un changement de système d’information ne doit jamais coïncider avec un parc d’engins fatigué : le logiciel révèle les faiblesses au lieu de les compenser. Et quand un seul terminal concentre près de la moitié des conteneurs d’un pays, sa panne devient une crise nationale. Le débit hebdomadaire a rebondi de 28 % la semaine dernière, mais le retour à la normale est attendu au mieux au premier trimestre 2027."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : 263 heures d’attente en rade, ≈ 11 jours, au premier terminal à conteneurs sud-africain.",
+      "<b>La riposte</b> : plan d’urgence de Transnet le 18 novembre : déroutements vers Ngqura, trains vers Johannesburg, priorité aux médicaments."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "263 h",
+       "attente moyenne en rade, soit ≈ 11 jours"
+      ],
+      [
+       "≈ 30 %",
+       "chute du débit après le changement de logiciel"
+      ],
+      [
+       "≈ 20 jours",
+       "de retard ajouté aux chaînes d’approvisionnement"
+      ],
+      [
+       "16",
+       "navires chargés de médicaments signalés"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>La cause</b> : bascule le 15 août sur le logiciel Navis N4 ; elle révèle des fragilités [[latent|latentes]] : engins usés, électricité instable, remorqueurs rares ; débit − 30 %.",
+      "<b>L’équation</b> : ≈ 3 400 mouvements par jour pour 3 250 arrivées ; il en faudrait 5 000 pour vider le stock en un mois.",
+      "<b>Les dégâts</b> : ≈ 20 jours de retard ; 16 navires de médicaments, 6 déchargés ; Metair chiffre le coût à 20-25 % de son excédent brut.",
+      "<b>La polémique</b> : Transnet nie, [[peremptoire|péremptoire]], un terminal cassé avant ICTSI (49 % depuis janvier) ; 26 engins d’occasion attendus d’ici mars 2027."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Durban : l’attente s’allonge",
+      "sub": "Attente moyenne des porte-conteneurs en rade, en jours",
+      "rows": [
+       [
+        "Début octobre",
+        8.3
+       ],
+       [
+        "Semaine au 2 novembre",
+        7.5
+       ],
+       [
+        "Semaine précédente",
+        7.9
+       ],
+       [
+        "Semaine au 20 novembre",
+        11
+       ]
+      ],
+      "suffix": " j",
+      "note": "Valeurs indicatives issues de sources aux méthodes différentes. Sources : IOL (16 novembre), Kuehne+Nagel via Tradlinx, SAAFF/BUSA via Shipping & Freight Resource (20 novembre)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : ne jamais changer de logiciel sur un parc fatigué ; un terminal qui pèse la moitié d’un pays devient un risque national ; débit + 28 % la semaine dernière, normalisation au mieux début 2027."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Siemens : le train et le data center font le record",
+   "by": "Analyse",
+   "fig": "143 Md€",
+   "figl": "carnet de commandes record",
+   "min": 3,
+   "exMin": 2,
+   "src": "Siemens AG, communiqué de résultats du 4e trimestre et de l’exercice 2026 (clos le 30 septembre 2026), 12 novembre 2026, et communiqué « Outstanding fiscal 2026 performance – Industrial AI to drive future growth ». Computer&AUTOMATION, 12 novembre 2026 (chiffres de l’exercice précédent). Railway Journal, 12 novembre 2026 (Siemens Mobility, chiffres préliminaires). Réaction boursière : stock3, 12 novembre 2026 (séance en cours). Données arrêtées au 12 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Siemens a clos son exercice 2026 sur une série de records : commandes, profit industriel et trésorerie. Au seul quatrième trimestre, de juillet à septembre, les prises de commandes ont bondi de 58 %, à 34,8 milliards d’euros. Deux moteurs expliquent ce sursaut : les trains commandés par l’Allemagne et les équipements électriques des centres de données américains.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "108,2 Md€",
+       "commandes de l’exercice, + 22 %"
+      ],
+      [
+       "83,4 Md€",
+       "chiffre d’affaires, + 8 % à périmètre comparable"
+      ],
+      [
+       "16,3 %",
+       "marge des activités industrielles"
+      ],
+      [
+       "143 Md€",
+       "carnet de commandes record"
+      ]
+     ]
+    },
+    {
+     "h": "Deux moteurs inattendus"
+    },
+    {
+     "p": "La division Mobility a enregistré 26,6 milliards d’euros de commandes sur l’année, en hausse de 56 %, grâce à des trains à grande vitesse et des rames de RER allemands ; son carnet atteint 65 milliards, dont 22 milliards de maintenance. Smart Infrastructure, qui fournit tableaux électriques et systèmes de gestion de l’énergie, profite de l’essor des data centers : ce marché pèse déjà 7 milliards dans le carnet du groupe. Sur l’année, le chiffre d’affaires progresse de 8 % à périmètre comparable, le profit industriel de 13 %, à 13,3 milliards, et le cash-flow libre atteint un record de 12,1 milliards. Le dividende passe à 5,50 euros."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Siemens : une année record",
+      "sub": "Exercices clos fin septembre, en milliards d’euros",
+      "labels": [
+       "Chiffre d’affaires",
+       "Profit industriel",
+       "Cash-flow libre"
+      ],
+      "series": [
+       {
+        "name": "2025",
+        "values": [
+         78.9,
+         11.8,
+         10.8
+        ]
+       },
+       {
+        "name": "2026",
+        "values": [
+         83.4,
+         13.3,
+         12.1
+        ]
+       }
+      ],
+      "note": "Source : Siemens, résultats de l’exercice 2026, 12 novembre 2026 ; Computer&AUTOMATION."
+     }
+    },
+    {
+     "h": "Le pari de l’IA industrielle"
+    },
+    {
+     "p": "Le directeur général, Roland Busch, veut faire du conglomérat munichois un champion de l’« IA industrielle » : logiciels de conception, jumeaux numériques des usines, automatisation pilotée par les données. Les activités numériques ont déjà réalisé 10,9 milliards de chiffre d’affaires, en hausse de 16 %. La directrice financière, Veronika Bienert, peut s’appuyer sur un bénéfice par action avant amortissements d’acquisitions de 11,76 euros, au-dessus de la fourchette relevée en cours d’année. Le groupe s’allège en parallèle : il va distribuer à ses actionnaires une part de 34,1 % de Siemens Healthineers, qui sortira de ses comptes. Siemens relève ses objectifs à moyen terme, avec une croissance comparable de 7 à 11 % par an. L’action a gagné près de 5 % en séance le jour des résultats."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Siemens montre qu’un industriel européen peut capter la vague de l’IA par l’infrastructure plutôt que par les puces. Le risque, [[latent|latent]], tient à cette dépendance : si l’investissement dans les data centers ralentit, comme le redoute la Bourse américaine, le carnet record pourrait se convertir moins vite. Aucune prévision n’est [[peremptoire|péremptoire]] dans un cycle aussi rapide. La marge de Mobility, à 8,5 %, reste aussi bien inférieure à celle du reste du groupe."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : exercice 2026 record ; commandes du 4e trimestre + 58 %, à 34,8 milliards d’euros.",
+      "<b>Les moteurs</b> : les trains allemands et l’électricité des data centers américains."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "108,2 Md€",
+       "commandes de l’exercice, + 22 %"
+      ],
+      [
+       "83,4 Md€",
+       "chiffre d’affaires, + 8 % à périmètre comparable"
+      ],
+      [
+       "16,3 %",
+       "marge des activités industrielles"
+      ],
+      [
+       "143 Md€",
+       "carnet de commandes record"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Mobility</b> : 26,6 milliards de commandes (+ 56 %), carnet de 65 milliards dont 22 de maintenance.",
+      "<b>Data centers</b> : 7 milliards dans le carnet du groupe, portés par Smart Infrastructure.",
+      "<b>Les comptes</b> : profit industriel 13,3 milliards (+ 13 %), cash-flow libre record de 12,1 milliards, dividende 5,50 euros.",
+      "<b>La stratégie</b> : Roland Busch mise sur l’« IA industrielle » ; numérique 10,9 milliards (+ 16 %) ; 34,1 % de Healthineers distribués aux actionnaires.",
+      "<b>Les objectifs</b> : croissance comparable de 7 à 11 % par an à moyen terme ; action près de + 5 % en séance le jour des résultats."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Siemens : une année record",
+      "sub": "Exercices clos fin septembre, en milliards d’euros",
+      "labels": [
+       "Chiffre d’affaires",
+       "Profit industriel",
+       "Cash-flow libre"
+      ],
+      "series": [
+       {
+        "name": "2025",
+        "values": [
+         78.9,
+         11.8,
+         10.8
+        ]
+       },
+       {
+        "name": "2026",
+        "values": [
+         83.4,
+         13.3,
+         12.1
+        ]
+       }
+      ],
+      "note": "Source : Siemens, résultats de l’exercice 2026, 12 novembre 2026 ; Computer&AUTOMATION."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : capter l’IA par l’infrastructure ; risque [[latent|latent]] si les data centers ralentissent ; aucune prévision n’est [[peremptoire|péremptoire]] dans un cycle aussi rapide."
+     ]
+    }
+   ]
+  }
+ ]
+}

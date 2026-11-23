@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-20",
+ "latest": "2026-11-23",
  "editions": [
+  {
+   "date": "2026-11-23",
+   "label": "Lundi 23 novembre",
+   "words": [
+    "Latent",
+    "Péremptoire"
+   ],
+   "items": [
+    [
+     "lit",
+     "Le Grand Meaulnes"
+    ],
+    [
+     "essai",
+     "L’Ordre du monde"
+    ],
+    [
+     "eco",
+     "Wall Street : l’IA fait plonger la Bourse malgré de bons chiffres"
+    ],
+    [
+     "geo",
+     "COP31 : Antalya se sépare sans accord"
+    ],
+    [
+     "log",
+     "Durban : un logiciel de trop, et l’Afrique du Sud s’engorge"
+    ],
+    [
+     "ent",
+     "Siemens : le train et le data center font le record"
+    ]
+   ]
+  },
   {
    "date": "2026-11-20",
    "label": "Vendredi 20 novembre",
@@ -1057,6 +1091,16 @@
   }
  ],
  "review": [
+  {
+   "w": "Endiguer",
+   "short": "Contenir un phénomène pour l’empêcher de s’étendre",
+   "week": "sem. du 16 nov."
+  },
+  {
+   "w": "Tergiverser",
+   "short": "Hésiter, chercher des détours pour retarder une décision",
+   "week": "sem. du 16 nov."
+  },
   {
    "w": "Idoine",
    "short": "Qui convient exactement à l’usage ou à la situation",
