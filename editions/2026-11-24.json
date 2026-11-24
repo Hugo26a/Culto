@@ -1,0 +1,1057 @@
+{
+ "date": "2026-11-24",
+ "label": "Mardi 24 novembre 2026",
+ "n": 32,
+ "example": false,
+ "week": {
+  "start": "2026-11-23",
+  "label": "Semaine du 23 novembre",
+  "day": 2,
+  "words": [
+   {
+    "key": "latent",
+    "w": "Latent",
+    "ph": "[la.tɑ̃] · adjectif",
+    "short": "Qui existe déjà sans encore se manifester ouvertement.",
+    "def": "Se dit de ce qui est présent mais caché, en attente de se révéler : un conflit latent, un risque latent, une demande latente. Le mot décrit une réalité qui couve et peut éclater à la moindre occasion. Il est précieux dans le travail, pour désigner un problème que tout le monde pressent sans que personne l’ait encore nommé, ou un besoin que les clients n’expriment pas encore. Son contraire est « manifeste » ou « déclaré ».",
+    "ety": "Du latin latens, participe présent de latere, « être caché ». La même racine a donné « latence », le temps qui sépare une cause de son effet, très employé en médecine comme en informatique.",
+    "ex": "Le conflit entre les équipes était latent depuis la réorganisation : le retard du chantier l’a simplement fait éclater.",
+    "syn": "sous-jacent, larvé, dormant, caché, potentiel"
+   },
+   {
+    "key": "peremptoire",
+    "w": "Péremptoire",
+    "ph": "[pe.ʁɑ̃p.twaʁ] · adjectif",
+    "short": "Qui tranche d’autorité, sans admettre de réplique.",
+    "def": "Se dit d’un ton, d’un argument ou d’une personne qui coupe court à toute discussion. Un argument péremptoire est décisif, impossible à contester ; un ton péremptoire est cassant, parfois arrogant. Le mot sert donc à la fois à saluer une preuve imparable et à critiquer quelqu’un qui affirme sans laisser la place au doute. En réunion, il qualifie bien une affirmation trop sûre d’elle.",
+    "ety": "Du latin juridique peremptorius, « qui détruit, qui met fin », formé sur perimere, « anéantir ». En droit, une exception péremptoire est un moyen qui met fin au procès. Le sens s’est élargi à toute parole qui clôt le débat.",
+    "ex": "Le fournisseur a répondu de façon péremptoire que le délai était impossible, sans même regarder notre proposition.",
+    "syn": "catégorique, tranchant, impérieux, sans appel, cassant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "L’Étrange Cas du docteur Jekyll et de M. Hyde",
+   "by": "Robert Louis Stevenson · 1886",
+   "tagline": "Le monstre dans le miroir",
+   "min": 10,
+   "exMin": 4,
+   "src": "Robert Louis Stevenson, Strange Case of Dr Jekyll and Mr Hyde, Londres, Longmans, Green & Co., janvier 1886. Œuvre dans le domaine public (l’auteur est mort en 1894). Citation : chapitre final, « Henry Jekyll’s Full Statement of the Case », texte original anglais (Projet Gutenberg), traduction de Culto. Genèse du livre : témoignages de Fanny et de Lloyd Osbourne, rapportés dans les biographies de Stevenson. Adaptation : Rouben Mamoulian, Dr. Jekyll and Mr. Hyde (1931), Oscar du meilleur acteur pour Fredric March.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "À Londres, un notaire austère, Gabriel Utterson, s’inquiète des liens entre son ami le docteur Henry Jekyll, médecin respecté, et un individu repoussant et brutal, Edward Hyde. Après un meurtre, l’enquête révèle l’impensable : Hyde et Jekyll sont un seul homme. Le savant a inventé une potion qui libère la part mauvaise de lui-même, et cette part a fini par prendre le dessus."
+      ],
+      [
+       "La dualité de l’être humain",
+       "Stevenson ne raconte pas l’histoire d’un bon et d’un méchant, mais celle d’un homme qui veut séparer ce qui ne peut pas l’être. Jekyll n’est pas pur : il est un mélange. Hyde, lui, est le mal à l’état brut. Le livre montre qu’on ne se débarrasse pas de sa part d’ombre en lui donnant un autre nom."
+      ],
+      [
+       "Le prix de la respectabilité",
+       "Jekyll invente Hyde pour s’offrir des plaisirs sans abîmer sa réputation. La vraie faute, c’est l’hypocrisie d’une société victorienne qui exige une façade irréprochable et pousse à mener une double vie."
+      ],
+      [
+       "L’addiction avant l’heure",
+       "Jekyll se promet d’arrêter, rechute, augmente les doses, puis se transforme sans potion. Le récit décrit avec une précision troublante la mécanique de la dépendance."
+      ],
+      [
+       "Un roman construit comme une enquête",
+       "Le lecteur suit des témoins qui ne comprennent pas ce qu’ils voient. La révélation n’arrive qu’à la fin, dans deux documents écrits : la lettre du docteur Lanyon et la confession de Jekyll."
+      ],
+      [
+       "Pour en parler",
+       "Retenez la porte sans sonnette, le testament qui lègue tout à Hyde, le meurtre de Sir Danvers Carew, la dernière nuit où l’on enfonce la porte du cabinet, et l’expression « Jekyll et Hyde », devenue un nom commun pour désigner une personnalité double."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "La porte sans sonnette"
+    },
+    {
+     "p": "Londres, dans les années 1880. Gabriel Utterson est notaire : un homme froid, peu bavard, mais loyal envers ses amis. Chaque dimanche, il se promène avec son cousin Richard Enfield. Devant une porte délabrée, sans sonnette ni heurtoir, au fond d’une rue commerçante, Enfield raconte une scène qu’il a vue une nuit d’hiver : un petit homme a bousculé une fillette au coin d’une rue et lui a marché dessus, calmement, sans s’arrêter. Rattrapé par la foule, il a accepté de payer cent livres de dédommagement. Il est entré par cette porte et en est ressorti avec un chèque signé d’un nom très respectable. L’homme s’appelle Hyde. Tous ceux qui l’ont vu ressentent un dégoût qu’ils ne savent pas expliquer.",
+     "lead": 1
+    },
+    {
+     "p": "Utterson connaît ce nom. Il garde dans son coffre le testament de son ami le docteur Henry Jekyll, qui lègue tous ses biens à Edward Hyde en cas de décès ou de « disparition » de plus de trois mois. Le notaire soupçonne un chantage. Il interroge le docteur Lanyon, vieil ami de Jekyll, qui s’est brouillé avec lui : il juge ses recherches récentes absurdes et contraires à la science. Utterson guette alors la porte et finit par croiser Hyde. L’homme est petit, pâle, et donne une impression de difformité sans qu’on puisse dire laquelle. Quand le notaire en parle à Jekyll, celui-ci coupe court : il pourra se débarrasser de Hyde quand il le voudra."
+    },
+    {
+     "h5": "Le meurtre"
+    },
+    {
+     "p": "Près d’un an plus tard, une servante assiste depuis sa fenêtre à un crime d’une violence inouïe. Hyde frappe à coups de canne un vieil homme courtois, Sir Danvers Carew, député, et le piétine jusqu’à la mort. La canne se brise. Utterson reconnaît le morceau retrouvé : c’est une canne qu’il avait offerte à Jekyll. Il conduit la police au logement de Hyde, à Soho. L’homme a fui. On découvre un chéquier brûlé et l’autre moitié de la canne."
+    },
+    {
+     "p": "Jekyll, très pâle, montre au notaire une lettre de Hyde annonçant qu’il disparaît pour toujours. Mais le clerc d’Utterson, expert en écritures, remarque que l’écriture de Hyde ressemble à celle de Jekyll, simplement penchée dans l’autre sens. Le notaire en conclut, à tort, que son ami couvre un assassin."
+    },
+    {
+     "h5": "L’effondrement"
+    },
+    {
+     "p": "Pendant deux mois, Jekyll semble revivre : il reçoit, fait le bien, retrouve ses amis. Puis il s’enferme brusquement et refuse toute visite. Lanyon, bouleversé par une chose qu’il refuse de raconter, tombe malade et meurt en quelques semaines. Il laisse à Utterson une enveloppe à n’ouvrir qu’après la mort ou la disparition de Jekyll. Un dimanche, Utterson et Enfield aperçoivent Jekyll à sa fenêtre. Ils échangent quelques mots ; soudain, une expression de terreur traverse son visage et il referme la fenêtre."
+    },
+    {
+     "h5": "La dernière nuit"
+    },
+    {
+     "p": "Un soir, Poole, le majordome de Jekyll, vient chercher Utterson. Depuis une semaine, son maître ne sort plus de son cabinet. La voix qui en sort n’est plus la sienne. Des billets réclament sans cesse aux pharmaciens une substance que l’on dit « impure ». Poole a vu une silhouette se cacher le visage : trop petite pour être son maître. Les deux hommes enfoncent la porte à la hache. Ils trouvent Hyde mort, empoisonné, vêtu de vêtements bien trop grands pour lui. Jekyll a disparu. Sur le bureau, un nouveau testament fait d’Utterson l’héritier, et deux documents attendent d’être lus."
+    },
+    {
+     "h5": "Deux confessions"
+    },
+    {
+     "p": "La lettre de Lanyon révèle la scène qui l’a tué. À la demande de Jekyll, il avait récupéré un tiroir de flacons. À minuit, un petit homme est venu le chercher, a mélangé une poudre et un liquide, a bu, et s’est transformé sous ses yeux en Henry Jekyll."
+    },
+    {
+     "p": "Vient enfin la confession de Jekyll. Depuis sa jeunesse, il mène une vie de façade, honorable, et cache des penchants qu’il juge honteux. Il se convainc que l’être humain est composé de deux natures qui se combattent. Il met au point un breuvage qui les sépare. La première fois, il devient Hyde : plus petit, plus jeune, car cette part de lui a été moins nourrie. Il découvre une liberté grisante. Mais les plaisirs de Hyde deviennent monstrueux, et un matin Jekyll se réveille avec la main de Hyde. Il tente d’arrêter, rechute, et c’est lors de cette rechute que Hyde tue Carew. Bientôt, la métamorphose survient sans potion, en plein parc. Le stock de sel s’épuise ; les nouvelles livraisons ne marchent pas. Jekyll comprend que le premier lot contenait une impureté inconnue. Il écrit ses dernières lignes en sachant que Hyde va bientôt l’emporter pour de bon."
+    },
+    {
+     "quote": "« Man is not truly one, but truly two. » L’homme n’est pas vraiment un, mais vraiment deux.",
+     "cite": "Henry Jekyll, « Exposé complet du cas », texte original anglais (1886)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un cauchemar devenu best-seller"
+    },
+    {
+     "p": "Robert Louis Stevenson, né à Édimbourg en 1850, est déjà l’auteur célèbre de L’Île au trésor quand il écrit ce court roman à Bournemouth, en 1885. Selon le récit de sa femme Fanny, l’idée lui vient d’un cauchemar. Il aurait rédigé une première version en quelques jours, l’aurait brûlée après les critiques de Fanny, puis l’aurait réécrite tout aussi vite. Le livre paraît en janvier 1886 chez Longmans, Green & Co. Le succès est immédiat, au Royaume-Uni comme aux États-Unis. Stevenson meurt en 1894 aux Samoa, à 44 ans."
+    },
+    {
+     "h5": "L’art du point de vue"
+    },
+    {
+     "p": "Le génie du livre tient à sa construction. Le narrateur suit Utterson, un témoin rationnel qui cherche des explications ordinaires : chantage, dette, protection d’un criminel. Le lecteur partage son aveuglement. La vérité arrive par deux documents écrits, comme dans un dossier judiciaire. Stevenson ne décrit presque jamais Hyde en détail : il montre l’effet qu’il produit. Ce mal que chacun sent sans pouvoir le nommer fait plus peur qu’une description précise. Le refus [[peremptoire|péremptoire]] de Lanyon, savant enfermé dans ses certitudes, rend sa chute encore plus brutale."
+    },
+    {
+     "h5": "Londres, ville double"
+    },
+    {
+     "p": "Le décor répète le thème. La maison de Jekyll a deux façades : une entrée élégante sur une place, et derrière, la porte sale du laboratoire par laquelle passe Hyde. Le brouillard brouille les repères, les beaux quartiers voisinent avec les ruelles. C’est le Londres victorien, capitale de la respectabilité et de ses envers cachés."
+    },
+    {
+     "h5": "Un mal qui n’était pas extérieur"
+    },
+    {
+     "p": "On lit souvent le roman comme l’histoire d’un homme possédé par un monstre. Le texte dit autre chose : Hyde n’est pas venu d’ailleurs. Il était [[latent|latent]] en Jekyll depuis toujours, et la potion n’a fait que lui ouvrir la porte. Jekyll lui-même refuse de se sentir responsable des actes de Hyde, et c’est là sa vraie faute morale. Le livre a nourri la psychologie naissante, la réflexion sur les addictions, et une longue lignée de récits de doubles."
+    },
+    {
+     "h5": "Une postérité immense"
+    },
+    {
+     "p": "L’expression « Jekyll et Hyde » est passée dans la langue courante. Les adaptations se comptent par dizaines. Au cinéma, celle de Rouben Mamoulian, en 1931, a valu à Fredric March l’Oscar du meilleur acteur. Le thème du savant qui libère ce qu’il ne maîtrise plus reste l’un des grands mythes modernes, aux côtés de Frankenstein."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’il se lit en deux heures et tient en haleine comme un polar. Parce qu’il parle de la double vie que nos sociétés rendent si facile, entre image publique et pulsions privées. Et parce qu’il rappelle une vérité simple : on ne contrôle pas un penchant en se promettant d’arrêter demain. La dernière confession de Jekyll est celle d’un homme intelligent qui a cru pouvoir tricher avec lui-même."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "À Londres, le notaire Utterson enquête sur les liens entre son ami le docteur Jekyll, médecin respecté, et Edward Hyde, un homme brutal et repoussant. Après un meurtre, la vérité éclate : ils ne font qu’un. Jekyll a inventé une potion qui libère sa part mauvaise, et elle a pris le dessus. Court roman de Stevenson, paru en 1886."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La dualité</b> : Jekyll veut séparer le bien et le mal en lui ; il découvre qu’on ne se débarrasse pas de sa part d’ombre en lui donnant un autre nom.",
+      "<b>L’hypocrisie</b> : Hyde naît du besoin de garder une façade irréprochable dans la société victorienne.",
+      "<b>L’addiction</b> : promesses d’arrêter, rechutes, doses croissantes, puis transformations sans potion.",
+      "<b>Une enquête</b> : le lecteur suit des témoins aveugles ; la vérité arrive dans deux documents écrits.",
+      "<b>Pour en parler</b> : la porte sans sonnette, le testament, le meurtre de Carew, la dernière nuit ; « Jekyll et Hyde » est devenu un nom commun."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>La porte</b> : Enfield raconte à Utterson qu’un petit homme, Hyde, a piétiné une fillette puis payé cent livres avec un chèque signé d’un nom respectable.",
+      "<b>Le testament</b> : Jekyll lègue tout à Hyde en cas de mort ou de disparition ; Utterson croit à un chantage.",
+      "<b>Le meurtre</b> : Hyde tue à coups de canne le député Sir Danvers Carew, puis disparaît ; son écriture ressemble à celle de Jekyll.",
+      "<b>L’effondrement</b> : Jekyll s’enferme ; Lanyon meurt d’un choc qu’il refuse d’expliquer.",
+      "<b>La dernière nuit</b> : Poole et Utterson enfoncent la porte du cabinet ; Hyde est mort, empoisonné, dans des habits trop grands ; Jekyll a disparu.",
+      "<b>Les confessions</b> : Lanyon a vu Hyde redevenir Jekyll ; Jekyll raconte la potion, la liberté grisante, la perte de contrôle et le sel impur qu’il ne peut plus retrouver."
+     ]
+    },
+    {
+     "quote": "« Man is not truly one, but truly two. » L’homme n’est pas vraiment un, mais vraiment deux.",
+     "cite": "Henry Jekyll, « Exposé complet du cas », texte original anglais (1886)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Stevenson (1850-1894), déjà célèbre pour L’Île au trésor ; roman écrit en 1885 à Bournemouth, né selon sa femme d’un cauchemar ; succès immédiat.",
+      "<b>La forme</b> : un témoin rationnel, un dossier de documents ; Hyde n’est jamais décrit, seulement ressenti ; le refus [[peremptoire|péremptoire]] de Lanyon précède sa chute.",
+      "<b>Le décor</b> : une maison à deux façades, un Londres de brouillard, respectable devant et sordide derrière.",
+      "<b>Le sens</b> : Hyde n’est pas un intrus ; il était [[latent|latent]] en Jekyll, et la potion lui a ouvert la porte.",
+      "<b>La postérité</b> : des dizaines d’adaptations, dont le film de Mamoulian (1931), Oscar pour Fredric March.",
+      "<b>Pourquoi le lire</b> : il se lit en deux heures ; il parle de la double vie entre image publique et pulsions privées, et du piège de la promesse d’arrêter demain."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "De zéro à un",
+   "by": "Peter Thiel avec Blake Masters · 2014",
+   "min": 9,
+   "exMin": 3,
+   "src": "Peter Thiel avec Blake Masters, Zero to One: Notes on Startups, or How to Build the Future, New York, Crown Business, 16 septembre 2014, 224 pages ; édition française : De zéro à un, JC Lattès, février 2016, trad. Johan-Frédérik Hel Guedj. Origine : cours CS183 « Startup », université Stanford, printemps 2012 (TechCrunch, 16 septembre 2014). Chiffres Google et compagnies aériennes : chapitre 3 du livre. Biographie (PayPal, Facebook, Palantir, Founders Fund) : Wikipedia, « Peter Thiel ». Tribune « Competition Is for Losers », The Wall Street Journal, 12 septembre 2014. Critiques : Jon Gertner, MIT Technology Review, 8 octobre 2014 ; Timothy B. Lee, Vox, novembre 2014 ; Derek Thompson, The Atlantic, 2014.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Cofondateur de PayPal et premier investisseur extérieur de Facebook, Peter Thiel explique comment créer une entreprise qui invente vraiment quelque chose. Sa thèse : le progrès vient de ceux qui passent de zéro à un, en créant ce qui n’existait pas, et non de ceux qui copient. Et une entreprise qui réussit cherche à échapper à la concurrence, pas à la gagner."
+      ],
+      [
+       "La question à poser en entretien",
+       "« Quelle vérité importante très peu de gens partagent-ils avec vous ? » Thiel en fait le point de départ de toute innovation : trouver ce que la majorité croit et qui est faux."
+      ],
+      [
+       "La concurrence est pour les perdants",
+       "En 2012, les compagnies aériennes américaines réalisaient 160 milliards de dollars de revenus mais ne gagnaient que 37 cents par passager, sur un billet moyen de 178 dollars. Google, avec 50 milliards de revenus, en gardait 21 % en profit. La différence s’appelle le monopole."
+      ],
+      [
+       "Commencer petit, dominer, puis grandir",
+       "Amazon a d’abord dominé la vente de livres en ligne, PayPal quelques milliers de gros vendeurs sur eBay. Un monopole se construit sur un marché minuscule avant de s’étendre."
+      ],
+      [
+       "La loi de puissance",
+       "Dans un fonds de capital-risque, le meilleur investissement rapporte souvent autant que tous les autres réunis. Pour le fonds de 2005 de Founders Fund, Facebook a rapporté plus que tout le reste du portefeuille."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un cours devenu manifeste"
+    },
+    {
+     "p": "Au printemps 2012, Peter Thiel donne à Stanford un cours intitulé « Startup ». Un étudiant en droit, Blake Masters, prend des notes détaillées et les publie en ligne : elles circulent massivement dans la Silicon Valley. Deux ans plus tard, les deux hommes en tirent un livre court, paru le 16 septembre 2014. Thiel a alors une réputation unique. Il a cofondé PayPal, vendu à eBay pour 1,5 milliard de dollars en 2002. Il a misé 500 000 dollars sur Facebook en 2004 pour 10,2 % du capital. Il a créé Palantir en 2003 et le fonds Founders Fund en 2005. Le livre devient numéro un des ventes du New York Times. En France, il paraît en 2016 chez JC Lattès.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "178 $",
+       "prix moyen d’un billet d’avion aller simple aux États-Unis en 2012"
+      ],
+      [
+       "0,37 $",
+       "profit des compagnies aériennes par passager transporté"
+      ],
+      [
+       "21 %",
+       "part des revenus de Google conservée en profit en 2012"
+      ],
+      [
+       "500 000 $",
+       "mise de Thiel dans Facebook en 2004, pour 10,2 %"
+      ]
+     ]
+    },
+    {
+     "h5": "Le progrès vertical"
+    },
+    {
+     "p": "Thiel distingue deux formes de progrès. Le progrès horizontal consiste à copier ce qui marche et à le diffuser : passer de un à n. C’est la mondialisation. Le progrès vertical consiste à faire quelque chose de nouveau : passer de zéro à un. C’est la technologie. Pour lui, le monde ne peut pas se contenter du premier. Si la Chine doublait sa production d’énergie avec les méthodes d’hier, le résultat serait une catastrophe écologique. Seule l’invention permet de croître sans épuiser la planète. Or il juge que l’Occident a cessé d’inventer en dehors de l’informatique depuis les années 1970."
+    },
+    {
+     "h5": "L’éloge du monopole"
+    },
+    {
+     "p": "C’est la partie la plus provocante. Les économistes célèbrent la concurrence parfaite ; Thiel y voit un piège où les profits sont rognés jusqu’à zéro. Une entreprise en monopole, au contraire, peut planifier à long terme, payer ses ingénieurs et financer la recherche. Il note que chacun ment sur sa situation : les monopoles se décrivent comme de petits acteurs d’un immense marché, pour éviter les régulateurs ; les entreprises en concurrence se décrivent comme seules sur une niche, pour séduire les investisseurs."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Créer de la valeur ne suffit pas : il faut la capter",
+      "sub": "Revenus 2012, en milliards de dollars",
+      "rows": [
+       [
+        "Compagnies aériennes américaines",
+        160
+       ],
+       [
+        "Google",
+        50
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md$",
+      "note": "Source : Peter Thiel, De zéro à un (2014), chapitre 3. Google gardait 21 % de ses revenus en profit, plus de 100 fois la marge du transport aérien la même année."
+     }
+    },
+    {
+     "p": "D’où viennent les monopoles durables ? Thiel cite quatre sources : une technologie propriétaire au moins dix fois meilleure que la suivante, les effets de réseau, les économies d’échelle et la marque. Il conseille de viser un petit marché que l’on peut dominer, puis d’élargir en cercles concentriques. Et de se méfier du mot « disruption » : mieux vaut créer un marché nouveau que d’attaquer de front les géants. Ce qui compte, c’est d’être le dernier à arriver sur un marché et à y rester, pas le premier."
+    },
+    {
+     "h5": "Des secrets à découvrir"
+    },
+    {
+     "p": "Thiel affirme qu’il reste des secrets, des vérités importantes que personne n’a encore vues. Beaucoup étaient [[latent|latents]] et paraissent évidents après coup : louer sa chambre à des inconnus, transformer un téléphone en taxi. Il distingue aussi quatre attitudes face à l’avenir. L’optimisme défini prépare un plan précis pour un futur meilleur ; c’était l’Amérique des grands projets. L’optimisme indéfini espère que tout ira mieux sans savoir comment, et préfère la finance à l’ingénierie. Pour Thiel, les États-Unis vivent dans ce second état d’esprit depuis le début des années 1980."
+    },
+    {
+     "h5": "Les fondations et les sept questions"
+    },
+    {
+     "p": "La « loi de Thiel » énonce qu’une start-up mal fondée ne peut pas être réparée. Le choix des associés, la répartition du capital et la culture comptent plus que tout. Il recommande des salaires modestes pour les dirigeants et des actions pour tous. Il insiste aussi sur la vente : un excellent produit sans distribution échoue. Enfin, il propose sept questions à se poser avant de lancer une entreprise : la technologie, le moment, le monopole, l’équipe, la distribution, la durabilité et le secret. Il les applique à la bulle des technologies vertes des années 2000, où de nombreuses entreprises solaires ont échoué faute de répondre à la plupart d’entre elles."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre a été salué comme l’un des meilleurs ouvrages de management de sa génération, notamment par Derek Thompson dans The Atlantic. Il a aussi été vivement critiqué. Dans la MIT Technology Review, Jon Gertner reproche à Thiel d’ignorer la recherche fondamentale financée par l’argent public, et juge sa défense des monopoles peu convaincante. Timothy B. Lee, dans Vox, estime que les conseils sont moins originaux qu’ils n’en ont l’air. Le ton [[peremptoire|péremptoire]] de l’auteur, qui assène plus qu’il ne démontre, agace certains lecteurs. Enfin, le culte du fondateur visionnaire fait débat, tout comme l’éloge de monopoles devenus, dix ans plus tard, la cible des autorités de la concurrence."
+    },
+    {
+     "h5": "Ce qu’il en reste"
+    },
+    {
+     "p": "Plus de dix ans après, la question contrarienne est devenue un classique des entretiens d’embauche. L’idée que la concurrence détruit la valeur est entrée dans le vocabulaire des investisseurs. Pour un lecteur qui travaille dans l’industrie ou la logistique, le livre offre une grille simple : un avantage concurrentiel n’est durable que s’il est difficile à copier. Le reste se joue sur les prix, et donc sur les marges. La vraie question à poser à un projet n’est pas « est-ce mieux que l’existant ? », mais « qu’est-ce qui empêchera les autres de le copier demain ? »."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Peter Thiel, cofondateur de PayPal et premier investisseur extérieur de Facebook, explique comment créer une entreprise qui invente vraiment. Le progrès vient de ceux qui créent ce qui n’existait pas. Une entreprise qui réussit cherche à échapper à la concurrence, pas à la gagner. Paru en 2014, tiré d’un cours donné à Stanford en 2012."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : cofondateur de PayPal (vendu 1,5 Md$ à eBay en 2002), de Palantir (2003) et de Founders Fund (2005) ; 500 000 $ misés sur Facebook en 2004 ; livre tiré des notes de son étudiant Blake Masters, numéro un des ventes du New York Times.",
+      "<b>Zéro à un</b> : copier, c’est passer de un à n (la mondialisation) ; inventer, c’est passer de zéro à un (la technologie).",
+      "<b>La question</b> : « Quelle vérité importante très peu de gens partagent-ils avec vous ? »",
+      "<b>Le monopole</b> : en 2012, les compagnies aériennes gagnaient 37 cents par passager ; Google gardait 21 % de ses revenus.",
+      "<b>Ses sources</b> : technologie dix fois meilleure, effets de réseau, économies d’échelle, marque ; commencer petit, comme Amazon avec les livres.",
+      "<b>La loi de puissance</b> : le meilleur investissement d’un fonds rapporte autant que tous les autres ; Facebook dans le fonds 2005 de Founders Fund.",
+      "<b>Les secrets</b> : des vérités [[latent|latentes]] qui paraissent évidentes après coup ; l’Amérique serait passée d’un optimisme défini à un optimisme indéfini.",
+      "<b>Les fondations</b> : une start-up mal fondée ne se répare pas ; sept questions à se poser avant de se lancer.",
+      "<b>Les mensonges</b> : les monopoles se disent petits dans un immense marché ; les entreprises en concurrence se disent seules sur une niche.",
+      "<b>La vente</b> : un excellent produit sans distribution échoue ; la bulle des technologies vertes l’a montré.",
+      "<b>Les critiques</b> : recherche publique oubliée, défense des monopoles contestée, ton [[peremptoire|péremptoire]], culte du fondateur."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "178 $",
+       "prix moyen d’un billet d’avion aller simple aux États-Unis en 2012"
+      ],
+      [
+       "0,37 $",
+       "profit des compagnies aériennes par passager transporté"
+      ],
+      [
+       "21 %",
+       "part des revenus de Google conservée en profit en 2012"
+      ],
+      [
+       "500 000 $",
+       "mise de Thiel dans Facebook en 2004, pour 10,2 %"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Créer de la valeur ne suffit pas : il faut la capter",
+      "sub": "Revenus 2012, en milliards de dollars",
+      "rows": [
+       [
+        "Compagnies aériennes américaines",
+        160
+       ],
+       [
+        "Google",
+        50
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md$",
+      "note": "Source : Peter Thiel, De zéro à un (2014), chapitre 3. Google gardait 21 % de ses revenus en profit, plus de 100 fois la marge du transport aérien la même année."
+     }
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "UE–Indonésie : dix ans pour un accord, 50 % de droits en moins sur les voitures",
+   "by": "Analyse",
+   "fig": "600 M€",
+   "figl": "de droits économisés chaque année",
+   "min": 3,
+   "exMin": 2,
+   "src": "Conseil de l’UE, communiqué du 18 novembre 2026 sur l’autorisation de signature (chiffres du commerce 2025 et des investissements 2024). AFP, 21 novembre 2026, via The Star (signature, projections de PIB, calendrier). Reuters, 19 novembre 2026, via The Star. Commission européenne, « Key elements of the EU-Indonesia trade agreement » et fiche « Main benefits », 23 septembre 2025 (droits, lignes tarifaires, économies de 600 M€, population). Service européen pour l’action extérieure, 23 septembre 2025 (historique). Fern, 15 octobre 2025 ; Al Jazeera, 19 novembre 2026 (huile de palme, déforestation). Données arrêtées au 21 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 21 novembre, à Bruxelles, l’Union européenne et l’Indonésie ont signé leur accord de partenariat économique global, en présence du commissaire au Commerce Maroš Šefčovič. Les négociations avaient commencé en juillet 2016. Trois jours plus tôt, les Vingt-Sept avaient autorisé la signature et l’application provisoire. Bruxelles veut que l’accord s’applique dès le début de 2027 : le 1er janvier, l’Indonésie perd ses préférences tarifaires unilatérales, car elle est devenue un pays à revenu intermédiaire supérieur.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "28,9 Md€",
+       "échanges de biens UE–Indonésie en 2025"
+      ],
+      [
+       "98,5 %",
+       "lignes tarifaires indonésiennes libéralisées à terme"
+      ],
+      [
+       "600 M€",
+       "droits de douane économisés chaque année par les exportateurs européens"
+      ],
+      [
+       "283 M",
+       "habitants en Indonésie, 4e pays le plus peuplé"
+      ]
+     ]
+    },
+    {
+     "h": "Ce que gagne l’Europe"
+    },
+    {
+     "p": "L’Indonésie est un marché fermé. Ses droits de douane sur les produits européens atteignent 10 % en moyenne et jusqu’à 150 % sur certains produits. L’accord supprime 80 % des lignes tarifaires dès l’entrée en vigueur et 98,5 % à terme. Le droit de 50 % sur les voitures disparaîtra en cinq ans. Machines, chimie, médicaments et produits laitiers seront aussi libérés. La Commission chiffre à 600 millions d’euros par an les droits économisés. Elle projette des exportations européennes en hausse de près de 40 % en quinze ans. Le texte prévoit aussi un accès aux matières premières critiques, nickel et cobalt en tête, avec l’interdiction des monopoles d’exportation et de la double tarification."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les droits que l’Indonésie va supprimer",
+      "sub": "Droit de douane maximal actuel sur les produits européens, en %",
+      "rows": [
+       [
+        "Voitures",
+        50
+       ],
+       [
+        "Chimie",
+        25
+       ],
+       [
+        "Machines",
+        15
+       ],
+       [
+        "Pharmacie",
+        15
+       ],
+       [
+        "Produits laitiers",
+        10
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Source : Commission européenne, fiche « EU-Indonesia CEPA : main benefits », 23 septembre 2025."
+     }
+    },
+    {
+     "h": "Ce que gagne Jakarta"
+    },
+    {
+     "p": "Le déséquilibre actuel est net. En 2025, l’UE a exporté 10,2 milliards d’euros de biens vers l’Indonésie et en a importé 18,7 milliards. Jakarta obtient la suppression des droits sur environ 90 % de ses exportations : textile, chaussures, café, produits de la pêche, et l’huile de palme, dans le cadre de contingents. Selon l’UE, le PIB indonésien serait supérieur de 27 milliards d’euros en 2042, contre 16 milliards pour l’UE. Le riz, le sucre et l’éthanol restent exclus pour protéger les agriculteurs européens."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "L’huile de palme et la déforestation ont été les principaux points de blocage, et les ONG jugent les garanties environnementales insuffisantes. Mais l’époque a changé : face aux droits de douane américains, l’Europe signe à tour de bras. Le Parlement européen doit encore approuver le texte ; aucun avis [[peremptoire|péremptoire]] n’est attendu, mais le débat sur l’huile de palme y sera vif. Pour un acheteur européen, l’Indonésie devient une alternative sérieuse à la Chine pour le textile, le nickel et l’électronique d’entrée de gamme."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : accord UE–Indonésie signé le 21 novembre à Bruxelles, après des négociations ouvertes en juillet 2016.",
+      "<b>L’urgence</b> : l’Indonésie perd ses préférences tarifaires le 1er janvier 2027 ; l’UE vise une application début 2027."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "28,9 Md€",
+       "échanges de biens UE–Indonésie en 2025"
+      ],
+      [
+       "98,5 %",
+       "lignes tarifaires indonésiennes libéralisées à terme"
+      ],
+      [
+       "600 M€",
+       "droits de douane économisés chaque année par les exportateurs européens"
+      ],
+      [
+       "283 M",
+       "habitants en Indonésie, 4e pays le plus peuplé"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Pour l’Europe</b> : 80 % des lignes libérées dès le départ, 98,5 % à terme ; droit de 50 % sur les voitures supprimé en cinq ans ; accès au nickel et au cobalt.",
+      "<b>Pour Jakarta</b> : environ 90 % de ses exportations sans droits ; textile, chaussures, café, huile de palme sous contingents.",
+      "<b>Le commerce</b> : en 2025, 10,2 Md€ d’exportations européennes contre 18,7 Md€ d’importations.",
+      "<b>Les projections</b> : PIB 2042 supérieur de 27 Md€ en Indonésie, de 16 Md€ dans l’UE."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les droits que l’Indonésie va supprimer",
+      "sub": "Droit de douane maximal actuel sur les produits européens, en %",
+      "rows": [
+       [
+        "Voitures",
+        50
+       ],
+       [
+        "Chimie",
+        25
+       ],
+       [
+        "Machines",
+        15
+       ],
+       [
+        "Pharmacie",
+        15
+       ],
+       [
+        "Produits laitiers",
+        10
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Source : Commission européenne, fiche « EU-Indonesia CEPA : main benefits », 23 septembre 2025."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les limites</b> : riz, sucre et éthanol exclus ; ONG critiques sur la déforestation ; vote du Parlement européen à venir, sans verdict [[peremptoire|péremptoire]] attendu.",
+      "<b>Pour un acheteur</b> : l’Indonésie devient une alternative à la Chine."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Puces d’IA : Washington ferme la route de l’Asie du Sud-Est",
+   "by": "Analyse",
+   "fig": "5 pays",
+   "figl": "sous licence pour les puces d’IA",
+   "min": 3,
+   "exMin": 2,
+   "src": "Bureau of Industry and Security, communiqué du 16 novembre 2026 et règle provisoire « Addressing Remote Access to Advanced Semiconductors », Federal Register, 19 novembre 2026 ; analyses des cabinets Akin Gump, Gibson Dunn (18 novembre 2026), Morgan Lewis (18 novembre 2026) et Willkie Farr. NPR, 16 novembre 2026 (Megaspeed, Jensen Huang) ; Al Jazeera, 17 novembre 2026. Ministère chinois des Affaires étrangères, point presse du 17 novembre 2026 (Xinhua). The Star (Bernama), 18 novembre 2026 (Malaisie). W.Media, 17 novembre 2026 (Singapour, Thaïlande, Indonésie). Correio da Manhã, 17 novembre 2026 (Brésil). Semiconductor Industry Association, 16 novembre 2026. Knight Frank, via le New Straits Times, 31 août 2026 (Johor). Données arrêtées au 23 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Depuis le 19 novembre, exporter des puces d’intelligence artificielle américaines vers l’Indonésie, la Malaisie, Singapour, la Thaïlande ou le Brésil exige une licence du département du Commerce. Washington estime que ces cinq pays présentent un risque inacceptable de détournement vers la Chine. La règle abroge aussi officiellement le cadre de l’administration Biden, qui classait le monde en trois catégories et n’était jamais entré en application.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "5",
+       "pays soumis à licence : Indonésie, Malaisie, Singapour, Thaïlande, Brésil"
+      ],
+      [
+       "90 jours",
+       "pour obtenir une licence si un data center sert des clients chinois"
+      ],
+      [
+       "1 110 MW",
+       "capacité de data centers en service à Johor (Malaisie)"
+      ],
+      [
+       "117",
+       "projets de data centers approuvés en Malaisie"
+      ]
+     ]
+    },
+    {
+     "h": "Fermer la porte de derrière"
+    },
+    {
+     "p": "Pékin n’a pas besoin d’importer les puces pour s’en servir : il lui suffit de louer leur puissance dans un data center étranger. La nouvelle règle vise ce trou. Une licence devient obligatoire dès qu’un centre fournit plus de 12 millions d’unités de puissance de calcul à des entreprises chinoises, soit environ 760 processeurs H100 selon le cabinet Morgan Lewis. Les centres qui servent déjà des clients chinois ont 90 jours pour obtenir leur autorisation. Le déclencheur est connu : une enquête pénale vise Megaspeed, opérateur basé à Singapour avec des installations en Malaisie. La tension, [[latent|latente]] depuis des années, s’est aggravée avec la démission de Jensen Huang à la tête de Nvidia, le 12 novembre, sur fond de soupçons de sécurité nationale rapportés par la presse américaine et démentis par Pékin."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Johor, la base arrière numérique de Singapour",
+      "sub": "Capacité informatique des data centers, en mégawatts, 2026",
+      "rows": [
+       [
+        "En développement",
+        8542
+       ],
+       [
+        "En service",
+        1110
+       ]
+      ],
+      "prefix": "",
+      "suffix": " MW",
+      "note": "Source : Knight Frank Malaysia, « Data Centre Atlas 2026 », cité par le New Straits Times, 31 août 2026."
+     }
+    },
+    {
+     "h": "Des alliés pris en étau"
+    },
+    {
+     "p": "La Chine dénonce une « coercition économique typique ». Les pays visés, eux, ne protestent pas. Le ministre malaisien du Commerce prévient que les entreprises qui refusent les règles américaines ne devraient pas opérer en Malaisie, et va informer les 117 projets de data centers approuvés. Singapour étudie la mesure et rappelle qu’il ne tolère pas le contournement des lois étrangères. Le Brésil souligne qu’il ne s’agit pas d’un embargo, deux mois après avoir lancé un régime fiscal pour attirer les data centers. Pour ces pays, l’enjeu est énorme : Johor, au sud de la Malaisie, compte déjà 1 110 mégawatts en service et plus de 8 500 en projet."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La puce est devenue une arme géopolitique, et le data center un territoire à surveiller. Washington ne cherche plus à bloquer tout le monde, mais à contrôler les points de passage. Pour l’Asie du Sud-Est, le choix est imposé : rester un carrefour neutre devient impossible quand la puissance de calcul se vend des deux côtés."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : depuis le 19 novembre, licence obligatoire pour exporter des puces d’IA américaines vers l’Indonésie, la Malaisie, Singapour, la Thaïlande et le Brésil.",
+      "<b>Le motif</b> : un risque de détournement vers la Chine ; le cadre Biden est abrogé."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "5",
+       "pays soumis à licence : Indonésie, Malaisie, Singapour, Thaïlande, Brésil"
+      ],
+      [
+       "90 jours",
+       "pour obtenir une licence si un data center sert des clients chinois"
+      ],
+      [
+       "1 110 MW",
+       "capacité de data centers en service à Johor (Malaisie)"
+      ],
+      [
+       "117",
+       "projets de data centers approuvés en Malaisie"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>L’accès à distance</b> : licence dès qu’un data center vend plus de 12 millions d’unités de calcul à des entreprises chinoises, soit environ 760 H100 ; 90 jours pour se mettre en règle.",
+      "<b>Le déclencheur</b> : enquête sur Megaspeed (Singapour, Malaisie) ; une tension [[latent|latente]] aggravée par la démission de Jensen Huang chez Nvidia le 12 novembre.",
+      "<b>Les réactions</b> : Pékin dénonce une coercition ; la Malaisie s’aligne ; Singapour étudie ; le Brésil parle de mesure qui n’est pas un embargo."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Johor, la base arrière numérique de Singapour",
+      "sub": "Capacité informatique des data centers, en mégawatts, 2026",
+      "rows": [
+       [
+        "En développement",
+        8542
+       ],
+       [
+        "En service",
+        1110
+       ]
+      ],
+      "prefix": "",
+      "suffix": " MW",
+      "note": "Source : Knight Frank Malaysia, « Data Centre Atlas 2026 », cité par le New Straits Times, 31 août 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : Washington contrôle les points de passage ; rester un carrefour neutre devient impossible pour l’Asie du Sud-Est."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Los Angeles : le gang qui arrêtait les trains pour voler des Nike",
+   "by": "Analyse",
+   "fig": "22,5 M$",
+   "figl": "volés sur au moins 36 trains",
+   "min": 3,
+   "exMin": 2,
+   "src": "U.S. Attorney’s Office, district central de Californie, acte d’accusation rendu public le 19 novembre 2026, rapporté par FOX 11 Los Angeles et NBC Los Angeles (19 novembre 2026) et par l’Associated Press (19 novembre 2026). Verisk CargoNet, bilans annuels du 21 janvier 2025 et du 22 janvier 2026, bilan du 3e trimestre 2026 publié le 4 novembre 2026 ; Claims Journal, 30 janvier 2023 (chiffre 2022). Overhaul, via FreightWaves, 18 février 2026. The Maritime Executive, 16 janvier 2022 (Union Pacific). American Trucking Associations, 12 mai 2026, et FreightWaves, 2 juillet 2026 (loi CORCA). Données arrêtées au 19 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 19 novembre, le parquet fédéral de Los Angeles a rendu public l’acte d’accusation visant une bande de jeunes hommes de Californie du Sud. De février 2024 à août 2026, ils auraient pillé au moins 36 trains de marchandises et volé plus de 22,5 millions de dollars de produits : baskets Nike, outils Milwaukee, électronique. Ces conteneurs venaient d’être débarqués dans les ports de Los Angeles et de Long Beach, et partaient vers le reste du pays.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "22,5 M$",
+       "marchandises volées sur au moins 36 trains, 2024-2026"
+      ],
+      [
+       "725 M$",
+       "pertes liées au vol de fret aux États-Unis et au Canada en 2025, + 60 %"
+      ],
+      [
+       "448 456 $",
+       "valeur moyenne d’un vol de janvier à septembre 2026, + 72 %"
+      ],
+      [
+       "1 sur 4",
+       "vols du 3e trimestre 2026 commis par faux enlèvement"
+      ]
+     ]
+    },
+    {
+     "h": "Une méthode bien rodée"
+    },
+    {
+     "p": "Le mode opératoire est simple. Coordonnés sur Instagram, les membres arrivent près des voies, à Pico Rivera ou à Fullerton. L’un d’eux coupe le flexible d’air du système de freinage, ce qui déclenche un arrêt d’urgence. Les autres ouvrent les conteneurs, chargent la marchandise dans des camionnettes et la stockent dans des maisons-relais. Le butin est revendu par des receleurs et sur les réseaux sociaux, notamment à une boutique de baskets de Los Angeles. Le chef présumé a 21 ans. Les enquêteurs réunissaient la police fédérale, le LAPD, la police d’Union Pacific et la police routière de Californie."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le vol de fret a doublé en trois ans",
+      "sub": "Incidents recensés aux États-Unis et au Canada",
+      "labels": [
+       "2022",
+       "2023",
+       "2024",
+       "2025"
+      ],
+      "series": [
+       {
+        "name": "Incidents",
+        "values": [
+         1778,
+         2908,
+         3607,
+         3594
+        ]
+       }
+      ],
+      "note": "Source : Verisk CargoNet, bilans annuels (2024 révisé dans le bilan publié le 22 janvier 2026). Les définitions d’incident peuvent varier d’une année à l’autre."
+     }
+    },
+    {
+     "h": "Moins de vols, mais plus gros"
+    },
+    {
+     "p": "Le risque n’a rien de nouveau. Début 2022, Union Pacific signalait plus de 90 conteneurs forcés par jour près de Los Angeles. Selon Verisk CargoNet, le nombre d’incidents a doublé entre 2022 et 2024, puis s’est stabilisé. Mais les pertes explosent : 725 millions de dollars en 2025, en hausse de 60 %. Sur les neuf premiers mois de 2026, les incidents reculent de 25 % et les pertes progressent encore de 39 %. Les voleurs visent moins de cibles, mais plus précieuses. Et ils se professionnalisent : au 3e trimestre, un vol sur quatre consistait à se faire passer pour un transporteur pour enlever légalement la marchandise. La Californie concentre à elle seule un tiers des incidents."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Pour un chargeur, le vol est un risque [[latent|latent]] qui se mesure en dizaines de milliers de dollars par conteneur. Les parades sont connues : traceurs, vérification des transporteurs, réduction des arrêts sur les zones sensibles. Le Congrès débat d’une loi créant un centre fédéral de coordination contre ces réseaux, déjà votée par la Chambre en mai. Mais tant que des produits de marque voyagent par milliers sur des trains sans escorte, la tentation restera forte."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : acte d’accusation fédéral rendu public le 19 novembre à Los Angeles ; au moins 36 trains pillés de février 2024 à août 2026.",
+      "<b>Le butin</b> : plus de 22,5 M$ de Nike, d’outils et d’électronique, débarqués à Los Angeles et Long Beach."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "22,5 M$",
+       "marchandises volées sur au moins 36 trains, 2024-2026"
+      ],
+      [
+       "725 M$",
+       "pertes liées au vol de fret aux États-Unis et au Canada en 2025, + 60 %"
+      ],
+      [
+       "448 456 $",
+       "valeur moyenne d’un vol de janvier à septembre 2026, + 72 %"
+      ],
+      [
+       "1 sur 4",
+       "vols du 3e trimestre 2026 commis par faux enlèvement"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>La méthode</b> : coordination sur Instagram, flexible de frein coupé pour forcer l’arrêt, conteneurs vidés dans des camionnettes, revente par des receleurs.",
+      "<b>La tendance</b> : incidents doublés entre 2022 et 2024 ; pertes de 725 M$ en 2025 (+ 60 %) ; en 2026, moins de vols (− 25 %) mais plus de pertes (+ 39 %).",
+      "<b>La fraude</b> : un vol sur quatre se fait en se faisant passer pour un transporteur ; la Californie pèse un tiers des incidents."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Le vol de fret a doublé en trois ans",
+      "sub": "Incidents recensés aux États-Unis et au Canada",
+      "labels": [
+       "2022",
+       "2023",
+       "2024",
+       "2025"
+      ],
+      "series": [
+       {
+        "name": "Incidents",
+        "values": [
+         1778,
+         2908,
+         3607,
+         3594
+        ]
+       }
+      ],
+      "note": "Source : Verisk CargoNet, bilans annuels (2024 révisé dans le bilan publié le 22 janvier 2026). Les définitions d’incident peuvent varier d’une année à l’autre."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Pour un chargeur</b> : un risque [[latent|latent]] à couvrir par des traceurs, la vérification des transporteurs et moins d’arrêts en zone sensible ; une loi fédérale est en discussion."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Alstom : des trains allemands font dérailler les comptes",
+   "by": "Analyse",
+   "fig": "− 954 M€",
+   "figl": "perte nette au semestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Alstom, résultats du 1er semestre 2026/27 (avril-septembre 2026) publiés le 17 novembre 2026 (liste des communiqués Euronext), et résultats préliminaires du 2 novembre 2026, repris par RTTNews (2 et 17 novembre 2026), Idéal Investisseur, Zonebourse/Fortuneo (17 novembre 2026), Quartr, L’Essentiel de l’Éco (18 novembre 2026), Bourse Direct (18 novembre 2026) et Abcbourse (2 et 17 novembre 2026). Railway Journal, novembre 2026 (Coradia Max). Alstom, communiqué du 1er trimestre 2026/27, 22 juillet 2026. Données arrêtées au 20 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 17 novembre, Alstom a publié une perte nette de 954 millions d’euros pour son premier semestre, d’avril à septembre 2026, contre un bénéfice de 220 millions un an plus tôt. Le chiffre d’affaires progresse pourtant de 3 %, à 9,33 milliards, et les commandes de 5 %. Le coupable est un seul produit : le Coradia Max, un train régional vendu en Allemagne et en Europe centrale. L’action a perdu environ 60 % depuis janvier.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "− 954 M€",
+       "perte nette du semestre, contre + 220 M€ un an plus tôt"
+      ],
+      [
+       "− 4,2 %",
+       "marge d’exploitation ajustée, contre 6,4 %"
+      ],
+      [
+       "111 Md€",
+       "carnet de commandes, environ six ans d’activité"
+      ],
+      [
+       "− 1,25 Md€",
+       "trésorerie consommée sur le semestre"
+      ]
+     ]
+    },
+    {
+     "h": "Six contrats déficitaires"
+    },
+    {
+     "p": "Hérités du rachat de Bombardier, six contrats Coradia Max représentent environ 5 milliards d’euros de matériel roulant. En juillet, Alstom a dû arrêter la production pour corriger des défauts sur des trains déjà construits. Le groupe reconnaît des faiblesses dans la planification des essais et de la validation. Résultat : des livraisons repoussées, des pénalités contractuelles, et six contrats devenus déficitaires. Leur effet pèse environ dix points sur la marge, qui passe de 6,4 % à moins 4,2 %. Le 2 novembre, l’avertissement sur résultats avait fait chuter l’action de 26 % en une séance."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’Europe pèse près des deux tiers des ventes",
+      "sub": "Chiffre d’affaires du 1er semestre 2026/27 par région, en milliards d’euros",
+      "rows": [
+       [
+        "Europe",
+        5.8
+       ],
+       [
+        "Amériques",
+        1.4
+       ],
+       [
+        "Asie-Pacifique",
+        1.2
+       ],
+       [
+        "Afrique, Moyen-Orient, Asie centrale",
+        0.9
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md€",
+      "note": "Source : résultats semestriels d’Alstom du 17 novembre 2026, repris par Idéal Investisseur et Zonebourse."
+     }
+    },
+    {
+     "h": "La dette sous surveillance"
+    },
+    {
+     "p": "Le vrai danger est financier. Sur le semestre, Alstom a consommé 1,25 milliard d’euros de trésorerie, et sa dette nette a presque triplé depuis mars, à 1,1 milliard. Le groupe vise désormais une marge d’environ 1 % sur l’année et une trésorerie négative d’environ 1,5 milliard. Pour garder sa note de crédit, il veut réduire sa dette d’environ 2 milliards d’ici septembre 2027, par des cessions d’actifs ou une levée de fonds propres. Le nouveau directeur général, Martin Sion, arrivé le 1er avril, a admis que ce n’était pas ainsi qu’il espérait commencer son mandat. Il écarte de façon [[peremptoire|péremptoire]] l’idée d’une entrée de l’État au capital."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le paradoxe d’Alstom tient en deux chiffres : 111 milliards d’euros de commandes, et une trésorerie qui fond. Dans l’industrie lourde, un carnet plein ne protège de rien si la production déraille. Un seul produit mal industrialisé peut effacer le résultat de tout un groupe : c’est la leçon, très supply chain, d’un semestre noir. Le second semestre dira si la production a vraiment redémarré : Alstom table sur environ 4 000 voitures ferroviaires sur l’exercice."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : perte nette de 954 M€ au 1er semestre 2026/27, contre + 220 M€ ; ventes + 3 % à 9,33 Md€.",
+      "<b>La Bourse</b> : − 26 % le 2 novembre, environ − 60 % depuis janvier."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "− 954 M€",
+       "perte nette du semestre, contre + 220 M€ un an plus tôt"
+      ],
+      [
+       "− 4,2 %",
+       "marge d’exploitation ajustée, contre 6,4 %"
+      ],
+      [
+       "111 Md€",
+       "carnet de commandes, environ six ans d’activité"
+      ],
+      [
+       "− 1,25 Md€",
+       "trésorerie consommée sur le semestre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le Coradia Max</b> : six contrats hérités de Bombardier, environ 5 Md€ ; production arrêtée en juillet pour défauts ; retards, pénalités, contrats déficitaires.",
+      "<b>La marge</b> : de 6,4 % à − 4,2 %, environ dix points perdus à cause de l’Allemagne.",
+      "<b>La dette</b> : 1,1 Md€, presque triplée depuis mars ; objectif de 2 Md€ de désendettement d’ici septembre 2027.",
+      "<b>Le patron</b> : Martin Sion, en poste depuis avril, écarte de façon [[peremptoire|péremptoire]] une entrée de l’État."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’Europe pèse près des deux tiers des ventes",
+      "sub": "Chiffre d’affaires du 1er semestre 2026/27 par région, en milliards d’euros",
+      "rows": [
+       [
+        "Europe",
+        5.8
+       ],
+       [
+        "Amériques",
+        1.4
+       ],
+       [
+        "Asie-Pacifique",
+        1.2
+       ],
+       [
+        "Afrique, Moyen-Orient, Asie centrale",
+        0.9
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md€",
+      "note": "Source : résultats semestriels d’Alstom du 17 novembre 2026, repris par Idéal Investisseur et Zonebourse."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La leçon</b> : un carnet de 111 Md€ ne protège de rien si la production déraille ; un seul produit mal industrialisé efface tout un semestre."
+     ]
+    }
+   ]
+  }
+ ]
+}

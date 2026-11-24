@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-23",
+ "latest": "2026-11-24",
  "editions": [
+  {
+   "date": "2026-11-24",
+   "label": "Mardi 24 novembre",
+   "words": [
+    "Latent",
+    "Péremptoire"
+   ],
+   "items": [
+    [
+     "lit",
+     "L’Étrange Cas du docteur Jekyll et de M. Hyde"
+    ],
+    [
+     "essai",
+     "De zéro à un"
+    ],
+    [
+     "eco",
+     "UE–Indonésie : dix ans pour un accord, 50 % de droits en moins sur les voitures"
+    ],
+    [
+     "geo",
+     "Puces d’IA : Washington ferme la route de l’Asie du Sud-Est"
+    ],
+    [
+     "log",
+     "Los Angeles : le gang qui arrêtait les trains pour voler des Nike"
+    ],
+    [
+     "ent",
+     "Alstom : des trains allemands font dérailler les comptes"
+    ]
+   ]
+  },
   {
    "date": "2026-11-23",
    "label": "Lundi 23 novembre",
