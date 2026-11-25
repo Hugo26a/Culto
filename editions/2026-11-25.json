@@ -1,0 +1,1115 @@
+{
+ "date": "2026-11-25",
+ "label": "Mercredi 25 novembre 2026",
+ "n": 33,
+ "example": false,
+ "week": {
+  "start": "2026-11-23",
+  "label": "Semaine du 23 novembre",
+  "day": 3,
+  "words": [
+   {
+    "key": "latent",
+    "w": "Latent",
+    "ph": "[la.tɑ̃] · adjectif",
+    "short": "Qui existe déjà sans encore se manifester ouvertement.",
+    "def": "Se dit de ce qui est présent mais caché, en attente de se révéler : un conflit latent, un risque latent, une demande latente. Le mot décrit une réalité qui couve et peut éclater à la moindre occasion. Il est précieux dans le travail, pour désigner un problème que tout le monde pressent sans que personne l’ait encore nommé, ou un besoin que les clients n’expriment pas encore. Son contraire est « manifeste » ou « déclaré ».",
+    "ety": "Du latin latens, participe présent de latere, « être caché ». La même racine a donné « latence », le temps qui sépare une cause de son effet, très employé en médecine comme en informatique.",
+    "ex": "Le conflit entre les équipes était latent depuis la réorganisation : le retard du chantier l’a simplement fait éclater.",
+    "syn": "sous-jacent, larvé, dormant, caché, potentiel"
+   },
+   {
+    "key": "peremptoire",
+    "w": "Péremptoire",
+    "ph": "[pe.ʁɑ̃p.twaʁ] · adjectif",
+    "short": "Qui tranche d’autorité, sans admettre de réplique.",
+    "def": "Se dit d’un ton, d’un argument ou d’une personne qui coupe court à toute discussion. Un argument péremptoire est décisif, impossible à contester ; un ton péremptoire est cassant, parfois arrogant. Le mot sert donc à la fois à saluer une preuve imparable et à critiquer quelqu’un qui affirme sans laisser la place au doute. En réunion, il qualifie bien une affirmation trop sûre d’elle.",
+    "ety": "Du latin juridique peremptorius, « qui détruit, qui met fin », formé sur perimere, « anéantir ». En droit, une exception péremptoire est un moyen qui met fin au procès. Le sens s’est élargi à toute parole qui clôt le débat.",
+    "ex": "Le fournisseur a répondu de façon péremptoire que le délai était impossible, sans même regarder notre proposition.",
+    "syn": "catégorique, tranchant, impérieux, sans appel, cassant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Don Quichotte de la Manche",
+   "by": "Miguel de Cervantès · 1605 et 1615",
+   "tagline": "Le chevalier contre le réel",
+   "min": 10,
+   "exMin": 4,
+   "src": "Miguel de Cervantès, El ingenioso hidalgo don Quijote de la Mancha, Madrid, première partie 1605, seconde partie 1615. Œuvre dans le domaine public (l’auteur est mort en 1616). Citation : première partie, chapitre I, traduction de Louis Viardot (1836-1837), Projet Gutenberg n° 16066. Épisodes : moulins à vent, partie I, chapitre VIII ; Barataria, partie II, chapitres XLIV-XLV ; chevalier de la Blanche Lune, partie II, chapitres LXIV-LXV ; mort, partie II, chapitre LXXIV (Wikisource, traduction Viardot). Suite apocryphe d’Alonso Fernández de Avellaneda, 1614 (catalogue de la BnF). Biographie : Encyclopædia Britannica et Encyclopédie Larousse. Sondage des clubs de lecture norvégiens, Oslo, 7 mai 2002 (CBS News, Dawn).",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un petit noble de la Manche, la cinquantaine, a lu tant de romans de chevalerie qu’il en perd la raison. Il se rebaptise don Quichotte et part redresser les torts, flanqué d’un paysan naïf et rusé, Sancho Panza. Il prend des moulins pour des géants et des auberges pour des châteaux, puis finit par rentrer chez lui, guéri et mourant."
+      ],
+      [
+       "Le premier roman moderne",
+       "Cervantès invente un personnage qui change au contact d’un autre, un récit qui se commente lui-même et un humour qui finit en tristesse. Presque tout le roman moderne en descend."
+      ],
+      [
+       "L’illusion contre le réel",
+       "Don Quichotte voit le monde tel qu’il devrait être. Le réel le frappe, le ridiculise, le blesse, et il ne cède pas. Le livre interroge cette folie : est-elle absurde ou admirable ?"
+      ],
+      [
+       "Le couple maître-valet",
+       "Sancho pense à manger et à s’enrichir ; son maître pense à la gloire. Au fil des pages, chacun déteint sur l’autre : le chevalier devient plus lucide, l’écuyer plus rêveur."
+      ],
+      [
+       "Une parodie devenue chef-d’œuvre",
+       "Cervantès voulait se moquer des romans de chevalerie, très à la mode. Il a écrit un livre sur le pouvoir de la lecture, qui façonne notre façon de voir le monde."
+      ],
+      [
+       "Un mot passé dans la langue",
+       "On dit « donquichottesque » pour un idéaliste qui se bat contre plus fort que lui, et « se battre contre des moulins à vent » pour un combat imaginaire."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le lecteur qui se fit chevalier"
+    },
+    {
+     "p": "Dans un village de la Manche, en Espagne, vit un hidalgo, un noble pauvre, qui approche de la cinquantaine. Il s’appelle Alonso Quijano. Il passe ses jours et ses nuits à lire des romans de chevalerie, au point de vendre des terres pour acheter des livres. À force de lire, il perd la raison et décide de devenir chevalier errant. Il astique une vieille armure, rebaptise son cheval efflanqué Rossinante et se choisit une dame : une paysanne du village voisin, Aldonza Lorenzo, qu’il appelle Dulcinée du Toboso. Elle n’en saura jamais rien.",
+     "lead": 1
+    },
+    {
+     "p": "Lors de sa première sortie, il prend une auberge pour un château et l’aubergiste, amusé, l’arme chevalier au cours d’une cérémonie grotesque. Rossé par des marchands, il est ramené chez lui sur un âne. Sa nièce, sa gouvernante, le curé et le barbier brûlent la plupart de ses livres pour le guérir. Rien n’y fait : il repart, cette fois avec un écuyer, Sancho Panza, un voisin paysan à qui il promet le gouvernement d’une île."
+    },
+    {
+     "h5": "Les moulins et les coups"
+    },
+    {
+     "p": "Commence alors la série d’aventures qui a fait la gloire du livre. Dans une plaine, don Quichotte aperçoit trente ou quarante moulins à vent. Il y voit des géants, charge malgré les cris de Sancho, et une aile le jette à terre avec son cheval. Il conclut, de façon [[peremptoire|péremptoire]], qu’un enchanteur a changé les géants en moulins pour lui voler sa victoire. Plus loin, il prend deux troupeaux de moutons pour deux armées et les attaque ; les bergers le criblent de pierres. Il libère une file de forçats enchaînés, qui le remercient en le dépouillant."
+    },
+    {
+     "p": "Le roman s’ouvre aussi à d’autres histoires, racontées par les personnages croisés en chemin : amours contrariées, trahisons, récit d’un captif revenu d’Alger. Finalement, le curé et le barbier, déguisés, ramènent le chevalier chez lui dans une cage à bœufs, en lui faisant croire qu’il est enchanté. La première partie s’arrête là, en 1605."
+    },
+    {
+     "h5": "La gloire et la cruauté"
+    },
+    {
+     "p": "Dans la seconde partie, publiée en 1615, don Quichotte et Sancho découvrent qu’un livre raconte leurs aventures et que tout le monde l’a lu. Le monde ne se contente plus de résister au chevalier : il joue avec lui. Un duc et une duchesse, lecteurs de la première partie, les reçoivent dans leur château et montent pour eux des mises en scène de plus en plus cruelles. Ils offrent même à Sancho le gouvernement d’une île, Barataria, qui n’est qu’un bourg. Contre toute attente, le paysan s’y montre un juge sage et plein de bon sens. Il renonce au bout de quelques jours, épuisé, en disant qu’il préfère sa liberté."
+    },
+    {
+     "h5": "La défaite et le retour"
+    },
+    {
+     "p": "À Barcelone, sur la plage, un chevalier inconnu, le chevalier de la Blanche Lune, défie don Quichotte. Le vaincu devra renoncer aux armes et rentrer chez lui pour un an. Don Quichotte est terrassé. À terre, il refuse de renier Dulcinée, la plus belle dame du monde. Le vainqueur se contente de la promesse du retour. C’était le bachelier Sansón Carrasco, un voisin, qui voulait ramener le fou au village pour le soigner."
+    },
+    {
+     "p": "De retour chez lui, don Quichotte tombe malade. Après un long sommeil, il se réveille lucide. Il déclare qu’il n’est plus don Quichotte, mais Alonso Quijano, surnommé le Bon, et qu’il déteste désormais les romans de chevalerie. Sancho, en larmes, le supplie de repartir avec lui en campagne. Le chevalier dicte son testament et meurt trois jours plus tard, entouré des siens."
+    },
+    {
+     "quote": "« Dans une bourgade de la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un hidalgo, de ceux qui ont lance au râtelier, rondache antique, bidet maigre et lévrier de chasse. »",
+     "cite": "Incipit de la première partie, chapitre I, traduction de Louis Viardot (1836)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un soldat devenu écrivain"
+    },
+    {
+     "p": "Miguel de Cervantès naît en 1547 à Alcalá de Henares, près de Madrid. Sa vie est un roman. Soldat, il combat à la bataille de Lépante, en 1571, contre la flotte ottomane ; blessé, il perd l’usage de la main gauche. En 1575, des corsaires capturent son navire : il passe cinq ans captif à Alger, tente quatre fois de s’évader et n’est libéré qu’en 1580, contre une rançon de 500 écus. Il devient ensuite collecteur d’impôts, connaît la prison pour des comptes douteux. Il publie la première partie de Don Quichotte en 1605, à 57 ans, et connaît enfin le succès. Il meurt à Madrid le 22 avril 1616."
+    },
+    {
+     "h5": "La riposte au faussaire"
+    },
+    {
+     "p": "En 1614, un inconnu signant Alonso Fernández de Avellaneda publie une fausse suite des aventures du chevalier. Cervantès est furieux, d’autant que le faussaire se moque de son âge et de sa main estropiée. Il riposte dans sa vraie seconde partie, parue l’année suivante : ses personnages y croisent un lecteur du faux livre et dénoncent l’imposture. Il fait aussi mourir son héros, pour que personne ne puisse plus le ressusciter."
+    },
+    {
+     "h5": "Un roman qui se regarde écrire"
+    },
+    {
+     "p": "Le livre joue sans cesse avec sa propre fiction. Le narrateur prétend traduire le manuscrit d’un historien arabe, Cide Hamete Benengeli. Dans la seconde partie, les personnages ont lu la première et en discutent. Ce jeu de miroirs, que l’on croit souvent inventé au XXe siècle, est déjà là en 1615. Cervantès mêle aussi tous les genres de son temps : roman pastoral, nouvelle sentimentale, récit de captivité, farce."
+    },
+    {
+     "h5": "La folie et le regard des autres"
+    },
+    {
+     "p": "La force du livre est de ne jamais trancher. Don Quichotte est ridicule, mais il est aussi généreux, courageux et souvent plus sage que ceux qui se moquent de lui. Dans la seconde partie, la vraie cruauté n’est plus la sienne : elle est du côté des ducs qui s’amusent de sa folie. Sa lucidité finale est une guérison, mais aussi une perte. Le désir d’idéal était [[latent|latent]] chez ce lecteur solitaire ; les livres l’ont seulement révélé."
+    },
+    {
+     "h5": "Une postérité sans égale"
+    },
+    {
+     "p": "Don Quichotte est l’un des livres les plus traduits au monde. En 2002, cent écrivains de 54 pays, interrogés par les clubs de lecture norvégiens, l’ont désigné comme le meilleur livre de tous les temps, loin devant À la recherche du temps perdu. Flaubert disait y retrouver ses origines ; Madame Bovary est d’ailleurs une lectrice que les romans ont égarée. Le chevalier a inspiré Daumier, Picasso, une comédie musicale, L’Homme de la Manche, et la chanson de Jacques Brel « La Quête »."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’il parle de nous, lecteurs d’écrans, qui voyons le monde à travers les histoires qu’on nous raconte. Parce qu’il pose une question toujours actuelle : vaut-il mieux être lucide et résigné, ou fou et fidèle à un idéal ? Et parce qu’il est drôle. On peut commencer par la première partie, plus burlesque, puis lire la seconde, plus profonde et plus mélancolique."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Un petit noble espagnol, Alonso Quijano, a tant lu de romans de chevalerie qu’il perd la raison. Rebaptisé don Quichotte, il part redresser les torts avec un écuyer paysan, Sancho Panza. Moulins pris pour des géants, coups reçus, mystifications : le réel le malmène sans jamais briser son idéal. Vaincu, il rentre chez lui, retrouve la raison et meurt. Le premier grand roman moderne."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le roman moderne</b> : des personnages qui évoluent l’un au contact de l’autre, un récit qui se commente lui-même, un comique qui tourne à la mélancolie.",
+      "<b>L’illusion</b> : don Quichotte voit le monde tel qu’il devrait être ; folie absurde ou admirable, le livre ne tranche pas.",
+      "<b>Le duo</b> : Sancho le terre-à-terre et son maître l’idéaliste déteignent l’un sur l’autre.",
+      "<b>La lecture</b> : une parodie des romans de chevalerie devenue une réflexion sur le pouvoir des histoires.",
+      "<b>La langue</b> : « donquichottesque », « se battre contre des moulins à vent »."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le départ</b> : la cinquantaine, Alonso Quijano devient chevalier errant, monte Rossinante et choisit pour dame une paysanne, Aldonza Lorenzo, rebaptisée Dulcinée du Toboso.",
+      "<b>Les premières sorties</b> : une auberge prise pour un château, un adoubement grotesque, des livres brûlés par le curé et le barbier, puis un écuyer, Sancho, à qui il promet une île.",
+      "<b>Les moulins</b> : trente ou quarante moulins pris pour des géants ; renversé, il affirme de façon [[peremptoire|péremptoire]] qu’un enchanteur les a transformés.",
+      "<b>Fin de la première partie (1605)</b> : moutons pris pour des armées, forçats libérés qui le dépouillent ; ramené chez lui dans une cage.",
+      "<b>La seconde partie (1615)</b> : tout le monde a lu leurs aventures ; un duc et une duchesse les mystifient ; Sancho gouverne sagement l’île de Barataria, puis renonce.",
+      "<b>La fin</b> : vaincu à Barcelone par le chevalier de la Blanche Lune, en réalité Sansón Carrasco, il rentre, retrouve la raison et meurt sous le nom d’Alonso Quijano le Bon."
+     ]
+    },
+    {
+     "quote": "« Dans une bourgade de la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un hidalgo, de ceux qui ont lance au râtelier, rondache antique, bidet maigre et lévrier de chasse. »",
+     "cite": "Incipit de la première partie, chapitre I, traduction de Louis Viardot (1836)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Cervantès (1547-1616), blessé à Lépante en 1571, captif à Alger de 1575 à 1580, publie la première partie à 57 ans.",
+      "<b>Le faussaire</b> : une fausse suite signée Avellaneda paraît en 1614 ; Cervantès la dénonce dans sa seconde partie et fait mourir son héros.",
+      "<b>La forme</b> : un faux manuscrit arabe, des personnages qui lisent leur propre histoire, tous les genres de l’époque mêlés.",
+      "<b>Le sens</b> : la cruauté est du côté des moqueurs ; l’idéal était [[latent|latent]] chez ce lecteur solitaire.",
+      "<b>La postérité</b> : élu meilleur livre de tous les temps en 2002 par cent écrivains de 54 pays ; Flaubert, Picasso, Brel.",
+      "<b>Pourquoi le lire</b> : pour la question qu’il pose, lucidité résignée ou fidélité à un idéal, et pour rire."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "L’Irrésistible Ascension de l’argent",
+   "by": "Niall Ferguson · 2008",
+   "min": 9,
+   "exMin": 3,
+   "src": "Niall Ferguson, The Ascent of Money: A Financial History of the World, Londres, Allen Lane, octobre 2008 ; New York, The Penguin Press, novembre 2008. Édition française : L’Irrésistible Ascension de l’argent. De Babylone à Wall Street, Paris, Éditions Saint-Simon, 2009 (fiche La finance pour tous). Chiffres de l’introduction et du chapitre 1 cités d’après le texte du livre (finance mondiale en 2006, part de la finance dans le PIB américain, Potosí, défauts espagnols, banque Médicis). Série télévisée : Channel 4, novembre-décembre 2008 ; PBS, 2009. Compagnie du Mississippi : historique du cours des actions, Wikipedia (« Mississippi Company »). Waterloo : Rothschild Archive, « Nathan Rothschild and Waterloo ». « Chimérique » : Ferguson et Schularick, International Finance, 2007. Critiques : Robert Skidelsky, The New York Review of Books, 15 janvier 2009 ; The Economist, 2008.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "L’historien écossais Niall Ferguson raconte quatre mille ans d’histoire de la finance, des tablettes d’argile de Mésopotamie aux crédits immobiliers américains. Sa thèse : la monnaie, le crédit, les obligations, les actions et l’assurance sont les grands moteurs du progrès humain, mais leurs bulles et leurs krachs sont inévitables. Publié en pleine crise de 2008, le livre en donne la profondeur historique."
+      ],
+      [
+       "L’argent est de la confiance",
+       "Pour Ferguson, la monnaie n’est pas du métal, c’est de la confiance inscrite. L’Espagne l’a appris à ses dépens : l’argent de Potosí, 45 000 tonnes extraites entre 1556 et 1783, a fait flamber les prix sans enrichir durablement le royaume, qui a fait défaut sur sa dette 14 fois entre 1557 et 1696."
+      ],
+      [
+       "La finance, plus grosse que l’économie",
+       "En 2006, la production mondiale valait environ 47 000 milliards de dollars ; les marchés d’actions 51 000 milliards, les obligations 68 000 milliards et les produits dérivés 473 000 milliards, dix fois plus que le PIB mondial."
+      ],
+      [
+       "Les bulles sont humaines",
+       "De John Law en 1720 aux subprimes de 2007, le même scénario revient : une innovation, un crédit facile, l’euphorie, puis la panique. La finance reflète la nature humaine, avec ses excès."
+      ],
+      [
+       "Chimérique",
+       "Ferguson forge avec Moritz Schularick le mot « Chimérique » : une Chine qui épargne et prête, une Amérique qui emprunte et consomme. Ce mariage a nourri le boom des années 2000 et la crise qui a suivi."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un livre publié au bon moment"
+    },
+    {
+     "p": "Niall Ferguson, né à Glasgow en 1964, enseigne alors l’histoire à Harvard. Il est connu pour une histoire des Rothschild et des essais sur l’Empire britannique. The Ascent of Money paraît à Londres fin octobre 2008, six semaines après la faillite de Lehman Brothers. Le timing est parfait. Channel 4 en tire une série en six épisodes, diffusée de novembre à décembre 2008, puis la télévision publique américaine PBS. En France, le livre paraît en 2009 aux Éditions Saint-Simon sous le titre L’Irrésistible Ascension de l’argent. Il compte six chapitres, un par grande invention financière.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "47 000 Md$",
+       "production mondiale en 2006"
+      ],
+      [
+       "473 000 Md$",
+       "encours mondial des produits dérivés la même année"
+      ],
+      [
+       "45 000 t",
+       "argent pur extrait de Potosí entre 1556 et 1783"
+      ],
+      [
+       "14",
+       "défauts de la couronne d’Espagne entre 1557 et 1696"
+      ]
+     ]
+    },
+    {
+     "h5": "Une thèse à contre-courant"
+    },
+    {
+     "p": "Au moment où tout le monde accuse les banquiers, Ferguson prend le contre-pied. Pour lui, la finance n’est pas un parasite de l’économie réelle : elle en est le système nerveux. Sans crédit, pas de commerce lointain ; sans obligations, pas d’État moderne ; sans assurance, pas d’entrepreneur qui ose prendre un risque. Il rappelle que la pauvreté vient moins de l’avidité des prêteurs que de l’absence d’institutions financières, et que les pays sans banques fiables restent pauvres. Il mesure aussi le poids croissant du secteur : aux États-Unis, la finance représentait 2,3 % du PIB en 1947 et 7,7 % en 2005. Son explication emprunte à Darwin : les institutions financières naissent, mutent, se font concurrence et disparaissent, comme des espèces. Les crises jouent le rôle des extinctions de masse, qui éliminent les plus fragiles et laissent la place à de nouvelles formes."
+    },
+    {
+     "h5": "La monnaie et la banque"
+    },
+    {
+     "p": "Le premier chapitre part des conquistadors. Ils cherchaient de l’or et ont trouvé, à Potosí, dans l’actuelle Bolivie, une montagne d’argent. Mais plus de métal ne crée pas plus de richesse : entre les années 1540 et 1640, le coût de la vie est multiplié par sept en Angleterre, le pays où les données sont les meilleures. La vraie invention est ailleurs : le crédit. Ferguson montre comment les banquiers italiens, Médicis en tête, ont appliqué aux affaires les mathématiques venues d’Orient. Leur banque, modeste à ses débuts, avec au plus dix-sept employés, a dégagé 151 820 florins de profits entre 1397 et 1420. Le métier était dangereux : entre 1343 et 1360, cinq membres de la famille furent condamnés à mort. Mais leur fortune a fait de Florence une capitale de la Renaissance."
+    },
+    {
+     "h5": "Obligations, actions, assurance"
+    },
+    {
+     "p": "Le deuxième chapitre traite des obligations, le marché qui permet aux États de financer leurs guerres. Les Rothschild y bâtissent leur fortune au XIXe siècle. Une légende tenace veut que Nathan Rothschild se soit enrichi en apprenant avant tout le monde la victoire de Waterloo ; les archives de la famille la jugent largement fausse. Le troisième chapitre raconte les bulles boursières. En 1719, l’Écossais John Law, à la tête de la Compagnie du Mississippi, gonfle le cours de ses actions, parti d’environ 500 livres, jusqu’à 10 000 livres. Un an plus tard, tout s’effondre et la France se méfiera longtemps des banques. Le quatrième chapitre est consacré à l’assurance : en 1744, deux pasteurs écossais, Robert Wallace et Alexander Webster, créent un fonds pour les veuves de pasteurs fondé sur le calcul des probabilités. C’est l’ancêtre des fonds de pension."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "En 2006, la finance pesait plus que le monde réel",
+      "sub": "Valeur mondiale en 2006, en milliers de milliards de dollars",
+      "rows": [
+       [
+        "Produits dérivés",
+        473
+       ],
+       [
+        "Obligations",
+        68
+       ],
+       [
+        "Actions",
+        51
+       ],
+       [
+        "PIB mondial",
+        47
+       ]
+      ],
+      "prefix": "",
+      "suffix": " T$",
+      "note": "Source : Niall Ferguson, L’Irrésistible Ascension de l’argent (2008), introduction. Montant notionnel pour les dérivés."
+     }
+    },
+    {
+     "h5": "La maison et Chimérique"
+    },
+    {
+     "p": "Le cinquième chapitre suit le rêve de la propriété. Né aux États-Unis avec les prêts garantis par l’État dans les années 1930, il a été poussé jusqu’à l’excès avec les crédits subprimes, accordés à des ménages qui ne pouvaient pas rembourser. Le dernier chapitre élargit le regard à la mondialisation. Ferguson y développe l’idée de Chimérique, forgée avec Moritz Schularick en 2007 : l’épargne chinoise a financé la consommation américaine et maintenu les taux d’intérêt bas. Le risque était [[latent|latent]] : le jour où ce couple se fâcherait, toute l’économie mondiale tremblerait."
+    },
+    {
+     "h5": "Ce qu’en ont dit les critiques"
+    },
+    {
+     "p": "Le livre a été un succès mondial, mais pas sans réserves. L’économiste Robert Skidelsky le juge superbe, tout en reprochant à Ferguson une admiration trop grande pour la finance et une sous-estimation du rôle de la régulation. Il note aussi que l’auteur distingue mal le risque, que l’on peut calculer, de l’incertitude, qui échappe au calcul. The Economist le trouve brillant mais inégal, écrit à la hâte. D’autres regrettent que les perdants de l’histoire financière y aient peu de place. Ferguson ne se montre jamais [[peremptoire|péremptoire]] sur l’avenir ; il prévient seulement que les crises reviendront."
+    },
+    {
+     "p": "Sa conclusion reste éclairante pour un lecteur d’aujourd’hui. Pour lui, derrière chaque grand phénomène historique se cache un secret financier. Comprendre la dette, l’assurance ou les marchés, c’est comprendre pourquoi des empires se sont effondrés et pourquoi d’autres ont prospéré. Le livre se termine d’ailleurs par une postface au titre ironique, « La descente de l’argent », écrite à chaud sur la crise en cours. Comprendre la finance, enfin, c’est apprendre à se méfier quand tout le monde répète que, cette fois, c’est différent."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Niall Ferguson raconte quatre mille ans d’histoire de la finance, de Babylone à Wall Street. Monnaie, banque, obligations, actions, assurance, immobilier : chaque invention a porté le progrès, et chacune a eu ses bulles et ses krachs. Paru en octobre 2008, en pleine crise, le livre en donne la profondeur historique."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La confiance</b> : la monnaie n’est pas du métal ; l’argent de Potosí a fait flamber les prix, et l’Espagne a fait défaut 14 fois entre 1557 et 1696.",
+      "<b>La thèse</b> : la finance n’est pas un parasite mais le système nerveux de l’économie ; sans crédit, obligations ni assurance, pas de commerce, d’État moderne ni d’entrepreneur.",
+      "<b>Le poids</b> : aux États-Unis, la finance passe de 2,3 % du PIB en 1947 à 7,7 % en 2005.",
+      "<b>Darwin</b> : les institutions financières naissent, mutent et disparaissent comme des espèces ; les crises sont des extinctions.",
+      "<b>Le métal</b> : entre les années 1540 et 1640, le coût de la vie est multiplié par sept en Angleterre.",
+      "<b>Le crédit</b> : les Médicis, avec au plus dix-sept employés, gagnent 151 820 florins entre 1397 et 1420.",
+      "<b>Les bulles</b> : l’action de la Compagnie du Mississippi de John Law passe d’environ 500 à 10 000 livres, puis s’effondre en 1720.",
+      "<b>Les obligations</b> : elles financent les guerres des États ; les Rothschild y font fortune au XIXe siècle, mais la légende de Waterloo est largement fausse.",
+      "<b>L’assurance</b> : en 1744, deux pasteurs écossais créent un fonds pour les veuves, ancêtre des fonds de pension.",
+      "<b>La maison</b> : le rêve de la propriété, né des prêts garantis par l’État américain dans les années 1930, finit avec les subprimes.",
+      "<b>Chimérique</b> : l’épargne chinoise a financé la consommation américaine ; un risque [[latent|latent]] pour le monde.",
+      "<b>Les critiques</b> : trop d’admiration pour la finance, pas assez pour la régulation ; aucun pronostic [[peremptoire|péremptoire]], sinon que les crises reviendront."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "47 000 Md$",
+       "production mondiale en 2006"
+      ],
+      [
+       "473 000 Md$",
+       "encours mondial des produits dérivés la même année"
+      ],
+      [
+       "45 000 t",
+       "argent pur extrait de Potosí entre 1556 et 1783"
+      ],
+      [
+       "14",
+       "défauts de la couronne d’Espagne entre 1557 et 1696"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "En 2006, la finance pesait plus que le monde réel",
+      "sub": "Valeur mondiale en 2006, en milliers de milliards de dollars",
+      "rows": [
+       [
+        "Produits dérivés",
+        473
+       ],
+       [
+        "Obligations",
+        68
+       ],
+       [
+        "Actions",
+        51
+       ],
+       [
+        "PIB mondial",
+        47
+       ]
+      ],
+      "prefix": "",
+      "suffix": " T$",
+      "note": "Source : Niall Ferguson, L’Irrésistible Ascension de l’argent (2008), introduction. Montant notionnel pour les dérivés."
+     }
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Allemagne : le moral remonte, l’industrie décroche",
+   "by": "Analyse",
+   "fig": "90,6",
+   "figl": "indice Ifo du climat des affaires",
+   "min": 3,
+   "exMin": 2,
+   "src": "ifo Institut, communiqués du 24 avril, du 26 octobre et du 24 novembre 2026, et tableau de l’enquête d’août 2026. Dow Jones Newswires via finanzen.at, « Ifo-Geschäftsklima steigt im November », 24 novembre 2026 ; aktiencheck.de et VerkehrsRundschau, 24 novembre 2026. Destatis, communiqué n° 381 du 30 octobre 2026 (PIB du 3e trimestre). Commission européenne, prévisions d’automne du 17 novembre 2026, citées par cash-online.de. Données arrêtées au 24 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le baromètre le plus suivi de l’économie allemande a encore progressé. L’indice Ifo du climat des affaires, publié le 24 novembre, atteint 90,6 points, contre 90,1 en octobre. C’est sa septième hausse d’affilée et son plus haut niveau depuis le printemps 2023. Mais le président de l’institut, Clemens Fuest, résume la situation d’une formule : la reprise progresse, mais elle manque de largeur. Les services tirent l’indice ; l’industrie, cœur du modèle allemand, recule à nouveau.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "90,6",
+       "indice Ifo de novembre, plus haut depuis le printemps 2023"
+      ],
+      [
+       "7",
+       "hausses mensuelles consécutives"
+      ],
+      [
+       "84,5",
+       "point bas d’avril, au pire de la crise iranienne"
+      ],
+      [
+       "+ 0,2 %",
+       "croissance du PIB allemand au 3e trimestre"
+      ]
+     ]
+    },
+    {
+     "h": "D’où vient la remontée"
+    },
+    {
+     "p": "L’Ifo interroge chaque mois environ 9 000 entreprises de l’industrie, des services, du commerce et du bâtiment sur leur situation et leurs perspectives à six mois. En avril, au plus fort de la crise iranienne et de la flambée du pétrole, l’indice était tombé à 84,5, son plus bas niveau depuis mai 2020. Depuis, il remonte mois après mois. En novembre, le jugement sur la situation actuelle passe de 88,8 à 89,4 et les attentes de 91,5 à 91,9, un peu mieux que prévu. Une hausse de l’indice n’annonce pas forcément une croissance forte : elle dit d’abord que les chefs d’entreprise sont moins pessimistes qu’avant."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Sept mois de remontée après le choc iranien",
+      "sub": "Indice Ifo du climat des affaires en Allemagne, 2026 (base 100 en 2015)",
+      "labels": [
+       "Avr.",
+       "Mai",
+       "Juin",
+       "Juil.",
+       "Août",
+       "Sept.",
+       "Oct.",
+       "Nov."
+      ],
+      "series": [
+       {
+        "name": "Climat des affaires",
+        "values": [
+         84.5,
+         85.0,
+         85.7,
+         86.7,
+         88.8,
+         89.9,
+         90.1,
+         90.6
+        ]
+       }
+      ],
+      "note": "Source : ifo Institut, enquêtes mensuelles (avril révisé, octobre révisé, novembre publié le 24 novembre 2026)."
+     }
+    },
+    {
+     "h": "Une reprise à deux vitesses"
+    },
+    {
+     "p": "Le détail est moins flatteur. Dans l’industrie, l’indice baisse après six hausses, et les attentes repassent en territoire négatif, surtout chez les fabricants de biens de consommation. En octobre, elles étaient redevenues positives pour la première fois depuis plus de trois ans : l’embellie aura été brève. Les services, eux, s’améliorent nettement, logistique comprise. Le commerce de détail progresse, le commerce de gros recule. Le PIB confirme ce tableau mitigé : + 0,2 % au troisième trimestre selon Destatis, avec une consommation en légère hausse, un investissement en baisse et des exportations qui ralentissent nettement."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "L’Allemagne sort de la stagnation, mais sa croissance reste fragile. La Commission européenne prévoit 1,3 % en 2026, puis 1,0 % en 2027, avec une inflation encore proche de 3 %. La faiblesse de l’industrie n’est pas un accident : elle était [[latent|latente]] depuis la fin du gaz russe bon marché et la concurrence chinoise sur l’automobile. Aucun économiste ne se montre [[peremptoire|péremptoire]] sur la suite. Prochain rendez-vous : l’Ifo de décembre, le 17, le jour même de la réunion de la BCE."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : indice Ifo à 90,6 en novembre, contre 90,1 en octobre ; 7e hausse d’affilée, plus haut depuis le printemps 2023.",
+      "<b>La nuance</b> : selon Clemens Fuest, la reprise progresse mais manque de largeur."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "90,6",
+       "indice Ifo de novembre, plus haut depuis le printemps 2023"
+      ],
+      [
+       "7",
+       "hausses mensuelles consécutives"
+      ],
+      [
+       "84,5",
+       "point bas d’avril, au pire de la crise iranienne"
+      ],
+      [
+       "+ 0,2 %",
+       "croissance du PIB allemand au 3e trimestre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le choc</b> : 84,5 en avril, plus bas depuis mai 2020, à cause de la crise iranienne.",
+      "<b>Les composantes</b> : situation de 88,8 à 89,4, attentes de 91,5 à 91,9 ; environ 9 000 entreprises interrogées.",
+      "<b>L’industrie</b> : recul après six hausses, attentes de nouveau négatives ; faiblesse [[latent|latente]] depuis la fin du gaz russe bon marché.",
+      "<b>Les services</b> : nette amélioration, logistique comprise ; PIB + 0,2 % au 3e trimestre."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Sept mois de remontée après le choc iranien",
+      "sub": "Indice Ifo du climat des affaires en Allemagne, 2026 (base 100 en 2015)",
+      "labels": [
+       "Avr.",
+       "Mai",
+       "Juin",
+       "Juil.",
+       "Août",
+       "Sept.",
+       "Oct.",
+       "Nov."
+      ],
+      "series": [
+       {
+        "name": "Climat des affaires",
+        "values": [
+         84.5,
+         85.0,
+         85.7,
+         86.7,
+         88.8,
+         89.9,
+         90.1,
+         90.6
+        ]
+       }
+      ],
+      "note": "Source : ifo Institut, enquêtes mensuelles (avril révisé, octobre révisé, novembre publié le 24 novembre 2026)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les prévisions</b> : croissance de 1,3 % en 2026 et 1,0 % en 2027 selon Bruxelles, inflation proche de 3 %.",
+      "<b>La suite</b> : aucun pronostic [[peremptoire|péremptoire]] ; prochain Ifo le 17 décembre, jour de la BCE."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Londres et Bruxelles : le rapprochement sans le retour",
+   "by": "Analyse",
+   "fig": "100 000",
+   "figl": "jeunes par an dans chaque sens",
+   "min": 3,
+   "exMin": 2,
+   "src": "AFP, via Kyiv Post et TheJournal.ie, 20 novembre 2026 (accords signés, programme jeunesse, frais universitaires, citations). EUobserver, Benjamin Fox, 19 novembre 2026 (estimations du gouvernement britannique, calendrier, SAFE). Ministère britannique des Affaires et du Commerce, « UK trade in numbers », 19 novembre 2026. Gouvernement britannique, explication du sommet du 19 mai 2025. Données arrêtées au 20 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Dix ans après le vote du Brexit, le Royaume-Uni et l’Union européenne ont signé, le 20 novembre à Bruxelles, la série d’accords la plus ambitieuse depuis le divorce. Le Premier ministre Andy Burnham a retrouvé Ursula von der Leyen et António Costa pour parapher trois textes : moins de contrôles sur l’agroalimentaire, un lien entre les marchés du carbone et un programme de mobilité pour les jeunes. Von der Leyen parle d’un tournant. Mais le Royaume-Uni se rapproche du marché unique sans y revenir.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "100 000",
+       "jeunes de moins de 30 ans par an et par camp dans le programme de mobilité"
+      ],
+      [
+       "5,1 Md£",
+       "gain annuel maximal estimé de l’accord agroalimentaire"
+      ],
+      [
+       "3,8 Md£",
+       "gain annuel maximal estimé du lien entre marchés du carbone"
+      ],
+      [
+       "≈ 45 %",
+       "part de l’UE dans le commerce britannique"
+      ]
+     ]
+    },
+    {
+     "h": "Ce qui a été signé"
+    },
+    {
+     "p": "L’accord agroalimentaire est le plus concret. En alignant ses normes sur celles de l’UE, Londres supprimerait à partir du 1er mars 2028 les contrôles et les certificats pour la grande majorité des produits animaux et végétaux. Le gouvernement l’estime à 5,1 milliards de livres par an au maximum. Les exportations agroalimentaires britanniques vers l’UE avaient chuté de 21 % entre 2018 et 2024. Le lien entre marchés du carbone vaudrait jusqu’à 3,8 milliards de livres par an. Surtout, il protège environ 6,5 milliards de livres d’exportations d’acier et d’aluminium de la taxe carbone européenne aux frontières. Enfin, 100 000 jeunes de moins de 30 ans de chaque côté pourront vivre jusqu’à trois ans chez l’autre pour travailler, étudier ou voyager."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’UE reste le premier partenaire du Royaume-Uni",
+      "sub": "Commerce de biens et services, 4 trimestres à fin juin 2026, en milliards de livres",
+      "rows": [
+       [
+        "Importations hors UE",
+        504.9
+       ],
+       [
+        "Importations depuis l’UE",
+        483.2
+       ],
+       [
+        "Exportations hors UE",
+        553.3
+       ],
+       [
+        "Exportations vers l’UE",
+        385.0
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md£",
+      "note": "Source : ministère britannique du Commerce, « UK trade in numbers », 19 novembre 2026. L’UE représente environ 45 % des échanges britanniques."
+     }
+    },
+    {
+     "h": "Ce qui bloque encore"
+    },
+    {
+     "p": "Le point de friction tient aux universités. Les Vingt-Sept retarderont la ratification tant que Londres n’accepte pas de faire payer aux étudiants européens les mêmes frais qu’aux Britanniques ; les discussions doivent durer six mois. Andy Burnham assure de façon [[peremptoire|péremptoire]] que l’accord est conclu. La participation britannique au fonds de défense européen SAFE, doté de 150 milliards d’euros, reste aussi en suspens. Le chef de Reform UK, Nigel Farage, accuse le Premier ministre d’avoir laissé sortir le génie de la bouteille."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La vraie question est [[latent|latente]] : jusqu’où aller ? Burnham juge que ces accords sont probablement le maximum possible d’ici aux prochaines élections, attendues au plus tôt en 2029. Il ouvre pourtant une réflexion d’un an avec Bruxelles sur la relation à long terme, du statu quo à l’union douanière, voire au retour dans l’UE. Pour les entreprises, l’enjeu est simple : l’UE pèse environ 45 % du commerce britannique, et chaque contrôle supprimé à la frontière réduit les coûts et les délais."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : sommet UE–Royaume-Uni à Bruxelles le 20 novembre ; Andy Burnham signe trois accords avec von der Leyen et Costa.",
+      "<b>La limite</b> : rapprochement du marché unique, sans retour dans l’UE."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "100 000",
+       "jeunes de moins de 30 ans par an et par camp dans le programme de mobilité"
+      ],
+      [
+       "5,1 Md£",
+       "gain annuel maximal estimé de l’accord agroalimentaire"
+      ],
+      [
+       "3,8 Md£",
+       "gain annuel maximal estimé du lien entre marchés du carbone"
+      ],
+      [
+       "≈ 45 %",
+       "part de l’UE dans le commerce britannique"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>L’agroalimentaire</b> : alignement des normes, fin de la plupart des contrôles à partir du 1er mars 2028 ; jusqu’à 5,1 Md£ par an ; exportations vers l’UE en baisse de 21 % entre 2018 et 2024.",
+      "<b>Le carbone</b> : jusqu’à 3,8 Md£ par an ; 6,5 Md£ d’acier et d’aluminium protégés de la taxe carbone aux frontières.",
+      "<b>La jeunesse</b> : 100 000 moins de 30 ans par an et par camp, jusqu’à trois ans.",
+      "<b>Le blocage</b> : frais universitaires des étudiants européens, six mois de discussions ; Burnham affirme de façon [[peremptoire|péremptoire]] que l’accord est conclu ; SAFE en suspens."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’UE reste le premier partenaire du Royaume-Uni",
+      "sub": "Commerce de biens et services, 4 trimestres à fin juin 2026, en milliards de livres",
+      "rows": [
+       [
+        "Importations hors UE",
+        504.9
+       ],
+       [
+        "Importations depuis l’UE",
+        483.2
+       ],
+       [
+        "Exportations hors UE",
+        553.3
+       ],
+       [
+        "Exportations vers l’UE",
+        385.0
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md£",
+      "note": "Source : ministère britannique du Commerce, « UK trade in numbers », 19 novembre 2026. L’UE représente environ 45 % des échanges britanniques."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La question [[latent|latente]]</b> : jusqu’où aller ? Réflexion d’un an, du statu quo à l’union douanière ou au retour ; élections pas avant 2029.",
+      "<b>Pour les entreprises</b> : l’UE pèse environ 45 % du commerce britannique."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Fret aérien : des prix de pointe sans pic de volumes",
+   "by": "Analyse",
+   "fig": "+ 29 %",
+   "figl": "prix spot du fret aérien sur un an",
+   "min": 3,
+   "exMin": 2,
+   "src": "Xeneta, rapport mensuel d’octobre 2026, publié vers le 6 novembre (via AJOT) ; Supply Chain Dive, « Air cargo’s hopes for end-of-year volume surge dwindle », 11 novembre 2026. TAC Index / Baltic Air Freight Index, semaine au 9 novembre 2026 (Air Cargo Week). WorldACD, semaine 45, via STAT Times, 17 novembre 2026. SEKO Logistics, « Air freight market update November 2026 », 19 novembre 2026. Données arrêtées au 19 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "À l’approche du Black Friday, le 27 novembre, le fret aérien vit une haute saison paradoxale. Les prix atteignent leur plus haut niveau de l’année : 3,11 dollars le kilo en moyenne mondiale en octobre selon Xeneta, 29 % de plus qu’un an plus tôt. Mais les volumes ne suivent pas le rythme habituel d’une fin d’année. La demande progresse, sans le pic attendu. Ce sont les coûts et la capacité qui font monter les prix, pas l’afflux de colis.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "3,11 $/kg",
+       "prix spot mondial moyen en octobre, + 29 % sur un an"
+      ],
+      [
+       "+ 6 %",
+       "demande mondiale en octobre, 7e mois de hausse"
+      ],
+      [
+       "0 %",
+       "évolution de la capacité sur un an"
+      ],
+      [
+       "+ 118 %",
+       "prix du kérosène sur un an fin octobre"
+      ]
+     ]
+    },
+    {
+     "h": "Une demande solide, mais pas de pic"
+    },
+    {
+     "p": "En octobre, la demande mondiale a progressé de 6 % sur un an, son septième mois de hausse consécutif, tandis que la capacité est restée stable. Le taux de remplissage atteint 63 %. Le moteur principal est l’intelligence artificielle : les volumes entre l’Asie-Pacifique et l’Amérique du Nord bondissent d’environ 15 %, portés par les serveurs et les puces, et les envois depuis Taïwan de 37 % selon WorldACD. À l’inverse, la Chine vers l’Europe recule de 13 %, et Hong Kong vers l’Europe de 32 %, depuis les nouvelles règles européennes sur les petits colis entrées en vigueur le 1er juillet. Pour Xeneta, le marché est fort, mais ce n’est pas une vraie saison de pointe."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’Asie vers l’Amérique, la route la plus chère",
+      "sub": "Prix spot moyen du fret aérien par route, octobre 2026, en dollars par kilo",
+      "rows": [
+       [
+        "Asie du Sud-Est → Amérique du Nord",
+        6.34
+       ],
+       [
+        "Asie du Nord-Est → Amérique du Nord",
+        6.21
+       ],
+       [
+        "Asie du Nord-Est → Europe",
+        4.97
+       ],
+       [
+        "Asie du Sud-Est → Europe",
+        4.35
+       ],
+       [
+        "Moyenne mondiale",
+        3.11
+       ],
+       [
+        "Europe → Amérique du Nord",
+        2.31
+       ],
+       [
+        "Amérique du Nord → Europe",
+        1.15
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $/kg",
+      "note": "Source : Xeneta, rapport d’octobre 2026 (via AJOT et Supply Chain Dive)."
+     }
+    },
+    {
+     "h": "Le kérosène et le Golfe"
+    },
+    {
+     "p": "La hausse des prix vient d’ailleurs. Le kérosène coûtait 118 % de plus qu’un an plus tôt fin octobre, selon SEKO, et les compagnies ont encore relevé leurs surcharges carburant le 1er novembre. Le Golfe, qui porte environ 27 % de la capacité mondiale de fret aérien, vole bien en dessous de la normale à cause du conflit avec l’Iran et des missiles houthis sur l’Arabie saoudite. Résultat : les prix explosent sur les routes concernées, + 79 % entre le Moyen-Orient et l’Asie du Sud et les États-Unis, + 66 % vers l’Europe. Même la récente baisse du pétrole ne s’est pas encore répercutée sur les tarifs."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Les chargeurs s’adaptent. Selon SEKO, environ 60 % des nouveaux contrats de fret aérien durent désormais trois mois ou moins, contre 25 % un an plus tôt : personne ne veut s’engager sur un prix. La solution mer-air, environ 40 % moins chère que l’avion direct pour quatre semaines de transit, gagne du terrain. Le risque d’un engorgement de dernière minute reste [[latent|latent]] si les commandes de fin d’année se concentrent. Aucun transitaire ne fait de prévision [[peremptoire|péremptoire]] pour décembre."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : 3,11 $ le kilo en octobre, + 29 % sur un an, plus haut niveau de 2026 à l’approche du Black Friday.",
+      "<b>Le paradoxe</b> : les prix montent à cause des coûts et de la capacité, pas d’un pic de volumes."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "3,11 $/kg",
+       "prix spot mondial moyen en octobre, + 29 % sur un an"
+      ],
+      [
+       "+ 6 %",
+       "demande mondiale en octobre, 7e mois de hausse"
+      ],
+      [
+       "0 %",
+       "évolution de la capacité sur un an"
+      ],
+      [
+       "+ 118 %",
+       "prix du kérosène sur un an fin octobre"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>La demande</b> : + 6 % en octobre, capacité stable, remplissage de 63 %.",
+      "<b>L’IA</b> : Asie-Pacifique vers Amérique du Nord + 15 % environ, Taïwan + 37 % ; Chine vers Europe − 13 %, Hong Kong vers Europe − 32 % depuis les règles européennes du 1er juillet.",
+      "<b>Les coûts</b> : kérosène + 118 % sur un an fin octobre ; surcharges relevées le 1er novembre.",
+      "<b>Le Golfe</b> : environ 27 % de la capacité mondiale, réduite par le conflit iranien ; Moyen-Orient et Asie du Sud vers les États-Unis + 79 %."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "L’Asie vers l’Amérique, la route la plus chère",
+      "sub": "Prix spot moyen du fret aérien par route, octobre 2026, en dollars par kilo",
+      "rows": [
+       [
+        "Asie du Sud-Est → Amérique du Nord",
+        6.34
+       ],
+       [
+        "Asie du Nord-Est → Amérique du Nord",
+        6.21
+       ],
+       [
+        "Asie du Nord-Est → Europe",
+        4.97
+       ],
+       [
+        "Asie du Sud-Est → Europe",
+        4.35
+       ],
+       [
+        "Moyenne mondiale",
+        3.11
+       ],
+       [
+        "Europe → Amérique du Nord",
+        2.31
+       ],
+       [
+        "Amérique du Nord → Europe",
+        1.15
+       ]
+      ],
+      "prefix": "",
+      "suffix": " $/kg",
+      "note": "Source : Xeneta, rapport d’octobre 2026 (via AJOT et Supply Chain Dive)."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Les contrats</b> : 60 % durent trois mois ou moins, contre 25 % un an plus tôt ; le mer-air coûte environ 40 % de moins.",
+      "<b>Le risque</b> : un engorgement [[latent|latent]] en décembre ; aucune prévision [[peremptoire|péremptoire]]."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Medtronic : maigrir pour grandir plus vite",
+   "by": "Analyse",
+   "fig": "+ 58 %",
+   "figl": "ventes d’ablation cardiaque au trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Medtronic, « Medtronic reports second quarter fiscal 2027 results », 24 novembre 2026, et formulaire 8-K, annexe 99.1, déposé à la SEC le même jour (trimestre clos le 30 octobre 2026). Investing.com, 24 novembre 2026 (consensus, prévisions de chiffre d’affaires et du 3e trimestre, cours de Bourse). Données arrêtées au 24 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le numéro un mondial des technologies médicales a publié ses résultats trimestriels le 24 novembre. Medtronic, siège social en Irlande et direction aux États-Unis, a réalisé 9,36 milliards de dollars de chiffre d’affaires entre août et octobre, en hausse de 4,5 %, et de 6,5 % hors effets de change et de périmètre. Le groupe vient de se séparer de son activité diabète, MiniMed, le 15 octobre, et mise désormais sur le cœur. Mais les ventes sont un peu inférieures aux attentes, et l’action a reculé d’environ 3 % dans la journée.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "9,36 Md$",
+       "chiffre d’affaires du trimestre, + 4,5 %"
+      ],
+      [
+       "+ 6,5 %",
+       "croissance organique"
+      ],
+      [
+       "+ 58 %",
+       "ventes d’ablation cardiaque"
+      ],
+      [
+       "23,4 %",
+       "marge opérationnelle ajustée"
+      ]
+     ]
+    },
+    {
+     "h": "Le cœur comme moteur"
+    },
+    {
+     "p": "La division cardiovasculaire, avec 3,79 milliards de dollars, progresse de 10,2 %. Elle est portée par l’électrophysiologie, qui traite les troubles du rythme cardiaque : + 18,1 %, à 2,16 milliards. Les ventes d’ablation cardiaque, une technique qui détruit les cellules responsables de l’arythmie, bondissent de 58 %, et de 80 % aux États-Unis, où Medtronic dit avoir gagné 7 points de part de marché. Les neurosciences, 2,71 milliards, et la chirurgie, 2,25 milliards, avancent plus lentement, entre 3 % et 5 %. Par région, les États-Unis croissent de 7,1 %, à 4,84 milliards, tandis que l’international ne progresse que de 1,9 %, à 4,53 milliards, freiné par les effets de change et la sortie du diabète ; hors ces effets, il croît de 4,9 %."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le cœur porte Medtronic",
+      "sub": "Chiffre d’affaires du 2e trimestre 2026/27 par division, en milliards de dollars",
+      "rows": [
+       [
+        "Cardiovasculaire",
+        3.785
+       ],
+       [
+        "Neurosciences",
+        2.705
+       ],
+       [
+        "Chirurgie",
+        2.245
+       ],
+       [
+        "Autres, dont diabète",
+        0.629
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md$",
+      "note": "Source : Medtronic, résultats du 2e trimestre de l’exercice 2027, 24 novembre 2026. Le diabète n’est compté que jusqu’à la scission du 15 octobre."
+     }
+    },
+    {
+     "h": "Le pari de la concentration"
+    },
+    {
+     "p": "Medtronic présente la scission de MiniMed comme la plus grande de l’histoire des technologies médicales. Elle lui a rapporté un gain comptable d’environ 2 milliards de dollars, qui gonfle le bénéfice net publié à 2,8 milliards. Hors éléments exceptionnels, le bénéfice par action baisse légèrement, à 1,34 dollar. La trésorerie disponible du semestre a plus que doublé, à 2,62 milliards. Le groupe confirme une croissance organique de 7,25 % à 7,75 % sur l’exercice, mais prévoit un net ralentissement, autour de 5 %, au trimestre suivant, en raison de comparaisons plus difficiles et de la pression sur ses ventes en Chine."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La logique est classique : un conglomérat se recentre sur ses activités les plus dynamiques pour croître plus vite. Le directeur général Geoff Martha se dit confiant, sans être [[peremptoire|péremptoire]] sur le rythme. Le risque [[latent|latent]] est la dépendance à l’ablation cardiaque, un marché disputé où la concurrence est vive. Medtronic continue d’acheter : il a annoncé en novembre le rachat de Contego Medical, spécialiste de l’extraction de caillots dans les artères."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : 9,36 Md$ de chiffre d’affaires au 2e trimestre, + 4,5 % ; + 6,5 % en organique, un peu sous les attentes.",
+      "<b>La Bourse</b> : environ − 3 % le 24 novembre ; activité diabète MiniMed séparée le 15 octobre."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "9,36 Md$",
+       "chiffre d’affaires du trimestre, + 4,5 %"
+      ],
+      [
+       "+ 6,5 %",
+       "croissance organique"
+      ],
+      [
+       "+ 58 %",
+       "ventes d’ablation cardiaque"
+      ],
+      [
+       "23,4 %",
+       "marge opérationnelle ajustée"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Le cœur</b> : cardiovasculaire 3,79 Md$, + 10,2 % ; électrophysiologie + 18,1 % ; ablation + 58 %, + 80 % aux États-Unis, 7 points de part gagnés.",
+      "<b>Le reste</b> : neurosciences 2,71 Md$ et chirurgie 2,25 Md$, entre + 3 % et + 5 %.",
+      "<b>Les comptes</b> : gain d’environ 2 Md$ sur MiniMed ; BPA ajusté 1,34 $ ; trésorerie disponible du semestre 2,62 Md$.",
+      "<b>Les prévisions</b> : 7,25 % à 7,75 % de croissance organique sur l’exercice, environ 5 % au prochain trimestre ; Chine sous pression."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Le cœur porte Medtronic",
+      "sub": "Chiffre d’affaires du 2e trimestre 2026/27 par division, en milliards de dollars",
+      "rows": [
+       [
+        "Cardiovasculaire",
+        3.785
+       ],
+       [
+        "Neurosciences",
+        2.705
+       ],
+       [
+        "Chirurgie",
+        2.245
+       ],
+       [
+        "Autres, dont diabète",
+        0.629
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md$",
+      "note": "Source : Medtronic, résultats du 2e trimestre de l’exercice 2027, 24 novembre 2026. Le diabète n’est compté que jusqu’à la scission du 15 octobre."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La stratégie</b> : se recentrer pour croître plus vite ; Geoff Martha confiant, sans être [[peremptoire|péremptoire]].",
+      "<b>Le risque [[latent|latent]]</b> : la dépendance à l’ablation cardiaque ; rachat de Contego Medical annoncé en novembre."
+     ]
+    }
+   ]
+  }
+ ]
+}
