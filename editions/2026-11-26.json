@@ -1,0 +1,989 @@
+{
+ "date": "2026-11-26",
+ "label": "Jeudi 26 novembre 2026",
+ "n": 34,
+ "example": false,
+ "week": {
+  "start": "2026-11-23",
+  "label": "Semaine du 23 novembre",
+  "day": 4,
+  "words": [
+   {
+    "key": "latent",
+    "w": "Latent",
+    "ph": "[la.tɑ̃] · adjectif",
+    "short": "Qui existe déjà sans encore se manifester ouvertement.",
+    "def": "Se dit de ce qui est présent mais caché, en attente de se révéler : un conflit latent, un risque latent, une demande latente. Le mot décrit une réalité qui couve et peut éclater à la moindre occasion. Il est précieux dans le travail, pour désigner un problème que tout le monde pressent sans que personne l’ait encore nommé, ou un besoin que les clients n’expriment pas encore. Son contraire est « manifeste » ou « déclaré ».",
+    "ety": "Du latin latens, participe présent de latere, « être caché ». La même racine a donné « latence », le temps qui sépare une cause de son effet, très employé en médecine comme en informatique.",
+    "ex": "Le conflit entre les équipes était latent depuis la réorganisation : le retard du chantier l’a simplement fait éclater.",
+    "syn": "sous-jacent, larvé, dormant, caché, potentiel"
+   },
+   {
+    "key": "peremptoire",
+    "w": "Péremptoire",
+    "ph": "[pe.ʁɑ̃p.twaʁ] · adjectif",
+    "short": "Qui tranche d’autorité, sans admettre de réplique.",
+    "def": "Se dit d’un ton, d’un argument ou d’une personne qui coupe court à toute discussion. Un argument péremptoire est décisif, impossible à contester ; un ton péremptoire est cassant, parfois arrogant. Le mot sert donc à la fois à saluer une preuve imparable et à critiquer quelqu’un qui affirme sans laisser la place au doute. En réunion, il qualifie bien une affirmation trop sûre d’elle.",
+    "ety": "Du latin juridique peremptorius, « qui détruit, qui met fin », formé sur perimere, « anéantir ». En droit, une exception péremptoire est un moyen qui met fin au procès. Le sens s’est élargi à toute parole qui clôt le débat.",
+    "ex": "Le fournisseur a répondu de façon péremptoire que le délai était impossible, sans même regarder notre proposition.",
+    "syn": "catégorique, tranchant, impérieux, sans appel, cassant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Au cœur des ténèbres",
+   "by": "Joseph Conrad · 1899",
+   "tagline": "Remonter le fleuve de l’horreur",
+   "min": 10,
+   "exMin": 4,
+   "src": "Joseph Conrad, Heart of Darkness, publié en trois livraisons dans Blackwood’s Magazine (février-avril 1899), puis en volume dans Youth: A Narrative, and Two Other Stories (Blackwood, 1902). Œuvre dans le domaine public (l’auteur est mort en 1924). Citation : troisième partie, traduction de la rédaction à partir du texte original (Projet Gutenberg n° 219). Biographie et voyage au Congo de 1890 : Encyclopædia Britannica, Encyclopédie Larousse. État indépendant du Congo (1885-1908) : Encyclopædia Britannica. Chinua Achebe, « An Image of Africa », conférence à l’université du Massachusetts, 1975, publiée en 1977 dans The Massachusetts Review.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Sur un yacht ancré dans la Tamise, le marin Marlow raconte à ses amis son voyage sur un fleuve d’Afrique, au service d’une compagnie belge d’ivoire. Il devait y retrouver Kurtz, un agent brillant installé au plus profond de la forêt. Il découvre un homme qui s’est fait dieu, règne par la terreur et meurt en murmurant : « L’horreur ! »"
+      ],
+      [
+       "Un réquisitoire contre le colonialisme",
+       "Sous le discours de la « civilisation », Conrad montre le pillage, l’esclavage déguisé et la mort. Le livre paraît en 1899, alors que le Congo est encore la propriété personnelle du roi des Belges, Léopold II."
+      ],
+      [
+       "Les ténèbres sont en nous",
+       "Le titre ne désigne pas seulement l’Afrique. La vraie noirceur est celle de l’Européen sans contrôle ni témoin : Kurtz, loin de toute loi, révèle une sauvagerie qui était [[latent|latente]] en lui."
+      ],
+      [
+       "Un récit dans le récit",
+       "Un narrateur anonyme rapporte l’histoire que raconte Marlow, au crépuscule. Ce double cadre crée le doute : tout passe par une mémoire qui hésite et cherche ses mots."
+      ],
+      [
+       "Un livre contesté",
+       "En 1975, l’écrivain nigérian Chinua Achebe accuse Conrad de réduire les Africains à un décor muet. Le débat entre lecture anticoloniale et lecture raciste n’est pas clos."
+      ],
+      [
+       "Une ombre immense",
+       "Le roman a inspiré T. S. Eliot, le film Apocalypse Now de Francis Ford Coppola (1979) et des générations de récits sur la folie du pouvoir."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Le soir sur la Tamise"
+    },
+    {
+     "p": "Un soir, à l’embouchure de la Tamise, cinq amis attendent la marée sur un petit yacht, la Nellie. Il y a là un directeur de sociétés, un avocat, un comptable, le narrateur et Marlow, un marin qui a roulé sa bosse. Alors que le soleil se couche sur Londres, Marlow lance une phrase étrange : ce lieu aussi a été l’un des endroits obscurs de la terre. Il imagine les légionnaires romains débarquant jadis dans cette Bretagne sauvage. Puis il raconte le jour où il a remonté un grand fleuve d’Afrique.",
+     "lead": 1
+    },
+    {
+     "h5": "La ville sépulcrale"
+    },
+    {
+     "p": "Enfant, Marlow rêvait devant les taches blanches des cartes. Grâce à une tante bien placée, il obtient le commandement d’un vapeur fluvial pour une compagnie de commerce établie dans une ville d’Europe qu’il compare à un sépulcre blanchi. Au siège, deux femmes tricotent de la laine noire à l’entrée, comme des gardiennes des enfers. Un médecin mesure son crâne « pour la science » et lui demande s’il y a de la folie dans sa famille. En route, depuis le pont d’un cargo, Marlow voit un navire de guerre français tirer au canon sur la forêt, contre un ennemi invisible."
+    },
+    {
+     "h5": "Le bosquet de la mort"
+    },
+    {
+     "p": "Au premier poste de la Compagnie, l’absurde domine. On fait sauter une falaise qui ne gêne personne. Des hommes noirs enchaînés par le cou portent des terres. À l’ombre d’un bosquet, des travailleurs épuisés et malades attendent la mort. Au milieu de ce désastre, le chef comptable porte un col amidonné impeccable et tient ses livres à jour. C’est lui qui prononce pour la première fois le nom de M. Kurtz, un agent de premier ordre qui envoie à lui seul autant d’ivoire que tous les autres réunis."
+    },
+    {
+     "p": "Après une marche de 200 milles, Marlow atteint le poste central. Son vapeur a coulé. Il faut des mois pour le réparer, faute de rivets : il y en a des caisses sur la côte, aucune ici. Le directeur, homme médiocre dont la seule qualité est de ne jamais tomber malade, laisse traîner. Les agents, que Marlow appelle les « pèlerins », intriguent pour obtenir des postes. Tous parlent de Kurtz avec envie : on le dit malade, on le dit promis aux plus hautes fonctions."
+    },
+    {
+     "h5": "La remontée du fleuve"
+    },
+    {
+     "p": "Le vapeur enfin réparé, Marlow remonte le fleuve avec le directeur, quelques pèlerins et un équipage africain. Le voyage dure deux mois, dans une forêt silencieuse qui semble observer les intrus. Près du but, des flèches et une lance surgissent de la rive : le timonier africain meurt aux pieds de Marlow, qui jette ses chaussures pleines de sang par-dessus bord. Il comprend alors qu’il ne désire qu’une chose : entendre parler Kurtz."
+    },
+    {
+     "p": "Au poste intérieur, un jeune Russe vêtu d’un costume rapiécé de toutes les couleurs les accueille. Il vénère Kurtz, qui lui a, dit-il, élargi l’esprit. Autour de la maison, des pieux portent des têtes humaines tournées vers les fenêtres. Kurtz a soumis les tribus de la région, qui l’adorent comme un dieu et razzient l’ivoire pour lui. Il a écrit pour une société savante un rapport plein d’idéal sur la mission civilisatrice ; au bas, d’une main tremblante, il a ajouté : « Exterminez toutes ces brutes ! »"
+    },
+    {
+     "h5": "La mort de Kurtz"
+    },
+    {
+     "p": "Kurtz, squelettique, est porté sur un brancard. Une nuit, il rampe hors du bateau pour rejoindre les siens ; Marlow le rattrape dans la forêt et le ramène. Pendant la descente du fleuve, le malade parle sans cesse de son ivoire, de ses projets, de sa fiancée. Puis il meurt, après un dernier cri qui résume ce qu’il a vu de lui-même. Le boy du directeur l’annonce d’une phrase méprisante : « Mister Kurtz, lui mort. »"
+    },
+    {
+     "quote": "« L’horreur ! L’horreur ! »",
+     "cite": "Dernières paroles de Kurtz, troisième partie (traduction de la rédaction ; texte original : « The horror! The horror! »)"
+    },
+    {
+     "p": "Rentré en Europe, Marlow, malade, garde les papiers de Kurtz. Un an plus tard, il rend visite à la fiancée, toujours en deuil. Elle lui demande ses derniers mots. Marlow ment : il prétend que Kurtz a prononcé son nom. Sur la Nellie, le récit s’achève. Le narrateur regarde la Tamise : elle semble couler, elle aussi, vers le cœur d’immenses ténèbres."
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Un marin polonais devenu écrivain anglais"
+    },
+    {
+     "p": "Józef Teodor Konrad Korzeniowski naît en 1857 dans une famille de la noblesse polonaise, en Ukraine alors sous domination russe. Orphelin jeune, il prend la mer à 16 ans, sert dans la marine marchande française puis britannique, et devient capitaine. Il n’apprend l’anglais qu’à l’âge adulte, et c’est pourtant en anglais qu’il écrit toute son œuvre. Il meurt en 1924 dans le Kent."
+    },
+    {
+     "h5": "Un voyage vécu"
+    },
+    {
+     "p": "Le roman puise dans un séjour réel. En 1890, Conrad part pour l’État indépendant du Congo, propriété personnelle de Léopold II depuis 1885, engagé par une société belge de commerce. Il remonte le fleuve jusqu’aux chutes Stanley, commande un temps un vapeur et rentre au bout de six mois, malade et horrifié. Il dira qu’avant le Congo, il n’était qu’un simple animal. Le régime de Léopold, fondé sur le travail forcé pour le caoutchouc et l’ivoire, fera des millions de morts selon les historiens, avant que la Belgique n’annexe le territoire en 1908."
+    },
+    {
+     "h5": "L’art de la brume"
+    },
+    {
+     "p": "Conrad ne décrit pas, il suggère. Le récit avance par impressions, par images qui ne se précisent jamais : la forêt, le brouillard, la nuit. Le lecteur partage l’aveuglement de Marlow. Les mots restent vagues quand le sens devient insupportable, comme si le langage reculait devant l’horreur. Les noms eux-mêmes manquent : ni le fleuve, ni le pays, ni la ville de la Compagnie ne sont nommés. Ce flou est voulu : l’histoire vaut pour tout empire."
+    },
+    {
+     "h5": "Une lecture qui divise"
+    },
+    {
+     "p": "Le texte dénonce l’hypocrisie coloniale, mais il ne donne presque jamais la parole aux Africains. Chinua Achebe, auteur de Tout s’effondre, l’a reproché à Conrad avec force, dans une conférence restée célèbre. D’autres critiques répondent que le roman montre justement le regard aveugle des Européens. Aucune des deux lectures ne peut se dire [[peremptoire|péremptoire]] : le livre est à la fois une accusation et le produit de son époque."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce qu’il est court, une centaine de pages, et qu’il hante longtemps. Parce qu’il pose une question qui dépasse le colonialisme : que devient un homme quand plus rien ne le retient, ni loi, ni regard, ni conscience ? Et parce qu’il éclaire tous les récits d’emprise, de la guerre du Vietnam d’Apocalypse Now aux dérives des chefs tout-puissants."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Sur la Tamise, le marin Marlow raconte sa remontée d’un fleuve africain pour une compagnie belge d’ivoire. Il y cherchait Kurtz, l’agent le plus brillant de la Compagnie. Il trouve un homme devenu dieu, entouré de têtes plantées sur des pieux, qui meurt en criant « L’horreur ! ». Un court roman sur le colonialisme et sur la noirceur cachée de chacun."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le colonialisme</b> : sous le mot « civilisation », le pillage et l’esclavage ; le Congo appartient alors à Léopold II.",
+      "<b>Les ténèbres intérieures</b> : sans loi ni témoin, la sauvagerie [[latent|latente]] de Kurtz éclate.",
+      "<b>Le récit</b> : un narrateur rapporte l’histoire de Marlow, au crépuscule ; tout passe par une mémoire qui hésite.",
+      "<b>La controverse</b> : en 1975, Chinua Achebe dénonce un livre qui réduit les Africains au silence.",
+      "<b>La postérité</b> : T. S. Eliot, Apocalypse Now de Coppola (1979)."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le cadre</b> : un soir, sur la Nellie ancrée dans la Tamise, Marlow rappelle que Londres aussi fut un lieu obscur, au temps des Romains.",
+      "<b>Le départ</b> : Marlow obtient un vapeur grâce à sa tante ; au siège, deux femmes tricotent de la laine noire et un médecin mesure son crâne ; un navire de guerre canonne la forêt.",
+      "<b>Le premier poste</b> : une falaise qu’on fait sauter pour rien, des hommes enchaînés, un bosquet où meurent les travailleurs, un comptable au col impeccable qui parle de Kurtz.",
+      "<b>Le poste central</b> : 200 milles à pied, un vapeur coulé, des mois d’attente faute de rivets, un directeur médiocre et des agents qui intriguent.",
+      "<b>Le fleuve</b> : deux mois de remontée dans une forêt silencieuse ; une attaque tue le timonier, Marlow jette ses chaussures ensanglantées.",
+      "<b>Kurtz</b> : un Russe en habit d’arlequin le vénère ; des têtes sur des pieux ; les tribus l’adorent ; un rapport idéaliste conclu par « Exterminez toutes ces brutes ! ».",
+      "<b>La fin</b> : Kurtz tente de fuir dans la forêt, puis meurt sur le bateau ; un an plus tard, Marlow ment à sa fiancée en disant qu’il a prononcé son nom."
+     ]
+    },
+    {
+     "quote": "« L’horreur ! L’horreur ! »",
+     "cite": "Dernières paroles de Kurtz, troisième partie (traduction de la rédaction ; texte original : « The horror! The horror! »)"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>L’auteur</b> : Józef Korzeniowski (1857-1924), Polonais, marin puis capitaine, écrivain de langue anglaise.",
+      "<b>Le vécu</b> : six mois au Congo en 1890 ; le régime de Léopold II fait des millions de morts avant l’annexion belge de 1908.",
+      "<b>Le style</b> : impressions, brume, aucun lieu nommé ; les mots reculent devant l’horreur ; l’histoire vaut pour tout empire.",
+      "<b>Le titre</b> : les ténèbres ne sont pas celles de l’Afrique, mais celles de l’Européen sans loi ni témoin.",
+      "<b>Le débat</b> : accusation du colonialisme ou regard colonial ? Aucune réponse [[peremptoire|péremptoire]].",
+      "<b>Pourquoi le lire</b> : une centaine de pages sur ce que devient un homme quand plus rien ne le retient."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Alexander Hamilton",
+   "by": "Ron Chernow · 2004",
+   "min": 9,
+   "exMin": 3,
+   "src": "Ron Chernow, Alexander Hamilton, Penguin Press, New York, 26 avril 2004, 818 pages ; prix George Washington 2005. Vitor Gaspar et David Amaglobeli, « The History of the U.S. Financial System », FMI, Finance & Développement, mars 2018 (dette de 79 millions de dollars, part des droits de douane, dîner du 20 juin 1790). Funding Act of 1790 (1 Stat. 138), signé le 4 août 1790 ; premier rapport sur le crédit public, 9 janvier 1790. Comédie musicale Hamilton : The Public Theater, 20 janvier 2015 ; 16 nominations et 11 Tony Awards, prix Pulitzer 2016. Encyclopædia Britannica pour la biographie.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "La biographie de référence de l’homme qui a inventé les finances de l’État américain. Ron Chernow suit Alexander Hamilton de son enfance d’orphelin aux Antilles jusqu’à sa mort en duel, en 1804. Il montre comment cet immigré sans fortune a bâti la dette fédérale, la banque nationale et la douane des États-Unis."
+      ],
+      [
+       "La dette comme ciment",
+       "En 1790, Hamilton estime la dette publique à 79 millions de dollars, environ 40 % du PIB. Il propose que l’État fédéral reprenne les dettes des États et les rembourse en entier : la dette devient le lien qui unit le pays."
+      ],
+      [
+       "Un État qui sait lever l’argent",
+       "Droits de douane, garde-côtes, accises : en quelques années, l’État fédéral apprend à percevoir l’impôt. Les droits de douane fournissent alors environ 90 % de ses recettes."
+      ],
+      [
+       "La banque et l’industrie",
+       "Il crée en 1791 la première Banque des États-Unis et défend, dans son rapport sur les manufactures, une Amérique industrielle, contre le rêve agraire de Jefferson."
+      ],
+      [
+       "Un génie autodestructeur",
+       "Brillant, travailleur acharné, il est aussi orgueilleux et imprudent. Il publie lui-même le récit de sa liaison adultère et meurt dans un duel qu’il aurait pu éviter."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Le biographe des puissants"
+    },
+    {
+     "p": "Ron Chernow, ancien journaliste, s’est fait une spécialité des grandes vies de l’argent et du pouvoir : la banque Morgan, la dynastie Warburg, puis John D. Rockefeller dans Titan. Avec Alexander Hamilton, publié en avril 2004, il s’attaque à un fondateur des États-Unis longtemps resté dans l’ombre de Washington, Jefferson et Adams. Le livre, de 818 pages, reste trois mois sur la liste des meilleures ventes du New York Times et reçoit en 2005 le premier prix George Washington, récompense de l’histoire américaine des débuts."
+    },
+    {
+     "h5": "L’orphelin des Caraïbes"
+    },
+    {
+     "p": "Hamilton naît sur l’île de Nevis, dans les Antilles britanniques, en 1755 ou 1757 : la date même est incertaine. Enfant illégitime, abandonné par son père, orphelin de mère vers 13 ans, il travaille comme commis dans une maison de commerce de Sainte-Croix. Il y apprend la comptabilité, le change, le fret, les marges : une école de la supply chain avant l’heure. Un texte qu’il écrit sur un ouragan impressionne des notables, qui financent son départ pour New York. Chernow insiste sur ce point : cet homme qui a tout bâti seul n’a jamais cessé de vouloir prouver sa valeur."
+    },
+    {
+     "h5": "Le soldat et le polémiste"
+    },
+    {
+     "p": "Étudiant au King’s College, l’actuelle université Columbia, il rejoint la révolution. Pendant quatre ans, il est l’aide de camp de George Washington, qui lui confie sa correspondance et le traite presque comme un fils. En 1780, il épouse Elizabeth Schuyler, fille d’un général et d’une puissante famille de l’État de New York : l’orphelin entre dans l’élite. Il obtient enfin un commandement à Yorktown, en 1781, où il mène l’assaut d’une redoute britannique. Après la guerre, avocat à New York, il milite pour une Constitution forte. Avec James Madison et John Jay, il écrit les Federalist Papers, 85 articles pour convaincre l’État de New York de la ratifier ; il en rédige 51."
+    },
+    {
+     "h5": "Le ministre qui inventa le crédit public"
+    },
+    {
+     "p": "En 1789, Washington le nomme premier secrétaire au Trésor. Le pays est en faillite. Les titres de la guerre d’indépendance se négocient parfois à 20 % de leur valeur, rachetés par des spéculateurs. Le 9 janvier 1790, Hamilton présente son premier rapport sur le crédit public. Sa thèse est simple et audacieuse : honorer chaque dollar de dette, au nom de la confiance. L’État fédéral reprendra les dettes des États ; les créanciers seront payés au pair ; le taux d’intérêt sera abaissé de 6 % à 4 %."
+    },
+    {
+     "stats": [
+      [
+       "79 M$",
+       "dette publique en 1790, ≈ 40 % du PIB"
+      ],
+      [
+       "≈ 90 %",
+       "part des droits de douane dans les recettes fédérales"
+      ],
+      [
+       "818",
+       "pages de la biographie"
+      ],
+      [
+       "11",
+       "Tony Awards pour la comédie musicale tirée du livre"
+      ]
+     ]
+    },
+    {
+     "p": "Le projet bute sur le Congrès. Les États du Sud, qui ont déjà remboursé une partie de leurs dettes, refusent de payer pour le Nord. Le 20 juin 1790, un dîner chez Thomas Jefferson réunit Hamilton et Madison. Le marché est conclu : le Sud accepte la reprise des dettes, Hamilton soutient l’installation de la future capitale sur le Potomac. Le Funding Act est signé le 4 août 1790. Le Congrès autorise la reprise de 21,5 millions de dollars de dettes d’États ; 18,3 millions seront effectivement repris."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La dette que Hamilton a mise en ordre",
+      "sub": "millions de dollars, 1790",
+      "rows": [
+       [
+        "Dette fédérale",
+        54
+       ],
+       [
+        "Dettes des États",
+        25
+       ],
+       [
+        "Reprise autorisée par le Congrès",
+        21.5
+       ],
+       [
+        "Reprise effective",
+        18.3
+       ]
+      ],
+      "prefix": "",
+      "suffix": " M$",
+      "note": "Sources : FMI, Finance & Développement, mars 2018 (estimation de Hamilton) ; Funding Act du 4 août 1790."
+     }
+    },
+    {
+     "p": "Suivent la Banque des États-Unis, en 1791, une banque à capitaux en majorité privés, chargée de gérer les fonds publics et de fournir du crédit, puis une Monnaie nationale, un service de garde-côtes contre la contrebande, l’ancêtre de l’actuel Coast Guard. Le rapport sur les manufactures, en décembre 1791, plaide pour protéger les industries naissantes. Pour Chernow, Hamilton a dessiné l’Amérique moderne : urbaine, industrielle, financière. Jefferson, qui rêvait d’une république de fermiers, écrira plus tard qu’il regrettait amèrement d’avoir été dupé par le secrétaire au Trésor."
+    },
+    {
+     "h5": "La chute"
+    },
+    {
+     "p": "Le livre ne cache rien des failles du personnage. En 1797, accusé de spéculation, Hamilton se défend en publiant un pamphlet où il avoue sa liaison avec une certaine Maria Reynolds, dont le mari le faisait chanter. Il s’innocente comme ministre en se ruinant comme homme public. En 1801, son fils Philip meurt dans un duel. Trois ans plus tard, il affronte à son tour Aaron Burr, vice-président et rival de toujours, à Weehawken, face à Manhattan. Blessé le 11 juillet 1804, il meurt le lendemain. Sa veuve, Eliza, consacrera cinquante ans à défendre sa mémoire."
+    },
+    {
+     "h5": "Limites et postérité"
+    },
+    {
+     "p": "On reproche à Chernow une certaine tendresse pour son héros : Jefferson et Adams sortent du livre diminués, et l’attitude de Hamilton face à l’esclavage est sans doute présentée sous son jour le plus favorable. Mais le portrait reste nuancé, et le talent du conteur est indéniable. Le reste appartient à la légende : Lin-Manuel Miranda achète le livre pour des vacances, y entend du hip-hop et en tire la comédie musicale Hamilton, créée en janvier 2015, puis couronnée par 11 Tony Awards et le prix Pulitzer. Chernow en a été le conseiller historique."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "Parce que la question de Hamilton n’a jamais été aussi actuelle. L’Europe a vécu en 2020 son propre « moment hamiltonien », quand l’Union a emprunté en commun pour son plan de relance. La confiance dans la dette d’un État ne se décrète pas de façon [[peremptoire|péremptoire]] : elle se construit par la fiabilité de l’impôt et le respect des engagements. Le livre montre aussi que la force d’une institution reste souvent [[latent|latente]] tant qu’une crise ne vient pas la révéler."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "La biographie de référence d’Alexander Hamilton, orphelin des Antilles devenu aide de camp de Washington, puis premier secrétaire au Trésor. Ron Chernow raconte comment il a bâti la dette fédérale, la banque nationale et la douane américaine, avant de mourir en duel en 1804. Elle a inspiré la comédie musicale Hamilton."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La dette comme ciment</b> : 79 millions de dollars de dette en 1790, ≈ 40 % du PIB ; l’État fédéral reprend les dettes des États et paie au pair.",
+      "<b>L’impôt</b> : douane, accises, garde-côtes ; les droits de douane font ≈ 90 % des recettes fédérales.",
+      "<b>La banque et l’industrie</b> : Banque des États-Unis en 1791, rapport sur les manufactures contre l’Amérique agraire de Jefferson.",
+      "<b>Le personnage</b> : génie travailleur, orgueilleux et imprudent ; il avoue lui-même sa liaison adultère et meurt dans un duel évitable.",
+      "<b>La postérité</b> : trois mois sur la liste des meilleures ventes du New York Times, prix George Washington 2005, puis la comédie musicale de Lin-Manuel Miranda en 2015."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "79 M$",
+       "dette publique en 1790, ≈ 40 % du PIB"
+      ],
+      [
+       "≈ 90 %",
+       "part des droits de douane dans les recettes fédérales"
+      ],
+      [
+       "818",
+       "pages de la biographie"
+      ],
+      [
+       "11",
+       "Tony Awards pour la comédie musicale tirée du livre"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "La dette que Hamilton a mise en ordre",
+      "sub": "millions de dollars, 1790",
+      "rows": [
+       [
+        "Dette fédérale",
+        54
+       ],
+       [
+        "Dettes des États",
+        25
+       ],
+       [
+        "Reprise autorisée par le Congrès",
+        21.5
+       ],
+       [
+        "Reprise effective",
+        18.3
+       ]
+      ],
+      "prefix": "",
+      "suffix": " M$",
+      "note": "Sources : FMI, Finance & Développement, mars 2018 (estimation de Hamilton) ; Funding Act du 4 août 1790."
+     }
+    },
+    {
+     "ul": [
+      "<b>La vie</b> : né à Nevis en 1755 ou 1757, commis à Sainte-Croix, aide de camp de Washington, Yorktown en 1781, auteur de 51 des 85 Federalist Papers.",
+      "<b>Le Trésor</b> : rapport du 9 janvier 1790 ; titres tombés à 20 % de leur valeur ; taux abaissé de 6 % à 4 %.",
+      "<b>Le compromis</b> : dîner du 20 juin 1790 chez Jefferson ; la capitale sur le Potomac contre la reprise des dettes ; Funding Act du 4 août 1790.",
+      "<b>La chute</b> : aveu de la liaison Reynolds en 1797, mort de son fils en 1801, duel avec Aaron Burr le 11 juillet 1804.",
+      "<b>Les limites</b> : un biographe tendre avec son héros, sévère avec Jefferson.",
+      "<b>La leçon</b> : la confiance dans une dette ne se décrète pas de façon [[peremptoire|péremptoire]] ; la force d’une institution reste [[latent|latente]] jusqu’à la crise."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "Droits de douane : Washington reconstruit son mur",
+   "by": "Analyse",
+   "fig": "14",
+   "figl": "économies visées par de nouveaux droits",
+   "min": 3,
+   "exMin": 2,
+   "src": "Bureau du représentant américain au commerce (USTR), communiqué du 25 novembre 2026 sur les 14 enquêtes au titre de la section 301. Holland & Knight, « USTR Proposes Tariffs Following 14 Section 301 Manufacturing Excess Capacity Investigations », novembre 2026. Euronews, 25 novembre 2026 (déficit commercial 2025, réaction chinoise). Données arrêtées au 25 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Les États-Unis rebâtissent leur barrière douanière sur de nouvelles fondations. Le 25 novembre, le représentant au commerce (USTR) a proposé des droits additionnels de 15 % à 35 % contre 14 économies, dont la Chine, l’Union européenne, le Japon et l’Inde. Motif officiel : des surcapacités industrielles nourries par les subventions. En février, la Cour suprême avait jugé illégaux les droits imposés au nom de la loi sur les pouvoirs d’urgence économique (IEEPA). Washington passe donc par une autre porte, plus lente mais plus solide juridiquement.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "14",
+       "économies visées par les nouvelles enquêtes"
+      ],
+      [
+       "15 %",
+       "taux proposé pour l’Union européenne"
+      ],
+      [
+       "35 %",
+       "taux le plus élevé, pour le Vietnam"
+      ],
+      [
+       "1 240 Md$",
+       "déficit commercial américain en biens, 2025"
+      ]
+     ]
+    },
+    {
+     "h": "Le mécanisme"
+    },
+    {
+     "p": "La section 301 de la loi sur le commerce de 1974 permet de sanctionner une pratique jugée déloyale, après enquête. Celles-ci ont été ouvertes le 11 mars, avec des auditions en mai. Les taux proposés reprennent, pour l’essentiel, ceux négociés depuis 2025 dans des accords bilatéraux : 15 % pour l’Europe, le Japon, la Corée, la Suisse et Taïwan, 18 % pour une grande partie de l’Asie du Sud-Est. Les pays sans accord sont plus durement traités : 25 % pour l’Inde, 35 % pour le Vietnam. Pour presque chaque pays, un taux de repli plus élevé est prévu si les discussions échouent : jusqu’à 40 % pour la Chine. Le Mexique et la Norvège, aussi visés par les enquêtes, sont épargnés pour l’instant."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les taux proposés par Washington",
+      "sub": "droit additionnel maximal proposé, en %",
+      "rows": [
+       [
+        "Vietnam",
+        35
+       ],
+       [
+        "Inde",
+        25
+       ],
+       [
+        "Chine",
+        20
+       ],
+       [
+        "Singapour",
+        20
+       ],
+       [
+        "Bangladesh, Cambodge, Indonésie, Malaisie, Thaïlande",
+        18
+       ],
+       [
+        "UE, Japon, Corée, Suisse, Taïwan",
+        15
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Source : USTR, communiqué du 25 novembre 2026. Pour la Chine, 20 % sur les produits hors annexes, 10 % sur l’annexe A, annexe B exemptée."
+     }
+    },
+    {
+     "h": "Ce qui est exclu"
+    },
+    {
+     "p": "Les produits déjà frappés au titre de la section 232, pour raison de sécurité nationale, sont exclus : acier, aluminium, cuivre, automobiles, bois, médicaments brevetés, semi-conducteurs. L’énergie, les métaux précieux, le café, le thé, le cacao et certaines viandes le sont aussi. Pour l’Europe, le taux de 15 % inclut les droits de douane habituels, et non s’y ajoute. Pékin a répondu que les guerres commerciales ne profitent à personne."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Rien n’est encore en vigueur : les commentaires sont attendus jusqu’au 5 janvier, les audiences commencent le 25 janvier. Le message de Washington est pourtant [[peremptoire|péremptoire]] : la défaite judiciaire ne signe pas la fin des droits de douane, elle en change seulement la base légale. Pour les entreprises, l’incertitude demeure : la trêve commerciale avec la Chine expirerait le 10 janvier. Le déficit commercial américain en biens, 1 240 milliards de dollars en 2025, reste la vraie cible."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : le 25 novembre, l’USTR propose des droits de 15 % à 35 % contre 14 économies, dont la Chine, l’UE, le Japon et l’Inde.",
+      "<b>Le contexte</b> : en février, la Cour suprême a annulé les droits fondés sur la loi d’urgence IEEPA ; Washington passe par la section 301."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "14",
+       "économies visées par les nouvelles enquêtes"
+      ],
+      [
+       "15 %",
+       "taux proposé pour l’Union européenne"
+      ],
+      [
+       "35 %",
+       "taux le plus élevé, pour le Vietnam"
+      ],
+      [
+       "1 240 Md$",
+       "déficit commercial américain en biens, 2025"
+      ]
+     ]
+    },
+    {
+     "h": "Le mécanisme"
+    },
+    {
+     "ul": [
+      "<b>Les taux</b> : 15 % pour l’UE, le Japon, la Corée, la Suisse et Taïwan ; 18 % pour une grande partie de l’Asie du Sud-Est ; 25 % pour l’Inde, 35 % pour le Vietnam.",
+      "<b>La menace</b> : un taux de repli plus élevé si les discussions échouent, jusqu’à 40 % pour la Chine ; Mexique et Norvège épargnés pour l’instant.",
+      "<b>Les exclusions</b> : produits de la section 232 (acier, autos, puces…), énergie, café, cacao, métaux précieux."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les taux proposés par Washington",
+      "sub": "droit additionnel maximal proposé, en %",
+      "rows": [
+       [
+        "Vietnam",
+        35
+       ],
+       [
+        "Inde",
+        25
+       ],
+       [
+        "Chine",
+        20
+       ],
+       [
+        "Singapour",
+        20
+       ],
+       [
+        "Bangladesh, Cambodge, Indonésie, Malaisie, Thaïlande",
+        18
+       ],
+       [
+        "UE, Japon, Corée, Suisse, Taïwan",
+        15
+       ]
+      ],
+      "prefix": "",
+      "suffix": " %",
+      "note": "Source : USTR, communiqué du 25 novembre 2026. Pour la Chine, 20 % sur les produits hors annexes, 10 % sur l’annexe A, annexe B exemptée."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le calendrier</b> : commentaires jusqu’au 5 janvier, audiences à partir du 25 janvier ; trêve chinoise jusqu’au 10 janvier.",
+      "<b>Le message</b> : [[peremptoire|péremptoire]] ; la défaite judiciaire change la base légale, pas la politique."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Îles Salomon : Canberra reprend la main face à Pékin",
+   "by": "Analyse",
+   "fig": "740 M AUD",
+   "figl": "aide australienne sur dix ans",
+   "min": 3,
+   "exMin": 2,
+   "src": "ABC News (Stephen Dziedzic), « Australia signs “historic” pact with Solomon Islands in blow to China », 25 novembre 2026. AFP via Jiji Press et The Manila Times, 25 et 26 novembre 2026 (montants, réaction chinoise, citation de Mihai Sora, Lowy Institute). The China-Global South Project, 25 novembre 2026. New York Times via Just Security, 24-25 novembre 2026. Contexte historique (RAMSI 2003-2017, émeutes de 2021) : Encyclopædia Britannica. Données arrêtées au 25 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le 25 novembre, à Canberra, le Premier ministre australien Anthony Albanese et son homologue des Îles Salomon, Matthew Wale, ont signé un traité qui fait de l’Australie le « partenaire de sécurité principal » de l’archipel. Honiara s’engage à n’accueillir aucune base militaire ou de sécurité étrangère. En échange, Canberra promet 740 millions de dollars australiens sur dix ans. C’est un revers pour la Chine, qui avait signé en 2022 un pacte de sécurité avec le précédent gouvernement.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "740 M AUD",
+       "aide australienne sur dix ans (670 M de dons, 70 M de prêts)"
+      ],
+      [
+       "2019",
+       "Honiara reconnaît Pékin plutôt que Taïwan"
+      ],
+      [
+       "Avril 2027",
+       "fin annoncée du pacte de sécurité avec la Chine"
+      ],
+      [
+       "15",
+       "ministres salomonais à Canberra pour la signature"
+      ]
+     ]
+    },
+    {
+     "h": "Ce que dit le traité"
+    },
+    {
+     "p": "Les infrastructures sensibles, ports, aéroports, énergie, télécommunications, devront rester à l’abri de toute militarisation et de toute ingérence étrangère. La coopération de sécurité devra venir des membres du Forum des îles du Pacifique ; avec tout autre pays, Honiara devra d’abord consulter Canberra. Le texte n’interdit pas pour autant les partenariats avec la Chine, et il ne s’applique pas aux contrats déjà signés. L’argent, 670 millions de dons et 70 millions de prêts à taux réduit, financera l’éducation gratuite, la santé, la police et le budget de l’État. L’Australie ouvre aussi des voies d’immigration pour travailler dans les soins aux personnes âgées et la garde d’enfants."
+    },
+    {
+     "h": "Le retournement"
+    },
+    {
+     "p": "L’archipel d’environ 720 000 habitants a longtemps été un pré carré australien : de 2003 à 2017, une mission régionale menée par Canberra, la RAMSI, y a rétabli l’ordre. Tout change sous Manasseh Sogavare, qui reconnaît Pékin plutôt que Taïwan en 2019, puis signe le pacte de 2022, qui pouvait ouvrir la voie à une présence navale chinoise permanente. Élu en mai, Matthew Wale a pris le chemin inverse. Selon un diplomate, Honiara a fait savoir à Pékin que le pacte ne serait pas renouvelé à son échéance, en avril 2027. Wale refuse de le confirmer, invoquant une clause de confidentialité."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Pékin, par la voix de son porte-parole Guo Jiakun, a averti que cette coopération ne devait viser aucun pays tiers. La rivalité reste [[latent|latente]] : la Chine conserve ses chantiers, sa police d’assistance et son influence économique. Mais l’Australie a désormais signé des accords de sécurité avec six pays du Pacifique. Le pari de Canberra est simple : payer plus que Pékin pour garder la porte fermée."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : le 25 novembre, l’Australie et les Îles Salomon signent un traité ; Canberra devient le « partenaire de sécurité principal ».",
+      "<b>L’engagement</b> : aucune base militaire étrangère dans l’archipel ; 740 millions de dollars australiens d’aide sur dix ans."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "740 M AUD",
+       "aide australienne sur dix ans (670 M de dons, 70 M de prêts)"
+      ],
+      [
+       "2019",
+       "Honiara reconnaît Pékin plutôt que Taïwan"
+      ],
+      [
+       "Avril 2027",
+       "fin annoncée du pacte de sécurité avec la Chine"
+      ],
+      [
+       "15",
+       "ministres salomonais à Canberra pour la signature"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>Les infrastructures</b> : ports, aéroports, énergie et télécoms à l’abri de toute ingérence ; consultation de Canberra avant tout accord avec un pays hors du Pacifique.",
+      "<b>L’argent</b> : 670 M de dons et 70 M de prêts pour l’éducation, la santé, la police et le budget ; visas de travail vers l’Australie.",
+      "<b>Le retournement</b> : Sogavare avait choisi Pékin en 2019 et signé un pacte en 2022 ; son successeur Matthew Wale, élu en mai, le laisserait expirer en avril 2027."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Pékin</b> : la coopération ne doit viser aucun tiers ; la rivalité reste [[latent|latente]].",
+      "<b>Le pari</b> : six accords de sécurité australiens dans le Pacifique ; payer plus que la Chine pour garder la porte fermée."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Pétroliers : la menace arrive aussi par le réseau",
+   "by": "Analyse",
+   "fig": "≈ 50",
+   "figl": "pétroliers visés par des cyberattaques",
+   "min": 3,
+   "exMin": 2,
+   "src": "The Maritime Executive, « WSJ Report: US Investigates Iran in 50 Tanker Cyberattacks », 24 novembre 2026, d’après The Wall Street Journal et le Financial Times ; « Two More Tankers Hit Off Oman », 22 novembre 2026 (chiffres de l’UKMTO). US Coast Guard, règle sur la cybersécurité maritime (échéance de juillet 2027). A.P. Møller-Maersk, rapport intermédiaire du 2e trimestre 2017 (coût de NotPetya). Données arrêtées au 24 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Les pétroliers ne craignent plus seulement les mines et les drones du détroit d’Ormuz. Selon le Wall Street Journal, jusqu’à 50 navires-citernes, transportant du brut, du gaz ou des produits chimiques, ont subi des cyberattaques ces derniers mois. Les enquêteurs américains soupçonnent l’Iran ; certains évoquent la Russie. La crainte : qu’un pirate provoque une explosion, une collision ou une marée noire dans un port loin du Moyen-Orient.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "≈ 50",
+       "pétroliers visés par des cyberattaques en quelques mois"
+      ],
+      [
+       "319 547 t",
+       "port en lourd du VL Prosperity, menacé d’une bombe"
+      ],
+      [
+       "4",
+       "navires inspectés à l’approche des États-Unis"
+      ],
+      [
+       "Juillet 2027",
+       "entrée en vigueur des règles cyber des garde-côtes"
+      ]
+     ]
+    },
+    {
+     "h": "Comment ils entrent"
+    },
+    {
+     "p": "Les garde-côtes américains et le FBI ont identifié une porte d’entrée : des failles dans les pare-feu FortiGate du fabricant Fortinet, très répandus dans le transport maritime. Un navire moderne est un réseau flottant : navigation, moteurs, ballasts et cargaison sont pilotés par informatique, et reliés à terre par satellite. Les attaques prennent des formes variées : messages menaçants envoyés aux officiers, parfois en farsi, alertes à la bombe. Le VL Prosperity, un supertanker géré par le coréen HMM, a reçu une menace d’explosion accompagnée d’une demande de rançon. Au moins quatre navires ont été inspectés en mer avant d’approcher des côtes américaines."
+    },
+    {
+     "h": "Les ports aussi"
+    },
+    {
+     "p": "À terre, le Financial Times rapporte des centaines de tentatives d’intrusion contre les ports de Corpus Christi, premier port pétrolier américain, et de Los Angeles. Une panne des portails d’accès au port de Wilmington, en Caroline du Nord, a été attribuée à une cyberattaque : quand les portails tombent, les camions ne peuvent plus entrer ni sortir, et les conteneurs s’accumulent sur les quais. Le précédent hante le secteur : en 2017, le virus NotPetya avait paralysé les systèmes de Maersk pendant des jours, pour un coût estimé par le groupe entre 200 et 300 millions de dollars. Un responsable de l’administration Trump juge pourtant ces incidents mineurs et ne voit aucune preuve d’une implication iranienne."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La menace numérique était [[latent|latente]] ; la guerre avec l’Iran l’a rendue concrète. Les garde-côtes imposent de nouvelles règles : d’ici juillet 2027, chaque armateur et chaque terminal devra désigner un responsable de la cybersécurité, évaluer ses failles et soumettre un plan. Pour les chargeurs, c’est un risque de plus à intégrer dans la cartographie des flux, au même titre que la météo ou les grèves."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : jusqu’à 50 pétroliers visés par des cyberattaques ces derniers mois, selon le Wall Street Journal.",
+      "<b>Les suspects</b> : l’Iran, peut-être la Russie ; crainte d’une explosion ou d’une marée noire dans un port lointain."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "≈ 50",
+       "pétroliers visés par des cyberattaques en quelques mois"
+      ],
+      [
+       "319 547 t",
+       "port en lourd du VL Prosperity, menacé d’une bombe"
+      ],
+      [
+       "4",
+       "navires inspectés à l’approche des États-Unis"
+      ],
+      [
+       "Juillet 2027",
+       "entrée en vigueur des règles cyber des garde-côtes"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>La faille</b> : les pare-feu FortiGate de Fortinet, très répandus à bord ; un navire moderne est un réseau flottant.",
+      "<b>Les attaques</b> : menaces aux officiers, alertes à la bombe ; rançon exigée au supertanker VL Prosperity, géré par HMM.",
+      "<b>Les ports</b> : centaines de tentatives contre Corpus Christi et Los Angeles ; portails de Wilmington en panne.",
+      "<b>Le précédent</b> : NotPetya a coûté 200 à 300 millions de dollars à Maersk en 2017."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La menace</b> : [[latent|latente]] depuis longtemps, rendue concrète par la guerre avec l’Iran.",
+      "<b>La réponse</b> : d’ici juillet 2027, un responsable cyber, un audit et un plan pour chaque armateur et terminal."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Deere : la ferme cale, le chantier tient",
+   "by": "Analyse",
+   "fig": "− 15 %",
+   "figl": "ventes de grandes machines agricoles",
+   "min": 3,
+   "exMin": 2,
+   "src": "Deere & Company, communiqué de résultats du 4e trimestre et de l’exercice 2026, 25 novembre 2026 (formulaire 8-K, pièce 99.1, SEC). Rapports annuels 2023 et 2024 pour les bénéfices antérieurs. Données arrêtées au 25 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le géant américain des tracteurs verts a publié ses comptes annuels le 25 novembre. Bénéfice net de l’exercice clos le 1er novembre : 4,86 milliards de dollars, en baisse de 3 %, après 5,03 milliards en 2025. C’est le troisième recul d’affilée depuis le record de 2023. Pourtant le chiffre d’affaires progresse de 4 %, à 47,7 milliards. L’explication tient en deux mots : l’agriculture souffre, le bâtiment compense.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "4,86 Md$",
+       "bénéfice net 2026, − 3 %"
+      ],
+      [
+       "− 15 %",
+       "ventes de grandes machines agricoles au 4e trimestre"
+      ],
+      [
+       "+ 22 %",
+       "ventes de la construction sur l’année"
+      ],
+      [
+       "4,5 à 5,25 Md$",
+       "bénéfice net visé en 2027"
+      ]
+     ]
+    },
+    {
+     "h": "Deux métiers, deux cycles"
+    },
+    {
+     "p": "La division des grandes machines agricoles, moissonneuses et gros tracteurs, est la plus touchée : ses ventes reculent de 15 % au quatrième trimestre et son bénéfice d’exploitation d’un tiers. Les céréaliers américains, pris entre des prix agricoles faibles et des coûts élevés, repoussent leurs achats. À l’inverse, la construction et l’exploitation forestière bondissent de 22 % sur l’année, et les petits tracteurs et tondeuses de 15 %. Ce dernier pôle voit sa marge trimestrielle passer de 1 % à 8,6 %. Les droits de douane ont pesé sur les coûts de production ; Deere a toutefois enregistré 383 millions de dollars de remboursements de droits en 2026. Sa filiale financière, qui prête aux agriculteurs, voit son bénéfice trimestriel reculer de 21 %."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Trois ans de repli après le sommet",
+      "sub": "bénéfice net de Deere, milliards de dollars, exercices clos fin octobre",
+      "labels": [
+       "2023",
+       "2024",
+       "2025",
+       "2026"
+      ],
+      "series": [
+       {
+        "name": "Bénéfice net",
+        "values": [
+         10.17,
+         7.1,
+         5.03,
+         4.86
+        ]
+       }
+      ],
+      "note": "Sources : Deere & Company, rapports annuels 2023 et 2024, communiqué du 25 novembre 2026."
+     }
+    },
+    {
+     "h": "Le pari de 2027"
+    },
+    {
+     "p": "Le directeur général, John May, voit les premiers signes d’amélioration pour les grandes machines, en Amérique du Nord d’abord. Deere prévoit une hausse de 5 % à 15 % de ce marché aux États-Unis et au Canada, un marché européen stable ou en baisse de 5 %, et un Brésil stable ou en hausse de 5 %. Le bénéfice net visé, de 4,5 à 5,25 milliards, inclut une charge exceptionnelle de 0,25 à 0,4 milliard liée aux retraites. La fourchette est volontairement large : la direction se garde de tout pronostic [[peremptoire|péremptoire]]."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Même au creux du cycle, Deere gagne près de 5 milliards de dollars : selon la direction, ses résultats sont structurellement meilleurs qu’au même stade du cycle précédent. Sa stratégie de machines connectées et d’agriculture de précision, qui vend aussi des logiciels et des services, lisse les à-coups. Le rebond est espéré, mais il dépendra d’un facteur que l’entreprise ne contrôle pas : le revenu des agriculteurs."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : bénéfice net 2026 de 4,86 milliards de dollars, − 3 %, troisième recul depuis le record de 2023.",
+      "<b>Le paradoxe</b> : chiffre d’affaires en hausse de 4 %, à 47,7 milliards."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "4,86 Md$",
+       "bénéfice net 2026, − 3 %"
+      ],
+      [
+       "− 15 %",
+       "ventes de grandes machines agricoles au 4e trimestre"
+      ],
+      [
+       "+ 22 %",
+       "ventes de la construction sur l’année"
+      ],
+      [
+       "4,5 à 5,25 Md$",
+       "bénéfice net visé en 2027"
+      ]
+     ]
+    },
+    {
+     "h": "Le détail"
+    },
+    {
+     "ul": [
+      "<b>L’agriculture</b> : grandes machines − 15 % au 4e trimestre, bénéfice d’exploitation − 33 % ; les céréaliers repoussent leurs achats.",
+      "<b>Le bâtiment</b> : construction et forêt + 22 % sur l’année ; petits tracteurs + 15 %, marge trimestrielle de 1 % à 8,6 %.",
+      "<b>Les droits de douane</b> : ils pèsent sur les coûts, mais 383 millions de dollars de remboursements enregistrés en 2026.",
+      "<b>La finance</b> : bénéfice trimestriel de la filiale de crédit − 21 %."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Trois ans de repli après le sommet",
+      "sub": "bénéfice net de Deere, milliards de dollars, exercices clos fin octobre",
+      "labels": [
+       "2023",
+       "2024",
+       "2025",
+       "2026"
+      ],
+      "series": [
+       {
+        "name": "Bénéfice net",
+        "values": [
+         10.17,
+         7.1,
+         5.03,
+         4.86
+        ]
+       }
+      ],
+      "note": "Sources : Deere & Company, rapports annuels 2023 et 2024, communiqué du 25 novembre 2026."
+     }
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>2027</b> : bénéfice visé de 4,5 à 5,25 milliards ; grandes machines + 5 à 15 % en Amérique du Nord ; pas de pronostic [[peremptoire|péremptoire]].",
+      "<b>La clé</b> : le revenu des agriculteurs, que Deere ne contrôle pas."
+     ]
+    }
+   ]
+  }
+ ]
+}

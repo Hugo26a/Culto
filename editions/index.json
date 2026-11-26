@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-25",
+ "latest": "2026-11-26",
  "editions": [
+  {
+   "date": "2026-11-26",
+   "label": "Jeudi 26 novembre",
+   "words": [
+    "Latent",
+    "Péremptoire"
+   ],
+   "items": [
+    [
+     "lit",
+     "Au cœur des ténèbres"
+    ],
+    [
+     "essai",
+     "Alexander Hamilton"
+    ],
+    [
+     "eco",
+     "Droits de douane : Washington reconstruit son mur"
+    ],
+    [
+     "geo",
+     "Îles Salomon : Canberra reprend la main face à Pékin"
+    ],
+    [
+     "log",
+     "Pétroliers : la menace arrive aussi par le réseau"
+    ],
+    [
+     "ent",
+     "Deere : la ferme cale, le chantier tient"
+    ]
+   ]
+  },
   {
    "date": "2026-11-25",
    "label": "Mercredi 25 novembre",
