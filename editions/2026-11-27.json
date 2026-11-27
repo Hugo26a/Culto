@@ -1,0 +1,1072 @@
+{
+ "date": "2026-11-27",
+ "label": "Vendredi 27 novembre 2026",
+ "n": 35,
+ "example": false,
+ "week": {
+  "start": "2026-11-23",
+  "label": "Semaine du 23 novembre",
+  "day": 5,
+  "words": [
+   {
+    "key": "latent",
+    "w": "Latent",
+    "ph": "[la.tɑ̃] · adjectif",
+    "short": "Qui existe déjà sans encore se manifester ouvertement.",
+    "def": "Se dit de ce qui est présent mais caché, en attente de se révéler : un conflit latent, un risque latent, une demande latente. Le mot décrit une réalité qui couve et peut éclater à la moindre occasion. Il est précieux dans le travail, pour désigner un problème que tout le monde pressent sans que personne l’ait encore nommé, ou un besoin que les clients n’expriment pas encore. Son contraire est « manifeste » ou « déclaré ».",
+    "ety": "Du latin latens, participe présent de latere, « être caché ». La même racine a donné « latence », le temps qui sépare une cause de son effet, très employé en médecine comme en informatique.",
+    "ex": "Le conflit entre les équipes était latent depuis la réorganisation : le retard du chantier l’a simplement fait éclater.",
+    "syn": "sous-jacent, larvé, dormant, caché, potentiel"
+   },
+   {
+    "key": "peremptoire",
+    "w": "Péremptoire",
+    "ph": "[pe.ʁɑ̃p.twaʁ] · adjectif",
+    "short": "Qui tranche d’autorité, sans admettre de réplique.",
+    "def": "Se dit d’un ton, d’un argument ou d’une personne qui coupe court à toute discussion. Un argument péremptoire est décisif, impossible à contester ; un ton péremptoire est cassant, parfois arrogant. Le mot sert donc à la fois à saluer une preuve imparable et à critiquer quelqu’un qui affirme sans laisser la place au doute. En réunion, il qualifie bien une affirmation trop sûre d’elle.",
+    "ety": "Du latin juridique peremptorius, « qui détruit, qui met fin », formé sur perimere, « anéantir ». En droit, une exception péremptoire est un moyen qui met fin au procès. Le sens s’est élargi à toute parole qui clôt le débat.",
+    "ex": "Le fournisseur a répondu de façon péremptoire que le délai était impossible, sans même regarder notre proposition.",
+    "syn": "catégorique, tranchant, impérieux, sans appel, cassant"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "lit",
+   "r": "lit",
+   "kind": "book",
+   "title": "Bartleby le scribe",
+   "by": "Herman Melville · 1853",
+   "tagline": "Je préférerais ne pas",
+   "min": 10,
+   "exMin": 4,
+   "src": "Herman Melville, « Bartleby, the Scrivener. A Story of Wall-Street », Putnam’s Monthly Magazine, novembre et décembre 1853 ; repris dans The Piazza Tales (Dix & Edwards, 1856). Œuvre dans le domaine public (l’auteur est mort en 1891). Citation : dernière ligne, traduction de la rédaction à partir du texte original (Projet Gutenberg n° 11231). Gilles Deleuze, « Bartleby, ou la formule », postface à Bartleby, Flammarion, 1989. Biographie : Encyclopædia Britannica.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "Un vieil avocat de Wall Street engage un copiste pâle et silencieux, Bartleby. Un jour, celui-ci répond à une demande banale : « Je préférerais ne pas. » Il finit par ne plus rien faire du tout, refuse de partir, et meurt en prison, sans jamais s’expliquer."
+      ],
+      [
+       "Le pouvoir d’une phrase",
+       "Bartleby ne crie pas, ne se révolte pas, n’argumente pas. Sa formule polie, ni oui ni non, désarme toute autorité. Face à elle, les ordres [[peremptoire|péremptoires]] de son patron tombent dans le vide."
+      ],
+      [
+       "Un récit sur le travail",
+       "Sous-titrée « Une histoire de Wall Street », la nouvelle décrit un bureau où des hommes recopient des actes à la main, face à des murs. C’est l’un des premiers grands textes sur l’aliénation du travail de bureau."
+      ],
+      [
+       "Le vrai sujet est le narrateur",
+       "L’avocat se croit bon et raisonnable. Il passe de l’agacement à la pitié, puis à la fuite. Son malaise révèle les limites de la charité quand elle ne veut rien changer à l’ordre établi."
+      ],
+      [
+       "Une énigme volontaire",
+       "Melville ne donne aucune clé. Le seul indice est une rumeur finale : Bartleby aurait travaillé au service des lettres mortes. Chaque époque y a lu sa propre crise : dépression, grève, refus politique."
+      ],
+      [
+       "Pour en parler",
+       "On cite « Je préférerais ne pas » pour désigner un refus passif, poli et obstiné. Gilles Deleuze et Giorgio Agamben en ont fait une figure majeure de la philosophie du XXe siècle."
+      ]
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "h5": "Un bureau entre deux murs"
+    },
+    {
+     "p": "Le narrateur est un avocat new-yorkais d’un certain âge. Il le dit lui-même : il aime les affaires tranquilles, les titres de propriété et les hypothèques, pas les plaidoiries. Son cabinet se trouve à Wall Street. Ses fenêtres donnent d’un côté sur le mur blanc d’une cour intérieure, de l’autre sur un mur de briques noircies, à quelques mètres à peine. Il emploie deux copistes et un garçon de bureau. Turkey, un Anglais d’une soixantaine d’années, travaille très bien le matin, puis devient rouge, brouillon et irritable après le déjeuner. Nippers, vingt-cinq ans, rongé par l’ambition et les aigreurs d’estomac, est nerveux le matin et calme l’après-midi. Les deux humeurs se relaient, si bien que le bureau tourne. Ginger Nut, douze ans, fait les courses et rapporte des biscuits au gingembre.",
+     "lead": 1
+    },
+    {
+     "h5": "Le copiste modèle"
+    },
+    {
+     "p": "Une nouvelle charge alourdit le travail. L’avocat passe une annonce. Un matin se présente un jeune homme immobile sur le seuil, « pâlement propre, pitoyablement respectable ». C’est Bartleby. Son patron l’installe dans un coin de son propre bureau, derrière un paravent vert, près d’une fenêtre qui donne sur un mur. Les premiers jours, Bartleby copie sans relâche, de jour comme à la chandelle, avec une application silencieuse. Il ne parle pas, ne sort pas, ne semble se nourrir que de biscuits au gingembre."
+    },
+    {
+     "h5": "« Je préférerais ne pas »"
+    },
+    {
+     "p": "Le troisième jour, l’avocat l’appelle pour vérifier avec lui une copie. Bartleby répond doucement, sans bouger : il préférerait ne pas. Le patron, sidéré, répète sa demande. Même réponse, sur le même ton. Il n’y a dans la voix aucune insolence, aucun trouble. Les jours suivants, la scène se répète. Turkey propose de le frapper, Nippers de le jeter dehors. L’avocat hésite. Il se dit que ce garçon lui est utile, qu’il ne coûte presque rien, et qu’être patient avec lui est une bonne action à peu de frais. Mais chaque refus entame un peu plus son autorité. La formule contamine même le bureau : sans s’en rendre compte, les employés se mettent à dire « préférer » à tout propos."
+    },
+    {
+     "h5": "Le dimanche à Wall Street"
+    },
+    {
+     "p": "Un dimanche matin, l’avocat passe à son cabinet et trouve la porte fermée de l’intérieur. Bartleby, en manches de chemise, lui demande poliment de revenir plus tard. Le patron s’exécute, troublé. À son retour, il découvre que son employé vit là : une couverture sous un vieux canapé, une boîte de cirage, un peu de savon, quelques pièces nouées dans un mouchoir. Il comprend la solitude totale de cet homme, dans un quartier qui, le dimanche, est aussi désert que Pétra. La pitié l’envahit, puis une sorte de peur."
+    },
+    {
+     "h5": "Le refus total"
+    },
+    {
+     "p": "Bientôt, Bartleby cesse complètement de copier. Il reste debout devant sa fenêtre, à fixer le mur. Ses yeux, dit-il, ne sont pas en cause : il a simplement décidé de ne plus écrire. L’avocat le congédie, lui laisse son salaire et vingt dollars de plus, et part en se félicitant de sa fermeté. Le lendemain, Bartleby est toujours là. Le patron cherche du réconfort dans des traités de philosophie sur la volonté et la nécessité. Il se persuade un temps que Bartleby lui a été envoyé par la Providence. Puis les rumeurs de ses confrères l’inquiètent. Ne pouvant chasser son employé, il déménage son cabinet."
+    },
+    {
+     "h5": "L’homme sur la rampe"
+    },
+    {
+     "p": "Le nouveau locataire se plaint : Bartleby refuse de quitter les lieux, puis s’installe sur la rampe de l’escalier le jour et dort dans l’entrée la nuit. Le propriétaire menace l’avocat. Celui-ci revient et propose tout : un emploi de commis, de barman, d’encaisseur, un voyage en Europe comme compagnon d’un jeune homme riche. Bartleby préfère ne pas, en ajoutant qu’il n’est « pas difficile ». L’avocat va jusqu’à l’inviter chez lui. Refus. Il s’enfuit alors et erre plusieurs jours en voiture dans les environs de New York pour ne plus être joint."
+    },
+    {
+     "h5": "Les Tombes"
+    },
+    {
+     "p": "À son retour, il apprend que Bartleby a été arrêté comme vagabond et conduit aux Tombes, la prison de la ville. L’avocat lui rend visite. Bartleby, tourné vers un mur, lui dit qu’il le connaît et n’a rien à lui dire. Le narrateur paie un employé pour qu’il le nourrisse bien. Mais Bartleby préfère ne pas dîner. Quelques jours plus tard, l’avocat le trouve recroquevillé au pied du mur de la cour, les genoux ramenés, mort."
+    },
+    {
+     "h5": "La rumeur"
+    },
+    {
+     "p": "Dans un dernier paragraphe, le narrateur rapporte un bruit qu’il n’a pu vérifier : Bartleby aurait été commis au service des lettres mortes à Washington, renvoyé lors d’un changement d’administration. Il imagine ce travail : trier des lettres jamais arrivées, contenant un pardon, un espoir, un billet de banque, destinées à des gens morts entre-temps. Puis il conclut par un soupir."
+    },
+    {
+     "quote": "Ah, Bartleby ! Ah, humanité !",
+     "cite": "Herman Melville, Bartleby le scribe, dernière ligne (1853), traduction de la rédaction"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "h5": "Contexte de publication"
+    },
+    {
+     "p": "La nouvelle paraît anonymement en deux livraisons, en novembre et décembre 1853, dans le Putnam’s Monthly Magazine, avec le sous-titre « Une histoire de Wall Street ». Melville l’intègre en 1856 au recueil Les Contes de la véranda. Il a trente-quatre ans. Moby Dick, publié en 1851, a été un échec commercial, et Pierre ou les ambiguïtés, en 1852, un désastre critique. L’auteur, endetté, écrit pour les magazines pour vivre. Beaucoup de critiques voient dans Bartleby un double de l’écrivain lui-même, qui préfère ne plus écrire ce que le public attend."
+    },
+    {
+     "h5": "Un narrateur qui se trahit"
+    },
+    {
+     "p": "Le génie du texte est de confier le récit à l’avocat. Il se présente comme un homme sûr de lui, prudent, généreux. Mais tout ce qu’il raconte le dément peu à peu : il calcule ce que lui rapporte sa patience, il s’inquiète de sa réputation, il fuit au lieu d’agir. Sa bonté réelle reste prisonnière de sa peur. Le lecteur voit ce que le narrateur ne voit pas : il est l’homme le plus troublé de l’histoire."
+    },
+    {
+     "h5": "La formule"
+    },
+    {
+     "p": "« I would prefer not to » est grammaticalement correcte mais étrange. Elle n’oppose pas un « non » qu’on pourrait combattre ; elle exprime une préférence, sans objet ni raison. Dans son essai « Bartleby, ou la formule » (1989), Gilles Deleuze montre qu’elle creuse une zone d’indétermination où ni l’ordre ni la désobéissance n’ont plus prise. Le patron ne peut ni convaincre ni punir. Le pouvoir, qui sait affronter une révolte, est désarmé par une absence."
+    },
+    {
+     "h5": "Murs et lettres mortes"
+    },
+    {
+     "p": "Les murs sont partout : devant les fenêtres, derrière le paravent, dans la cour de la prison. Wall Street, la « rue du Mur », donne au récit son titre caché. Les copistes eux-mêmes reproduisent des textes qu’ils ne lisent pas, comme les lettres mortes qui ne trouvent jamais leur destinataire. Le récit installe ainsi un désespoir [[latent|latent]], jamais nommé, qui ne se déclare qu’à la dernière page."
+    },
+    {
+     "h5": "Pourquoi le lire aujourd’hui"
+    },
+    {
+     "p": "En moins de cinquante pages, Melville pose des questions très actuelles : que doit-on à un collègue en souffrance ? Jusqu’où va la responsabilité d’un employeur ? Que signifie refuser sans se battre ? Le désengagement silencieux de salariés qui font le strict minimum a été comparé à Bartleby. Le texte se lit en une heure et se discute pendant des années. Pour un manager, il rappelle qu’un refus calme cache souvent une crise que l’autorité seule ne règle pas."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "Un vieil avocat de Wall Street engage un copiste pâle et silencieux, Bartleby. Un jour, à une demande banale, celui-ci répond : « Je préférerais ne pas. » Il cesse peu à peu tout travail, refuse de partir, et meurt en prison sans s’expliquer. Nouvelle de 1853, d’Herman Melville."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le pouvoir d’une phrase</b> : ni oui ni non, la formule polie de Bartleby désarme toute autorité ; les ordres [[peremptoire|péremptoires]] du patron tombent dans le vide.",
+      "<b>Un récit sur le travail</b> : sous-titré « Une histoire de Wall Street », un des premiers grands textes sur l’aliénation au bureau.",
+      "<b>Le vrai sujet est le narrateur</b> : l’avocat passe de l’agacement à la pitié, puis à la fuite ; sa charité refuse de rien changer.",
+      "<b>Une énigme volontaire</b> : aucune explication, sauf une rumeur finale sur le service des lettres mortes.",
+      "<b>Pour en parler</b> : « Je préférerais ne pas » désigne un refus passif, poli et obstiné ; Deleuze et Agamben en ont fait une figure philosophique."
+     ]
+    },
+    {
+     "h": "Résumé"
+    },
+    {
+     "ul": [
+      "<b>Le bureau</b> : un avocat prudent, des fenêtres face à deux murs, deux copistes aux humeurs alternées (Turkey, Nippers) et un garçon de douze ans.",
+      "<b>Le copiste modèle</b> : Bartleby, installé derrière un paravent vert, copie sans relâche et ne se nourrit que de biscuits au gingembre.",
+      "<b>Le premier refus</b> : le troisième jour, prié de vérifier une copie, il « préférerait ne pas » ; le patron cède, par calcul et par pitié.",
+      "<b>Le dimanche</b> : l’avocat découvre que Bartleby vit dans le cabinet, seul dans un quartier désert.",
+      "<b>Le refus total</b> : Bartleby cesse de copier ; congédié, il reste ; l’avocat finit par déménager.",
+      "<b>La rampe</b> : Bartleby occupe l’escalier, refuse tous les emplois proposés et même l’hospitalité du narrateur, qui s’enfuit.",
+      "<b>La fin</b> : arrêté comme vagabond, Bartleby refuse de manger et meurt au pied d’un mur de la prison des Tombes.",
+      "<b>La rumeur</b> : il aurait trié des lettres jamais distribuées à Washington."
+     ]
+    },
+    {
+     "quote": "Ah, Bartleby ! Ah, humanité !",
+     "cite": "Herman Melville, Bartleby le scribe, dernière ligne (1853), traduction de la rédaction"
+    },
+    {
+     "h": "Analyse littéraire"
+    },
+    {
+     "ul": [
+      "<b>Contexte</b> : paru en 1853 dans le Putnam’s Monthly Magazine, après les échecs de Moby Dick (1851) et de Pierre (1852) ; Melville écrit pour vivre.",
+      "<b>Le narrateur</b> : il se croit bon, mais calcule, s’inquiète de sa réputation et fuit ; le lecteur voit ce qu’il ne voit pas.",
+      "<b>La formule</b> : selon Deleuze (1989), elle crée une zone où ni l’ordre ni la désobéissance n’ont prise.",
+      "<b>Les symboles</b> : les murs de Wall Street, les copies jamais lues, les lettres mortes installent un désespoir [[latent|latent]].",
+      "<b>Aujourd’hui</b> : une parabole sur le désengagement au travail et les limites de l’autorité face à un refus calme ; une nouvelle courte, qui se lit en une heure."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essai",
+   "r": "essai",
+   "kind": "book",
+   "title": "Les Conséquences économiques de la paix",
+   "by": "John Maynard Keynes · 1919",
+   "min": 9,
+   "exMin": 3,
+   "src": "John Maynard Keynes, The Economic Consequences of the Peace, Macmillan, Londres, décembre 1919 (domaine public, l’auteur est mort en 1946). Ventes et traductions : Ann Pettifor, « The Economic Consequences of the Peace at 100 », Nature, vol. 573, 26 septembre 2019 ; Marshall Library, université de Cambridge (d’après Robert Skidelsky, 1983). Étienne Mantoux, La Paix calomniée ou les conséquences économiques de M. Keynes, Gallimard, 1946. État des paiements de Londres (mai 1921), plans Dawes (1924) et Young (1929), conférence de Lausanne (1932) : Encyclopædia Britannica. Total versé : ordre de grandeur couramment retenu par les historiens.",
+   "blocks": [
+    {
+     "h": "À retenir"
+    },
+    {
+     "keys": [
+      [
+       "Le livre en bref",
+       "En 1919, un jeune économiste du Trésor britannique quitte la conférence de la paix à Paris, écœuré. En quelques semaines, il écrit un réquisitoire contre le traité de Versailles : en voulant ruiner l’Allemagne, les vainqueurs condamnent l’Europe entière à la misère et préparent de nouveaux désordres."
+      ],
+      [
+       "L’Europe est une seule économie",
+       "Avant 1914, le continent formait un réseau serré de charbon, de crédit et de commerce, avec l’Allemagne au centre. Frapper ce cœur, c’est affamer les membres, vainqueurs compris."
+      ],
+      [
+       "Des réparations impayables",
+       "Keynes juge que l’Allemagne peut payer au plus 2 milliards de livres, environ 40 milliards de marks-or. En 1921, les Alliés en exigeront 132 milliards."
+      ],
+      [
+       "Une paix « carthaginoise »",
+       "Le traité vise à écraser un rival plutôt qu’à reconstruire. Keynes y voit la victoire de la politique et de la vengeance sur l’économie."
+      ],
+      [
+       "Un plan de rechange",
+       "Réduire les réparations, annuler les dettes entre Alliés, lancer un grand emprunt international et créer une zone de libre-échange européenne."
+      ],
+      [
+       "Un succès mondial, un débat sans fin",
+       "Plus de 100 000 exemplaires vendus en un an, douze traductions. Le livre fait de Keynes une célébrité, mais on lui reprochera d’avoir nourri le refus de faire respecter le traité."
+      ]
+     ]
+    },
+    {
+     "h": "Le livre en profondeur"
+    },
+    {
+     "h5": "Un témoin qui claque la porte"
+    },
+    {
+     "p": "John Maynard Keynes a trente-cinq ans en 1919. Il représente le Trésor britannique à la conférence de Paris, où les vainqueurs de la Grande Guerre fixent le sort de l’Allemagne. Il y voit de près les « quatre grands » : Clemenceau, Wilson, Lloyd George et Orlando. Pendant toute la guerre, il a géré au Trésor les emprunts et les achats de devises des Alliés : il connaît de l’intérieur l’enchevêtrement des dettes entre Londres, Paris et Washington. Convaincu que les clauses économiques mènent à la catastrophe, il quitte la délégation au printemps et démissionne. Le traité est signé à Versailles le 28 juin 1919. Retiré dans la campagne anglaise, Keynes écrit vite. Le livre paraît chez Macmillan en décembre 1919.",
+     "lead": 1
+    },
+    {
+     "h5": "Le monde d’avant"
+    },
+    {
+     "p": "Le livre compte sept chapitres. Le deuxième, célèbre, décrit l’Europe d’avant-guerre comme une machine fragile. Un habitant de Londres pouvait, en buvant son thé, commander par téléphone les produits du monde entier et placer son argent sur tous les continents. Cette prospérité reposait sur une démographie dynamique, sur le charbon allemand, sur l’épargne des classes aisées et sur un commerce ouvert. L’Allemagne était le premier client de la Russie, de la Norvège, de la Belgique, de la Suisse ou de l’Italie. Pour Keynes, une fragilité [[latent|latente]] existait déjà avant 1914 : la guerre a brisé cet équilibre, et la paix doit le réparer, non l’achever."
+    },
+    {
+     "h5": "Les portraits de la conférence"
+    },
+    {
+     "p": "Le troisième chapitre a fait scandale. Keynes peint Clemenceau en vieux patriote sans illusions, qui ne croit qu’à la force et veut affaiblir l’Allemagne pour une génération. Wilson arrive en prophète, mais se révèle lent, sans plan précis et incapable de suivre les manœuvres de ses partenaires ; Keynes le compare à un Don Quichotte aveugle et sourd. Lloyd George, enfin, est un virtuose de l’instant, plus soucieux de ses électeurs que de l’avenir. Ces pages, d’une ironie mordante, ont autant fait pour le succès du livre que ses chiffres."
+    },
+    {
+     "h5": "Le cœur du livre : la facture"
+    },
+    {
+     "p": "Le cinquième chapitre, sur les réparations, est le plus technique. Keynes y passe en revue ce que l’Allemagne pourrait céder : or, navires, avoirs à l’étranger, charbon, puis surtout ses futurs excédents commerciaux. Or le traité lui retire ses colonies, sa flotte marchande, la Sarre et une partie de la Haute-Silésie, ses bassins de charbon et de fer. Comment exporter davantage en ayant moins de quoi produire ? Sa conclusion est [[peremptoire|péremptoire]] : au-delà de 2 milliards de livres, la somme est impayable. Les Alliés, eux, laissent le montant ouvert, renvoyé à une commission. En mai 1921, l’état des paiements de Londres le fixe à 132 milliards de marks-or, dont seulement 50 milliards réellement exigibles, sous forme d’obligations dites A et B."
+    },
+    {
+     "stats": [
+      [
+       "132 Md",
+       "marks-or exigés de l’Allemagne en 1921"
+      ],
+      [
+       "≈ 40 Md",
+       "marks-or : le plafond jugé payable par Keynes (2 Md£)"
+      ],
+      [
+       "100 000",
+       "exemplaires vendus en moins d’un an"
+      ],
+      [
+       "12",
+       "langues de traduction dès les premières années"
+      ]
+     ]
+    },
+    {
+     "p": "Keynes ajoute un argument moral et politique. Réduire un peuple à la pauvreté pendant une génération, écrit-il, c’est semer la révolte. Il annonce que la vengeance appellera la vengeance, et que les pays affamés d’Europe centrale pourraient basculer dans le chaos."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les réparations allemandes : demandes et réalité",
+      "sub": "en milliards de marks-or",
+      "rows": [
+       [
+        "Total fixé à Londres (1921)",
+        132
+       ],
+       [
+        "Dont obligations A et B, réellement exigibles",
+        50
+       ],
+       [
+        "Plafond proposé par Keynes (1919)",
+        40
+       ],
+       [
+        "Versé de 1919 à 1932 (estimation)",
+        20
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md",
+      "note": "Sources : état des paiements de Londres, mai 1921 ; Keynes, chap. V (2 000 millions de livres, soit environ 40 milliards de marks-or). Le total versé est un ordre de grandeur : les estimations des historiens tournent autour de 20 milliards."
+     }
+    },
+    {
+     "h5": "Les remèdes"
+    },
+    {
+     "p": "Le dernier chapitre propose un programme cohérent. Plafonner les réparations à 2 milliards de livres. Annuler les dettes de guerre entre Alliés, que les États-Unis réclament à la France et au Royaume-Uni, eux-mêmes créanciers de leurs partenaires. Lancer un emprunt international pour relancer l’économie européenne. Organiser une union de libre-échange sur le continent. Et réintégrer l’Allemagne comme moteur de la reconstruction plutôt que comme vache à lait. Keynes insiste : ces mesures profiteraient d’abord aux vainqueurs eux-mêmes, car une Allemagne prospère achète, produit et rembourse, alors qu’une Allemagne ruinée ne paie rien et exporte son désordre. Le livre s’achève sur un appel aux opinions publiques, plus qu’aux gouvernements, pour réviser le traité."
+    },
+    {
+     "h5": "Limites et critiques"
+    },
+    {
+     "p": "Le livre a suscité de fortes oppositions. En France, il est reçu comme une trahison. Le jeune économiste Étienne Mantoux, tué au combat en 1945, lui répond dans La Paix calomniée, publiée en 1946. Il montre que l’Allemagne nazie a dépensé pour son réarmement bien plus que ce qu’on lui demandait au titre des réparations : la capacité de payer existait, c’est la volonté qui manquait. D’autres historiens rappellent que la charge réelle, une fois les obligations fictives écartées, était lourde mais supportable. On reproche aussi à Keynes d’avoir offert aux Allemands un argument de propagande et nourri, à Londres comme à Washington, le refus de faire appliquer le traité."
+    },
+    {
+     "h5": "Postérité"
+    },
+    {
+     "p": "Aux États-Unis, le Sénat refuse de ratifier le traité, en novembre 1919 puis en mars 1920. Les faits donnent pourtant raison à Keynes sur l’essentiel : les réparations n’ont jamais été payées comme prévu. L’occupation de la Ruhr en 1923 et l’hyperinflation allemande obligent à les revoir, avec le plan Dawes en 1924, puis le plan Young en 1929. La conférence de Lausanne les suspend en 1932, en pleine crise. Au total, l’Allemagne aurait versé de l’ordre de 20 milliards de marks-or. Surtout, la leçon a été retenue après 1945 : à Bretton Woods, où Keynes mène la délégation britannique, puis avec le plan Marshall, les vainqueurs choisissent de reconstruire plutôt que de punir. Le livre reste un modèle de ce qu’un économiste peut apporter au débat public : des chiffres, une vision et du style."
+    }
+   ],
+   "ex": [
+    {
+     "h": "En bref"
+    },
+    {
+     "p": "En 1919, Keynes quitte la conférence de la paix et écrit un réquisitoire contre le traité de Versailles : en voulant ruiner l’Allemagne, les vainqueurs condamnent l’Europe à la misère. Publié en décembre 1919, le livre devient un succès mondial et un débat qui dure encore."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le témoin</b> : représentant du Trésor britannique à Paris, Keynes démissionne au printemps 1919 ; le traité est signé le 28 juin.",
+      "<b>Une seule économie</b> : avant 1914, l’Europe était un réseau de charbon, de crédit et de commerce, avec l’Allemagne au centre ; une fragilité [[latent|latente]] existait déjà.",
+      "<b>Des réparations impayables</b> : Keynes fixe le maximum à 2 milliards de livres (≈ 40 milliards de marks-or) ; Londres en exigera 132 en 1921.",
+      "<b>Une paix « carthaginoise »</b> : écraser un rival plutôt que reconstruire ; la vengeance l’emporte sur l’économie.",
+      "<b>Les portraits</b> : Clemenceau qui ne croit qu’à la force, Wilson en Don Quichotte aveugle et sourd, Lloyd George virtuose de l’instant.",
+      "<b>Les remèdes</b> : plafonner les réparations, annuler les dettes entre Alliés, emprunt international, libre-échange européen.",
+      "<b>Les critiques</b> : Étienne Mantoux (La Paix calomniée, 1946) montre que l’Allemagne nazie a dépensé davantage pour réarmer ; le verdict [[peremptoire|péremptoire]] de Keynes sur la capacité de payer est contesté."
+     ]
+    },
+    {
+     "h": "Les chiffres"
+    },
+    {
+     "stats": [
+      [
+       "132 Md",
+       "marks-or exigés de l’Allemagne en 1921"
+      ],
+      [
+       "≈ 40 Md",
+       "marks-or : le plafond jugé payable par Keynes (2 Md£)"
+      ],
+      [
+       "100 000",
+       "exemplaires vendus en moins d’un an"
+      ],
+      [
+       "12",
+       "langues de traduction dès les premières années"
+      ]
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "Les réparations allemandes : demandes et réalité",
+      "sub": "en milliards de marks-or",
+      "rows": [
+       [
+        "Total fixé à Londres (1921)",
+        132
+       ],
+       [
+        "Dont obligations A et B, réellement exigibles",
+        50
+       ],
+       [
+        "Plafond proposé par Keynes (1919)",
+        40
+       ],
+       [
+        "Versé de 1919 à 1932 (estimation)",
+        20
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md",
+      "note": "Sources : état des paiements de Londres, mai 1921 ; Keynes, chap. V (2 000 millions de livres, soit environ 40 milliards de marks-or). Le total versé est un ordre de grandeur : les estimations des historiens tournent autour de 20 milliards."
+     }
+    },
+    {
+     "ul": [
+      "<b>Le monde d’avant</b> : un Londonien pouvait, en buvant son thé, commander par téléphone les produits du monde entier.",
+      "<b>L’argument</b> : privée de colonies, de flotte marchande et de bassins miniers, l’Allemagne ne peut pas exporter assez pour payer ; ruinée, elle ne rembourse rien.",
+      "<b>Le succès</b> : plus de 100 000 exemplaires en un an, douze langues ; Keynes devient une célébrité.",
+      "<b>Le Sénat américain</b> : il refuse de ratifier le traité, en 1919 puis en 1920.",
+      "<b>Les faits</b> : Ruhr et hyperinflation en 1923, plan Dawes en 1924, plan Young en 1929, suspension à Lausanne en 1932.",
+      "<b>La leçon</b> : après 1945, Bretton Woods et le plan Marshall choisissent de reconstruire plutôt que de punir."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco",
+   "r": "eco",
+   "kind": "analysis",
+   "title": "États-Unis : la croissance s’emballe, l’inflation aussi",
+   "by": "Analyse",
+   "fig": "4,3 %",
+   "figl": "croissance américaine annualisée au 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Bureau of Economic Analysis (BEA), « GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 », 25 novembre 2026. Axios, « Strong U.S. economy continues into Q4 », 25 novembre 2026 (revenus, dépenses et prix PCE d’octobre, inscriptions au chômage, contribution de l’investissement, anticipations sur la Fed). Fed d’Atlanta, GDPNow. Données arrêtées au 25 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "L’économie américaine accélère quand on la croyait freinée par les droits de douane et le pétrole cher. Le 25 novembre, le Bureau d’analyse économique (BEA) a relevé la croissance du troisième trimestre à 4,3 % en rythme annualisé, contre 3,4 % en première estimation et 2,2 % au deuxième trimestre. Le même jour, l’inflation d’octobre est ressortie à 3,8 % sur un an. Une économie aussi forte avec des prix aussi tendus : c’est exactement le cas de figure qui pousse une banque centrale à relever ses taux.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "4,3 %",
+       "croissance annualisée du PIB au 3e trimestre"
+      ],
+      [
+       "3,8 %",
+       "inflation PCE sur un an, octobre"
+      ],
+      [
+       "4,1 %",
+       "taux d’épargne des ménages, octobre"
+      ],
+      [
+       "189 000",
+       "nouvelles inscriptions au chômage en une semaine"
+      ]
+     ]
+    },
+    {
+     "h": "Le moteur : l’investissement dans l’IA"
+    },
+    {
+     "p": "La révision tient surtout à l’investissement des entreprises. Selon les données du BEA relayées par Axios, l’investissement hors logement, porté par les logiciels et les équipements liés à l’intelligence artificielle, a ajouté à lui seul 2,2 points à la croissance. Les achats finaux des acheteurs privés intérieurs, l’indicateur le plus fidèle de la demande, progressent de 5,8 %. Les profits des entreprises ont encore augmenté de 206 milliards de dollars sur le trimestre, après 384 milliards au précédent. Les importations, en hausse, et les exportations, en baisse, ont en revanche pesé sur le total. Le revenu intérieur brut, autre mesure de l’activité, progresse de 4,4 %."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Une croissance revue fortement à la hausse",
+      "sub": "PIB réel américain, variation trimestrielle annualisée, en %",
+      "labels": [
+       "T2",
+       "T3 (1re est.)",
+       "T3 (2e est.)",
+       "T4 (GDPNow)"
+      ],
+      "series": [
+       {
+        "name": "PIB",
+        "values": [
+         2.2,
+         3.4,
+         4.3,
+         2.9
+        ]
+       }
+      ],
+      "note": "Sources : BEA, 25 novembre 2026 ; Fed d’Atlanta (GDPNow, estimation en temps réel, pas une statistique officielle)."
+     }
+    },
+    {
+     "h": "Le revers : des prix qui résistent"
+    },
+    {
+     "p": "Sur le trimestre, l’indice des prix à la consommation (PCE) a progressé de 2,1 % en rythme annualisé. Mais les chiffres mensuels d’octobre sont plus inquiétants : + 0,3 % sur un mois, 3,8 % sur un an, et 3,3 % hors énergie et alimentation. Les revenus ont bondi de 0,7 % en octobre, plus vite que la consommation (+ 0,3 %), si bien que le taux d’épargne remonte à 4,1 %, contre 3,6 % en septembre. Les ménages semblent prudents, mais disposent de réserves pour dépenser pendant les fêtes."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le marché du travail reste solide : 189 000 nouvelles inscriptions au chômage, le plus bas de l’année. La Fed, qui se réunit jusqu’au 9 décembre, est désormais attendue sur une hausse de taux. Pour l’Europe, le message est double : une demande américaine robuste soutient les exportateurs, mais un dollar et des taux plus élevés renchérissent le financement. Un risque reste [[latent|latent]] : si l’investissement dans l’IA ralentit, le principal moteur de la croissance s’arrêterait d’un coup."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : le PIB américain du troisième trimestre est relevé à 4,3 % annualisé (contre 3,4 % en première estimation, 2,2 % au T2).",
+      "<b>Le problème</b> : inflation PCE à 3,8 % sur un an en octobre, 3,3 % hors énergie et alimentation."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "4,3 %",
+       "croissance annualisée du PIB au 3e trimestre"
+      ],
+      [
+       "3,8 %",
+       "inflation PCE sur un an, octobre"
+      ],
+      [
+       "4,1 %",
+       "taux d’épargne des ménages, octobre"
+      ],
+      [
+       "189 000",
+       "nouvelles inscriptions au chômage en une semaine"
+      ]
+     ]
+    },
+    {
+     "h": "Le moteur : l’investissement dans l’IA"
+    },
+    {
+     "ul": [
+      "<b>L’IA</b> : l’investissement hors logement (logiciels, équipements) apporte 2,2 points de croissance.",
+      "<b>La demande privée</b> : achats finaux des acheteurs privés intérieurs + 5,8 % ; profits des entreprises + 206 Md$ sur le trimestre."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Une croissance revue fortement à la hausse",
+      "sub": "PIB réel américain, variation trimestrielle annualisée, en %",
+      "labels": [
+       "T2",
+       "T3 (1re est.)",
+       "T3 (2e est.)",
+       "T4 (GDPNow)"
+      ],
+      "series": [
+       {
+        "name": "PIB",
+        "values": [
+         2.2,
+         3.4,
+         4.3,
+         2.9
+        ]
+       }
+      ],
+      "note": "Sources : BEA, 25 novembre 2026 ; Fed d’Atlanta (GDPNow, estimation en temps réel, pas une statistique officielle)."
+     }
+    },
+    {
+     "h": "Le revers : des prix qui résistent"
+    },
+    {
+     "ul": [
+      "<b>Les ménages</b> : revenus + 0,7 % en octobre, consommation + 0,3 % ; épargne remontée à 4,1 % (3,6 % en septembre)."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La Fed</b> : chômage au plus bas (189 000 inscriptions), hausse de taux attendue à la réunion finissant le 9 décembre.",
+      "<b>Le risque</b> : une dépendance [[latent|latente]] à l’IA ; si cet investissement cale, la croissance cale aussi."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "r": "geo",
+   "kind": "analysis",
+   "title": "Arménie : les gardes-frontières russes sur le départ",
+   "by": "Analyse",
+   "fig": "1992",
+   "figl": "début de la garde russe aux frontières",
+   "min": 3,
+   "exMin": 2,
+   "src": "Meduza, 26 novembre 2026 ; Militarnyi (d’après Panorama.am), 26 novembre 2026 ; 301.am, 26 novembre 2026 (déclaration de Nikol Pachinian, étapes du retrait, débat budgétaire du 2 novembre). Gel de la participation à l’OTSC (2024), loi sur l’adhésion à l’UE (mars 2025), déclaration de Washington avec l’Azerbaïdjan (8 août 2025) : Encyclopædia Britannica. Données arrêtées au 26 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "L’Arménie s’apprête à reprendre seule la garde de ses frontières. Le 26 novembre, à l’issue du conseil des ministres à Erevan, le Premier ministre Nikol Pachinian a remercié les gardes-frontières russes pour leurs services, tout en annonçant qu’ils seraient entièrement retirés « dans les années à venir ». Aucun calendrier n’a été donné. Mais le symbole est fort : depuis 1992, des soldats russes surveillent les frontières de l’Arménie avec la Turquie et l’Iran. Leur départ acte le lent divorce entre Erevan et Moscou.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "1992",
+       "début de la garde russe aux frontières arméniennes"
+      ],
+      [
+       "Août 2024",
+       "départ des gardes russes de l’aéroport de Zvartnots"
+      ],
+      [
+       "Janv. 2025",
+       "frontières turque et iranienne gardées à deux"
+      ],
+      [
+       "2026",
+       "poste d’Akhourik sous contrôle arménien complet"
+      ]
+     ]
+    },
+    {
+     "h": "Un retrait pas à pas"
+    },
+    {
+     "p": "La présence russe repose sur un accord bilatéral signé en 1992, au lendemain de l’indépendance. Elle a longtemps été vue comme une assurance face à la Turquie, alliée de l’Azerbaïdjan, avec laquelle la frontière est fermée depuis 1993. Le retrait se fait par étapes. Les gardes du FSB ont quitté l’aéroport de Zvartnots le 1er août 2024. Depuis janvier 2025, des Arméniens patrouillent à leurs côtés le long des frontières turque et iranienne, et les Russes ont cessé d’opérer au poste d’Agarak, vers l’Iran. Début 2026, l’Arménie a pris le contrôle complet du poste d’Akhourik, face à la Turquie. Le 2 novembre déjà, Pachinian avait lié ce transfert à la libéralisation des visas avec l’Union européenne."
+    },
+    {
+     "h": "Pourquoi maintenant"
+    },
+    {
+     "p": "La rupture remonte à 2023, quand l’Azerbaïdjan a repris le Haut-Karabakh sans que la Russie, alliée officielle, ne bouge. Le ressentiment [[latent|latent]] d’une partie des Arméniens envers Moscou s’est alors déclaré. Erevan a gelé sa participation à l’Organisation du traité de sécurité collective en 2024, puis voté en 2025 une loi lançant le processus d’adhésion à l’Union européenne. En août 2025, à Washington, l’Arménie et l’Azerbaïdjan ont signé une déclaration de paix sous l’égide de Donald Trump, prévoyant une route de transit sous parrainage américain. Pachinian assure toutefois ne vouloir « aucun mal » à la Russie. La base militaire russe, installée depuis 1995, reste en place, même s’il a dit en septembre ne pas s’opposer à sa fermeture."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le Caucase du Sud, longtemps chasse gardée russe, s’ouvre à l’Europe, aux États-Unis et à la Turquie. Moscou, absorbée par l’Ukraine, n’a pas réagi publiquement. Le ton de Pachinian n’est pas [[peremptoire|péremptoire]] : il ménage son voisin, dont l’Arménie dépend encore pour l’énergie et le commerce. Mais la direction est claire, et chaque poste-frontière rendu est un pas de plus vers l’Ouest."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : le 26 novembre, Nikol Pachinian annonce le retrait complet des gardes-frontières russes « dans les années à venir », sans calendrier.",
+      "<b>Le symbole</b> : depuis 1992, des Russes gardent les frontières arméniennes avec la Turquie et l’Iran."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "1992",
+       "début de la garde russe aux frontières arméniennes"
+      ],
+      [
+       "Août 2024",
+       "départ des gardes russes de l’aéroport de Zvartnots"
+      ],
+      [
+       "Janv. 2025",
+       "frontières turque et iranienne gardées à deux"
+      ],
+      [
+       "2026",
+       "poste d’Akhourik sous contrôle arménien complet"
+      ]
+     ]
+    },
+    {
+     "h": "Un retrait pas à pas"
+    },
+    {
+     "ul": [
+      "<b>Les étapes</b> : départ de l’aéroport de Zvartnots (août 2024), patrouilles mixtes depuis janvier 2025, poste d’Agarak (2025) puis d’Akhourik (2026) repris par l’Arménie.",
+      "<b>Le lien avec l’UE</b> : le transfert prépare la libéralisation des visas européens."
+     ]
+    },
+    {
+     "h": "Pourquoi maintenant"
+    },
+    {
+     "ul": [
+      "<b>La rupture</b> : en 2023, la Russie laisse l’Azerbaïdjan reprendre le Haut-Karabakh ; un ressentiment [[latent|latent]] éclate.",
+      "<b>Le virage</b> : OTSC gelée (2024), loi sur l’adhésion à l’UE (2025), paix signée à Washington avec Bakou (août 2025)."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le ton</b> : rien de [[peremptoire|péremptoire]] ; Erevan ménage Moscou, dont il dépend pour l’énergie, et la base russe reste.",
+      "<b>L’enjeu</b> : le Caucase du Sud s’ouvre à l’Europe, aux États-Unis et à la Turquie."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "log",
+   "r": "log",
+   "kind": "analysis",
+   "title": "Black Friday : les colis changent de transporteur",
+   "by": "Analyse",
+   "fig": "+ 74 %",
+   "figl": "colis de la semaine du Black Friday en Europe",
+   "min": 3,
+   "exMin": 2,
+   "src": "Sendcloud, « Black Friday’s 74 % parcel surge puts Europe’s delivery promises under pressure », 22 octobre 2026 (prévisions européennes, délais de décembre 2025). Carriyo, « Black Friday Week 2026: Carrier Cut-Offs, Capacity and the Delivery Promise », 18 novembre 2026 (prévision ShipMatrix via FreightWaves, volumes du 1er semestre 2026, recrutements, périodes de pointe, dates limites). ClickPost, « US Holiday Shipping Statistics 2026 », 9 novembre 2026 (surtaxes UPS et USPS). Données arrêtées au 18 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Le Black Friday tombe aujourd’hui, et avec lui commence l’épreuve annuelle des transporteurs de colis. En Europe, la plateforme d’expédition Sendcloud prévoit une semaine 74 % au-dessus d’une semaine moyenne, avec un pic le lundi 30 novembre, le Cyber Monday. Aux États-Unis, le cabinet ShipMatrix, cité par FreightWaves, attend environ 2,4 milliards de colis sur la saison, 4 % de plus qu’en 2025 et le plus haut niveau depuis 2022. En Europe, les volumes devraient rester plus de 55 % au-dessus de la moyenne jusqu’au 20 décembre. Mais la vraie nouvelle est ailleurs : les colis changent de mains.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "+ 74 %",
+       "colis attendus en Europe la semaine du Black Friday"
+      ],
+      [
+       "2,4 Md",
+       "colis prévus aux États-Unis pendant les fêtes"
+      ],
+      [
+       "145 M",
+       "colis passés aux réseaux alternatifs au 1er semestre"
+      ],
+      [
+       "0,75 $",
+       "surtaxe de pointe d’UPS par colis résidentiel"
+      ]
+     ]
+    },
+    {
+     "h": "Amazon prend la place d’UPS"
+    },
+    {
+     "p": "Au premier semestre 2026, les volumes intérieurs d’Amazon ont progressé de 9,7 % et ceux de FedEx de 4,6 %, tandis que la Poste américaine (USPS) reculait de 3,1 % et UPS de 5,7 %. Environ 145 millions de colis supplémentaires ont migré vers les réseaux privés des distributeurs et vers des transporteurs alternatifs. Les recrutements saisonniers traduisent cette bascule : UPS prévoit 100 000 intérimaires, contre 109 000 l’an dernier, quand Amazon en annonce 300 000, soit 20 % de plus. Au Royaume-Uni, Royal Mail recrute près de 22 000 renforts et Evri revendique une capacité de 4,9 millions de colis par jour."
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Qui gagne des colis, qui en perd",
+      "sub": "volumes intérieurs américains, 1er semestre 2026 sur un an, en %",
+      "labels": [
+       "Amazon",
+       "FedEx",
+       "USPS",
+       "UPS"
+      ],
+      "series": [
+       {
+        "name": "Volumes",
+        "values": [
+         9.7,
+         4.6,
+         -3.1,
+         -5.7
+        ]
+       }
+      ],
+      "note": "Source : chiffres cités par Carriyo, 18 novembre 2026."
+     }
+    },
+    {
+     "h": "Le prix de la pointe"
+    },
+    {
+     "p": "Les transporteurs font payer la congestion. UPS facture 0,75 dollar par colis terrestre livré à un particulier pendant sa période de pointe, du 22 novembre au 26 décembre, contre 0,50 dollar auparavant. FedEx applique une surtaxe comparable du 23 novembre au 27 décembre. La Poste américaine ajoute 0,40 dollar sur les colis légers jusqu’au 17 janvier. Pour les e-commerçants, ces frais de quelques centimes, multipliés par des millions d’envois, pèsent sur des marges déjà minces."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "La pointe de fin d’année révèle une tendance de fond : les grands distributeurs internalisent la livraison, et les transporteurs historiques choisissent la valeur plutôt que le volume. Le risque, [[latent|latent]] toute l’année, est la saturation : en Europe, en décembre 2025, environ un colis sur deux avait mis plus d’un jour à arriver. Les dates limites des transporteurs pour livrer avant Noël, entre le 15 et le 23 décembre, ne sont que des recommandations, pas des garanties."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>L’Europe</b> : + 74 % de colis la semaine du Black Friday selon Sendcloud, pic le Cyber Monday 30 novembre.",
+      "<b>Les États-Unis</b> : ≈ 2,4 milliards de colis sur la saison (ShipMatrix), + 4 %, record depuis 2022."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "+ 74 %",
+       "colis attendus en Europe la semaine du Black Friday"
+      ],
+      [
+       "2,4 Md",
+       "colis prévus aux États-Unis pendant les fêtes"
+      ],
+      [
+       "145 M",
+       "colis passés aux réseaux alternatifs au 1er semestre"
+      ],
+      [
+       "0,75 $",
+       "surtaxe de pointe d’UPS par colis résidentiel"
+      ]
+     ]
+    },
+    {
+     "h": "Amazon prend la place d’UPS"
+    },
+    {
+     "ul": [
+      "<b>Les volumes</b> : au 1er semestre, Amazon + 9,7 %, FedEx + 4,6 %, USPS − 3,1 %, UPS − 5,7 % ; 145 millions de colis vers les réseaux alternatifs.",
+      "<b>Les renforts</b> : UPS 100 000 intérimaires (109 000 en 2025), Amazon 300 000 (+ 20 %), Royal Mail ≈ 22 000."
+     ]
+    },
+    {
+     "chart": {
+      "type": "vbar",
+      "title": "Qui gagne des colis, qui en perd",
+      "sub": "volumes intérieurs américains, 1er semestre 2026 sur un an, en %",
+      "labels": [
+       "Amazon",
+       "FedEx",
+       "USPS",
+       "UPS"
+      ],
+      "series": [
+       {
+        "name": "Volumes",
+        "values": [
+         9.7,
+         4.6,
+         -3.1,
+         -5.7
+        ]
+       }
+      ],
+      "note": "Source : chiffres cités par Carriyo, 18 novembre 2026."
+     }
+    },
+    {
+     "h": "Le prix de la pointe"
+    },
+    {
+     "ul": [
+      "<b>Les surtaxes</b> : UPS 0,75 $ par colis résidentiel (contre 0,50 $), du 22 novembre au 26 décembre ; USPS + 0,40 $ sur les colis légers."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>La tendance</b> : les distributeurs internalisent, les transporteurs historiques visent la valeur.",
+      "<b>Le risque</b> : une saturation [[latent|latente]] ; en décembre 2025, un colis européen sur deux a mis plus d’un jour."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ent",
+   "r": "ent",
+   "kind": "analysis",
+   "title": "Dell : le fabricant de PC devenu usine à serveurs d’IA",
+   "by": "Analyse",
+   "fig": "+ 103 %",
+   "figl": "chiffre d’affaires du 3e trimestre",
+   "min": 3,
+   "exMin": 2,
+   "src": "Dell Technologies, « Dell Technologies Delivers Third Quarter Fiscal 2027 Financial Results », communiqué du 24 novembre 2026 (trimestre clos le 30 octobre 2026). StockTitan, « Stock Market Today, November 25, 2026 » (évolution de l’action). Données arrêtées au 25 novembre 2026.",
+   "blocks": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "p": "Dell a cessé d’être un fabricant de PC. Le 24 novembre, le groupe texan a publié un chiffre d’affaires trimestriel de 54,9 milliards de dollars, plus du double d’il y a un an. Le trimestre, clos fin octobre, est tiré par les serveurs conçus pour l’intelligence artificielle, dont les ventes ont quasiment quadruplé. Dell relève à 202 milliards de dollars son objectif annuel, contre 192 milliards auparavant. Pourtant, l’action n’a gagné que 0,6 % le lendemain : la Bourse avait déjà intégré une bonne partie de ces chiffres.",
+     "lead": 1
+    },
+    {
+     "stats": [
+      [
+       "54,9 Md$",
+       "chiffre d’affaires du trimestre, + 103 %"
+      ],
+      [
+       "22,0 Md$",
+       "ventes de serveurs d’IA, + 291 %"
+      ],
+      [
+       "132,3 Md$",
+       "carnet de commandes IA, record"
+      ],
+      [
+       "202 Md$",
+       "objectif de chiffre d’affaires annuel"
+      ]
+     ]
+    },
+    {
+     "h": "La machine à serveurs"
+    },
+    {
+     "p": "La division infrastructures (ISG) pèse désormais 42 milliards de dollars, en hausse de 198 %. Les serveurs optimisés pour l’IA y comptent pour 22 milliards, les serveurs classiques et les réseaux pour 15 milliards, le stockage pour 4,9 milliards. Dell assemble des baies complètes, avec puces Nvidia, refroidissement et réseau, testées avant expédition, ce qui accélère la conversion des commandes en ventes. Le groupe a enregistré 60,2 milliards de dollars de commandes IA sur le seul trimestre, et son carnet atteint un record de 132,3 milliards. Plus de 7 500 clients déploient ses « usines d’IA »."
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "D’où viennent les revenus de Dell",
+      "sub": "chiffre d’affaires du 3e trimestre 2026-2027, en milliards de dollars",
+      "rows": [
+       [
+        "Serveurs optimisés pour l’IA",
+        22.0
+       ],
+       [
+        "Serveurs classiques et réseaux",
+        15.0
+       ],
+       [
+        "PC professionnels",
+        11.3
+       ],
+       [
+        "Stockage",
+        4.9
+       ],
+       [
+        "PC grand public",
+        1.6
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md$",
+      "note": "Source : Dell Technologies, résultats du 3e trimestre de l’exercice 2027, 24 novembre 2026."
+     }
+    },
+    {
+     "h": "Le PC, l’activité qui s’efface"
+    },
+    {
+     "p": "La division PC (CSG), longtemps le cœur de Dell, ne croît que de 3 %, à 12,9 milliards de dollars. Les PC professionnels progressent de 6 %, mais les ventes au grand public chutent de 15 %. Sa marge opérationnelle n’est que de 5,5 %, contre 17 % pour les serveurs. La marge du groupe grimpe ainsi à 13,5 %, contre 7,8 % un an plus tôt. Les charges d’exploitation, à 7 % du chiffre d’affaires, sont au plus bas de ses quarante-deux ans d’histoire. Dell a rendu un record de 4,9 milliards de dollars aux actionnaires et ajouté 25 milliards à son programme de rachat d’actions."
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "p": "Le message de la direction est [[peremptoire|péremptoire]] : la demande accélère et se mondialise. Le risque reste [[latent|latent]] : un carnet géant dépend de quelques clients, géants du cloud et nouveaux loueurs de puissance de calcul, dont les budgets peuvent se retourner vite. Pour l’instant, Dell illustre la nouvelle hiérarchie de la tech : ce ne sont plus les écrans, mais les salles de serveurs qui font la croissance."
+    }
+   ],
+   "ex": [
+    {
+     "h": "L’essentiel"
+    },
+    {
+     "ul": [
+      "<b>Le fait</b> : le 24 novembre, Dell publie 54,9 Md$ de chiffre d’affaires trimestriel, + 103 % ; objectif annuel relevé à 202 Md$ (contre 192).",
+      "<b>La réaction</b> : + 0,6 % seulement en Bourse le lendemain, la hausse était attendue."
+     ]
+    },
+    {
+     "stats": [
+      [
+       "54,9 Md$",
+       "chiffre d’affaires du trimestre, + 103 %"
+      ],
+      [
+       "22,0 Md$",
+       "ventes de serveurs d’IA, + 291 %"
+      ],
+      [
+       "132,3 Md$",
+       "carnet de commandes IA, record"
+      ],
+      [
+       "202 Md$",
+       "objectif de chiffre d’affaires annuel"
+      ]
+     ]
+    },
+    {
+     "h": "La machine à serveurs"
+    },
+    {
+     "ul": [
+      "<b>L’ISG</b> : 42 Md$ (+ 198 %), dont 22 Md$ de serveurs d’IA, 15 Md$ de serveurs classiques et réseaux, 4,9 Md$ de stockage.",
+      "<b>Les commandes</b> : 60,2 Md$ de commandes IA sur le trimestre, carnet record de 132,3 Md$, plus de 7 500 clients."
+     ]
+    },
+    {
+     "chart": {
+      "type": "hbar",
+      "title": "D’où viennent les revenus de Dell",
+      "sub": "chiffre d’affaires du 3e trimestre 2026-2027, en milliards de dollars",
+      "rows": [
+       [
+        "Serveurs optimisés pour l’IA",
+        22.0
+       ],
+       [
+        "Serveurs classiques et réseaux",
+        15.0
+       ],
+       [
+        "PC professionnels",
+        11.3
+       ],
+       [
+        "Stockage",
+        4.9
+       ],
+       [
+        "PC grand public",
+        1.6
+       ]
+      ],
+      "prefix": "",
+      "suffix": " Md$",
+      "note": "Source : Dell Technologies, résultats du 3e trimestre de l’exercice 2027, 24 novembre 2026."
+     }
+    },
+    {
+     "h": "Le PC, l’activité qui s’efface"
+    },
+    {
+     "ul": [
+      "<b>La CSG</b> : 12,9 Md$ (+ 3 %) ; PC pro + 6 %, grand public − 15 % ; marge de 5,5 % contre 17 % pour les serveurs.",
+      "<b>Les actionnaires</b> : 4,9 Md$ rendus, 25 Md$ ajoutés au rachat d’actions."
+     ]
+    },
+    {
+     "h": "À retenir"
+    },
+    {
+     "ul": [
+      "<b>Le ton</b> : [[peremptoire|péremptoire]] ; la direction voit une demande qui accélère.",
+      "<b>Le risque</b> : [[latent|latent]] ; une poignée de grands clients pèse sur un carnet géant."
+     ]
+    }
+   ]
+  }
+ ]
+}

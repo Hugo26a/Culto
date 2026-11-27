@@ -1,6 +1,40 @@
 {
- "latest": "2026-11-26",
+ "latest": "2026-11-27",
  "editions": [
+  {
+   "date": "2026-11-27",
+   "label": "Vendredi 27 novembre",
+   "words": [
+    "Latent",
+    "Péremptoire"
+   ],
+   "items": [
+    [
+     "lit",
+     "Bartleby le scribe"
+    ],
+    [
+     "essai",
+     "Les Conséquences économiques de la paix"
+    ],
+    [
+     "eco",
+     "États-Unis : la croissance s’emballe, l’inflation aussi"
+    ],
+    [
+     "geo",
+     "Arménie : les gardes-frontières russes sur le départ"
+    ],
+    [
+     "log",
+     "Black Friday : les colis changent de transporteur"
+    ],
+    [
+     "ent",
+     "Dell : le fabricant de PC devenu usine à serveurs d’IA"
+    ]
+   ]
+  },
   {
    "date": "2026-11-26",
    "label": "Jeudi 26 novembre",
